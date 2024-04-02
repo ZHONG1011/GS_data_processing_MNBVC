@@ -17,4 +17,4 @@
 但在对比了multilingual-genshin上面的文件后，其内容基本上覆盖了genshin-db项目的文本数据内容。
 > 具体参照：https://github.com/theBowja/genshin-db/blob/main/types/enums.d.ts
 
-因此直接下载了multilingual-genshin项目的本地数据进行处理。但仍存在数据收集不全面的可能性（因为我没有了解过原神的内容），或有疏漏的地方，还望海涵。如果希望探索更多的内容，我认为genshin-db项目中的内容是比较全面的，欢迎补充。
+因此直接下载了multilingual-genshin项目的本地数据进行处理。但仍存在数据收集不全面的可能性（因为我之前并没有接触过原神，不太清楚其内容的多少），或有疏漏的地方，还望海涵。如果希望探索更多的内容，我认为genshin-db项目中的内容是比较全面的，欢迎补充。
