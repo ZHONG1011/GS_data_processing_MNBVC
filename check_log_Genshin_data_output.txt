@@ -1,0 +1,3 @@
+checking dataset: Genshin_data_output.jsonl
+the type of dataset Genshin_data_output.jsonl is 平行语料格式
+check dataset Genshin_data_output.jsonl finished, right line 483 / total check line 483
