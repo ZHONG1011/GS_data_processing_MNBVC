@@ -6,6 +6,7 @@
 
 ## Genshin_data的txt文本数据
 数据源自一些游戏的文本数据，详情参考ipynb文件。
+> 数据来源：https://github.com/Milkve/GenshinData
 
 ## 基于multilingual-genshin项目的json数据转换。
 来源：https://github.com/PseudoMon/multilingual-genshin
