@@ -1,0 +1,3 @@
+checking dataset: multilingual_genshin.jsonl
+the type of dataset multilingual_genshin.jsonl is 平行语料格式
+check dataset multilingual_genshin.jsonl finished, right line 487 / total check line 487
