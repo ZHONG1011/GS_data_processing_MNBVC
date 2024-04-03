@@ -14,8 +14,6 @@
 > - 参考数据情况筛选文本，转换为jsonl进行输出
 
 ## 基于multilingual-genshin项目的json数据转换。
-来源：https://github.com/PseudoMon/multilingual-genshin
-> 数据文件夹路径为public/data
 
 最初考虑的数据源是github上的genshin-db项目。
 > 链接：https://github.com/theBowja/genshin-db
@@ -24,7 +22,7 @@
 > 具体参照：https://github.com/theBowja/genshin-db/blob/main/types/enums.d.ts
 
 **项目详情**
-- 选择multilingual-genshin项目的本地数据进行处理。
+- 选择multilingual-genshin项目的本地数据进行处理。来源：https://github.com/PseudoMon/multilingual-genshin
 - 项目数据均在multilingual-genshin/data内，其中原数据在artedata、charadata、weaponsdata这三个文件中，皆为json文件。
 - 使用jsonpath提取json数据，进行数据的分析处理，转换为txt文件输出。
 - 将数据转换为jsonl格式输出。
