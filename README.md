@@ -24,7 +24,8 @@
 **项目详情**
 - 选择multilingual-genshin项目的本地数据进行处理。来源：https://github.com/PseudoMon/multilingual-genshin
 - 项目数据均在multilingual-genshin/data内，其中原数据在artedata、charadata、weaponsdata这三个文件中，皆为json文件。
-- 使用jsonpath提取json数据，进行数据的分析处理，转换为txt文件输出。
+- 使用jsonpath提取json数据，进行数据的分析处理，
+- 将数据转换为txt文件，保存至json_to_txt文件夹中（可能ipy文档的输出路径需要修改一下）
 - 将数据转换为jsonl格式输出。
 
 如果希望探索更多、更详细的内容，我认为genshin-db项目中的数据是比较全面的，欢迎补充。
