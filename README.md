@@ -1,5 +1,6 @@
 # GS_data_processing
 针对原神多语言文本数据的简单分析与处理，将获得数据转换为jsonl文件
+
 该项目分为两个文件夹：
 - Genshin_data （针对txt文本数据的处理）
 - multilingual-genshin （针对json文件的数据处理）
@@ -7,6 +8,7 @@
 ## Genshin_data的txt文本数据
 数据源自一些游戏的文本数据，详情参考ipynb文件。
 > 数据来源：https://github.com/Milkve/GenshinData
+> 针对txt文档的数据情况进行探查，最终转换为jsonl进行输出
 
 ## 基于multilingual-genshin项目的json数据转换。
 来源：https://github.com/PseudoMon/multilingual-genshin
