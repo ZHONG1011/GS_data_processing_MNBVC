@@ -1,0 +1,12 @@
+鱼龙沉四方
+施放<color=#FFD780FF>斫雷</color>时： 生成一个伤害吸收量等于生命值上限16%的护盾，持续15秒。 该护盾对<color=#FFACFFFF>雷元素伤害</color>有250%的吸收效果。
+赫赫雷涌起
+<color=#FFD780FF>斫雷</color>的闪雷能额外弹跳2个敌人。
+潮奔蓦引电
+<color=#FFD780FF>捉浪</color>的技能等级提高3级。 至多提升至15级。
+牵星觅乡岸
+受到攻击后的10秒内，北斗的普通攻击附带20%额外<color=#FFACFFFF>雷元素伤害</color>。
+踏浪霞连阶
+<color=#FFD780FF>斫雷</color>的技能等级提高3级。 至多提升至15级。
+北斗祓幽孽
+<color=#FFD780FF>斫雷</color>持续期间，周围敌人的<color=#FFACFFFF>雷元素抗性</color>降低15%。

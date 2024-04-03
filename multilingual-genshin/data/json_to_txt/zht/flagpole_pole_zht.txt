@@ -1,0 +1,12 @@
+「旗桿」
+備用
+待定
+擊敗敵人時，恢復<color=#99FFFFFF>8%</color>生命值。
+待定
+擊敗敵人時，恢復<color=#99FFFFFF>10%</color>生命值。
+待定
+擊敗敵人時，恢復<color=#99FFFFFF>12%</color>生命值。
+待定
+擊敗敵人時，恢復<color=#99FFFFFF>14%</color>生命值。
+待定
+擊敗敵人時，恢復<color=#99FFFFFF>16%</color>生命值。
