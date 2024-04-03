@@ -1,0 +1,13 @@
+Catalisador de Âmbar
+Um catalisador esculpido em âmbar que emite uma auréola quente sob o sol.
+ Apesar do âmbar não ser um mineral, é liso e resistente, e tem um calor que as gemas carecem. Sua aura com cor de mel e suavidade na mão são especialmente confortantes. Dizem que o Catalisador Âmbar é a primeira gema divina dada ao povo de Liyue por Rex Lapis. Talvez esse âmbar barato também possui a gentileza do Arconte Geo. 
+Proficiência Elemental
+Ao acertar um Ataque Normal, aumenta todos os Danos Elementais em <color=#99FFFFFF>6%</color> por 6s, podendo acumular até no máximo 2 vezes.
+Proficiência Elemental
+Ao acertar um Ataque Normal, aumenta todos os Danos Elementais em <color=#99FFFFFF>7.5%</color> por 6s, podendo acumular até no máximo 2 vezes.
+Proficiência Elemental
+Ao acertar um Ataque Normal, aumenta todos os Danos Elementais em <color=#99FFFFFF>9%</color> por 6s, podendo acumular até no máximo 2 vezes.
+Proficiência Elemental
+Ao acertar um Ataque Normal, aumenta todos os Danos Elementais em <color=#99FFFFFF>10.5%</color> por 6s, podendo acumular até no máximo 2 vezes.
+Proficiência Elemental
+Ao acertar um Ataque Normal, aumenta todos os Danos Elementais em <color=#99FFFFFF>12%</color> por 6s, podendo acumular até no máximo 2 vezes.

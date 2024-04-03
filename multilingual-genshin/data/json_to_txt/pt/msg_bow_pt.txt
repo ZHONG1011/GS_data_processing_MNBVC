@@ -1,0 +1,13 @@
+Mensageiro
+Um arco básico de madeira. Dizem que ele foi usado para comunicações de longa distância.
+ Dizem que em tempos muito antigos, As pessoas do Porto de Liyue enviavam mensagens através de flechas. "Mas, dessa forma, não vai machucar os passageiros?" "Por isso, esse arco passou a ser uma antiguidade." O dono da antiguidade coçou o queixo, e sorriu. 
+Messagem da Flecha Voadora
+Ao acertar um ponto fraco com Ataque Carregado, causa um adicional de <color=#99FFFFFF>100%</color> de Dano de ATQ como Dano Crítico. Este efeito pode ser ativado uma vez a cada 10s.
+Messagem da Flecha Voadora
+Ao acertar um ponto fraco com Ataque Carregado, causa um adicional de <color=#99FFFFFF>125%</color> de Dano de ATQ como Dano Crítico. Este efeito pode ser ativado uma vez a cada 10s.
+Messagem da Flecha Voadora
+Ao acertar um ponto fraco com Ataque Carregado, causa um adicional de <color=#99FFFFFF>150%</color> de Dano de ATQ como Dano Crítico. Este efeito pode ser ativado uma vez a cada 10s.
+Messagem da Flecha Voadora
+Ao acertar um ponto fraco com Ataque Carregado, causa um adicional de <color=#99FFFFFF>175%</color> de Dano de ATQ como Dano Crítico. Este efeito pode ser ativado uma vez a cada 10s.
+Messagem da Flecha Voadora
+Ao acertar um ponto fraco com Ataque Carregado, causa um adicional de <color=#99FFFFFF>200%</color> de Dano de ATQ como Dano Crítico. Este efeito pode ser ativado uma vez a cada 10s.

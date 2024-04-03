@@ -1,0 +1,13 @@
+Estilingue
+Na verdade, é um arco. Depois de incontáveis experimentos e melhorias, o mestre criador de estilingues acabou criando um arco.
+ Alguém que desejava melhorar o alcance e a precisão dos estilingues descobriu que: Aumentar a potência para melhorar o alcance prejudica a precisão. Ele, portanto, substituiu suas pedras por finas hastes de madeira, cada uma completada com uma pena por uma questão de aerodinâmica. O novo estilingue teve sua pegada alterada e seus membros curvados para aumentar a tensão. Por fim, ele percebeu que tinha feito um arco. 
+Estilingue
+Se a flecha do Ataque Normal e do Ataque Carregado atingir um alvo dentro de 0.3s após o disparo, o Dano é aumentado em <color=#99FFFFFF>36%</color>. Caso contrário, o Dano é diminuído em 10%.
+Estilingue
+Se a flecha do Ataque Normal e do Ataque Carregado atingir um alvo dentro de 0.3s após o disparo, o Dano é aumentado em <color=#99FFFFFF>42%</color>. Caso contrário, o Dano é diminuído em 10%.
+Estilingue
+Se a flecha do Ataque Normal e do Ataque Carregado atingir um alvo dentro de 0.3s após o disparo, o Dano é aumentado em <color=#99FFFFFF>48%</color>. Caso contrário, o Dano é diminuído em 10%.
+Estilingue
+Se a flecha do Ataque Normal e do Ataque Carregado atingir um alvo dentro de 0.3s após o disparo, o Dano é aumentado em <color=#99FFFFFF>54%</color>. Caso contrário, o Dano é diminuído em 10%.
+Estilingue
+Se a flecha do Ataque Normal e do Ataque Carregado atingir um alvo dentro de 0.3s após o disparo, o Dano é aumentado em <color=#99FFFFFF>60%</color>. Caso contrário, o Dano é diminuído em 10%.

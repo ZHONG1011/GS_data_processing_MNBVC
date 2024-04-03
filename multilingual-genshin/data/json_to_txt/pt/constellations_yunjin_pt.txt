@@ -1,0 +1,12 @@
+Galope Veloz
+O Tempo de Recarga de <color=#FFD780FF>Abertura Deslumbrante</color> é reduzido em 18%.
+Miríade de Adereços
+Quando a <color=#FFD780FF>Bandeira Quebra-Rochas</color> é usada, o Dano do Ataque Normal de todos os membros da equipe próximos é aumentado em 15% por 12s.
+Bandeira Marítima
+Aumenta o nível de <color=#FFD780FF>Bandeira Quebra-rochas</color> em 3. Nível máximo de elevação é 15.
+Flor e Lutadora
+Quando Yunjin desencadeia Cristalização, sua DEF aumenta 20% por 12s.
+Fama Mundial
+Aumenta o nível de <color=#FFD780FF>Abertura Deslumbrante</color> em 3. Nível máximo de elevação é 15.
+Harmonia e Decoro
+Personagens sob o efeito de <color=#FFD780FF>Formação da Bandeira das Nuvens</color> terão a Vel. de ATQ de seus Ataques Normais aumentada em 12%.

@@ -1,0 +1,12 @@
+À Beira da Água
+Enquanto vestindo a Vestimenta Cerimonial criada pela <color=#FFD780FF>Cerimônia Kaijin</color>, o Ataque Normal final na combinação de Sangonomiya Kokomi liberará um peixe nadador para causar 30% de sua Vida Máxima como <color=#80C0FFFF>Dano Hydro</color>. Este Dano não é considerado como Dano de Ataque Normal.
+Nuvens como Ondas Ondulantes
+Sangonomiya Kokomi ganha os seguintes Bônus de Cura em relação a personagens com 50% ou menos de Vida através dos seguintes métodos: <color=#FFD780FF>Juramento Kurage</color> Bake-Kurage: 4.5% da Vida Máxima. <color=#FFD780FF>Cerimônia Kaijin</color> Ataques Normais e Carregados: 0.6% da Vida Máxima.
+A Lua, Um Navio Sobre os Mares
+Aumenta o Nível de <color=#FFD780FF>Cerimônia Kaijin</color> em 3. O nível máximo de elevação é 15.
+A Lua Contempla as Águas
+Enquanto vestindo a Vestimenta Cerimonial criada pela <color=#FFD780FF>Cerimônia Kaijin</color>, a Vel. de ATQ dos Ataques Normais de Sangonomiya Kokomi é aumentado em 10%, e Ataques Normais que acertarem os oponentes recuperarão 0.8 de Energia para si mesma. Este efeito pode ocorrer apenas uma vez a cada 0.2s.
+Todos os Rios Fluem para o Mar
+Aumenta o Nível de <color=#FFD780FF>Juramento Kurage</color> em 3. O nível máximo de elevação é 15.
+Sango Isshin
+Enquanto vestindo a Vestimenta Cerimonial criada pela <color=#FFD780FF>Cerimônia Kaijin</color>, Sangonomiya Kokomi ganha 40% de <color=#80C0FFFF>Bônus de Dano Hydro</color> por 4s depois que seu Ataque Normal ou Carregado curar um personagem com 80% ou mais de Vida.

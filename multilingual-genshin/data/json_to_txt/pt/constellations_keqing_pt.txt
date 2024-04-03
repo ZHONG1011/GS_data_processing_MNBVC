@@ -1,0 +1,12 @@
+Poder Trovejante
+Relançar <color=#FFD780FF>Restauração Estelar</color> enquanto um Stiletto de Relâmpago está presente faz com que Keqing cause 50% do seu ATQ como <color=#FFACFFFF>Dano Electro em uma AdE</color> na localização inicial e final de seu Teleporte.
+Extração Afiada
+Quando Ataques Normais e Carregados da Keqing acertam inimigos afetados por <color=#FFACFFFF>Electro</color> eles têm 50% de chance de produzir uma Partícula Elemental. Esse efeito pode ocorrer apenas uma vez a cada 5 segundos.
+Reforma Prevista
+Aumenta o nível da <color=#FFD780FF>Passeio Celestial</color> em 3. O nível máximo de elevação é 15.
+Sintonia
+Por 10 segundos após Keqing acionar uma <color=#FFACFFFF>Reação Elemental relacionada com Electro</color>, seu ATQ é aumentado em 25%.
+Estrelas Viajantes
+Aumenta o nível da <color=#FFD780FF>Restauração Estelar</color> em 3. O nível máximo de elevação é 15.
+Estrela Tenaz
+Ao iniciar um Ataque Normal, um Ataque Carregado, uma Habilidade Elemental ou um Supremo, Keqing ganha 6% de <color=#FFACFFFF>Bônus de Dano Electro</color> por 8 segundos. Efeitos ativados por Ataques Normais, Ataques Carregados, Habilidades Elementais e Supremos são considerados entidades independentes.

@@ -1,0 +1,13 @@
+Arco Recurvado
+Dizem que é possível caçar águias em pleno voo com este arco, mas, na verdade, depende muito das habilidades do arqueiro também.
+ Um Arco Recurvado primorosamente feito de madeira, ossos e tendões de animais. Nas mãos de um arqueiro hábil, pode abater águias em voo. Isso é o orgulho de qualquer arqueiro e a prova de sua habilidade. É uma pena para as águias inocentes.
+Colheita
+Derrotar um oponente recupera <color=#99FFFFFF>8%</color> da Vida.
+Colheita
+Derrotar um oponente recupera <color=#99FFFFFF>10%</color> da Vida.
+Colheita
+Derrotar um oponente recupera <color=#99FFFFFF>12%</color> da Vida.
+Colheita
+Derrotar um oponente recupera <color=#99FFFFFF>14%</color> da Vida.
+Colheita
+Derrotar um oponente recupera <color=#99FFFFFF>16%</color> da Vida.

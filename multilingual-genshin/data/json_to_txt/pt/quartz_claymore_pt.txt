@@ -1,0 +1,13 @@
+Quartzo
+Um espadão simples, mas pesada, feito de quartzo preto polido com ouro. Exibe um senso de elegância e dignidade.
+ Diz a lenda que, naquele ano, na Guerra dos Arcontes, da terra retirou pedras para fazer lâminas e lanças. Com uma espada de pedra, o Arconte Geo destruiu o mal, reprimiu monstros. Em sua honra, a Forja do Penhasco Obscuro fabricou uma nova arma: Um espadão de quartzo negro. 
+Calor Residual
+Após causar uma reação elemental de Sobrecarga, Fusão, Queimaduras, Vaporização, Germinação ou Redemoinho de Pyro, o ATQ é aumentado em <color=#99FFFFFF>20%</color> por 12s.
+Calor Residual
+Após causar uma reação elemental de Sobrecarga, Fusão, Queimaduras, Vaporização, Germinação ou Redemoinho de Pyro, o ATQ é aumentado em <color=#99FFFFFF>25%</color> por 12s.
+Calor Residual
+Após causar uma reação elemental de Sobrecarga, Fusão, Queimaduras, Vaporização, Germinação ou Redemoinho de Pyro, o ATQ é aumentado em <color=#99FFFFFF>30%</color> por 12s.
+Calor Residual
+Após causar uma reação elemental de Sobrecarga, Fusão, Queimaduras, Vaporização, Germinação ou Redemoinho de Pyro, o ATQ é aumentado em <color=#99FFFFFF>35%</color> por 12s.
+Calor Residual
+Após causar uma reação elemental de Sobrecarga, Fusão, Queimaduras, Vaporização, Germinação ou Redemoinho de Pyro, o ATQ é aumentado em <color=#99FFFFFF>40%</color> por 12s.

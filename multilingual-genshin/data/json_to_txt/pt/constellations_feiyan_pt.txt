@@ -1,0 +1,12 @@
+A Lei Não Perdoa
+Quando Yanfei realiza um Ataque Carregado, cada Insígnia de Chamas que ela possuir aumenta sua Resistência Contra Interrupção enquanto ataca, e também reduz o consumo de Stamina desse Ataque Carregado em 10%.
+Direito de Interpretação Final
+A Taxa CRIT de Yanfei aumenta em 20% contra inimigos com menos de 50% de Vida.
+Selado sobre Fogo
+Aumenta o nível da Habilidade <color=#FFD780FF>Édito Assinado</color> em 3. O nível máximo é 15.
+Boa Autoridade
+Ao lançar o <color=#FFD780FF>Contrato Vinculativo</color>: Gera um Escudo que absorve Dano com base em 45% da Vida Máxima, com duração de 15s. Esse Escudo tem eficiência de 250% contra <color=#FF9999FF>Dano Pyro</color>.
+Respeitando a Declaração Juramentada
+Aumenta o nível da Habilidade <color=#FFD780FF>Contrato Vinculativo</color> em 3. O nível máximo é 15.
+Uma Cláusula Adicional
+Aumenta a capacidade máxima de Insígnia de Chamas que Yanfei pode ter em 1.

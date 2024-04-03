@@ -1,0 +1,13 @@
+Orbe de Esmeralda
+Um catalisador esculpido com uma jade rígida de Relevo de Jueyun, norte de Liyue. É pequena, leve e durável.
+ Um catalisador leve esculpido em jade. É duradouro e acessível, muito procurado em todos os lugares. Pequeno, mas requintadamente trabalhado, é apelidado pelo povo de Liyue de "Bola de Jade". Serve tanto como um catalisador de defesa, quanto como um acessório de boa aparência. 
+Corrente Torrencial
+Após causar uma reação elemental de Vaporização, Eletricamente Carregado, Congelamento, Florescimento ou Redemoinho de Hydro, o ATQ é aumentado em <color=#99FFFFFF>20%</color> por 12s.
+Corrente Torrencial
+Após causar uma reação elemental de Vaporização, Eletricamente Carregado, Congelamento, Florescimento ou Redemoinho de Hydro, o ATQ é aumentado em <color=#99FFFFFF>25%</color> por 12s.
+Corrente Torrencial
+Após causar uma reação elemental de Vaporização, Eletricamente Carregado, Congelamento, Florescimento ou Redemoinho de Hydro, o ATQ é aumentado em <color=#99FFFFFF>30%</color> por 12s.
+Corrente Torrencial
+Após causar uma reação elemental de Vaporização, Eletricamente Carregado, Congelamento, Florescimento ou Redemoinho de Hydro, o ATQ é aumentado em <color=#99FFFFFF>35%</color> por 12s.
+Corrente Torrencial
+Após causar uma reação elemental de Vaporizar, Eletricamente Carregado, Congelamento, Florescimento ou Redemoinho com Hydro, o ATQ é aumentado em <color=#99FFFFFF>40%</color> por 12s.

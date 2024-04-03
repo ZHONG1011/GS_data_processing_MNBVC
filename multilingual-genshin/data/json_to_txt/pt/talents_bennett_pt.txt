@@ -1,0 +1,12 @@
+Ataque Normal: Espada da Sorte
+<color=#FFD780FF>Ataque Normal</color> Realiza até 5 golpes rápidos.  <color=#FFD780FF>Ataque Carregado</color> Consome uma certa quantidade de Stamina para desferir 2 golpes rápidos com a espada.  <color=#FFD780FF>Ataque Imersivo</color> Mergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.
+Sobrecarga de Paixão
+Bennett coloca todo seu fogo e sua paixão por aventura em sua espada. Os resultados podem variar baseados no quão fervente ele está...  <color=#FFD780FF>Pressionar</color> Um único e rápido ataque de chamas que causa <color=#FF9999FF>Dano Pyro</color>.  <color=#FFD780FF>Manter pressionado (Brevemente)</color> Sobrecarrega, resultando em diferentes efeitos quando liberado baseado no Nível de Carga.  Nível 1: Ataca duas vezes, causando <color=#FF9999FF>Dano Pyro</color> e lançando inimigos.  Nível 2: Desfere 3 ataques consecutivos que causam um incrível <color=#FF9999FF>Dano Pyro</color>, mas o último ataque desencadeia uma explosão que lança Bennett e seu inimigo. Bennett não leva nenhum dano ao ser lançado.  <i>Um ataque que combina os sonhos do Bennett e sua paixão por Pyro. Mas a paixão às vezes é muito ardente e Pyro acaba explodindo.</i>
+Viagem Fantástica
+Bennett pula, causando <color=#FF9999FF>Dano Pyro</color>, e cria um Campo de Inspiração.  <color=#FFD780FF>Campo de Inspiração</color> ·Se a Vida dos personagens dentro da AdE for igual ou cair para menos de 70%, regenerará Vida continuamente. A regeneração de Vida se baseia na Vida Máxima de Bennett. ·Se a Vida dos personagens dentro da AdE for maior que 70%, receberão um Bônus de ATQ proporcional ao Ataque Básico de Bennett. ·Aplica-se aos personagens dentro da AdE <color=#FF9999FF>Elemento Pyro</color>.  <i>A Equipe de Aventura de Benny sempre encontra perigos e acidentes quando parte para explorar. Apesar disso, Bennett prefere dizer que isso é "uma jornada cheia de maravilhas, beleza e excitação".</i>
+Ressurgimento da Paixão
+Diminui o Tempo de Recarga da <color=#FFD780FF>Sobrecarga da Paixão</color> em 20%.
+Fervor Intrépido
+Dentro da área criada pela <color=#FFD780FF>Viagem Fantástica</color>, a <color=#FFD780FF>Sobrecarga da Paixão</color> recebe os seguintes efeitos: A Recarga é reduzida em 50%. Bennett não será lançado pelos efeitos da Carga Nível 2.
+Deve Ser Seguro...
+Quando despachado em uma expedição em Mondstadt, o tempo consumido é reduzido em 25%

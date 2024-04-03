@@ -1,0 +1,12 @@
+「깃대」
+백업
+보류
+적을 처치하면 HP를 <color=#99FFFFFF>8%</color> 회복한다
+보류
+적을 처치하면 HP를 <color=#99FFFFFF>10%</color> 회복한다
+보류
+적을 처치하면 HP를 <color=#99FFFFFF>12%</color> 회복한다
+보류
+적을 처치하면 HP를 <color=#99FFFFFF>14%</color> 회복한다
+보류
+적을 처치하면 HP를 <color=#99FFFFFF>16%</color> 회복한다

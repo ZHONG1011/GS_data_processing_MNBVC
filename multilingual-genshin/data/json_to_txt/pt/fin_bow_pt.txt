@@ -1,0 +1,13 @@
+Águas Secas
+Parece ser um tipo de peixe extinto. Seu corpo é tão elástico, que uma corda pode ser presa a ele e fazer com que sirva como um arco.
+ A água borbulhante uma vez se infiltrou nas areias douradas, mas essa é uma história de muito tempo atrás. Os poderosos entraram no deserto enquanto seguiam o som da terra e do destino, mas no final poucos sobreviveram. O peixe que uma vez disparou direto pelo espaço como uma flecha atirada pelo imenso lago nos planaltos, era como uma lança disparada diretamente ao local sagrado. O riacho gradualmente infiltrou-se na areia e se reduziu a uma poça. Até que no fim, essa poça retorcida ficou à mercê dos peregrinos viajantes.  O que esta história nos conta é o seguinte: Se tiver piedade e se dedicar ao bem, você pode conseguir peixes, mesmo no deserto.
+Rompedor de Redes
+Desencadeia o efeito "Deriva" após usar uma Habilidade Elemental, causando <color=#99FFFFFF>80%</color> do ATQ como Dano em uma AdE após acertar um oponente com um ataque. O efeito de Deriva será removido após 15s ou após causar Dano em uma AdE 3 vezes. 1 Dano em uma AdE pode ser causado a cada 2s dessa forma. O efeito de Deriva pode ser desencadeado uma vez a cada 12s.
+Rompedor de Redes
+Desencadeia o efeito "Deriva" após usar uma Habilidade Elemental, causando <color=#99FFFFFF>100%</color> do ATQ como Dano em uma AdE após acertar um oponente com um ataque. O efeito de Deriva será removido após 15s ou após causar Dano em uma AdE 3 vezes. 1 Dano em uma AdE pode ser causado a cada 2s dessa forma. O efeito de Deriva pode ser desencadeado uma vez a cada 12s.
+Rompedor de Redes
+Desencadeia o efeito "Deriva" após usar uma Habilidade Elemental, causando <color=#99FFFFFF>120%</color> do ATQ como Dano em uma AdE após acertar um oponente com um ataque. O efeito de Deriva será removido após 15s ou após causar Dano em uma AdE 3 vezes. 1 Dano em uma AdE pode ser causado a cada 2s dessa forma. O efeito de Deriva pode ser desencadeado uma vez a cada 12s.
+Rompedor de Redes
+Desencadeia o efeito "Deriva" após usar uma Habilidade Elemental, causando <color=#99FFFFFF>140%</color> do ATQ como Dano em uma AdE após acertar um oponente com um ataque. O efeito de Deriva será removido após 15s ou após causar Dano em uma AdE 3 vezes. 1 Dano em uma AdE pode ser causado a cada 2s dessa forma. O efeito de Deriva pode ser desencadeado uma vez a cada 12s.
+Rompedor de Redes
+Desencadeia o efeito "Deriva" após usar uma Habilidade Elemental, causando <color=#99FFFFFF>160%</color> do ATQ como Dano em uma AdE após acertar um oponente com um ataque. O efeito de Deriva será removido após 15s ou após causar Dano em uma AdE 3 vezes. 1 Dano em uma AdE pode ser causado a cada 2s dessa forma. O efeito de Deriva pode ser desencadeado uma vez a cada 12s.

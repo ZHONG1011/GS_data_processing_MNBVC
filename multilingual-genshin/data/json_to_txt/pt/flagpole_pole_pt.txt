@@ -1,0 +1,12 @@
+Mastro da Bandeira
+Reserva
+A Definir
+Derrotar um oponente recupera <color=#99FFFFFF>8%</color> da Vida.
+A Definir
+Derrotar um oponente recupera <color=#99FFFFFF>10%</color> da Vida.
+A Definir
+Derrotar um oponente recupera <color=#99FFFFFF>12%</color> da Vida.
+A Definir
+Derrotar um oponente recupera <color=#99FFFFFF>14%</color> da Vida.
+A Definir
+Derrotar um oponente recupera <color=#99FFFFFF>16%</color> da Vida.

@@ -1,0 +1,12 @@
+Fique um Tempo e Escute
+Ao lançar <color=#FFD780FF>Descendência Real: Contemplem, Itto o Maligno!</color>, Arataki Itto obtém 2 cargas de Superforça Superlativa. Após 1s, Arataki Itto obtém outra carga de Superforça Superlativa a cada 0,5s, durante 1,5s.
+Juntem-se, Hora da Briga!
+Após usar <color=#FFD780FF>Descendência Real: Contemplem, Itto o Maligno!</color>, cada membro da equipe cujo elemento seja <color=#FFE699FF>Geo</color> irá diminuir o Tempo de Recarga desta habilidade em 1.5s e restaurar 6 de Energia Elemental para Arataki Itto. Um máximo de 4.5s do Tempo de Recarga pode ser reduzido e 18 de Energia restaurada desta maneira.
+Lá Vem o Touro!
+Aumenta o nível da <color=#FFD780FF>Masatsu Zetsugi: Explosão Akaushi!</color> em 3. O nível máximo de elevação é 15.
+Cárcere Privado
+Depois que o "Rei Oni Furioso" aplicado pela <color=#FFD780FF>Descendência Real: Contemplem, Itto o Maligno!</color> terminar, a DEF e o ATQ de todos os personagens da equipe que se encontrarem próximos aumentará em 20% durante 10 segundos.
+10 Anos de Fama de Hanamizaka
+Aumenta o nível da <color=#FFD780FF>Descendência Real: Contemplem, Itto o Maligno!</color> em 3. O nível máximo de elevação é 15.
+Arataki Itto, Presente!
+Os Ataques Carregados de Arataki Itto causam 70% a mais de Dano CRIT. Além disso, quando ele usa Arataki Kesagiri, ele tem 50% de chance de não consumir cargas de Superforça Superlativa.

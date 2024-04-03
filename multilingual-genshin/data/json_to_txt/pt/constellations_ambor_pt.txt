@@ -1,0 +1,12 @@
+Uma Flecha para Todos Governar
+Dispara 2 flechas a cada <color=#FFD780FF>Disparo com Mira</color>. A segunda flecha causa 20% do Dano da primeira flecha.
+Coelho Ativado
+Barão Coelho, novo e melhorado! Atingir o pé do Barão Coelho com um Tiro com Mira completamente carregado irá manualmente detoná-lo. Explosões feitas de maneira manual causam 200% de Dano adicional.
+Isso, Queima!
+Aumenta o nível da <color=#FFD780FF>Chuva Ardente</color> em 3. O nível máximo de elevação é 15.
+Não É Uma Boneca Qualquer...
+Diminui o Tempo de Recarga da <color=#FFD780FF>Marionete Explosiva</color> em 20% e adiciona 1 carga adicional.
+É o Barão Coelho!
+Aumenta o nível da <color=#FFD780FF>Marionete Explosiva</color> em 3. O nível máximo de elevação é 15.
+Fogo Vivo
+A <color=#FFD780FF>Chuva Ardente</color> aumenta a Veloc. Mov. da equipe toda em 15% e o ATQ em 15% por 10s.

@@ -1,0 +1,12 @@
+Ataque Normal: Tiro com Arco Divino
+<color=#FFD780FF>Ataque Normal</color> Realiza até 6 tiros consecutivos com o arco.  <color=#FFD780FF>Ataque Carregado</color> Realiza um <color=#FFD780FF>Tiro com Mira</color> mais preciso com Dano aumentado. Enquanto estiver mirando, ventos favoráveis irão se acumular na ponta da flecha. Uma flecha completamente carregada com o vento irá infligir <color=#80FFD7FF>Dano Anemo</color>.  <color=#FFD780FF>Ataque Imersivo</color> Dispara uma chuva de flechas em pleno ar antes de atingir o chão, infligindo Dano em uma AdE durante o impacto.
+Sonata Celestial
+Ó vento no qual voam todos os hinos e canções pelo ar, leve estes peregrinos terrestres aos céus!  <color=#FFD780FF>Pressionar</color> Evoca um Domínio dos Ventos na localização do inimigo, causando <color=#80FFD7FF>Dano Anemo em uma AdE</color> e lançando inimigos pelo ar.  <color=#FFD780FF>Manter pressionado</color> Evoca um Domínio dos Ventos ainda maior com um Venti em seu centro, causando <color=#80FFD7FF>Dano Anemo em AdE</color> e lançando inimigos afetados pelo ar. Após liberar a versão de Manter Pressionado dessa habilidade, Venti monta o vento pelo ar.  Inimigos atingidos pelo Soneto dos Céus cairão lentamente ao chão.  <i>Nos dias em que deuses e homens andaram na terra juntos, os céus eram cheios de infinitas canções. Essa melodia foi esquecida há muito tempo.</i>
+Grande Ode do Vento
+Dispara uma flecha energizada com vento, criando um grande Olho da Tempestade que suga inimigos, causando <color=#80FFD7FF>Dano Anemo</color> contínuo.  <color=#FFD780FF>Absorção Elemental</color> Se o Olho da Tempestade entrar em contato com os elementos <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, causará Dano elemental adicional daquele tipo. A Absorção Elemental pode ocorrer uma vez a cada uso.  <i>Muitos hinos escritos para elogiar o Arconte Anemo não existem mais. Essa é a sua compreensão do vento.</i>
+Abrace os Ventos
+Ao manter pressionado a <color=#FFD780FF>Sonata Celestial</color> cria uma corrente de vento que dura por 20s.
+Olho da Tempestade
+Regenera 15 de Energia para Venti após o efeito do <color=#FFD780FF>Grande Ode do Vento</color> terminar. Se ocorrer uma Absorção Elemental, também irá restaurar 15 de Energia a todos os personagens da equipe do elemento correspondente.
+Viajante do Vento
+Diminui o consumo de Stamina ao Planar de todos os seus personagens em 20%. Não acumulável com Talentos Passivos que concedem exatamente os mesmos efeitos.

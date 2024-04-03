@@ -1,0 +1,13 @@
+Lâmina de Filés
+Uma faca afiada com uma lâmina longa.
+ Dizem que o Peixe Tigre estava entre os favoritos do povo de Liyue. Com o passar do tempo, as pessoas começaram a chamar o peixe de Peixe Tigre. Agora, é difícil encontrar os verdadeiros Peixes Tigre. Mas os filés de Peixe Tigre se tornaram sinônimos de peixe delicioso para o povo de Liyue. 
+Determinação
+Ao acertar, possui 50% de chance de infligir <color=#99FFFFFF>240%</color> de Dano de ATQ a um único alvo. Pode ocorrer uma vez a cada <color=#99FFFFFF>15</color>s.
+Determinação
+Ao acertar, possui 50% de chance de infligir <color=#99FFFFFF>280%</color> de Dano de ATQ a um único alvo. Pode ocorrer uma vez a cada <color=#99FFFFFF>14</color>s.
+Determinação
+Ao acertar, possui 50% de chance de infligir <color=#99FFFFFF>320%</color> de Dano de ATQ a um único alvo. Pode ocorrer uma vez a cada <color=#99FFFFFF>13</color>s.
+Determinação
+Ao acertar, possui 50% de chance de infligir <color=#99FFFFFF>360%</color> de Dano de ATQ a um único alvo. Pode ocorrer uma vez a cada <color=#99FFFFFF>12</color>s.
+Determinação
+Ao acertar, possui 50% de chance de infligir <color=#99FFFFFF>400%</color> de Dano de ATQ a um único alvo. Pode ocorrer uma vez a cada <color=#99FFFFFF>11</color>s.

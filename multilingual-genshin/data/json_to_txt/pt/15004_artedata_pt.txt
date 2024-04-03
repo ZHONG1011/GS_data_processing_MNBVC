@@ -1,0 +1,18 @@
+Rios de Gelo e Areia de Neve
+Bônus de Dano Cryo +15%
+Aumenta o Dano causado por Supercondutor em 100%, aumenta o Dano causado pela Fusão em 15%. Ao usar um Supremo, aumenta o Dano Cryo em 30% por 10s.
+Coração Boreal
+Uma flor gelada que se solidificou ao ser colhida. É uma lembrança que o cavaleiro sempre carregava consigo.
+ 
+Pena da Neve
+Uma pena encontrada pelos cavaleiros do norte. Hoje em dia, ainda se espera pelo seu degelo.
+ 
+Areia Congelada
+Relógio usado pelos cavaleiros do norte, no seu interior é preenchido com grãos gelados de areia.
+
+Cálice do Vento do Norte
+Cálice vazio deixado pelo Cavaleiro que avançava com o vento do norte. No seu interior, foram deixadas marcas do tempo gélido do inverno severo.
+
+Coroa Glacial
+Uma coroa utilizada pelos cavaleiros do norte, feita de gelo do inverno e prata.
+

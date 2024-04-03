@@ -1,0 +1,12 @@
+Coquetel da Casa
+Regenera 15 de Energia para Diona depois dos efeitos de <color=#FFD780FF>Coquetel Assassino</color> terminarem.
+Garra de Gato Tremendo de Frio
+Aumenta o dano da <color=#FFD780FF>Garra de Gato Gelada</color> em 15%, e aumenta a Absorção de Dano do escudo em 15%. Quando a habilidade atinge um alvo, cria um escudo para outros personagens nos arredores que absorve até 50% do dano <color=#FFD780FF>Garra de Gato Gelada</color> por 5s.
+Q-quer outro copo?
+Aumenta o nível do <color=#FFD780FF>Coquetel Assassino</color> em 3. O nível máximo de elevação é 15.
+"Assassina da indústria do vinho"
+Na AdE do <color=#FFD780FF>Coquetel Assassino</color>, o tempo do Disparo com Mira de Diona é reduzido em 60%.
+Dose dupla com gelo
+Aumenta o nível da <color=#FFD780FF>Garra de Gato Gelada</color> em 3. O nível máximo de elevação é 15.
+Encerrando o Expediente na Cauda do Gato
+Os personagens dentro da AdE do <color=#FFD780FF>Coquetel Assassino</color> de acordo com a Vida obtém o seguinte efeito: Quando a Vida é igual ou inferior a 50%, o Bônus de Cura Recebida aumenta 30%; Quando a Vida é superior a 50%, a Proficiência Elemental aumenta 200.

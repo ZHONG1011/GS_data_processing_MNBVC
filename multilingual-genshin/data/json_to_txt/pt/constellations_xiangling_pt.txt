@@ -1,0 +1,12 @@
+Crocante por Fora, Macio por Dentro
+Inimigos atingidos pelos ataques de Guoba têm sua <color=#FF9999FF>RES Pyro</color> reduzida em 15% por 6s.
+Esquentar o Óleo
+O golpe final de um combo de Ataque Normal aplica o efeito Implosão nos inimigos por 2 segundos. Uma explosão irá ocorrer quando essa duração acabar, causando 75% do ATQ de Xiangling como <color=#FF9999FF>Dano Pyro em uma AdE</color>.
+Bem Passado
+Aumenta o nível do <color=#FFD780FF>Pyronado</color> em 3. O nível máximo de elevação é 15.
+Assando Devagar
+Aumenta a duração do <color=#FFD780FF>Pyronado</color> em 40%.
+Guoba Furioso
+Aumenta o nível do <color=#FFD780FF>Ataque de Guoba</color> em 3. O nível máximo de elevação é 15.
+Pyronado Condensado
+Durante a duração do <color=#FFD780FF>Pyronado</color>, todos os membros da equipe recebem 15% de <color=#FF9999FF>Bônus de Dano Pyro</color>.

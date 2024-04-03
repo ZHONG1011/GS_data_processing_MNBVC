@@ -1,0 +1,13 @@
+Arco de Corvo
+Os corvos são conhecidos como mensageiros da morte. O arco é decorado com penas de corvo que prenunciam a morte iminente de qualquer alvo.
+ Dizem que os corvos são mensageiros da morte. Caso se coloque uma pena de corvo na extremidade do arco, a vibração da corda anunciará a morte da presa. Pelo menos, era o que diziam os vendedores de armas. 
+Destruição das Chamas e Água
+Aumenta o Dano contra inimigos afetados por Hydro ou Pyro em <color=#99FFFFFF>12%</color>.
+Destruição das Chamas e Água
+Aumenta o Dano contra inimigos afetados por Hydro ou Pyro em <color=#99FFFFFF>15%</color>.
+Destruição das Chamas e Água
+Aumenta o Dano contra inimigos afetados por Hydro ou Pyro em <color=#99FFFFFF>18%</color>.
+Destruição das Chamas e Água
+Aumenta o Dano contra inimigos afetados por Hydro ou Pyro em <color=#99FFFFFF>21%</color>.
+Destruição das Chamas e Água
+Aumenta o Dano contra inimigos afetados por Hydro ou Pyro em <color=#99FFFFFF>24%</color>.

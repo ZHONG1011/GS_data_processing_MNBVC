@@ -1,0 +1,12 @@
+Oferenda Yakan
+Cada vez que <color=#FFD780FF>Grande Arte Secreta: Tenko Kenshin</color> desencadeia Relâmpago de Kitsune Celestial, Yae Miko regenera para ela mesma 8 pontos de Energia Elemental.
+Uivos ao Luar
+<color=#FFD780FF>Sesshou Sakura</color> inicia no Nível 2 quando é criada. O nível máximo é aumentado para 4, e a AdE de seu ataque aumenta em 60%.
+Sete Transformações
+Aumenta o nível de <color=#FFD780FF>Evocação Yakan: Sesshou Sakura</color> em 3. Nível máximo é 15.
+Canalização da Sakura
+Depois de o raio de <color=#FFD780FF>Sesshou Sakura</color> atingir os inimigos, todos os personagens próximos da equipe obterão 20% de <color=#FFACFFFF>Bônus de Dano Electro</color> por 5s.
+Escárnio Implacável
+Aumenta o nível de <color=#FFD780FF>Grande Arte Secreta: Tenko Kenshin</color> em 3. Nível máximo é 15.
+Técnica Proibida: Massacre
+Quando a <color=#FFD780FF>Sesshou Sakura</color> ataca os inimigos, ignora 60% de sua DEF.

@@ -1,0 +1,4 @@
+Espada Famosa da "Arte Isshin"
+Uma lâmina estranha envolta por uma aura roxa. Possui o poder de controlar o coração e a mente de seu portador.
+Lâmina Andarilha
+Quando um Ataque Normal, Carregado ou Imersivo atinge um oponente, ele libera um Espírito Maléfico, infligindo um Dano em AdE equivalente a 180% do ATQ e regenerando Vida equivalente a 100% do ATQ. Este efeito pode ocorrer uma vez a cada 8s. O Dano infligido pelo personagem com esta arma equipada será reduzido em 50%.

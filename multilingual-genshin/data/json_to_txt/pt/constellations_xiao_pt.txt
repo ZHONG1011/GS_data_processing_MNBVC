@@ -1,0 +1,12 @@
+Dissolução de Eon - Destruidor de Mundos
+Aumenta a carga do <color=#FFD780FF>Vento Lemniscático</color> em 1.
+Aniquilação de Eon - Flor de Kaleidos
+Quando Xiao estiver na equipe, mas não em campo, a Recarga da Energia de Xiao é aumentada em 25%.
+Conquistador do Mal · Deidade da Ira
+Aumenta o nível do <color=#FFD780FF>Vento Lemniscático</color> em 3. O nível máximo de elevação é 15.
+Transcensão - Extinção do Sofrimento
+Quando a Vida de Xiao for menor que 50%, ele ganha 100% de Bônus de DEF.
+Evolução de Eon - Origem da Ignorância
+Aumenta o nível da <color=#FFD780FF>Dança Nuo da Conquista do Mal</color> em 3. O nível máximo de elevação é 15.
+Conquistador do Mal - Guardião Yaksha
+Enquanto sob o efeito da <color=#FFD780FF>Dança Nuo da Conquista do Mal</color>, acertar pelo menos 2 inimigos com o ataque imersivo de Xiao irá imediatamente conceder a ele 1 carga de <color=#FFD780FF>Vento Lemniscático</color>, e durante o próximo 1 segundo, ele poderá usar Vento Lemniscático ignorando seu tempo de recarga.

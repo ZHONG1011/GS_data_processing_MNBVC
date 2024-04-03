@@ -1,0 +1,12 @@
+Patrulha Florestal
+Quando Collei está na equipe, mas não no campo de batalha, sua Recarga de Energia é aumentada em 20%.
+Pelas Colinas e Bosques
+Transforma o Talento Passivo Retorno Floral:  Quando o <color=#FFD780FF>Bumerangue Floral</color> retorna, fornece ao personagem o efeito "Brotar" do Talento Passivo "Retorno Floral", infligindo continuamente 40% do ATQ de Collei como <color=#99FF88FF>Dano Dendro</color> contra os inimigos próximos por 3s. Quando <color=#FFD780FF>Carícia das Flores</color> é lançada até o fim do estado "Brotar", se qualquer um dos membros da equipe desencadear as reações de Queimaduras, Aceleração, Intensificação, Propagação, Florescimento, Superflorescimento ou Germinação antes que essa instância do efeito "Brotar" termine, a duração do efeito será estendida em 3s. O efeito "Brotar" só pode ser estendido dessa forma uma vez. Se outro efeito "Brotar" for desencadeado na duração do efeito "Brotar" inicial, o efeito original será removido. O Dano infligido pelo efeito "Brotar" é considerado Dano de Habilidade Elemental. Requer que você tenha desbloqueado o Talento Passivo "Retorno Floral".
+Fragrância de Verão
+Aumenta o nível da Habilidade <color=#FFD780FF>Carícia das Flores</color> em 3. O nível máximo de elevação é 15.
+Presente da Floresta
+Ao usar <color=#FFD780FF>Segredo Miauvilhoso</color> aumenta a Proficiência Elemental de todos os personagens próximos em 60 por 12s (exceto para a própria Collei).
+Plenitude das Chamas
+Aumenta o nível de <color=#FFD780FF>Segredo Miauvilhoso</color> em 3. O nível máximo de elevação é 15.
+Bosque das Flechas
+Quando o <color=#FFD780FF>Bumerangue Floral</color> atingir, ele irá criar uma Collambei em miniatura que inflige 200% do ATQ da Collei como <color=#99FF88FF>Dano Dendro</color>. Cada <color=#FFD780FF>Carícia das Flores</color> pode criar até uma Collambei em miniatura.

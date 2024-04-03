@@ -1,0 +1,14 @@
+Ataque Normal: Forma da Água
+<color=#FFD780FF>Ataque Normal</color> Realiza até 3 ataques consecutivos que assumem a forma de peixes nadando, infligindo <color=#80C0FFFF>Dano Hydro</color>.  <color=#FFD780FF>Ataque Carregado</color> Consome uma certa quantidade de Stamina para infligir <color=#80C0FFFF>Dano Hydro em uma AdE</color> após um curto período de canalização.  <color=#FFD780FF>Ataque Imersivo</color> Reunindo o poder do Hydro, Kokomi mergulha em direção ao chão em pleno ar, infligindo dano a todos os inimigos em seu caminho. Inflige <color=#80C0FFFF>Dano Hydro em uma AdE</color> durante o impacto com o chão.
+Juramento de Kurage
+Invoca "Bake-Kurage" criado a partir da água que pode curar seus aliados. Usar essa habilidade irá aplicar o efeito <color=#80C0FFFF>Molhado</color> à Sangonomiya Kokomi.  <color=#FFD780FF>Bake-Kurage</color> Causa <color=#80C0FFFF>Dano Hydro</color> nos inimigos próximos e cura os personagens ativos ao redor com base na Vida Máxima de Sangonomiya Kokomi em intervalos de tempo.  <i>Kokomi precisa de um "refresco" pontual a fim de manter a eficiência ideal de trabalho.</i>
+Cerimônia Kaijin
+O poder de Watatsumi descende, causando <color=#80C0FFFF>Dano Hydro</color> aos oponentes ao redor, antes de vestir Kokomi em uma Vestimenta Cerimonial feita a partir das águas correntes de Sangonomiya.  <color=#FFD780FF>Vestimenta Cerimonial</color> O Dano do Ataque Normal, Ataque Carregado, e do Bake-Kurage da Habilidade Elemental de Sangonomiya Kokomi são aumentados com base em sua Vida Máxima. Quando seus Ataques Normais e Carregados atingirem os oponentes, Kokomi restaurará a Vida de todos os membros da equipe próximos e a quantidade será baseada em sua Vida Máxima. Aumenta a resistência de Sangonomiya Kokomi à interrupção e permite que ela se mova sobre a superfície da água.  Estes efeitos serão redefinidos quando Sangonomiya Kokomi deixar o campo.  <i>A luz clara se une em túnicas em torno de Sua Excelência, Sangonomiya Kokomi, refletindo sua magnífica forma.</i>
+Caixão Haworthia
+Se o Bake-Kurage da própria Sangonomiya Kokomi está no campo quando ela usa <color=#FFD780FF>Cerimônia Kaijin</color>, a duração do Bake-Kurage será redefinida.
+Canção das Pérolas
+Enquanto vestindo a Vestimenta Cerimonial criada pela <color=#FFD780FF>Cerimônia Kaijin</color>, o Bônus de Dano dos Ataques Normais e Carregados de Sangonomiya Kokomi ganhos baseado em sua Vida Máxima, receberão um aumento adicional com base em 15% de seu Bônus de Cura.
+Princesa de Watatsumi
+Diminui o consumo de Stamina ao Nadar de todos os membros da equipe em 20%. Não acumulável com Talentos Passivos que concedem exatamente os mesmos efeitos.
+Estratégia Infalível
+Sangonomiya Kokomi obtém um Bônus de Cura de 25%. Sua Taxa CRIT diminui em 100%.

@@ -1,0 +1,12 @@
+Ataque Normal: Técnica de Favonius
+<color=#FFD780FF>Ataque Normal</color> Realiza até 5 golpes rápidos.  <color=#FFD780FF>Ataque Carregado</color> Consome certa quantidade de Stamina para lançar um inimigo ao ar usando o poder do vento. Inimigos lançados cairão lentamente ao chão.  <color=#FFD780FF> Ataque Imersivo</color> Mergulha do ar para atingir o chão abaixo, causando Dano aos inimigos ao longo do caminho e causando Dano em uma AdE no impacto.
+Espada do Temporal
+Canalizando o poder do vento sem forma em volta da sua espada, Jean libera uma miniatura de uma tempestade, lançando inimigos na direção em que ela mira, causando um <color=#80FFD7FF>Dano Anemo</color> massivo.  <color=#FFD780FF>Manter pressionado</color> Ao custo de um consumo constante de Stamina, Jean pode comandar um turbilhão que suga inimigos e objetos próximos à sua frente. A direção pode ser controlada. O personagem fica imóvel ao longo da duração da habilidade.  <i>Aquilo que segue Jean, a defensora convicta, é um vento guardião que pode expulsar o perigo da presença de seus companheiros.</i>
+Brisa de Dandelion
+Invocando a proteção do vento, Jean cria um Campo Dandelion rodopiante, lançando inimigos ao redor e causando <color=#80FFD7FF>Dano Anemo</color>. Ao mesmo tempo, ela regenera instantaneamente uma grande quantidade de Vida para todos os membros da equipe. A Vida restaurada é baseada no ATQ de Jean.  <color=#FFD780FF>Campo de Dandelions</color> Regenera continuamente a Vida dos personagens dentro da AdE e concede o atributo <color=#80FFD7FF>Anemo</color>. Causa <color=#80FFD7FF>Dano Anemo</color> aos inimigos que entram ou saem do campo.  <i> A magnanimidade de Jean é tão vasta quanto os Dandelions, e é a raiz de seu desejo de proteger os outros.</i>
+Companhia do Vento
+Ao acertar Ataques Normais de Jean, possui 50% de chance de regenerar Vida equivalente a 15% do ATQ de Jean a todos os membros da equipe.
+Deixe o vento guiar.
+Após usar a <color=#FFD780FF>Brisa de Dandelion</color> regenera 20% de Energia Elemental.
+Brisa de Planagem
+Quando uma Culinária Perfeita é feita em uma comida com efeito de recuperação, tem uma chance de 12% de receber o dobro de produção.

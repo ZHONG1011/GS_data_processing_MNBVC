@@ -1,0 +1,132 @@
+Olá...
+Você cheira... Bem! Vamos caçar.
+Bate-papo - Aroma
+... Cheiro de coelho...
+Bate-papo - Fome
+Estou com fome. Vamos caçar.
+Bate-papo - Contemplando o Vento
+Eu vigio. Você sai, você me avisa.
+Quando está trovejando - Aviso
+Se você tem medo de trovões, se esconda agora.
+Quando está trovejando - Guia
+Evite as árvores. Siga-me.
+Quando está ventando...
+Vento... Eu gosto.
+A Ventania Está Chegando...
+Muito vento... Isso machuca.
+Bom dia...
+Agora está fazendo sol, chegou a hora de caçar!
+Boa tarde...
+Tive um grande almoço. Muita carne. Hmm, estou feliz.
+Saudações...
+Vá dormir. Vou assistir a lua.
+Boa noite...
+Você dorme. Eu vigio. Amanhã caçaremos.
+Sobre Razor...
+Eu não tenho uma família humana. Eu sou um lobo.
+Sobre Nós - Amigos
+#Você é {F#a minha amiga}{M#o meu amigo}. Podemos caçar. Juntos.
+Sobre Nós - Armas
+Eu tenho garras de ferro e dentes de trovão. Eu te protejo.
+Sobre a Visão...
+A Visão ajuda Razor... Lutar com presas relâmpago para proteger o Lupical!
+Algo para Compartilhar...?
+Eu gosto das estrelas à noite. Tantas estrelas. No céu, no lago. E na cidade.
+Coisas Interessantes...
+Os lobos são o meu Lupical. Minha família.
+Sobre Lisa...
+Os raios da Lisa tornam o céu negro. Ela é forte. Ela é assustadora.
+Sobre Barbara...
+A Barbara é uma boa menina. Muito boa menina.
+Sobre Diluc...
+O Diluc é vermelho e preto. Quente e frio.
+Sobre Venti...
+Razor não entende poemas, mas... Lupical gosta deles...
+Sobre Bennett...
+Bennett... Fala muito. Comer com ele, nunca cheio.
+Sobre Klee...
+Klee, amiga! Amiga, mas... Problemática.
+Sobre Varka - Estranho
+Varka? Razor não sabe...
+Sobre Varka - Memórias
+Oh, Varka é... Um nome. Aquele homem grande. Garra de aço grande, nome de Razor - Varka deu a ele. Oh... Quero vê-lo.
+Mais sobre Razor (I)
+Você cheira bem. Você gosta de carne?
+Mais sobre Razor (II)
+Você forte. Como um lobo. Eu gostar de caçar com você. Caçamos muito.
+Mais sobre Razor (III)
+Lupical significa lar de lobo - não, Lupical significa família de lobo. Meu Lupical vive na floresta. Eles dizem que eu sou o Lupical deles.
+Mais sobre Razor (IV)
+Meu Lupical é minha única família.  Mas, não tenho quatro pernas, não como eles. Não sou um lobo real. Às vezes eu fico triste por causa disso.
+Mais sobre Razor (V)
+#Foi muito divertido correr com você, caçar com você. Não faz diferença de ser lobo ou humano, o mais importante é estar com você!  Você é {F#a minha amiga}{M#o meu amigo}, é Lupical! Espero que fique feliz também.
+Passatempos de Razor...
+Gostar de Lupical, gostar de floresta, gostar de amigos, gostar de correr!
+Preocupações de Razor
+Falar me deixa cansado. Falar difícil. Mas tenho que tentar.
+Comida Favorita...
+Eu gosto de carne e batatas.
+Comida que Odeia...
+Vegetais são ruins. Animais comem vegetais. Então eu como animais.
+Recebendo Presentes — I
+Cheira bem, e o gosto é bom, gostei.
+Recebendo Presentes — II
+Comer esse prato me deu energia e me deixou feliz.
+Recebendo Presentes — III
+Comer, não é bom. Não comer, também não é bom. Que triste.
+Aniversário...
+Hoje é o seu dia. Você nasceu neste dia, há muitas luas atrás. Hoje eu quero fazer você feliz. Podemos comer carne juntos?
+Sentimentos sobre a Ascensão - Introdução
+Braços... Maiores...?
+Sentimentos sobre a Ascensão - Desenvolvimento
+Grrr! Afiar garras. Afiar dentes. Ficar forte!
+Sentimentos sobre a Ascensão - Auge
+Correr... Caçar... Não. Não! Preciso... Ficar forte!
+Sentimentos sobre a Ascensão - Conclusão
+Dentes, Garras, Pernas. Tudo maior. Tudo mais forte! Para te proteger!
+Habilidade Elemental - I
+Volte aqui!
+Habilidade Elemental - II
+Ah!
+Habilidade Elemental - III
+Ai!
+Habilidade Elemental - IV
+Não se aproxime!
+Supremo - I
+Raaaarrr!
+Supremo - II
+Blitz！
+Supremo - III
+*Rugido*
+Supremo - IV
+Rar!
+Abrir Baú do Tesouro - I
+Estas coisas são... Úteis?
+Abrir Baú do Tesouro - II
+Baús vazios... Bons para guardar coisas.
+Abrir Baú do Tesouro - III
+Cheiro de tesouro... Estranho.
+Vida Baixa - I
+Dói.
+Vida Baixa - II
+Raaaarrr!
+Vida Baixa - III
+Vou matar você!
+Aliado com Vida baixa: I
+Não!
+Aliado com Vida baixa: II
+Acorde!
+Derrotado - I
+Não consigo... Respirar...
+Derrotado - II
+Me leve de volta...
+Derrotado - III
+Lupical... Meu Lupical...
+Ataque Pesado Sofrido - I
+Sinto o gosto de sangue...
+Entrando na Equipe - I
+Eu vigiarei o caminho.
+Entrando na Equipe - II
+Vamos caçar!
+Entrando na Equipe - III
+Ficarei de olho em você.

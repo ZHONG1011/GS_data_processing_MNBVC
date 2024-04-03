@@ -1,0 +1,144 @@
+Olá...
+Um novo contrato? Está bem... Eu ainda estou de férias, mas posso lhe acompanhar por um tempo. Que nome devo usar para o contrato? Eu tenho muitos nomes, mas quando estou de férias, sou apenas Zhongli. E você, Viajante? Que nome você assinará nesse contrato?
+Bate-papo - Jornadas
+Toda jornada chega a um final. Não precisa ter pressa.
+Bate-papo - Visita
+Para onde vamos em seguida? Se quiser ver os pontos turísticos de Liyue, tenho algumas boas sugestões.
+Bate-papo - Liyue
+Barcos são feitos para transportar mercadorias, e aqueles que vem para Liyue tendem a ficar um pouco, por isso é onde muitas coisas vêm para ficar.
+Bate-papo - Nostalgia
+O vinho de Osmanthus tem o gosto que eu me lembrava... Mas onde estão aqueles que posso compartilhar essa memória?
+Depois da Chuva...
+Violeta é uma planta que adora o clima úmido, e é boa de ser colhida depois que chove. Se você se deparar com uma, guarde-as apropriadamente.
+Quando Está Nevando...
+Nós devemos procurar por um lugar para nos abrigar. Eu vou ficar bem, mas nós não queremos você pegando um resfriado.
+A Ventania Está Chegando...
+Este clima não está bom no feriado. Nós deveríamos ir assistir uma ópera.
+Bom dia...
+Espero que hoje também seja próspero.
+Boa tarde...
+Quer uma refeição rápida para nos revigorar? Eu conheço um lugar bom no Penhasco Chihu.
+Saudações...
+A essa hora da noite, nós já perdemos a peça da Srta. Yun, mas Liyue é cheia de lugares interessantes para explorar, até mesmo de noite.
+Boa noite...
+O mercado fechou e o cais barulhento adormeceu. Vá descansar.
+Sobre Zhongli...
+Nada pode ser realizado sem regras ou padrões. Não importa se forem mortais ou Adepti, todos tem seu lugar. Essa regra é o que mantém Liyue em paz.
+Sobre Nós - Ouro
+O tesouro de Liyue é ouro. É o sangue que corre por seu coração. Se o seu coração brilha como ouro, vamos ter que esperar e ver.
+Sobre Nós - Acordo
+Nós temos um contrato, então sinta-se a vontade para discutir qualquer coisa dentro dos limites dele.
+Sobre Nós - Justiça
+Também podemos discutir coisas fora do contrato. Afinal de contas, eu estou nessa terra há um bom tempo. Claro, eu espero que você faça umas coisas por mim também. Seria apenas justo.
+Sobre Nós - Confusão
+#Contratos não podem ser usados para definir amizades ou medir sentimentos. Então o que podemos usar para medir o peso de nossas emoções? Você sabe a resposta, {M#meu}{F#minha} amig{M#o}{F#a}?
+Sobre a Visão...
+Visões também são um tipo de contrato. Você deveria saber que todo poder vem com um preço. Para cada pedaço de poder que você ganha, você também ganha mais responsabilidade.
+Algo para Compartilhar...?
+O comércio depende de ambos os contratos e do acordo. Você nunca deve esquecer do seguinte ao fazer e acordar um contrato: se a justiça do contrato for perdida, ele se tornará a prova da enganação da outra pessoa.
+Coisas Interessantes...
+Se você está indo para o Relevo de Jueyun, me traga algumas Qingxin. Só um pouco basta. Despesas de viagem... Ah, esqueci, durante o nosso contrato, as despesas de viagem serão pagas por você. Desculpe te incomodar.
+Sobre Xiao...
+Você fala do jovem Adeptus das Planícies de Guili... *Suspiro* Ele continua fazendo seu dever todos os dias. Por favor, leve esses analgésicos para ele por mim. Ah e... Não deixe a Paimon comer eles. Ninguém nesse mundo consegue suportar a força desse remédio.
+Sobre Venti...
+#Hmm... Que fedor de vinho. Aquele bardo esteve por aqui, certo? Aquele bêbado é uma desgraça para as artes. Oh... Ele enganou você para te embebedar? Você não está fazendo muito sentido. Espere um momento. Farei um copo de um chá que te deixará sóbri{M#o}{F#a}. Ele ficará pronto em apenas seis horas, então só espere um momento.
+Sobre Ningguang...
+Apesar da multitude dos assuntos que ela lida diariamente, Ningguang sempre continua seguindo em frente. Uma joia rara mesmo. Eu me lembro do tempo que ela costumava andar descalça na costa de Yaoguang até as docas ao sul, tentando vender suas mercadorias. O tempo é cruel aos humanos.
+Sobre Hutao...
+A atual supervisora da casa funerária? Não consigo lidar com aquela criança.
+Sobre Tartaglia - Calmo
+Aquele malandro de Snezhnaya ainda não saiu de Liyue? Não importa, apenas me diga se ele lhe causar algum problema. Resolverei isso imediatamente.
+Sobre Tartaglia - Bebendo Juntos
+Dizem que Childe e a sua reputação incitou novamente os ranques internos dos Fatui. Conhecendo o tipo dele, ele vai se livrar rapidamente de qualquer um que ousar desafiar suas ações. Hmm... Agora que estou pensando, haverão muitas notícias interessantes na próxima vez que nos juntarmos para beber. Quer me acompanhar quando chegar a hora, Viajante?
+Sobre Ganyu...
+A prosperidade de Liyue não depende apenas nas previsões de Rex Lapis ou sabedoria, mas também graças aos incontáveis servos do Arconte Geo que honraram suas partes de seus contratos. Dentre eles, Ganyu é quem serviu por mais tempo. Se você quer saber sobre o passado dela, você deveria perguntar a ela sobre isso. Eu temo que as minhas palavras não sejam delicadas o suficiente para receber a aprovação dela.
+Sobre Keqing...
+Ela é a mais impiedosa dos Qixing, mas na verdade acho a convicção de tais pessoas bastante cativante. A única razão pela qual pude considerar dar um passo atrás numa gestão tão abrangente de Liyue foi porque há pessoas como ela. Pessoas que falam quando acreditam estar certas, e depois vão e fazem algo decisivo a esse respeito.
+Sobre Yanfei...
+Ela não assinou um contrato comigo, mas valoriza a ordem em muitas classes da sociedade de Liyue à sua própria maneira, esclarecendo equívocos e corrigindo conceitos errados... Se o pai dela um dia retornar de suas viagens, acredito que ele ficaria ainda mais satisfeito do que eu.
+Sobre Baal...
+O tempo molda qualquer vontade. No entanto, ela renunciaria qualquer coisa por suas crenças. Talvez seja por isso mesmo que ela chegou onde está hoje... Se eu tivesse a chance, também gostaria de aprender sobre a Eternidade pela qual ela tanto se esforça.
+Mais sobre Zhongli - I
+Por que é que, quando você finalmente consegue um intervalo, em vez de descansar, você vem para mim? É por que você quer ouvir uma de minhas histórias?
+Mais sobre Zhongli - II
+Você sabe a origem da Forja do Penhasco Obscuro?  No passado, eles mineravam o Monte Tianheng, e substituíam as cavidades com máquinas. Túneis que corriam para todas as direções dentro da montanha, alguns vão até o fundo da terra. Eu duvido que exista uma pessoa hoje que seja capaz de mapear todos os túneis.
+Mais sobre Zhongli - III
+Você sabe a origem do Ritual de Lanternas?  Muito tempo atrás, numa guerra, o povo de Liyue lançava lanternas para lembrar seus soldados do caminho de casa e não se perderem. Mas duvido que alguém se lembre disso hoje.
+Mais sobre Zhongli - IV
+O Deus dos Contratos. Ouviu falar nele?  Ele tem uma memória incrível. Ele lembra o nome de todas as pessoas que encontrou, e a data que cada barco construído em Liyue partiu. Afinal, só assim ele poderia lembrar todos os contratos que tem. Mas nem toda memória é alegre...
+Mais sobre Zhongli - V
+#Para aqueles que vivem demais, os amigos do passado e as aventuras em suas mentes vivem nas memórias. Eu não tenho arrependimentos em lhe conhecer, {F#minha amiga}{M#meu amigo}. Quando o dia chegar em que não estivermos mais juntos, você continuará a brilhar como ouro em minhas memórias.
+Passatempos de Zhongli...
+Eu gosto de caminhar pela cidade quando não tenho nada para fazer. É relaxante. Sim... Mas quando isso começou?
+Preocupações de Zhongli...
+Fazer com que as pessoas respeitem um contrato e ajam de acordo com as orientações estabelecidas dentro dele é simplesmente solicitar que elas respeitem o conceito de justiça. Não se trata de um pedido grande. Por que existem aqueles que ainda não compreendem tal simplicidade?
+Comida Favorita...
+Havia uma bebida que eu costumava desfrutar com os meus amigos - há muito tempo... Seu sabor não é mais o mesmo. Será porque o clima mudou? Uma pena que eu nunca mais poderei saborear seu gosto suave.
+Comida que Odeia...
+Eu não gosto de frutos do mar. Têm uma textura pegajosa, e um cheiro que simplesmente não dá para lavar. Mas o motivo de eu odiar é uma longa história, e digamos que minha memória é muito boa.
+Recebendo Presentes — I
+Os ingredientes requintados foram preparados com grande perícia. Não é fácil alcançar isso.
+Recebendo Presentes — II
+A gastronomia é algo muito interessante. Estou surpreso que ela também chama sua atenção.
+Recebendo Presentes — III
+Como você parece estar livre, que tal irmos para um local calmo? Poderei lhe contar mais uma de minhas histórias para você.
+Aniversário...
+Feliz aniversário. Isso é uma flor seca de Lírio de Vidro que floresceu no dia de seu nascimento. Muito tempo atrás, as pessoas de Liyue diziam que essa flor desabrocha com o peso das memórias bonitas e desejos da terra. Eu acho que isso se aplica ao dia que você nasceu também.
+Sentimentos sobre a Ascensão - Introdução
+Parece que minha força está retornando. Não muito, mas o suficiente.
+Sentimentos sobre a Ascensão - Desenvolvimento
+Meu poder está crescendo, e com ele cresce o fardo no meu corpo... Eu estou bem. Minha estrutura não é como a de uma pessoa normal, não se preocupe.
+Sentimentos sobre a Ascensão - Auge
+Entendo. Para os mortais, usar a Visão para controlar os elementos não é fácil. Naquela época, eles sabiam disso quando andavam junto comigo...
+Sentimentos sobre a Ascensão - Conclusão
+#Depois de deixar de lado minha Gnosis, nunca esperei ver um dia como este novamente. Obrigado, amig{F#a}{M#o}. Ah, sim, eu tenho aqui um novo contrato. Gostaria de dar uma olhada nele juntos?
+Habilidade Elemental - I
+Levante-se!
+Habilidade Elemental - II
+Trema!
+Habilidade Elemental - III
+Desfaça-se!
+Habilidade Elemental - IV
+Congregar.
+Habilidade Elemental - V
+Estabilize.
+Habilidade Elemental - VI
+Solidifique
+Supremo - I
+Que a ordem lhe guie!
+Supremo - II
+Isto é ordem.
+Supremo - III
+Eu terei ordem!
+Abrir Baú do Tesouro: I
+A pedra de uns é a joia de outros...
+Abrir Baú do Tesouro: II
+Não solicitado... E ainda mais valioso por conta disso.
+Abrir Baú do Tesouro: III
+Certamente valeu a pena andar mais um pouco.
+Vida Baixa - I
+Vejo o seu poder.
+Vida Baixa - II
+Ha, agora está ficando interessante.
+Vida Baixa - III
+Medidas de emergência não são minha especialidade.
+Aliado com Vida baixa: I
+Não tente apressar seu inimigo.
+Aliado com Vida baixa: II
+Descanse um pouco. Deixa comigo.
+Derrotado - I
+Ugh... Estou me sentindo... não muito bem...
+Derrotado - II
+Você não deveria me ver assim...
+Derrotado - III
+Até a rocha-mãe pode virar pó...
+Ataque Pesado Sofrido - I
+Descuidado...
+Ataque Pesado Sofrido - II
+Nada a temer.
+Entrando na Equipe - I
+Claro.
+Entrando na Equipe - II
+Uma caminhada seria legal.
+Entrando na Equipe - III
+O que faremos?

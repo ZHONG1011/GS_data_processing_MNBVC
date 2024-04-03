@@ -1,0 +1,12 @@
+O Dever de Um Amigo
+Quando uma <color=#FFD780FF>Barreira Flamejante</color> levar Dano em qualquer personagem que não seja o Thoma, então a própria <color=#FFD780FF>Proteção das Chamas do Destino</color> dele irá diminuir seu Tempo de Recarga em 3s, enquanto que sua própria <color=#FFD780FF>Grande Armadura Flamejante</color> tem seu Tempo de Recarga reduzido em 3s. Este efeito pode ser desencadeado uma vez a cada 20s.
+Servente Hábil
+Aumenta a duração da <color=#FFD780FF>Grande Armadura Flamejante</color> em 3s.
+Vontade Resoluta
+Aumenta o Nível da <color=#FFD780FF>Proteção das Chamas do Destino</color> em 3. O Nível máximo de elevação é 15.
+Plano a Longo Prazo
+Após lançar <color=#FFD780FF>Grande Armadura Flamejante</color>, Thoma regenerará 15 pontos de Energia Elemental.
+Fogo Incontrolável
+Aumenta o nível da <color=#FFD780FF>Grande Armadura Flamejante</color> em 3. O nível máximo de elevação é 15.
+Coração Fervoroso
+Quando uma <color=#FFD780FF>Barreira Flamejante</color> é obtida ou acumulada o Dano causado por Ataques Normais, Carregados e Imersivos de todos os membros da equipe é aumentado em 15% por 6s.

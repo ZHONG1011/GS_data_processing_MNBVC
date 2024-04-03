@@ -1,0 +1,146 @@
+Olá...
+Diluc, de Mondstadt. Não estou interessado em bate-papo. Se você quiser fazer sucesso, me avise.
+Bate-papo - Relaxamento
+Podemos descansar um pouco.
+Conversa - Cavaleiros de Favonius
+Você realmente deveria trazer os Cavaleiros de Favonius com você da próxima vez.
+Bate-papo - Guilda
+Eu ainda tenho muita coisa para fazer na guilda. Que tal você descansar um pouco enquanto eu volto?
+Conversa: Preparação
+Devemos nos preparar enquanto podemos, e então fazermos um ataque preventivo contra nosso inimigo.
+Bate-papo — Plano
+Vamos descansar e planejar nosso próximo movimento.
+Bate-papo — Atenção
+Toda operação possui seus riscos. Tenha cuidado.
+Quando chove - Guarda-chuva
+Eu não preciso de um guarda-chuva, mas você pode usar um se precisar.
+Quando está chovendo - Limpeza
+Chuva... Quem me dera poder eliminar as almas corruptas deste mundo.
+Quando Faz Sol...
+Independentemente de fazer sol ou chuva, apenas insista no seu caminho.
+A Ventania está chegando...
+Alguns usam o assobio do vento para abafar o som de seus crimes.
+Bom dia...
+Não há necessidade de conversa fiada. O que importa é que você estava seguro ontem à noite.
+Boa tarde...
+Você gostaria de provar o nosso menu secreto?
+Saudações...
+A noite chegou.
+Boa noite...
+Muito bem, nos vemos na próxima vez. Me certificarei com que você saia em segurança.
+Sobre Diluc...
+A lenda do "Herói Obscuro"? Um boato interessante.
+Sobre Nós - Necessidades
+Se precisar de algo é só dizer. Para reembolsos, fale com Elzer.
+Sobre Nós - Prova
+Você já provou a sua determinação. Então é hora de você ver a minha também.
+Sobre a Visão...
+Para os que estão sem direção, a Visão pode ser uma estrela-guia. Mas para quem está com a fé firme, a Visão é apenas uma medalha ignorável.
+Algo para Compartilhar...?
+De vez em quando eu preparo as bebidas pessoalmente na Presentes dos Anjos, porque a Taverna é um lugar ideal para circulação das informações.
+Coisas Interessantes...
+É Noctua, um animal feroz, que vigia na escuridão, e ataca em um instante quando chegar a oportunidade, sem nenhuma falha.
+Sobre Kaeya...
+Kaeya? Você só pode confiar em metade do que ele diz... Na melhor das hipóteses.
+Sobre Lisa...
+Eu acredito que a Lisa tem potencial para se tornar uma grande cavaleira, se ela estiver disposta, é claro.
+Sobre Jean - Inimigos
+Questões triviais podem se tornar o maior inimigo de Jean.
+Sobre Jean - Responsabilidades
+Seu senso de responsabilidade incomparável é a única razão pela qual ela ainda não encontrou seu verdadeiro chamado.
+Sobre Mona...
+O solo de Mondstadt é abençoado pelo Arconte Anemo, portanto, não é preciso prever a colheita por uma astróloga.
+Sobre Diona...
+A atitude da Diona em relação a mim é... Como devo dizer? Um pouco rígida. Ainda não encontrei a oportunidade de falar com ela corretamente. Não tenho certeza se é um problema com minha linhagem familiar ou... Oh? Não é? Ela simplesmente despreza o álcool? Nunca pensei que me encontraria com outra bartender como eu em Mondstadt.
+Sobre Varka...
+Grande Mestre Varka... Enquanto eu entendo a sua posição, não consigo entender suas ações... Eu já falei demais. Há muito tempo que deixei de ser Cavaleiro de Favonius. Esqueça o que eu disse.
+Sobre Eula...
+Ouvi falar sobre ela. Ela tem suas próprias convicções. Sua determinação para se libertar do seu clã é digna de elogios, mas... Ela se juntou aos Cavaleiros de Favonius...
+Mais sobre Diluc (I)
+Em que posso ajudar?
+Mais sobre Diluc (II)
+Eh? Você está perguntando sobre os Cavaleiros de Favonius? Não tenho nada para dizer! Somos diferentes.
+Mais sobre Diluc (III)
+Faz muito tempo que não jogo xadrez com ninguém além do meu mordomo. Por acaso tenho um pouco de tempo. Gostaria de jogar uma partida?
+Mais sobre Diluc (IV)
+Xeque-mate! Você conseguiu me esforçar a este ponto! Você tem mesmo jeito para isso.
+Mais sobre Diluc (V)
+#Ainda bem. Independentemente de se tratar de xadrez ou combate, o seu comportamento é destacável! Esse tipo de... Cooperação, parece ser muito interessante... Espero que possamos continuar dessa maneira, {F#minha companheira}{M#meu companheiro}.
+Passatempos de Diluc...
+As obras de arte da mansão? Não são minhas. É uma coleção que pertencia ao meu falecido pai.
+Preocupações de Diluc...
+O inimigo verdadeiro que deve ser derrotado é a escuridão cheia de maldade, que dá luz aos demônios. Vai levar mais do que uma lâmina para ser despedaçada.
+Comida Favorita...
+Você me perguntou o que estava dentro do meu copo? É apenas suco de uva... Eu costumo beber isso.
+Comida que Odeia...
+Eu não bebo vinho. O gosto do álcool não é agradável para mim, nada mais.
+Recebendo Presentes — I
+Requintado. Tem um sabor inesquecível.
+Recebendo Presentes — II
+#Posso sentir que {M#o}{F#a} chef colocou sua alma no preparo desta comida. É um belo prato.
+Recebendo Presentes — III
+... Obrigado.
+Aniversário...
+Feliz aniversário. Este é um dia importante para você. Então me diga, o que você deseja? Se estiver ao meu alcance concedê-lo a você, eu o considerarei.
+Sentimentos sobre a Ascensão - Introdução
+O poder é necessário se quisermos atingir nossos objetivos.
+Sentimentos sobre a Ascensão - Desenvolvimento
+O que nos espera? Eu raramente paro para pensar sobre isso. Não importa o que fique no meu caminho, devo seguir sempre para frente.
+Sentimentos sobre a Ascensão - Auge
+Me tornei mais forte... Embora seja insuficiente, eu sempre enfrentarei a escuridão.  Para o alvorecer que ainda não chegou, devem existir aqueles que ousam perfurar a escuridão com sua luz.
+Sentimentos sobre a Ascensão - Conclusão
+#Acreditava firmemente que tinha que andar sozinho na escuridão sempre para excluir todo o mal.  Mas a sua perseverança me fez entender que estava errado outra vez. Companheir{M#o}{F#a}, te admiro e agradeço.
+Habilidade Elemental - I
+Huh!
+Habilidade Elemental - II
+Há.
+Habilidade Elemental - III
+Haah!——
+Habilidade Elemental - I
+Ah.
+Habilidade Elemental - II
+Ha!
+Habilidade Elemental - III
+Há!
+Supremo - I
+Seu veredito é...!
+Supremo - II
+Queime!
+Supremo - III
+É hora da retribuição!
+Supremo - I
+Chamas, purguem!
+Supremo - II
+Que as chamas consumam o mal!
+Supremo - III
+Alvorada, chegue!
+Abrir Baú do Tesouro - I
+Hnf, melhor do que nada.
+Abrir Baú do Tesouro - II
+Suponho que isso servirá.
+Abrir Baú do Tesouro - III
+Precisaremos de mais de onde veio isso.
+Vida Baixa - I
+Isso é tudo que você tem?
+Vida Baixa - II
+Urgh!
+Vida Baixa - III
+Você vai pagar por isso!
+Aliado com Vida baixa: I
+Cuidado!
+Aliado com Vida baixa: II
+Não se esgote tanto! Recuar!
+Derrotado - I
+O que fiz de errado...
+Derrotado - II
+Não há desculpas... Para a derrota...
+Derrotado - III
+Minha chama... Foi... Extinta...
+Ataque Pesado Sofrido - I
+Urgh!
+Entrando na Equipe - I
+Vamos nessa.
+Entrando na Equipe - II
+Qual é o nosso objetivo?
+Entrando na Equipe - III
+Vamos acabar com isso rápido.

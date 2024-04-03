@@ -1,0 +1,13 @@
+Espada de Ferro Negro
+Bem, na verdade é apenas uma espada de ferro um pouco escura.
+ "Por que sua espada está no chão?" "Estou bronzeando a espada para torná-la mais escura." "Por que a espada tem que tomar banho de sol?" "Ótima pergunta, caro amigo. O que mais é preto?" "Corvos?" "...Claro. O que mais?" "Hum... Panelas de aço!" "Ótimo raciocínio! O que tem embaixo da panela?" "Fogo!" "E de onde vem o fogo?" A garota pensou por um tempo, percebendo a resposta subitamente. "Carvão! Carvão é preto!" "É isso mesmo! O carvão, ou carbono, é o que torna o ferro mais forte. Mas eu imagino que posso apenas escurecer a espada bronzeando-a." Ao terminar de falar, ele virou a espada. 
+Sobrecarga
+Após causar uma reação elemental de Sobrecarga, Supercondutor, Eletricamente Carregado, Aceleração, Intensificação, Superflorescimento ou Redemoinho de Electro, o ATQ é aumentado em <color=#99FFFFFF>20%</color> por 12s.
+Sobrecarga
+Após causar uma reação elemental de Sobrecarga, Supercondutor, Eletricamente Carregado, Aceleração, Intensificação, Superflorescimento ou Redemoinho de Electro, o ATQ é aumentado em <color=#99FFFFFF>25%</color> por 12s.
+Sobrecarga
+Após causar uma reação elemental de Sobrecarga, Supercondutor, Eletricamente Carregado, Aceleração, Intensificação, Superflorescimento ou Redemoinho de Electro, o ATQ é aumentado em <color=#99FFFFFF>30%</color> por 12s.
+Sobrecarga
+Após causar uma reação elemental de Sobrecarga, Supercondutor, Eletricamente Carregado, Aceleração, Intensificação, Superflorescimento ou Redemoinho de Electro, o ATQ é aumentado em <color=#99FFFFFF>35%</color> por 12s.
+Sobrecarga
+Após causar uma reação elemental de Sobrecarga, Supercondutor, Eletricamente Carregado, Aceleração, Intensificação, Superflorescimento ou Redemoinho com Electro, o ATQ é aumentado em <color=#99FFFFFF>40%</color> por 12s.

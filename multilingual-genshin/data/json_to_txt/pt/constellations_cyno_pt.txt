@@ -1,0 +1,12 @@
+Decreto: Vigilância Incansável
+Ao lançar <color=#FFD780FF>Ritual Sagrado: Agilidade Lupina</color>, aumenta a Vel. de ATQ do Ataque Normal de Cyno em 20% por 10s. Se ao lançar <color=#FFD780FF>Ritual Secreto: Travessia Abissal</color> desencadear o efeito "Adjudicação" do Talento Passivo "Julgamento das Plumas", redefinirá a duração do efeito de aumento da Vel. de ATQ do Ataque Normal. Você deve desbloquear o Talento Passivo "Julgamento das Plumas" primeiro.
+Cerimônia: Retorno das Almas
+Quando os Ataques Normais de Cyno acertam os oponentes, seu <color=#FFACFFFF>Bônus de Dano Electro</color> irá aumentar em 10% por 4s. Esse efeito pode ser desencadeado uma vez a cada 0.1s. Máximo de 5 acúmulos.
+Édito: Punição da Lei
+Aumenta o nível de <color=#FFD780FF>Ritual Sagrado: Agilidade Lupina</color> em 3. O nível máximo de elevação é 15.
+Austeridade: Defesa Intimidante
+Quando Cyno está no estado Juramento Desbravador de <color=#FFD780FF>Ritual Sagrado: Agilidade Lupina</color>, ao desencadear as reações de Eletricamente Carregado, Supercondutor, Sobrecarga, Aceleração, Intensificação, Superflorescimento e Redemoinho Electro, regenerará 3 de Energia Elemental para todos os membros próximos da equipe (com exceção do próprio Cyno). Esse efeito pode ser desencadeado até 5 vezes por uso de <color=#FFD780FF>Ritual Sagrado: Agilidade Lupina</color>.
+Ritual Funerário: Passagem da Aura Estelar
+Aumenta o Nível de <color=#FFD780FF>Ritual Secreto: Travessia Abissal</color> em 3. O aumento máximo de nível é 15.
+Vestes: Balança da Justiça
+Após usar <color=#FFD780FF>Ritual Sagrado: Agilidade Lupina</color> ou desencadear o efeito "Adjudicação" do Talento Passivo "Julgamento das Plumas", Cyno ganha 4 acúmulos do efeito "Dia do Chacal". Quando Cyno acerta oponentes com Ataques Normais, será consumido 1 acúmulo de "Dia do Chacal" para lançar um Raio da Desolação. O "Dia do Chacal" dura por 8s, e possui no máximo 8 acúmulos. Ele será cancelado quando o estado Juramento Desbravador do "Ritual Sagrado: Agilidade Lupina" acabar. O máximo de 1 Raio da Desolação pode ser lançado a cada 0,4s. Você precisa desbloquear o Talento Passivo "Julgamento das Plumas" primeiro.

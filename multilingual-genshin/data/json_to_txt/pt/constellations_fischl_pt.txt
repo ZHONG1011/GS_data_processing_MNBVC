@@ -1,0 +1,12 @@
+Olhar das Profundezas
+Mesmo que Oz não esteja presente no combate, ele ainda pode proteger Fischl através de seus Olhos de Corvo. Quando Fishl ataca um inimigo, Oz atacará simultaneamente, causando 22% de Dano de ATQ.
+Devorador de Todos os Pecados
+Quando as <color=#FFD780FF>Asas da Vigilância Noturna</color> são usadas, causa um adicional de 200% de ATQ como Dano e a sua AdE é aumentada em 50%.
+Asas do Pesadelo
+Aumenta o nível das <color=#FFD780FF>Asas da Vigilância Noturna</color> em 3. O nível máximo de elevação é 15.
+Fantasia da Rainha
+Quando <color=#FFD780FF>Ilusão Noturna</color> é usada, causa 222% de ATQ como <color=#FFACFFFF>Dano Electro</color> nos inimigos próximos. Quando a habilidade termina, Fischl regenera 20% de sua Vida.
+Noite Silenciosa
+Aumenta o nível da <color=#FFD780FF>Ilusão Noturna</color> em 3. O nível máximo de elevação é 15.
+Corvo da Noite Eterna
+Aumenta a duração da evocação de Oz por 2 segundos. Adicionalmente, Oz ataca juntamente com o seu próprio personagem quando presente, causando 30% do ATQ de Fischl como <color=#FFACFFFF>Dano Electro</color>.

@@ -1,0 +1,150 @@
+Habilidade Elemental - I
+Tchau!
+Habilidade Elemental - II
+Tenho que ir~!
+Habilidade Elemental - III
+Puf!
+Habilidade Elemental - IV
+Estou fora daqui.
+Habilidade Elemental - V
+Não pode me pegar~!
+Habilidade Elemental - VI
+E lá vou eu.
+Supremo - I
+Jutsu gêmeo!
+Supremo - II
+Saia daí!
+Supremo - III
+Ufa...
+Início da Corrida - I
+Me faça fugir.
+Abrir Baú do Tesouro - I
+Parece bem aconchegante aqui... Hora de uma sonequinha!
+Abrir Baú do Tesouro - II
+Missão cumprida! Podemos voltar e dormir agora?
+Abrir Baú do Tesouro - III
+Ooh, o que temos aqui? Talvez um elixir do crescimento?
+Vida Baixa - I
+Bolas, tenho certeza que havia um método de fuga para isso...
+Vida Baixa - II
+Sinto uma tontura.
+Vida Baixa - III
+Ufa, que cansaço.
+Aliado com Vida baixa: I
+Protegerei você.
+Aliado com Vida baixa: II
+Dê uma pausa! Ou talvez todas as pausas.
+Derrotado - I
+Quase... Fugi...
+Derrotado - II
+É, b-boa noite...
+Derrotado - III
+A culpa é minha por ter tanta preguiça...
+Ataque Leve Sofrido - I
+Ow.
+Ataque Pesado Sofrido - I
+Quase escapei dessa.
+Ataque Pesado Sofrido - II
+Estou prestes a desmaiar aqui.
+Entrando na Equipe - I
+Que sono.
+Entrando na Equipe - II
+Posso dormir?
+Entrando na Equipe - III
+Caramba, você me pegou.
+Olá
+Sayu, Shiyuumatsu-Ban, ao seu dispor!  Ufa, mas, se você não precisa de mim agora, vou tirar uma sonequinha. E não, não aproveite que estou dormindo para tocar na minha cabeça.
+Conversa: Dormindo
+*bocejo* *ronco*
+Conversa: Trabalho
+Eu não precisava ter saído da cama hoje.
+Conversa: Altura
+Minha fase de crescimento está chegando, já já.
+Quando Está Chovendo...
+Aff, vamos encontrar um abrigo, rápido! Quem gosta de água é planta, não pessoas...
+Quando Está Trovejando...
+Bolas, este tempo está imprevisível! O melhor a fazer é ficar debaixo das cobertas quando está escuro, me aconchegar no quentinho e dormir.
+Quando Está Nevando...
+É fácil se esconder quando o tempo está assim. Existe uma técnica de Ninjutsu chamada Manto da Neve, que permite que você fique praticamente invisível — quando as pessoas olham para você, elas só veem flocos de neve dançando no ar. Espere, isso é confidencial! Não diga nada disso à Sacerdotisa...
+Quando Faz Sol...
+Eu adoro quando o tempo fica assim, só me dá vontade de... *Bocejo* Descansar um pouquinho.
+Quando Venta
+Um dia com vento é ótimo para uma aventura.
+A Ventania Está Chegando...
+Sempre sei que é hora de fechar os olhos quando o vento está tão forte que nem sequer consigo abri-los.
+Bom dia...
+...É de manhã? Já? Ok, só vou tirar uma soneca de, no máximo, mais 10 minutos... Por favor, só mais 10 minutos... Não? Ok, 5 minutos então? *ronco*
+Boa tarde...
+Que sono, ainda não é meio-dia?
+Boa noite...
+Reconhecimento concluído, a Sacerdotisa não está dentro de um raio de 5 quilômetros. Passando para a próxima etapa: hora de dormir!
+Boa noite...
+Finalmente... Hora de dormir... Boa noiteee...
+Sobre Sayu: Shiyuumatsu-Ban
+Sim, faço parte do Shiyuumatsu-Ban, mas eles só me pedem para coletar informações e roubar. Então, sabe como é... Se eu não conseguir cumprir meus objetivos, não tem problema.
+Sobre Sayu: Negligenciando o Trabalho
+Eu não faço nenhum trabalho importante no Shiyuumatsu-Ban e, se me atrasar demais para fazer alguma coisa, alguma pessoa mais habilidosa fará no meu lugar. Já dormir, por outro lado — isso é de extrema importância. Tenho que dormir o suficiente para chegar à minha fase de crescimento.
+Sobre Nós: Favor
+Ei, você pode me fazer um favor? Me avise se a Sacerdotisa aparecer, por favor? Eu só vou descansar um pouco...
+Sobre Nós: Carinho na Cabeça
+Ei, eu não sou cachorro! Hmm, mas já que é você... Ok, você pode fazer carinho na minha cabeça, e eu prometo que não vou morder sua mão. Mas só um pouco! Se fizer por muito tempo, não vou crescer!
+Sobre a Visão
+Meu Espadão é muito pesado, mesmo com meu treinamento em Ninjutsu eu não conseguiria levantá-lo sem a ajuda da minha Visão. Então sim, ter uma Visão é muito útil para mim.
+Algo para Compartilhar...
+O Sensei disse que eu serei a última Ninja da nossa linhagem. Acho que é inevitável, já que esse estilo de Ninjutsu não seria muito útil durante uma briga mesmo. Tudo o que sei fazer é fugir e encobrir meus rastros.
+Coisas Interessantes...
+Você conhece o mujina? Ele é parecido com um Tanuki, mas muito mais bonitinho. Na próxima vez eu levo você para conhecer um deles!
+Sobre Kamisato Ayaka...
+Como filha mais velha do Clã Kamisato, ela tem sempre uma aparência graciosa e elegante. Mas ela pediu para uma das Sacerdotisas ficar de olho em mim para garantir que eu não durma durante o serviço... Qual é a necessidade disso?
+Sobre Kamisato Ayato...
+Às vezes, enquanto estou descansando nas árvores, eu escuto as Sacerdotisas falarem sobre ele. Parece que ele é uma pessoa super importante, que está sempre ocupado. Mas eu não entendo — é só trabalho, sei lá, então por que ele simplesmente... não faz?
+Sobre Thoma...
+Ele tem uma Visão mas, ainda assim, sempre que me vê, ele me importuna porque quer aprender Ninjutsu. Não sei o que ele está pensando. Não é como se eu estivesse disponível para ensiná-lo, eu mal tenho tempo para dormir.
+Sobre Yoimiya...
+Sempre que me vê, ela diz, "Ei, pequena Tanuki! Venha passear comigo no festival”. Em primeiro lugar, eu não sou uma Tanuki. Em segundo lugar, não quero ir para um festival. Em terceiro lugar, ela diz que quer passear comigo — mas, na verdade, ela só quer que eu faça uma performance de Ninjutsu durante a apresentação de fogos de artifício. Isso nem sequer está relacionado com o meu trabalho para o Shiyuumatsu-Ban!
+Sobre a Shogun Raiden...
+Sua Excelência? Definitivamente não é uma pessoa que eu algum dia vá encontrar. Se tiver alguma dúvida, talvez a Senhorita Ayaka seja a pessoa mais indicada para perguntar.
+Sobre Yae Miko...
+Ela sempre gosta de fazer carinho na minha cabeça... Mas eu nunca resisti, ou sequer disse alguma coisa, porque tenho medo de como ela reagiria se eu a contrariasse. Mas o que eu posso fazer? Como ela fica fazendo carinho na minha cabeça, vou ficar com esta altura para sempre!
+Sobre Arataki Itto
+Por que ele faz sempre tanto barulho? E como ele fez para ficar tão alto!?
+Sobre a Shinobu Kuki...
+O nome não me é familiar, hmm... O quê? A pequena ajudante de Arataki Itto? Ugh, bem, definitivamente ela vai perturbar meu sono então. São todos farinha do mesmo saco...
+Mais sobre Sayu - I
+Whoosh...
+Mais sobre Sayu - II
+Oi? Você quer saber como se chama o meu estilo de Ninjutsu? Uhh... não consigo me lembrar, ainda não acordei direito. Vou só tirar mais uma sonequinha, talvez eu consiga raciocinar melhor quando acordar.
+Mais sobre Sayu - III
+Tá bom, tudo bem... Eu conto para você. Mas espero que você não comece a rir, senão nunca mais falo com você de novo. Uh então, meu estilo de Ninjutsu se chama... Hã... Arte Yoohoo.  O motivo é que, supostamente, nosso estilo se concentra em tirar sarro do inimigo, mas, ainda assim... Quer dizer... *Suspiro*
+Mais sobre Sayu - IV
+#Você sabe subir em árvores? Eu sou uma especialista no assunto, posso lhe ensinar. Tem uma árvore lá no santuário — é o lugar perfeito, se você quiser pode dormir o dia inteiro lá que ninguém nunca {M#o}{F#a} encontrará... Uh, digo, é um ótimo lugar para uma soneca revigorante. Na próxima vez que quiser tirar uma soneca, me avise, e eu levo você até lá.
+Mais sobre Sayu - V
+Na verdade, foi o Sensei que me deu esta roupa. Dizem que foi inspirada no Mujina, e pode me ajudar quando eu precisar escapar, ou algo assim... E, depois, o Sensei me disse que eu já era crescidinha e estava pronta para seguir meu próprio caminho, mas que eu deveria ter cuidado e me proteger... E, depois, eles me deixaram. Será que estou realmente pronta para andar sozinha, com a minha altura?  Um... Hmm? V-Você me faz companhia? Jura? Promete que nunca vai me abandonar?
+Passatempos de Sayu...
+Quando coloco meu capuz, posso dormir à vontade, sem me preocupar que a Sacerdotisa me encontre. Ah, acho que essa é uma das melhores sensações do mundo.
+Problemas de Sayu: Incompreensão
+Por algum motivo, sempre que me veem pela primeira vez, as pessoas me chamam de Tanuki... Mas Sayu é só Sayu — definitivamente, não sou uma Tanuki.
+Problemas de Sayu - Altura
+Quando chegará minha fase de crescimento? Todas as minhas colegas da mesma idade têm praticamente o dobro da minha altura, e eu ainda estou... Ugh, chega, preciso dormir, dormir é a resposta. Boa noite!
+Problemas de Sayu - Altura
+Recentemente alguém me disse que, se eu ficar irritada com muita frequência, também posso prejudicar meu crescimento! ...Gah! Não sei o que posso fazer quanto a isso...
+Comida Favorita...
+Gosto de alimentos que dão energia instantânea, como Onigiris. Se comermos um assim que acordarmos, nos sentimos menos cansados e lentos. Depois, é só relaxar e dormir de novo.
+Comida que Odeia...
+Não podemos ser muito exigentes com comida quando precisamos nos alimentar para crescer! ...Porém, não tenho ganhado peso ultimamente — Será que deveria comer mais vegetais? Mas as saladas não enchem o suficiente, além de terem um sabor amargo... *Suspiro*
+Recebendo Presentes — I
+Estou cheia, é hora de um cochilo...
+Recebendo Presentes — II
+Comer muito disso me deixa com sono...
+Recebendo Presentes — III
+Oh, não... Preciso de um plano de fuga...
+Aniversário...
+Quer aprender as habilidades dos ninjas? Eu posso lhe ensinar! Bom, só posso ensinar aquelas que eu sei, claro. Hmm? Por que não estou dormindo? ...Uhh, porque não estou com sono... e porque hoje é um dia especial! Fiquei acordada hoje o dia inteiro para poder lhe dizer pessoalmente: Feliz Aniversário.
+Sentimentos sobre a Ascensão: Introdução
+Será só impressão, ou fiquei um pouco mais alta!?
+Sentimentos sobre a Ascensão - Desenvolvimento
+Ótimo, agora posso escapar com mais rapidez do que nunca. Hee-hee, eles nunca me pegarão agora.
+Sentimentos sobre a Ascensão - Auge
+Ei, obrigada por sair e coletar todos aqueles materiais para mim. Eu poderia ter ido sozinha, mas... com certeza dormiria ao longo do caminho.
+Sentimentos sobre a Ascensão: Conclusão
+Acho que estou finalmente pronta para caminhar sozinha, assim como o Sensei disse que eu deveria. E... talvez agora não importe muito se eu não conseguir crescer mais. Porque o que realmente importa... é que eu tenho você para me fazer companhia.

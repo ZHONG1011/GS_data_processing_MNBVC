@@ -1,0 +1,13 @@
+Espada do Viajante
+Uma espada de aço que esconde tesouras, lupas, entre outros itens úteis de viagem em sua bainha.
+ Uma espada confiável e equilibrada feita de aço de qualidade. A desvantagem é que seu cabo é menor, reduzindo sua durabilidade das de cabo maior. No entanto, este projeto permite um espaço no cabo rebaixado, ideal para armazenar pequenas facas, tesouras, fiapos, etc. Daí o nome, Espada do Viajante, pois no seu interior pode guardar todas as espécies de coisas...? 
+Jornada
+Cada Orbe ou Partícula Elemental coletada restaura <color=#99FFFFFF>1%</color> da Vida.
+Jornada
+Cada Orbe ou Partícula Elemental coletada restaura <color=#99FFFFFF>1.25%</color> da Vida.
+Jornada
+Cada Orbe ou Partícula Elemental coletada restaura <color=#99FFFFFF>1.5%</color> da Vida.
+Jornada
+Cada Orbe ou Partícula Elemental coletada restaura <color=#99FFFFFF>1.75%</color> da Vida.
+Jornada
+Cada Orbe ou Partícula Elemental coletada restaura <color=#99FFFFFF>2%</color> da Vida.

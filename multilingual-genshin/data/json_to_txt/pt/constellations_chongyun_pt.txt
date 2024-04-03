@@ -1,0 +1,12 @@
+Nevasca Desencadeada
+O último ataque do combo de Ataques Normais do Chongyun libera 3 lâminas de gelo. Cada lâmina inflige 50% do ATQ de Chongyun como <color=#99FFFFFF>Dano Cryo</color> a todos os inimigos em seu caminho.
+Revolução Atmosférica
+Habilidades Elementais e Supremos lançados dentro do Campo criado pela <color=#FFD780FF>Lâmina Espiritual - Geada de Chongyun</color> têm seu Tempo de Recarga reduzido em 15%.
+Explosão de Nuvens
+Aumenta o nível da <color=#FFD780FF>Lâmina Espiritual - Estrela Cadente</color> em 3. O nível máximo de elevação é 15.
+Céus Congelados
+Chongyun regenera 1 de Energia sempre que ele acerta um inimigo afetado por <color=#99FFFFFF>Cryo</color>. Esse efeito pode ocorrer apenas uma vez a cada 2 segundos.
+O Verdadeiro Caminho
+Aumenta o nível da <color=#FFD780FF>Lâmina Espiritual - Geada de Chongyun</color> em 3. O nível máximo de elevação é Nv.15.
+Reforço das Quatro Lâminas
+A <color=#FFD780FF>Lâmina Espiritual - Estrela Cadente</color> inflige 15% a mais de Dano em inimigos com uma baixa porcentagem de sua Vida Máxima restante menor que a de Chongyun. Essa Habilidade também irá evocar uma lâmina espiritual adicional.

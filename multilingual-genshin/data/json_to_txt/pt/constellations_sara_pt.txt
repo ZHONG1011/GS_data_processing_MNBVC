@@ -1,0 +1,12 @@
+Olho do Corvo
+Quando Tengu Juurai concede aos personagens Bônus de ATQ ou acerta oponentes, o Tempo de Recarga da <color=#FFD780FF>Invocação da Tempestade Tengu</color> é diminuído em 1s. Este efeito pode ser desencadeado uma vez a cada 3s.
+Asas Negras
+Liberando a <color=#FFD780FF>Invocação da Tempestade Tengu</color> deixará uma Pena do Corvo mais fraca na posição original de Kujou Sara, que causará 30% do seu Dano original.
+Guerra Interna
+Aumenta o Nível de <color=#FFD780FF>Subjugação: Koukou Sendou</color> em 3. O nível máximo de elevação é 15.
+Prova Conclusiva
+O número de Tengu Juurai: Aglomerados de Tempestades liberados pela <color=#FFD780FF>Subjugação: Koukou Sendou</color> é aumentada para 6.
+Soletrador de Feitiços
+Aumenta o Nível de <color=#FFD780FF>Invocação da Tempestade Tengu</color> em 3. O nível máximo de elevação é 15.
+Meu Mundo
+O <color=#FFACFFFF>Dano Electro</color> dos personagens que tiveram seus ATQs aumentados pelo Tengu Juurai tem seu Dano CRIT aumentado em 60%.

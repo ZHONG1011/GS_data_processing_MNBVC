@@ -1,0 +1,158 @@
+Olá...
+Eu sou Amber, a Aventureira dos Cavaleiros de Favonius! Se precisar de ajuda, é só me dizer!
+Bate-papo - Passatempos
+Eu gostaria de correr.
+Bate-papo - Anseios
+A Jean vai ficar chateada conosco se ela perceber que não estamos trabalhando.
+Bate-papo - Novas Descobertas
+Parece ter algo estranho aí ao lado, você não quer ver?
+Quando está chovendo - Preocupações
+Está chovendo, meu uniforme ficará todo molhado...
+Quando está chovendo - Lembrete
+#Está chovendo de novo... Pode afetar a nossa visão. Fique atent{M#o}{F#a}!
+Depois da Chuva...
+Uau! O tempo está ótimo.
+Quando Faz Sol...
+Hum. Seria ainda melhor com uma brisa.
+Quando está ventando muito - Prazeroso
+É muito bom...
+Quando está ventando muito - Relaxamento
+Eu gosto! É muito relaxante!
+Bom dia...
+Bom dia! Quer correr comigo?
+Boa tarde...
+Posso jantar com você?
+Saudações...
+Já está escuro, posso acender uma tocha?
+Boa noite...
+Sim! Descansar também é fundamental! Então combinado, até amanhã!
+Sobre Amber...
+A Campeã Voadora, essa sou eu!
+Sobre Nós - Competição
+Mesmo que seja você, vou ser exigente da mesma forma.
+Sobre Nós - Planagem
+Quando estou te ensinando a planar, sinto que posso ir ainda mais rápido do que o normal... Huh? Do que você está rindo? Eu vou provar! Podemos fazer uma corrida - agora mesmo!
+Sobre a Visão...
+Minha Visão... É um sinal de que os Arcontes acreditam em mim. Sim, eu devo me tornar a melhor Aventureira que eu posso ser!
+Algo para Compartilhar...?
+Vamos lá! Vamos à torre da Catedral, onde tem uma ótima vista.
+Coisas Interessantes...
+Olhe, tem um pombo ali! Hum... Queria poder voar com eles.
+Sobre Jean - Ajuda
+Como o Grande Mestre está em expedição, a Jean tem estado sobrecarregada. Se eu pudesse ajudar mais...
+Sobre Jean - Preocupação
+A Jean ainda está trabalhando até agora...? Vamos, vamos convidá-la para um café.
+Quando está nevando - Ouvindo Histórias
+Vamos nos encontrar com a Lisa quando você tiver tempo. Ela me contou uma história de tesouro na Espinha do Dragão, mas foi só a metade... Eu quero saber o resto.
+Sobre a Lisa - Admiração
+Ela deve estar lendo se não estiver dormindo. Eu não consigo ficar sentado por um dia inteiro como ela.
+Sobre Kaeya - Preocupações
+... Estou um pouco inquieta do nada! Foi o Kaeya que te acompanhou? Ele te causou algum problema?
+Sobre Kaeya - Culpado
+Os Dandelions no jardim estão estranhos! Hunf, o Kaeya deve ter algo a ver com isso!
+Sobre Bennett...
+Hum? Bennett... Me esse nome me parece familiar... Oh! Você se refere a um garoto ambicioso da Guilda de Aventureiros? Sim! Às vezes eu o vejo perto dos Domínios. Parece que ele é muito entusiasmado em procurar tesouros.
+Sobre Klee...
+Klee, ela é uma atrevida de vez em quando, mas é amada por todos os Cavaleiros de Favonius! Hum... Eu realmente devo prestar mais atenção nela se quiser impedir que Jean a ponha no confinamento novamente.
+Sobre o Albedo...
+Albedo, fica sozinho no seu laboratório na maioria do tempo, mergulhando no seu mundo. Mas, nunca consigo entender o que ele está pensando... É mesmo difícil.
+Sobre a Noelle...
+Você quer dizer a Noelle? Ela é muito resiliente. Por favor, dê uma mão quando ela precisar.
+Sobre Eula...
+Eula é uma ótima amiga minha! Você só precisa se acostumar com seu senso de humor e se dará bem com ela! A única razão para ela ser mal compreendida por tantas pessoas é por causa do nome de sua família. O que será que eu posso fazer para que as pessoas vejam ela como realmente é?
+Sobre Collei...
+DATA NOT FOUND
+Sobre Mika
+Ah! Mika é um veterano da equipe de Eula. Quando ele chegou pela primeira vez, era sempre "Sim, Comandante!" toda vez que ele falava comigo - Eu acho que deve ter sido porque ele viu como eu era próxima de Eula. Então, mesmo após eu ter contado a ele que eu na verdade sou uma Aventureira, ele ainda me chama de "Senhora"... que vergonha. Nós temos responsabilidades completamente diferentes, afinal de contas. Eu definitivamente jamais poderia me equiparar a especialidade dele em cartografia.
+Mais sobre a Amber - I
+Eu sou muito boa em caçar! Quer ver? Ou... Quer competir comigo?
+Mais sobre a Amber - II
+Então, posso compartilhar a minha experiência como a Campeã Voadora! O mais importante é a coragem!
+Mais sobre a Amber - III
+Sou péssima em enigmas. Eu sempre desvio quando vejo as tendas de enigmas durante o Ludi Harpastum... E você?
+Mais sobre a Amber - IV
+Eu entrei para os Cavaleiros por causa do meu avô, e fiquei por causa de Jean. E, agora, foi você que me mostrou que existe vida além de Mondstadt. Eu não poderia estar mais feliz.
+Mais sobre a Amber - V
+Eu quero explorar um mundo mais longe, quero ir ao lugar onde acaba o céu! Você vai me acompanhar para sempre, não é?
+Passatempos de Amber...
+Barão Coelho, hoje é mais um dia explosivamente limpo!
+Preocupações de Amber...
+Uh... Você tem alguma ideia de como fazer a Torta da Lua mais saborosa?
+Comida Favorita...
+O café da Jean é muito cheiroso. Você tem que provar um dia!
+Comida que Odeia...
+Eu aceito todas as bebidas, menos bebida de Gancho do Lobo.
+Recebendo Presentes — I
+#Uau! Isso está delicioso! Você é {M#um}{F#uma} chef incrível!
+Recebendo Presentes — II
+Queria ser tão boa cozinhando quanto você...
+Recebendo Presentes — III
+Não estou acostumada com esse sabor, desculpe! O problema não é você!
+Aniversário...
+Hehehe. Parabéns! Feliz Aniversário! Aqui está o "Barão Coelho - Versão Especial"... É para você! Fique tranquilo, não vai explodir!
+Sentimentos sobre a Ascensão - Introdução
+Uau! Tão rápido como o vento!
+Sentimentos sobre a Ascensão - Desenvolvimento
+Ninguém consegue nos ultrapassar com esta velocidade.
+Sentimentos sobre a Ascensão - Auge
+O céu de Mondstadt parece estar menor... Ou é porque a minha visão está maior?
+Sentimentos sobre a Ascensão - Conclusão
+Eu já fiz alguns progressos, né? Muito obrigada! Vou te convidar para uma Carne Frita com Cenoura e Mel, venha comigo!
+Habilidade Elemental - I
+Pegue eles!
+Habilidade Elemental - II
+Vai, Barão Coelho!
+Habilidade Elemental - III
+♪Hmm~ hmm~ hmm~ hmm~ hmm~
+Supremo - I
+Ninguém escapa da minha mira!
+Supremo - II
+Chova!
+Supremo - III
+Sem escapatória!
+Início da Corrida - I
+Vamos ver quem chega primeiro!
+Início da Corrida - II
+Aposto que você não consegue me acompanhar!
+Final da Corrida - I
+Eu disse que venceria.
+Final da Corrida - II
+Assim sim!
+Abrindo o Planador - I
+Prepare-se para a Campeã Voadora de Mondstadt!
+Abrindo o Planador - II
+Não vou desapontar você!
+Abrir Baú do Tesouro - I
+Abrir um baú é tipo abrir um presente!
+Abrir Baú do Tesouro - II
+Outro alvo rastreado pela Aventureira Amber!
+Abrir Baú do Tesouro - III
+Uau, isso será útil!
+Vida Baixa - I
+Nunca me renderei!
+Vida Baixa - II
+Ai! Que malvadeza...
+Vida Baixa - III
+*Ofegante* Ugh... Você... Pagará por essa!
+Aliado com Vida baixa: I
+Proteja-se!
+Aliado com Vida baixa: II
+Ei... Precisa de ajuda?
+Derrotado - I
+Que cansaço...
+Derrotado - II
+Devo continuar... Treinando...
+Derrotado - III
+Você me pegou...
+Ataque Leve Sofrido - I
+Ei!
+Ataque Pesado Sofrido - I
+Credo, pega leve!
+Ataque Pesado Sofrido - II
+Você está roubando!
+Entrando na Equipe - I
+Deixa comigo!
+Entrando na Equipe - II
+Preparada!
+Entrando na Equipe - III
+Amber Aventureira, pronta para o serviço!

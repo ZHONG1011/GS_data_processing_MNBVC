@@ -1,0 +1,12 @@
+Campo de Vácuo Acumulado
+<color=#FFD780FF>Criação do Espírito do Vento: Experimento 6308</color> ganha 1 carga adicional.
+Beth - Forma Não-Consolidada
+A duração da <color=#FFD780FF>Criação Proibida do Espírito do Vento: Isomórfico-75 Tipo II</color> é aumentada em 2 segundos.
+Alquimista Perfeita
+Aumenta o nível da <color=#FFD780FF>Criação do Espírito do Vento: Experimento 6308</color> em 3. O nível máximo de elevação é 15.
+Alquimania
+Quando os Ataques Normais e Ataques Carregados de Sucrose atingirem o inimigo cumulativamente sete vezes, o Tempo de Recarga de <color=#FFD780FF>Criação do Espírito do Vento: Experimento 6308</color> será reduzido entre 1-7s. É possível acumular uma vez a cada 0.1s.
+Atenção: Frasco Comum
+Aumenta o Nível da <color=#FFD780FF>Criação Proibida do Espírito do Vento: Isomórfico-75 Tipo II</color> em 3. O nível máximo de elevação é 15.
+Entropia Caótica
+Se <color=#FFD780FF>Criação Proibida do Espírito do Vento: Isomórfico-75 Tipo II</color> aciona uma Absorção Elemental, todos os membros de equipe ganham 20% de Bônus de Dano Elemental para o elemento correspondente absorvido enquanto a habilidade estiver em duração.

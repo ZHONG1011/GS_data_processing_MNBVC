@@ -1,0 +1,138 @@
+Olá...
+#Discípul{F#a}{M#o}, se você encontrar um problema difícil de resolver, pode vir até mim para lhe ajudar, mas se for para rezar, é melhor procurar outra Freira.  ... Hã? Você não é {F#uma discípula}{M#um discípulo}?
+Bate-papo - Entediada
+Você ainda não foi embora?
+Bate-papo - Hora extra
+Tudo pode ser negociado, exceto hora extra.
+Bate-papo - Vida em Mondstadt
+Trabalhar e viver bem a vida. Essa é a vida em Mondstadt, não é?
+Quando Está Chovendo...
+*Suspiro* Vai afetar minha eficiência.
+Quando Está Trovejando...
+*Tsc* Que irritante.
+Quando Está Nevando...
+O inverno chegou, tome cuidado.
+A Ventania Está Chegando...
+Uma Bênção do Arconte Anemo Basbato? Espere um pouco, acho que seu nome é Bartobas...
+Bom dia...
+Bom dia... *Bocejo* Os trabalhos da Igreja já começaram? É muito cedo ainda.
+Boa tarde...
+O sol da tarde é bom para dormir. Você também deveria experimentar.
+Saudações...
+Boa noite. Se você for rezar ao entardecer, eu não participarei. Hã? Não tem por quê.
+Boa noite...
+Vá descansar, não precisa se preocupar. Deixe o resto comigo.
+Sobre Rosaria - Freira
+Eu? Sou apenas uma pessoa entediante. Como você já deve ter percebido, não gosto nem da Igreja, nem de trabalhar.
+Sobre Rosaria - Problemas
+Essas irmãs são uma pior do que a outra. Quando não incomodam sobre alguma oração, nos chamam para cantar em um coral ou fazer outra coisa... Estou tentando me esconder, então não se atreva a dizer a elas que me viu aqui.
+Sobre Nós - Fé
+Talvez um deus tenha o poder de nos proteger caso seja a sua vontade, mas não creio nisso. Se não, o sofrimento das pessoas seria em vão.
+Sobre Nós - Rezar
+#Ore. Não para os deuses e nem para o bem dos outros... Mas por você mesm{F#a}{M#o}.
+Sobre Nós - Combate
+Não se preocupe. Eu me encarrego do trabalho pesado.
+Sobre a Visão...
+Uma Visão... Pode ser uma prova de força, ou uma medalha por ter sobrevivido... Quem sabe? Toda moeda tem dois lados. Não me atrevo a definir o que é uma Visão. Mas eu e minha Visão somos testemunhas uma da outra.
+Tem algo a dizer?
+Nem sempre sabemos o motivo de coisas boas acontecem ou por que devemos ficar felizes com elas. Mas se alguma vez enfrentar um problema grande demais para ser resolvido, não perca as esperanças. Alguém pode estar disposto a ajudar, mesmo que você não possa vê-lo.
+Coisas Interessantes...
+Não tenho nenhum interesse em plantas e outras espécies, mas o Dandelion é uma exceção. Não entendo como uma flor tão simples pode se transformar em um vinho tão delicioso. Uma taça de vinho de Dandelion depois do trabalho é ainda melhor do que tirar uma soneca.
+Sobre Diluc...
+Não é óbvio? Aquele magnata está escondendo algo. Ele é confiante, mas discreto... E com um ar de perigo.
+Sobre Kaeya
+O vinho tem suas utilidades... Como mostrar a verdadeira personalidade de alguém, por exemplo. Kaeya se esconde atrás de um véu de eloquência, mas eu consigo ver através dele. Haha, você deveria vê-lo quando está bêbado.
+Sobre Venti...
+Há algo extremamente interessante sobre este bardo... Não consigo definir muito bem, mas ele é diferente das outras pessoas em Mondstadt.
+Sobre Barbara...
+Barbara sempre está pegando no meu pé, me chamando para participar das orações e corais. Será que foi Victoria que a mandou ficar de olho em mim?
+Sobre Jean...
+Ela não é competente apenas em seu próprio trabalho, mas também ajuda os outros... É uma mulher que merece admiração.
+Sobre Albedo...
+Ele é como um quadro pendurado na parede de um salão antigo. Enigmático e misterioso... Difícil de entender à primeira vista. Tenho interesse em pessoas com alguma história.
+Sobre Lisa...
+Não gosto de pessoas preguiçosas no trabalho. Entretanto, entendo muito bem sua pontualidade na hora de largar do trabalho.
+Sobre Klee...
+Nada mais do que um grande problema. Mas um problema muito lindo.
+Sobre Varka...
+Varka tem boas intenções, mas é como um velho que não para de falar. Ele realmente se preocupa com os outros, não é mesmo?
+Sobre meu pai...
+Pai? Não uso essa palavra há muito tempo. Pode-se dizer que não tenho um pai - mas que também tenho vários. Isso surpreende você?
+Mais sobre Rosaria (I)
+Esqueça as formalidades. Estou aqui para terminar uma tarefa. Deixe o trabalho sujo comigo.
+Mais sobre Rosaria (II)
+O que há de errado em uma freira que não acredita nos deuses? Há caçadores que não comem javali e pescadores que não comem peixe. Só porque você faz algo, não significa que ame fazê-lo. É assim que funciona em qualquer trabalho.
+Mais sobre Rosaria (III)
+Quer beber um pouco? Esse é o Vinho de Dandelion desse ano, está muito bom.
+Mais sobre Rosaria (IV)
+Mondstadt é uma fera de luz, velha e ao mesmo tempo jovem. Velha pois necessita de proteção constante, e jovem pois não consegue sobreviver por conta própria. É por isso que existem pessoas como eu. Eu cuido de Mondstadt assim como as outras irmãs cuidam dos cidadãos, guiando aqueles que amamos no caminho da liberdade. Hã? Por que eu a chamo de fera de luz? Porque pessoas como eu são encontradas apenas no escuro...
+Mais sobre Rosaria (V)
+Às vezes sinto que meu antigo eu ainda existe e segue ao meu lado, me incentivando. Tenho certeza de que você conhece essa sensação. Ao se aventurar por um novo caminho, não abandone seu antigo eu. Essa é a base sobre a qual você firma os pés. Não tema o seu passado e não tenha medo de enfrentá-lo.
+Passatempos de Rosaria...
+Alguns problemas são resolvidos apenas com uma bebida forte. Mas nunca bebo a ponto de me embriagar.
+Preocupações de Rosaria
+Ugh, não quero participar da apresentação do coral no próximo mês, mas aposto que a Irmã Victoria pedirá minha ajuda... Que incômodo.
+Comida Favorita...
+Já provou carne guisada com vinho tinto? A combinação do álcool e carne de animais em um prato é simplesmente deliciosa.
+Comida que Odeia...
+O molho do Bolinho de Batata é geleia? Isso é impensável!
+Recebendo Presentes — I
+Parece que nossos gostos culinários são similares.
+Recebendo Presentes — II
+Pelo menos dá para matar a fome.
+Recebendo Presentes — III
+Você gosta mesmo de comidas assim?
+Aniversário...
+Hoje é seu aniversário. Se tiver algum trabalho sujo para fazer, eu posso ajudar... Só não conte para ninguém, entendeu?
+Sentimentos sobre a Ascensão - Introdução
+Hmm, exatamente o que eu precisava.
+Sentimentos sobre a Ascensão - Desenvolvimento
+Precisa de ajuda? Estou livre agora.
+Sentimentos sobre a Ascensão - Auge
+Ótimo. Quanto mais forte eu ficar, mais eficiente serei.
+Sentimentos sobre a Ascensão - Conclusão
+Apesar de eu ser uma pessoa muito boa em lutar, nunca tive uma força tão grande como essa. Obrigada pela sua bênção.
+Habilidade Elemental - I
+Heya!!
+Habilidade Elemental - II
+Julgamento!
+Habilidade Elemental - III
+Nem pense em ir embora!
+Supremo - I
+Punição!
+Supremo - II
+Trema!
+Supremo - III
+Boa noite...
+Abrir Baú do Tesouro - I
+...Hmm, existem algumas coisas interessantes aqui.
+Abrir Baú do Tesouro - II
+Suponho que não foi tanto trabalho.
+Abrir Baú do Tesouro - III
+Isso foi... Muito bom.
+Vida Baixa - I
+Hmph. As coisas estão ficando interessantes...
+Vida Baixa - II
+Parece que vou fazer hora extra hoje.
+Vida Baixa - III
+Você sabe das coisas, estou vendo!
+Aliado com Vida baixa: I
+Deixe-me lidar com isso!
+Aliado com Vida baixa: II
+#Não tente bancar {M#o herói}{F#a heroína}!
+Derrotado - I
+Pelo menos... não preciso mais... trabalhar.
+Derrotado - II
+Talvez seja só... o desígnio sombrio do destino.
+Derrotado - III
+Será este... meu trabalho final?
+Ataque Leve Sofrido - I
+Estou vendo como é.
+Ataque Pesado Sofrido - I
+Que chatice!
+Entrando na Equipe - I
+Ouvi dizer que você tem um trabalho para mim.
+Entrando na Equipe - II
+Continue assim.
+Entrando na Equipe - III
+Quanto mais cedo terminarmos, melhor.

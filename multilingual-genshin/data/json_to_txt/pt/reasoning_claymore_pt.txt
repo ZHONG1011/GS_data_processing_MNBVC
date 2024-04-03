@@ -1,0 +1,13 @@
+Pacifista
+Um porrete feito de aço. É a base do "convencimento racional".
+ Uma ferramenta persuasiva, capaz de mudar a direção de uma discussão em favor de quem a usa. Adicionará peso às palavras de seu portador. Útil em qualquer discussão, independente de quem seja o oponente, para convencê-lo a escutar a voz da razão. Em resumo, as pessoas não conseguem resistir à eloquência. Finalmente, a produção foi parada à força devido à quantidade de protestos. As necessidades de muitos superam as necessidades de um único indivíduo. 
+Convencer
+Após usar e acertar uma Habilidade Elemental, Normal ou Ataque Carregado, causa Dano de ATQ adicional de <color=#99FFFFFF>60%</color> em uma área pequena por 15s. Pode ser ativado uma vez a cada 3s.
+Convencer
+Após usar e acertar uma Habilidade Elemental, Normal ou Ataque Carregado, causa Dano de ATQ adicional de <color=#99FFFFFF>75%</color> em uma área pequena por 15s. Pode ser ativado uma vez a cada 3s.
+Convencer
+Após usar e acertar uma Habilidade Elemental, Normal ou Ataque Carregado, causa Dano de ATQ adicional de <color=#99FFFFFF>90%</color> em uma área pequena por 15s. Pode ser ativado uma vez a cada 3s.
+Convencer
+Após usar e acertar uma Habilidade Elemental, Normal ou Ataque Carregado, causa Dano de ATQ adicional de <color=#99FFFFFF>105%</color> em uma área pequena por 15s. Pode ser ativado uma vez a cada 3s.
+Convencer
+Após usar e acertar uma Habilidade Elemental, Normal ou Ataque Carregado, causa Dano de ATQ adicional de <color=#99FFFFFF>120%</color> em uma área pequena por 15s. Pode ser ativado uma vez a cada 3s.

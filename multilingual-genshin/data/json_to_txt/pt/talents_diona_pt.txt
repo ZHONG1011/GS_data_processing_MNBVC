@@ -1,0 +1,12 @@
+Ataque Normal: Pontaria do Caçador
+<color=#FFD780FF>Ataque Normal</color> Realiza até 5 disparos consecutivos com o arco.  <color=#FFD780FF>Ataque Carregado</color> Realiza um ataque <color=#FFD780FF>Disparo com Mira</color> mais preciso e com mais dano. Enquanto mira, gelo será acumulado na flecha. Uma flecha totalmente carregada causará <color=#99FFFFFF>Dano Cryo</color>.  <color=#FFD780FF>Ataque Imersivo</color> Dispara uma chuva de flechas no ar antes de cair e impactar o chão, causando Dano AdE no impacto.
+Garra de Gato Gelada
+Dispara uma Garra de Gato Gelada que causa <color=#99FFFFFF>Dano Cryo</color> e cria um escudo. A Absorção de Dano do escudo é baseada na Vida Máxima de Diona, e sua duração depende do número de garras que atingem seu objetivo.  <color=#FFD780FF>Tocar</color> Dispara rapidamente 2 Garras de Gato Gelada.  <color=#FFD780FF>Manter Pressionado</color> Retrocede rapidamente e dispara 5 Garras de Gato Geladas. O escudo criado pelo ataque Manter Pressionado ganhará um bônus de 75% de Absorção de Dano.  O escudo tem um bônus de 250% de Absorção de <color=#99FFFFFF>Dano Cryo</color>, e ao ser formado aplica o <color=#99FFFFFF>Elemento Cryo</color> em seu próprio personagem por uma curta duração.  <i>Normalmente, nenhuma quantidade de gelo no copo de um bêbado faria mal algum, até que Diona usou sua Visão para criar gelo frio o suficiente para congelar o cérebro. Nota 10!</i>
+Coquetel Assassino
+Atira um coquetel gelado especial que causa <color=#99FFFFFF>Dano Cryo em uma AdE</color> e cria uma Névoa Embriagada em uma AdE.  <color=#FFD780FF>Névoa Embriagada</color> Causa <color=#99FFFFFF>Dano Cryo</color> contínuo nos inimigos dentro da AdE. Regenera continuamente a Vida dos personagens dentro da AdE.  <i>Uma mistura horrível que até mesmo Diona considera desumana. O gosto horrível deve ser deixado apenas para os inimigos. Tem um sabor muito fresco, mas infelizmente só se pode sentir no nariz e na pele.</i>
+Menu Secreto da Cauda do Gato
+Os personagens protegidos por <color=#FFD780FF>Garras de Gato Gelado</color> têm sua Veloc. Mov. aumentado em 10% e seu Consumo de Stamina diminuído em 10%.
+Diversão dos Bêbados
+Inimigos que entram na AdE do <color=#FFD780FF>Coquetel Assassino</color> tem seu ATQ reduzido em 10% por 15s.
+Aperitivos Grátis
+Quando uma Culinária Perfeita é feita em uma comida com efeito de recuperação, tem uma chance de 12% de receber o dobro de produção.

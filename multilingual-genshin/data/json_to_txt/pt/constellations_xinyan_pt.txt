@@ -1,0 +1,12 @@
+Aceleração Fatal
+5s após Xinyan causar um CRIT, a Vel. de ATQ do Ataque Normal e Ataque Carregado aumenta 12%. Esse efeito pode ocorrer apenas uma vez a cada 5 segundos.
+Começo Improvisado
+Taxa CRIT de Dano Físico causado pela <color=#FFD780FF>Melodia da Rebelião</color> aumenta em 100%, e ao lançar, formará um escudo Nv.3: Rave.
+Duplo-Stop
+Aumenta o nível da <color=#FFD780FF>Fervor Arrebatador</color> em 3. O nível máximo de elevação é 15.
+Ritmo Contagiante
+O Dano de Balanço de <color=#FFD780FF>Fervor Arrebatador</color> irá diminuir a RES Física do inimigo em 15% por 12s.
+Gritos de Bis
+Aumenta o nível da <color=#FFD780FF>Melodia da Rebelião</color> em 3. O nível máximo de elevação é 15.
+Rockeando no inferno
+Diminui o Consumo de Stamina do Ataque Carregado de Xinyan em 30%. Ao usar Ataques Carregados, Xinyan ganha um Bônus de Ataque baseado em 50% de sua defesa.

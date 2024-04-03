@@ -1,0 +1,12 @@
+Pegureiro Veloz: Rápido como o Vento
+Quando um personagem (que não seja o Gorou) causar Dano Geo dentro da AdE do <color=#FFD780FF>Estandarte do General</color> ou da <color=#FFD780FF>Glória do General</color> criado por Gorou, o Tempo de Recarga da <color=#FFD780FF>Defesa Concentrada Inuzaka</color> de Gorou é reduzido em 2s. Este efeito pode ocorrer uma vez a cada 10s.
+Pegureiro Sentado: Firme Feito a Rocha
+Quando um personagem próximo ganha um Fragmento de Cristal da Reação de Cristalização criado enquanto a <color=#FFD780FF>Glória do General</color> está ativa, a duração da Glória do General do próprio Gorou é aumentada em 1s. Isso só pode ocorrer uma vez a cada 0.1s e sua duração só pode ser prolongada por um máximo de 3s.
+Pegureiro Feroz: Feroz como o Fogo
+Aumenta o nível da <color=#FFD780FF>Defesa Concentrada Inuzaka</color> em 3. O nível máximo de elevação é 15.
+Pegureiro Bebedor: Quente como a água
+Quando <color=#FFD780FF>Glória do General</color> está nos estados de "Robusto" ou "Inquebrável", ela também curará o personagem ativo dentro de sua AdE a cada 1,5s por 50% da DEF de Gorou.
+Pegureiro Atacante: Força Trovejante
+Aumenta o nível do <color=#FFD780FF>Juuga: Para a Vitória</color> em 3. O nível máximo de elevação é 15.
+Pegureiro Valente: Lealdade Montanhosa
+Dentro de 12 segundos após lançar a <color=#FFD780FF>Defesa Concentrada Inuzaka</color> ou <color=#FFD780FF>Juuga: Para a Vitória</color>, de acordo com o nível da área no momento do lançamento, o Dano CRIT de <color=#FFE699FF>Dano Geo</color> de todos os personagens da equipe que se encontrarem próximos, será aumentado:  Robusto: aumentado em 10%; Inquebrável: aumentado em 20%; Destruidor: aumentado em 40%.  Esse efeito não pode ser acumulado, mas será determinado com base no último efeito desencadeado.

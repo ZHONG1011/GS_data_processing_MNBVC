@@ -1,0 +1,12 @@
+Ataque Normal: Lâmina Cerimonial
+<color=#FFD780FF>Ataque Normal</color> Realiza até 5 golpes rápidos.  <color=#FFD780FF>Ataque Carregado</color> Consome uma certa quantidade de Stamina para desferir 2 golpes rápidos com a espada.  <color=#FFD780FF>Ataque Imersivo</color> Mergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.
+Mordida Congelante
+Lança uma explosão gélida, infligindo <color=#99FFFFFF>Dano Cryo</color> aos inimigos em frente ao Kaeya.  <i>Kaeya parece afável, mas sua natureza é a do gelo inflexível.</i>
+Valsa Glacial
+Coalescendo a geada no ar, Kaeya invoca 3 pontas de gelo que giram em torno dele. Esses pingentes seguirão o personagem e causarão <color=#99FFFFFF>Dano Cryo</color> aos inimigos em seu caminho enquanto eles persistirem.  <i>Um sorriso encantador, palavras gentis e a geada implacável que se esconde... Essas são todas as armas de Kaeya.</i>
+Espada do Sangue Frio
+Cada golpe com <color=#FFD780FF>Mordida Congelante</color> regenera a Vida de Kaeya equivalente a 15% do seu ATQ.
+Coração Glacial
+Os inimigos <color=#FFD780FF>Congelados</color> pela <color=#99FFFFFF>Mordida Congelante</color> irão dropar Partículas Elementais adicionais. A Mordida Congelante pode produzir no máximo 2 Partículas Elementais por uso.
+Força Oculta
+Diminui o consumo de Stamina ao Correr de todos os seus personagens em 20%. Não acumulável com Talentos Passivos que concedem exatamente os mesmos efeitos.

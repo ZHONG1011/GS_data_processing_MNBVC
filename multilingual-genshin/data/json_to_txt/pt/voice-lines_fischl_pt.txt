@@ -1,0 +1,136 @@
+Olá...
+<color=#37FFFF>Fischl: </color>Eu Fischl, Princesa do Pecado, desci sobre esta terra pelo chamado do destino e - Oh, você também é um viajante de outro mundo? Muito bem, concedo permissão para viajar comigo.  <color=#37FFFF>Oz: </color>Ela quer dizer "Prazer em te conhecer".
+Bate-papo - Suspiro do Destino
+Eu ouço a voz do destino, falando meu nome em humilde súplica.
+Bate-papo - Criação do Mundo
+Hm, que a glória da Princesa traga luz a este mundo.
+Bate-papo - A Pessoa do Além
+<color=#37FFFF>Fischl:</color> Preocupo-me com o bem-estar de minha comitiva durante minha ausência inesperada...  <color=#37FFFF>Oz:</color> Não é preciso se preocupar com os aventureiros da Guilda de Aventureiros, tenho certeza que eles estão perfeitamente bem, Princesa do Pecado.
+Depois da Chuva...
+Oh, o sol já saiu... Cof. Um... Esta transformação meteorológica é muito esplêndida! Como uma feliz reviravolta do destino diante de uma certa desgraça.
+Quando Está Trovejando...
+<color=#37FFFF>Fischl:</color> Ouçam! Esta retribuição trovejante, um presságio de tempos sombrios pela frente...  <color=#37FFFF>Oz:</color> Isso, e a roupa secando da Princesa do Pecado ainda está em jogo...  <color=#37FFFF>Fischl:</color> O qu- Sério mesmo!?
+Quando Está Nevando...
+<color=#37FFFF>Fischl</color> Hm. Uma visão realmente maravilhosa. Ora, isso me faz lembrar do meu mundo natal, onde à vista da Princesa do Pecado, o próprio sangue e as lágrimas dos pecadores se transformam em gelo!... Atchim! Atchim!  <color=#37FFFF>Oz:</color> Não apenas seu sangue e lágrimas, mas também suas salivas e mucos, minha Princesa do Pecado.  <color=#37FFFF>Fischl:</color> Oz- Ahh-Atchim!!!
+Quando Faz Sol...
+<color=#37FFFF>Fischl:</color> Ozzie, meu querido companheiro...  <color=#37FFFF>Oz:</color> "Ozzie?" O que deu em você..?  <color=#37FFFF>Fischl:</color> Sua Majestade suplica que você expanda suas asas abençoadas e, com elas, apague os céus, mergulhando o mundo na noite eterna...  <color=#37FFFF>Oz:</color> Se você não trouxe seu guarda-sol com você, a culpa é toda sua, minha Princesa!
+Bom dia - Saudar Fischl
+Crepúsculo e amanhecer, mas as sombras são fugazes. Mais uma vez, as reviravoltas do destino levaram você à minha noite eterna.
+Bom dia - Cumprimente Oz
+<color=#37FFFF>Oz:</color> Bom dia! A Princesa do Pecado soube que você estaria vindo aqui e está preparando o café de manhã.  <color=#37FFFF>Fischl:</color> Oz! ...Cof. Em que posso ajudar?
+Boa tarde...
+Mesmo um de sangue real se encontra suscetível a sonolência a esta hora.
+Saudações...
+<color=#37FFFF>Fischl:</color> A luz das estrelas são buracos abertos pelo bico do Oz na escuridão interminável do céu.  <color=#37FFFF>Oz:</color> Não é verdade!
+Boa noite...
+#<color=#37FFFF>Fischl: </color>Você vai ter bons sonhos hoje a noite. Você é abençoad{M#o}{F#a} pela Princesa do Pecado, portanto nenhum pesadelo pode te incomodar...  <color=#37FFFF>Oz: </color> Ela quer dizer "Boa noite".
+Sobre Fischl - Rainha dos Pecados
+<color=#37FFFF>Fischl:</color> Eu? Hehehe. Lembra-te disto, que eu, Fischl, sou a Princesa do Pecado, Soberana do Reino da Noite Eterna, omnisciente e eminente juíza de toda a iniquidade do mundo.  <color=#37FFFF>Oz:</color> Ela é uma investigadora da Guilda dos Aventureiros.  <color=#37FFFF>Fischl:</color> ...Cof. Este é apenas um dos meus muitos compromissos reais.
+Sobre Nós - Seres que Desceram a este Mundo
+Você e eu somos ambos viajantes de outro mundo. O fato de nossos caminhos terem se cruzado aqui não é um acidente, mas a vontade do destino.
+Sobre Nós - Abatendo a Besta do Mundo
+#Você parece... Incomodad{M#o}{F#a}. Viajante, não desanime! Pois com o meu olho esquerdo, o Olho do Julgamento, que vê os fios do destino, certamente vou protegê-l{M#o}{F#a} do mal. E Oz, o corvo que testemunhou o desaparecimento de inúmeros mundos, cuidará de você em sua jornada. Se este mundo, como uma besta rondando a noite, cobiçar seus sonhos, então eu, Princesa do Pecado, a derrubarei com as minhas Flechas do Julgamento!
+Sobre Nós - Figuras Importantes
+#<color=#37FFFF>Fischl:</color> Oz, meu leal companheiro. Deveríamos ter conhecido esta pessoa, uma pessoa que veio de outro mundo, assim como eu... Talvez até o destino cruel tenha se dignado a sorrir para mim, embora o pecado corra através de minhas veias. Se estou de fato destinada a permanecer aqui, nesta prisão inescapável que é a realidade, pelo menos—  <color=#37FFFF>Oz:</color> Eu entendo, minha Princesa! Nest{M#e}{F#a} Viajante, a Princesa do Pecado encontrou alguém que nunca a abandonará.
+Sobre Nós - Proteção
+#<color=#37FFFF>Fischl:</color> Ozvaldo von Hrafnavines. Eu, a Princesa do Pecado, soberana do Reino da Noite Eterna, por meio deste, peço que faça tudo o que estiver ao teu alcance para livrar {M#o}{F#a} viajante das garras do destino que procurariam arrebatá-l{M#o}{F#a} a qualquer momento, e a preparar tua mente para que não sejas obrigado a fazer o sacrifício final no cumprimento deste nobre dever.   <color=#37FFFF>Oz:</color> ... Pare de tentar me matar, minha Princesa!
+Sobre a Visão...
+Ah? Você pergunta sobre a minha Gema das Trevas? É uma herança real, um ornamento cerimonial que exibe a majestade da Princesa dos Pecados diante dos indignos. Mesmo aqui, neste mundo decaído, reuni-me com minha legítima herança como sangue real e espírito nobre, pois a majestade de uma verdadeira princesa atrai suas heranças reais para onde quer que ela possa vagar. É um destino inevitável.
+Algo para Compartilhar...?
+<color=#37FFFF>Fischl: </color>Se eu fosse contar o tempo como este mundo faz, eu, Fischl, já vi três mil invernos. Não que a passagem ilusória do tempo tenha alguma relação com um ser como eu, a quem foi revelada a causalidade de três mil universos.   <color=#37FFFF>Oz: </color>Seja como for, Princesa do Pecado, você ainda não é considerada em idade de beber neste mundo, e nenhum bartender jamais poderá ser convencido do contrário.
+Coisas Interessantes...
+O nome completo de Oz é Ozvaldo von Hrafnavines. De onde eu venho, ele tem domínio sobre as estrelas e os céus dos três universos. As almas dos poderosos, caídas em batalha, descansam à sombra de suas asas. Deve-se acrescentar que a penalidade por se pronunciar mal seu nome é arrancar a língua da boca. No entanto, como eu sou uma princesa e você é quem tem meu favor, temos a liberdade de simplesmente chamá-lo de "Oz".
+Sobre Bennett...
+<color=#37FFFF>Fischl:</color> Ah, o jovem destinado à eterna desgraça... Meu Auge der Verurteilung viu com clareza inconfundível como seu coração se aflige ao ser abandonado pelo mundo-  <color=#37FFFF>Oz:</color> Alguém precisa ficar de olho nesse pobre sujeito.
+Sobre Lisa...
+<color=#37FFFF>Fischl:</color> O mago-custodiado dos livros, guardião do conhecimento universal... Ganhe sua confiança, e quem sabe poderá ter acesso a um vasto repositório de sabedoria....  <color=#37FFFF>Oz:</color> Ela disse que, desde que você devolva seus primeiros livros da biblioteca a tempo, você nunca mais terá problemas para pedir um livro emprestado.
+Sobre Kaeya...
+<color=#37FFFF>Fischl:</color> Sua natureza é obscura, seu destino um mistério e seu discurso uma tapeçaria irritante tecida tanto de fatos quanto de ficção... Talvez ele e eu partilhemos o fardo da visão mística...  <color=#37FFFF>Oz:</color> Ou talvez ele seja, secretamente, um pirata de verdade?
+Sobre Mona...
+<color=#37FFFF>Fischl:</color> Aha, sim, Mona, a poderosa astróloga... Mona, que teve uma vez a vaidade de espionar o destino da própria Princesa do Pecado! Ela acabou ficando com o corpo inteiro tremendo, completamente dominada pelo medo.  <color=#37FFFF>Oz:</color> *Sussurrando* A pobre moça estava tentando desesperadamente não rir. Não foi uma tarefa fácil.
+Sobre Rosaria...
+<color=#37FFFF>Fischl:</color> Considero a Irmã Rosaria como sendo uma crente muito devota ao Arconte Anemo.  <color=#37FFFF>Oz:</color> ..."Crente devota", Princesa do Pecado?  <color=#37FFFF>Fischl:</color> De fato! Uma noite, eu a ouvi invocando o nome do Arconte assim na presença de outra pessoa: "Que você seja derrotado em nome do Senhor Barbatos!" Presumi que ela estava liderando uma oração.
+Sobre Fischl (I)
+Condenar os pecadores, santificar os justos e acolher todos os sonhos incumpridos para o território interminável de Reino da Noite Eterna. Este é o fardo da Princesa do Pecado, e ninguém pode contradizer isso.
+Sobre Fischl (II)
+O meu olho esquerdo? É o Auge der Verurteilung, que vê tudo e revela tudo o que é verdade no mundo. Quanto à questão de por que eu o escondo... Bem, você suportaria de bom grado todo o fardo ou dor de se penetrar no coração todas as verdades? Além disso... O mundo seria muito chato se não tivesse todas as mentiras e ilusões.
+Sobre Fischl (III)
+<color=#37FFFF>Fischl:</color> Stormterror? Ora, ninguém jamais teria pensado que um ser como um animal de estimação no meu mundo seria capaz de causar tamanha catástrofe neste mundo. *Suspiro* Lamentáveis são os incompetentes deste mundo...  <color=#37FFFF>Oz:</color> Mas, minha Princesa do Pecado, você também estava muito preocupada com todo mundo na catástrofe?  <color=#37FFFF>Fischl:</color> Is-Isso é porque como a Princesa do Pecado, tenho o dever solene de salvaguardar as almas de todos, sejam eles seres insignificantes ou não...
+Sobre Fischl (IV)
+<color=#37FFFF>Oz:</color> Algumas pessoas se dirigem a ela por outros nomes. Mas para mim, aquele que me deu vida e me deu poderes foi a Fischl, e ninguém mais. Considerando tudo isso, Fischl é o nome que mais adequadamente captura sua identidade. Sério, não a chame de mais nada, ou se não-  <color=#37FFFF>Fischl:</color> Oh, como se queimam os ouvidos reais! Diga-me, qual é o assunto que você discute tão furtivamente?  <color=#37FFFF>Oz:</color> Sobre a Ilu-Ilusão Noturna, minha Princesa! E... A majestade do nome Princesa do Pecado!
+Sobre Fischl (V)
+#Por que a Princesa do Pecado deve punir o pecado? Porque o pecado desafia o legítimo decreto do destino, é claro!... E, claro, o destino trouxe você aqui, então, então... Ahem! Foi o destino que viu a sua descida neste mundo, o destino que viu os nossos caminhos entrelaçados. Eu, Fischl, sempre {M#o}{F#a} protegerei. Porque... Porquê o destino me revelou que foi isso que foi decretado!
+Passatempos de Fischl - Perguntar para Fischl
+Eu, Fischl, deixei os meus passos em toda a galáxia e atravessei inúmeros mundos. Aprendi o destino de dez mil universos e me foi revelado o destino de toda alma vivente.
+Passatempos de Fischl - Perguntar para Oz
+<color=#37FFFF>Oz:</color> Minha Princesa do Pecado lê muitos romances. Meu nome, "Oz", vem de um dos seus livros favoritos. *Suspiro*
+Preocupações de Fischl...
+Para ser sincera, a única coisa neste mundo que pode me incomodar é que sempre tem alguém que não reconhece a minha identidade verdadeira. Mas isso não é um grande problema, visto que os nobres sempre andam sozinhos. Ainda bem que ainda não perdi o meu coração nobre...
+Comida Favorita...
+<color=#37FFFF>Fischl:</color> Hunf! O que é comida senão as algemas da carne mortal? ... Mas se a Princesa do Pecado devesse considerar qualquer petisco digno, então devem ser as lágrimas dos pecadores e as línguas dos mentirosos.  <color=#37FFFF>Oz:</color> Minha Princesa do Pecado perdeu o apetite pelo Pão Doce da Noite Eterna do Palácio de Verão?  <color=#37FFFF>Fischl:</color> ...Uh- Isso é meramente para prover a meu receptáculo terrestre com o sustento que ele requer para desempenhar suas funções reais!
+Comida que Odeia...
+<color=#37FFFF>Oz:</color> Creio que eu sei a resposta deste...  <color=#37FFFF>Fischl:</color> De fato, Oz! Ah, essa pobre criatura mortal, privada de sua própria natureza e mutilada...  <color=#37FFFF>Oz:</color> Ele nunca vai poder voar como eu...  <color=#37FFFF>Fischl:</color> Privada de seu bestunto com que nasceu para contemplar com admiração a majestade de sua monarca. Certamente é um vislumbre do inferno do meu mundo natal, em carne e osso. Hmm, o nome do prato me fugiu da mente...  <color=#37FFFF>Oz:</color> Algo chamado "Frango em...", alguma coisa assim, certo?
+Recebendo Presentes — I
+<color=#37FFFF>Fischl:</color>Uma iguaria tão refinada como esta é merecedora de ser servida nos ostentosos banquetes no Jardim Sanssouci da Princesa.  <color=#37FFFF>Oz:</color>A Senhorita quer dizer que ela aprecia sua comida deliciosa.
+Recebendo Presentes — II
+<color=#37FFFF>Fischl:</color>Aniquilar a Besta do Mundo requer ascender além dos desejos mundanos, tecendo o caminho rumo ao destino.  <color=#37FFFF>Oz:</color>Entretanto, você parece ter comido além da conta, não é, Senhorita?
+Recebendo Presentes — III
+<color=#37FFFF>Fischl:</color>Por que insiste em despejar o caos e destruição perante a presença de mim, a Princesa?  <color=#37FFFF>Oz:</color>A Senhorita não gosta desse prato. Sinto muito.
+Aniversário...
+<color=#37FFFF>Fischl:</color> Bem! Se hoje é realmente o aniversário do seu nascimento, não vou deixar de comemorar essa ocasião tão importante. Você tem toda a minha atenção. Fale comigo sobre os seus desejos, aqueles que mais deseja realizar durante a sua existência fugaz e dura neste mundo miserável. Qualquer que seja esse desejo, fale comigo...  <color=#37FFFF>Oz:</color> Ela quer dizer "Parabéns, Feliz Aniversário. Se você quiser, ela pode"...  <color=#37FFFF>Fischl:</color> Oz, cale-se!
+Sentimentos sobre a Ascensão - Introdução
+<color=#37FFFF>Fischl:</color> Minha flecha mágica grita pelo meu santo nome enquanto percorre a noite, rezando para que o raio violeta da retaliação atinja os inimigos do destino, caindo dos céus!  <color=#37FFFF>Oz:</color> Muito inspirador, minha Princesa do Pecado! Como está quase na hora do jantar, talvez você pudesse aproveitar e abater um pombo enquanto isso?
+Sentimentos sobre a Ascensão - Desenvolvimento
+<color=#37FFFF>Fischl:</color> Com isso, posso manifestar mais plenamente minha majestade como Princesa do Pecado, e derrotar aquela inimiga do destino chamada "realidade".  <color=#37FFFF>Oz:</color> Hm. Também será útil em seu trabalho para a Guilda de Aventureiros, minha Princesa do Pecado.
+Sentimentos sobre a Ascensão - Auge
+Regozije-se! E também, tremam de medo! De onde surge esse chamado de alegria e miséria, você pergunta? Que se saiba que eu, a Princesa do Pecado, soberana do Reino da Noite Eterna, espreitei com o meu olho esquerdo a tapeçaria do destino que compõe o universo, e vi todos os seus fios de urdidura, trama e fios com completa clareza!
+Sentimentos sobre a Ascensão - Conclusão
+Parece que agora recuperei a maior parte da força que perdi em minha transição para este mundo. Hahahaha, o dia do julgamento está chegando!... Ah, não se preocupe. Mesmo no final, quando eu trouxer o relâmpago de vingança sobre este mundo, você não será prejudicado, pois você é abençoado pela Princesa do Pecado.
+Habilidade Elemental - I
+Por decreto real!
+Habilidade Elemental - II
+Oz, revele-se!
+Habilidade Elemental - III
+Invoco-lhe!
+Habilidade Elemental - IV
+Oz: Não há descanso para os ímpios...
+Supremo - I
+Asas da Escuridão, venham separar o dia da noite!
+Supremo - II
+Ilusão Noturna
+Supremo - III
+Corvo das sombras, deixe a noite cair!
+Supremo - IV
+Oz: Como desejar, minha princesa!
+Supremo - V
+Oz: Ilusão Noturna!
+Abrir Baú do Tesouro - I
+O destino me trouxe até aqui!
+Abrir Baú do Tesouro - II
+Que quinquilharias estão veladas dentro deste terreno desolado?
+Abrir Baú do Tesouro - III
+Hahahaha, grite pelo meu ilustre nome!
+Vida Baixa - I
+Hmph! Quer conhecer o meu verdadeiro poder?
+Vida Baixa - II
+Oz: Minha Princesa! Caso você caia...
+Vida Baixa - III
+Ninguém com sangue real é digno deste cruel destino!
+Aliado com Vida baixa: I
+Hnf! Permita-me!
+Aliado com Vida baixa: II
+Oz: Minha princesa, sua presença é urgentemente necessária...
+Derrotado - I
+Este reino não é lugar para uma princesa...
+Derrotado - II
+Desceremos... Mais uma vez...
+Derrotado - III
+Oz: Minha princesa!
+Ataque Pesado Sofrido - I
+Insubordinação!
+Entrando na Equipe - I
+Em nome da Princesa!
+Entrando na Equipe - II
+Oz: Contemplem, a Princesa do Pecado!
+Entrando na Equipe - III
+Os fios do seu destino estão em minhas mãos!

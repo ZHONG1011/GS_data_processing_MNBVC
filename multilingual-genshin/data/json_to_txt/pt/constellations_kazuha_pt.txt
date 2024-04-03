@@ -1,0 +1,12 @@
+Cordilheiras Avermelhadas
+Reduz o Tempo de Recarga de <color=#FFD780FF>Chihayaburu</color> em 10%. Ao lançar <color=#FFD780FF>Lâmina de Kazuha</color>, redefine o Tempo de Recarga de <color=#FFD780FF>Chihayaburu</color>.
+Vento das Montanhas
+O campo de Redemoinho do Outono criado por <color=#FFD780FF>Lâmina de Kazuha</color> tem as seguintes propriedades: ·Aumenta a Proficiência Elemental de Kaedehara Kazuha em 200; ·Aumenta a Proficiência Elemental dos personagens no campo em 200.  Os efeitos de aumento de Proficiência Elemental desta Constelação não se acumulam.
+Bordo Monogatari
+Aumenta o nível do <color=#FFD780FF>Chihayaburu</color> em 3. O nível máximo de elevação é 15.
+Magia Ilusória
+Quando a Energia Elemental de Kaedehara Kazuha está em menos que 45, ele possui os seguintes efeitos:  ·Ao Pressionar e Manter Pressionado <color=#FFD780FF>Chihayaburu</color>, ele recupera 3 e 4 de Energia Elemental respectivamente; ·Kaedehara Kazuha recupera 2 pontos de Energia Elemental por cada segundo que passa Planando.
+Sabedoria de Bansei
+Aumenta o nível da Habilidade <color=#FFD780FF>Lâmina de Kazuha</color> em 3. O nível máximo de elevação é 15.
+Momiji Escarlate
+Nos 5 segundos após Kaedehara Kazuha lançar <color=#FFD780FF>Chihayaburu</color> ou <color=#FFD780FF>Lâmina de Kazuha</color>, ele obtém <color=#80FFD7FF>Encantamento Anemo</color>. Cada ponto da Proficiência Elemental de Kaedehara Kazuha será utilizado nos seus Ataques Normais, Ataques Carregados, Ataques Imersivos e Ataque Imersivo - Ranzan Aéreo, causando um Aumento de Dano de 0.2%.

@@ -1,0 +1,12 @@
+Ataque Normal: Disparo Liutian
+<color=#FFD780FF>Ataque Normal</color> Realiza até 6 disparos consecutivos com um arco.  <color=#FFD780FF>Ataque Carregado</color> Realiza um <color=#FFD780FF>Disparo com Mira</color> mais preciso com Dano aumentado. Ao mirar, uma aura congelante acumulará na ponta da flecha antes de ser disparada. Tem diferentes efeitos baseados em quanto tempo a energia foi carregada: Carga Nível 1: Dispara uma Flecha Congelante que causa <color=#99FFFFFF>Dano Cryo</color> Carga Nível 2: Dispara uma Flecha Congelante que causa <color=#99FFFFFF>Dano Cryo</color>. A Flecha Congelante floresce após acertar seu alvo, causando <color=#99FFFFFF>Dano Cryo em uma AdE</color>.  <color=#FFD780FF>Ataque Imersivo</color> Dispara uma chuva de flechas em pleno ar antes de cair e atingir o chão, causando Dano em uma AdE no impacto.
+Rastros de Qilin
+#Lançando uma Lótus de Gelo, Ganyu salta para trás, causando <color=#99FFFFFF>Dano em uma AdE Cryo</color>.  <color=#FFD780FF>Lótus de Gelo</color> ·Provoca inimigos ao seu redor, atraindo-os para a atacar. ·Sua resistência aumenta de acordo a Vida Máxima de Ganyu. ·Floresce quando destruída ou quando sua duração acaba, causando <color=#99FFFFFF>Dano Cryo em uma AdE</color>.  <i>"Você disse que me viu? Acho que você está enganad{F#a}{M#o}. Eu estava trabalhando horas extras".</i>
+Chuva Celestial
+Funde a geada e a neve atmosférica, evocando uma Gema Cryo Sagrada que exorciza o mal. Ao longo da duração desta habilidade, a Gema Cryo Sagrada irá chover continuamente lascas de gelo, golpeando inimigos em uma AdE e infligindo <color=#99FFFFFF>Dano Cryo</color>.  <i>Ganyu pode trazer uma chuva agradável de forma natural. Mas contra demônios e hereges, elas viram uma desagradável neve congelante.</i>
+Com Todo Coração
+Após disparar uma Flecha Congelante, a Taxa CRIT das Flechas Congelantes subsequentes e seus efeitos de florescimento resultantes é aumentada em 20% por 5s.
+Harmonia entre o Céu e a Terra
+<color=#FFD780FF>Chuva Celestial</color> concede 20% de <color=#99FFFFFF>Bônus de Dano Cryo</color> aos membros ativos no grupo em uma AdE.
+Preservado para a Caça
+Retorna 15% dos minérios usados ao criar armas do tipo Arco.

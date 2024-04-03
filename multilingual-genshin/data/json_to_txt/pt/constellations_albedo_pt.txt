@@ -1,0 +1,12 @@
+Flor de Éden
+Flores Transitórias geradas pela <color=#FFD780FF>Abiogênese - Radiação Solar</color> de Albedo regeneram 1.2 de Energia para Albedo.
+Éon da Vida
+Flores Transitórias geradas pela <color=#FFD780FF>Abiogênese - Radiação Solar</color> concedem ao Albedo Julgamento Fatal por 30s: Desencadeando o <color=#FFD780FF>Ritual da Progenitura - Maré Tectônica</color> consome todos os acúmulos do Julgamento Fatal.  Cada acúmulo do Julgamento Fatal consumido aumenta o Dano causado pelas Flores Fatais e o Dano de Explosão do Ritual da Progenitura: Maré Tectônica em 30% da DEF de Albedo. Este efeito pode ser acumulado até 4x.
+Esplendor Solar
+Aumenta o nível da <color=#FFD780FF>Abiogênese - Radiação Solar</color> em 3. O nível máximo de elevação é 15.
+Queda Divina
+Membros ativos da equipe que estiverem dentro do campo de Radiação Solar têm seu Dano de Ataque Imersivo aumentado em 30%
+Maré de Hadeano
+Aumenta o Nível do <color=#FFD780FF>Ritual da Progenitura - Maré Tectônica</color> em 3. O nível máximo de elevação é 15.
+Poeira da Purificação
+Membros ativos da equipe que estiverem dentro do campo de Radiação Solar forem protegidos por um escudo criado pela Cristalização, tem seu Dano aumentado em 17%.

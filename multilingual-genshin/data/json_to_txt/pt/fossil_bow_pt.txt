@@ -1,0 +1,13 @@
+Arco do Sacrifício
+Um arco de caça decorativo que foi petrificada pelo tempo. Os acessórios inseridos ainda estão visíveis. Garante um grande poder ao seu portador.
+ No penhasco de frente para o mar oriental, os ancestrais adoravam o mestre do tempo e Anemo juntos. As duas histórias estão relacionadas; como diz o ditado, "O Anemo trouxe as histórias, entretanto, foi o tempo que as nutriu." Este arco conta a história dos pioneiros e as dificuldades pelas quais passaram. Costumava ser um adereço com a corda do arco imóvel, mas tornou-se flexível e mais resistente com a passagem do tempo.  Essa arco já pertenceu ao orgulhoso clã Lawrence. No passado antigo, eles foram os pioneiros que abriram os caminhos na nevasca.  O primeiro ato da cerimônia contou a história de seus antepassados conquistando a terra por meio de sua sabedoria e força. Ao longo de sua longa história, embora essa cerimônia tenha sido perdida, eles continuaram a desempenhar o mesmo papel.  Mas o papel foi corrompido e eles gradualmente passaram a se ver como conquistadores e reis. Eles gradualmente tomaram um caminho tortuoso para longe do povo, e perderem o afeto dos ventos de Mondstadt. 
+Composto
+Ao causar dano contra um oponente com Habilidade Elemental, a habilidade possui <color=#99FFFFFF>40%</color> de chance de redefinir o tempo de Recarga desta habilidade. Este efeito pode ser ativado apenas uma vez a cada <color=#99FFFFFF>30</color> segundos.
+Composto
+Ao causar dano contra um oponente com Habilidade Elemental, a habilidade possui <color=#99FFFFFF>50%</color> de chance de redefinir o tempo de Recarga desta habilidade. Este efeito pode ser ativado apenas uma vez a cada <color=#99FFFFFF>26</color> segundos.
+Composto
+Ao causar dano contra um oponente com Habilidade Elemental, a habilidade possui <color=#99FFFFFF>60%</color> de chance de redefinir o tempo de Recarga desta habilidade. Este efeito pode ser ativado apenas uma vez a cada <color=#99FFFFFF>22</color> segundos.
+Composto
+Ao causar dano contra um oponente com Habilidade Elemental, a habilidade possui <color=#99FFFFFF>70%</color> de chance de redefinir o tempo de Recarga desta habilidade. Este efeito pode ser ativado apenas uma vez a cada <color=#99FFFFFF>19</color> segundos.
+Composto
+Ao causar dano contra um oponente com Habilidade Elemental, a habilidade possui <color=#99FFFFFF>80%</color> de chance de redefinir o tempo de Recarga desta habilidade. Este efeito pode ser ativado apenas uma vez a cada <color=#99FFFFFF>16</color> segundos.

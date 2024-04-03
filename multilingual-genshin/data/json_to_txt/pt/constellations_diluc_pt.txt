@@ -1,0 +1,12 @@
+Convicção
+Diluc causa 15% a mais de Dano aos inimigos com Vida superior a 50%.
+Brasas Ardentes
+Quando Diluc recebe Dano, seu ATQ aumenta 10%, e a sua VEL de ATQ aumenta em 5% por 10s. Este efeito pode ser ativado até 3 vezes e pode ocorrer apenas uma vez a cada 1.5s.
+Aço e Fogo
+Aumenta o nível da <color=#FFD780FF>Investida Ardente</color> em 3. O nível máximo de elevação é 15.
+Chamas Fluidas
+Lançar <color=#FFD780FF>Investida Ardente</color> de forma cadenciada aumenta drásticamente o dano causado. Dentro de 2 segundos de uso da <color=#FFD780FF>Investida Ardente</color>, lançar a próxima Investida Ardente em um combo infligirá 40% de Dano adicional. Esse efeito dura pelos próximos 2 segundos.
+Fênix, Prenúncio do Alvorecer
+Aumenta o nível do <color=#FFD780FF>Alvorecer</color> em 3. O nível máximo de elevação é 15.
+Espada Flamejante, Nemesis das Trevas
+Após lançar a <color=#FFD780FF>Investida Ardente</color>, os próximos 2 Ataques Normais dentro de 6s terão seus Dano e VEL de ATQ aumentados em 30%. Além disso, a Investida Ardente não interromperá o combo do Ataque Normal.

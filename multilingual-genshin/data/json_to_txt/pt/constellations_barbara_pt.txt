@@ -1,0 +1,12 @@
+Balada Alegre
+Barbara regenera 1 de Energia a cada 10s.
+Explosão de Vitalidade
+Diminui a Recarga do <color=#FFD780FF>Que Comece o Espetáculo ♪</color> em 15%. Durante esta habilidade, o seu próprio personagem atual ganha 15% de <color=#80C0FFFF>Dano Hydro adicional</color>.
+Estrela de Amanhã
+Aumenta o nível do <color=#FFD780FF>Milagre Brilhante ♪</color> em 3. O nível máximo de elevação é 15.
+A Atenção é o Meu Poder
+Sempre que os Ataques Carregados da Barbara acertarem um inimigo ela regenera 1 de Energia. É possível regenerar um máximo de 5 de Energia desta maneira por vez.
+Vínculo de Inocência
+Aumenta o nível do <color=#FFD780FF>Que Comece o Espetáculo♪</color> em 3. O nível máximo de elevação é 15.
+Dedicando Tudo para Você
+Quando a Barbara não estiver no campo de batalha e o próprio personagem da equipe for abatido: Revive automaticamente este personagem. Regenera totalmente a Vida deste personagem até 100%. Este efeito pode ser ativado uma vez a cada 15 mins.

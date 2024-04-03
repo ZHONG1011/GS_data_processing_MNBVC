@@ -1,0 +1,12 @@
+Profecia da Submersão
+Os efeitos de <color=#80C0FFFF>Reações Elementais relacionadas a Hydro</color> agora são aprimorados por 8 segundos depois que o seu próprio personagem de equipe atingir um inimigo afetado por um Presságio:  Dano Eletricamente Carregado é aumentado em 15%.  Dano de Vaporizar é aumentado em 15%.  Dano de Redemoinho é aumentado em 15%. A duração em que os inimigos ficam Congelados é aumentada em 15%.
+Corrente Lunar
+Quando um Ataque Normal acerta, existe 20% de chance que ele será automaticamente seguido de um Ataque Carregado. Esse efeito pode ocorrer apenas uma vez a cada 5 segundos.
+Revolução Incessante
+Aumenta o nível da <color=#FFD780FF>Órbita Divina</color> em 3. O nível máximo de elevação é 15.
+Profecia do Fim
+Quando todos os personagens na equipe atacarem um inimigo afetado pelo status do Presságio, sua Taxa Crítica é aumentada em 15%.
+Zombaria da Fortuna
+Aumenta o nível da <color=#FFD780FF>Água Ilusória</color> em 3. O nível máximo de elevação é 15.
+Retórica da Calamidade
+Ao entrar em <color=#FFD780FF>Vicissitude</color>, Mona ganha um aumento de 60% de Dano em seu próximo Ataque Carregado por segundo. Um máximo de 180% de Dano adicional pode ser atingido desta maneira, e este efeito dura por não mais que 8 segundos.

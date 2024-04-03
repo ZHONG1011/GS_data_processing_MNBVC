@@ -1,0 +1,12 @@
+Vento Dividido
+Dispara 2 flechas adicionais por cada <color=#FFD780FF>Disparo com Mira</color>, cada flecha causa 33% do Dano original da flecha.
+Brisa da Reminiscência
+<color=#FFD780FF>Sonata Celestial</color> diminui a <color=#80FFD7FF>RES Anemo</color> e RES Física do inimigo em 12% por 10s. Os inimigos lançados pela <color=#FFD780FF>Sonata Celestial</color> sofrem uma penalidade adicional de <color=#80FFD7FF>RES Anemo</color> de 12% e RES física quando estiverem no ar.
+Ode aos Ventos Milenares
+Aumenta o nível do <color=#FFD780FF>Grande Ode do Vento</color> em 3. O nível máximo de elevação é 15.
+Furacão da Liberdade
+Quando Venti obtém um Orbe ou uma Partícula Elemental, ele recebe 25% de <color=#80FFD7FF>Dano Anemo Bônus</color> por 10s.
+Concerto Celestial
+Aumenta o nível da <color=#FFD780FF>Sonata Celestial</color> em 3. O nível máximo de elevação é 15.
+Tempestade do Desafio
+Alvos que levarem Dano da <color=#FFD780FF>Grande Ode do Vento</color> terão sua <color=#80FFD7FF>RES Anemo</color> reduzida em 20%. Se uma Absorção Elemental ocorrer, então sua RES ao Elemento correspondente também é reduzida em 20%.

@@ -1,0 +1,13 @@
+Espadão do Cavaleiro do Céu
+Um espadão de aço confiável. Uma certa pessoa tentou usá-lo como espada voadora... pela segunda vez.
+ Sentindo-se derrotado, Skyrider percebeu que há coisas que a esgrima não pode conseguir, ao invés de acreditar em sua esgrima, ele passou a olhar para a própria espada. "Maior é sempre melhor, e espadas não são exceção," ele pensou. Na grande Floresta de Pedra de Guyun, ele recebeu seu grande final. Seu sonho de voar chegou ao fim, mas sua espada e história nunca desapareceriam... 
+Coragem
+Ao acertar um Ataque Normal ou Carregado, aumenta o ATQ e DEF em <color=#99FFFFFF>6%</color> por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.
+Coragem
+Ao acertar um Ataque Normal ou Carregado, aumenta o ATQ e DEF em <color=#99FFFFFF>7%</color> por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.
+Coragem
+Ao acertar um Ataque Normal ou Carregado, aumenta o ATQ e DEF em <color=#99FFFFFF>8%</color> por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.
+Coragem
+Ao acertar um Ataque Normal ou Carregado, aumenta o ATQ e DEF em <color=#99FFFFFF>9%</color> por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.
+Coragem
+Ao acertar um Ataque Normal ou Carregado, aumenta o ATQ e DEF em <color=#99FFFFFF>10%</color> por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.

@@ -1,0 +1,114 @@
+Olá...
+Sou Aloy. Não conheço este mundo, mas minhas flechas estão afiadas e meu arco está pronto. Se sua equipe precisar de ajuda, farei o que puder.
+Bate-papo - Em movimento
+#Vamos, chega de ficar parad{F#a}{M#o}, temos que andar.
+Bate-papo - Ajuda
+Não devemos parar agora. Ainda tem pessoas que precisam da nossa ajuda.
+Quando Está Chovendo...
+Chuva. Uma forma de limpar a sujeira.
+Depois da Chuva...
+A chuva parou, precisamos nos secar.
+Quando Está Nevando...
+Quando está nevando, parece que o mundo inteiro fica mais calmo.
+Quando está ventando...
+O vento está soprando novamente. É bom respirar esse ar.
+A Ventania Está Chegando...
+A ventania está chegando, meu rosto dói quando o vento sopra.
+Bom dia...
+Bom dia! O mundo está repleto de energia, assim como eu.
+Boa tarde...
+Já se passou metade do dia e ainda tenho muita coisa para fazer.
+Saudações...
+O sol já se pôs. Fazia muito tempo que eu não via estrelas no céu.
+Boa noite...
+Boa noite, está na hora de descansar. A menos que você queira continuar a agir sob a luz das estrelas.
+Sobre a Aloy...
+Eu cresci como uma pária, e não foi muito divertido. Embora eu seja uma estranha aqui, as pessoas são mais amigáveis do que a tribo que deveria me criar. É... Agradável.
+Sobre Nós - Execução
+Todas as minhas ações são para salvar vidas, não para trazer a morte. É por isso que luto lado a lado com você.
+Sobre Nós - Promessa
+Uma promessa parece ser mais como uma formalidade. Mas se você quiser a minha, você a tem.
+Sobre Nós - Avanço
+Vou tentar o meu melhor para seguir em frente com você até o fim. Não vou hesitar, nem vou falhar.
+Algo para Compartilhar...
+Se há algo para compartilhar, deve ser meu arco e flecha. Eu só uso para ajudar os outros.
+Coisas Interessantes...
+Como o mundo do meu lado, o passado deste mundo está cheio de segredos. Se eu tiver tempo suficiente, irei descobrir todos os seus segredos.
+Mais sobre Aloy: I
+Não gosto tanto de conversar. Para mim, a missão é mais importante.
+Mais sobre Aloy: II
+Não tenho pais. Fui criada por um homem chamado Roster. Ele era um pouco duro, mas tinha um bom coração e era generoso. Ele me ensinou muitas coisas, hum... Eu sinto muito falta dele.
+Mais sobre Aloy: III
+Passei toda minha vida procurando minha mãe e nunca a encontrei, não mesmo. Mas encontrei mensagens antigas da mulher de quem eu fui... Clonada. Parecia que era como se ela me conhecesse. E como me inspirar.
+Mais sobre Aloy: IV
+Quando cresci, eu não tinha amigos. Mais tarde, em minhas viagens, eu fiz alguns. Mas deixei esse mundo antes que pudéssemos ficar mais íntimos. É por isso que estou feliz por ter passado algum tempo com você.
+Mais sobre Aloy: V
+A confiança não é fácil para mim, mas sei que posso confiar em você. Você é um verdadeiro amigo, e não digo isso direto.
+Passatempos de Aloy...
+Não tenho certeza se tenho um passatempo, acho que ler coisas antigas conta como um. Bem, história, então?
+Preocupações de Aloy...
+Um mundo precisava ser salvo. E agora outro. Nunca há tempo suficiente para descansar.
+Comida Favorita...
+Eu não sou exigente. Qualquer coisa é melhor do que viajar com o estômago vazio.
+Comida que Odeia...
+Tivemos uma vez um ensopado de Oseram que era tão espesso que se podia pavimentar uma estrada com ele. Urrgg...
+Aniversário...
+Nunca dê muita importância a aniversários. De onde eu venho, é hora de celebrar sua mãe, não a si mesmo. Mesmo assim, desejo a você, uuuh, um dia feliz.
+Sentimentos sobre a Ascensão - Introdução
+Bem, parece que estamos fazendo progresso, mas não podemos parar agora.
+Sentimentos sobre a Ascensão - Desenvolvimento
+Estou ficando melhor, e mais forte. Isso é bom.
+Sentimentos sobre a Ascensão - Auge
+#Não importa quão {F#boa caçadora}{M#bom caçador} você seja, sempre pode melhorar. Nunca descanse, e nunca pare de aprender.
+Sentimentos sobre a Ascensão - Conclusão
+#Quando nós começamos, você só era mais {F#uma estranha}{M#um estranho} em um mundo que eu não entendi. Mas após tudo que passamos junt{F#as}{M#os}, posso dizer com certeza: meu coração é seu, hoje e sempre.
+Habilidade Elemental - I
+Isso daqui vai explodir!
+Habilidade Elemental - II
+Tenho algo aqui para você!
+Habilidade Elemental - III
+Já viu um desses daqui?
+Supremo - I
+Aprisionado!
+Supremo - II
+Um truque novo.
+Supremo - III
+Essa caça é minha!
+Abrindo o Planador - I
+Haha, essa coisa é divertida!
+Abrir Baú do Tesouro - I
+Essas coisas parecem ter vindo em uma boa hora.
+Abrir Baú do Tesouro - II
+Esses são comestíveis... esses dão para usar...
+Abrir Baú do Tesouro - III
+Quem será que deixou essas coisas...
+Vida Baixa - I
+Que presa irritante...
+Vida Baixa - II
+Onde está seu ponto fraco...
+Vida Baixa - III
+Está fora da minha alçada...
+Aliado com Vida baixa: I
+Cuidado!
+Aliado com Vida baixa: II
+Não se precipite!
+Derrotado - I
+Onde eu... Falhei...
+Derrotado - II
+Desculpe...
+Derrotado - III
+Não consigo levantar... É o meu fim...
+Ataque Leve Sofrido - I
+Hm...
+Ataque Leve Sofrido - II
+Isso não é nada...
+Ataque Pesado Sofrido - I
+Ai!
+Ataque Pesado Sofrido - II
+Já devia saber que isso não seria fácil...
+Entrando na Equipe - I
+Para onde vai dessa vez?
+Entrando na Equipe - II
+Aloy. Pronta para a caça.
+Entrando na Equipe - III
+Precisa de uma ajudante?

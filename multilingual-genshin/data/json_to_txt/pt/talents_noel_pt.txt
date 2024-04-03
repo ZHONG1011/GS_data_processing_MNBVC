@@ -1,0 +1,12 @@
+Ataque Normal: Técnica de Espada de Favonius - Empregada
+<color=#FFD780FF>Ataque Normal</color> Realiza até 4 golpes consecutivos.  <color=#FFD780FF>Ataque Carregado</color> Drena Stamina ao longo do tempo para realizar um ataque giratório contínuo contra todos os inimigos próximos. Ao final da sequência, realiza um corte poderoso.  <color=#FFD780FF>Ataque Imersivo</color> Mergulha em pleno ar para golpear o chão, danificando inimigos em seu caminho e infligindo Dano em uma AdE durante o impacto.
+Guardião do Coração
+Invoca uma armadura protetora, infligindo <color=#FFE699FF>Dano Geo</color> nos inimigos próximos e criando um escudo. A Absorção de Dano do escudo aumenta baseado na DEF de Noelle. O escudo tem as seguintes propriedades: Quando os Ataques Normais e Ataques Carregados da Noelle acertarem um alvo, eles terão uma certa chance de recuperar a Vida de todos os personagens. Possui 150% de Eficiência em Absorção contra todos os danos elementais.  A quantidade de Vida curada quando a recuperação é desencadeada é baseada na DEF de Noelle.  <i>Noelle é ao mesmo tempo uma empregada dedicada e uma cavaleira corajosa.</i>
+Grande Limpeza
+Reunindo a força da pedra em sua arma, Noelle ataca os inimigos ao seu redor com uma grande AdE, causando <color=#FFE699FF>Dano Geo</color>. Em seguida, Noelle ganha os seguintes efeitos: ·Aumenta a AdE do Ataque da Noelle. ·Converte o Dano ATQ para <color=#FFE699FF>Dano Geo</color>. O efeito dessa conversão elemental não pode ser anulado por nenhuma outra conversão elemental.  ·Seu ATQ aumenta com base na sua DEF.  <i>Às vezes, não é apenas poeira que precisa ser varrida...</i>
+Devoção
+Quando Noelle não estiver em combate, e a Vida do personagem selecionado cair para menos de 30%, o seguinte efeito acontecerá automaticamente: A Vida do Personagem em uso receberá imediatamente um escudo de duração de 20s que absorve um dano equivalenta a 400% da DEF de Noelle. ·O escudo tem 150% de eficiência contra Dano de todos os Elementos e Dano Físico. Este efeito só pode ocorrer uma vez a cada 60s.
+Limpo e Eficaz
+Quando o Ataque Normal e Carregado de Noelle atingir o inimigo cumulativamente 4 vezes, o tempo de Recarga do<color=#FFD780FF> Guardião do Coração </color>serão reduzido em 1s É possível acumular uma vez a cada 0.1s.
+Dedicação da Empregada
+Quando uma Culinária Perfeita é feita em uma comida de aumento de DEF, Noelle tem uma chance de 12% de receber o dobro de produção.

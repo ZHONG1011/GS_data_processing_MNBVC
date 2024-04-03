@@ -1,0 +1,12 @@
+Ataque Normal: Suspiro da Água
+<color=#FFD780FF>Ataque Normal</color> Realiza até 4 ataques com esguichos de água que infligem <color=#80C0FFFF>Dano Hydro</color>.  <color=#FFD780FF>Ataque Carregado</color> Consome uma certa quantidade de Stamina para infligir <color=#80C0FFFF>Dano Hydro em uma AdE</color> após um curto período de canalização.  <color=#FFD780FF>Ataque Imersivo</color> Reunindo o poder do Hydro, Barbara mergulha em direção ao chão em pleno ar, infligindo dano a todos os inimigos em seu caminho. Inflige <color=#80C0FFFF>Dano Hydro em uma AdE</color> durante o impacto com o chão.
+Que Comece o Espetáculo ♪
+Invoca gotículas de água que se assemelham a notas musicais que formam um Círculo Melódico, causando <color=#80C0FFFF>Dano Hydro</color> aos oponentes próximos e aplicando o estado <color=#80C0FFFF>Molhado</color> a eles.  <color=#FFD780FF>Círculo Melódico</color> Ao acertar, os ataques normais da Barbara curam seus próprios membros de equipe e personagens aliados próximos em uma certa quantidade de Vida, que é escalonado com a Vida Máxima de Barbara. Acertar o Ataque Carregado de Barbara gera 4 vezes a quantidade de cura. Periodicamente regenera a Vida do seu próprio personagem ativo. Aplica o estado <color=#80C0FFFF>Molhado</color> ao personagem e aos oponentes que entram em contato com eles. <i>A música da Barbara é a magia que cura seus companheiros.</i>
+Milagre Brilhante ♪
+Cura todas as forças aliadas e seu próprio personagem em uma grande quantidade de Vida que aumenta com a Vida Máxima de Barbara.  <i>O desejo de Barbara de curar fortalece sua vontade de lutar e cantar.</i>
+Temporada Gloriosa
+O Consumo de Stamina dos personagens dentro do loop da melodia de <color=#FFD780FF>Que Comece o Espetáculo ♪</color> é reduzido em 12%.
+Encore
+Quando seu próprio personagem ganha um Orbe/Partícula Elemental, a duração do Loop da Melodia do <color=#FFD780FF>Que Comece o Espetáculo ♪</color> é estendido em 1s. A extensão máxima é de 5s.
+Com Todo o Meu Coração♪
+Quando uma Culinária Perfeita é feita em uma comida com efeito de recuperação, tem uma chance de 12% de receber o dobro de produção.

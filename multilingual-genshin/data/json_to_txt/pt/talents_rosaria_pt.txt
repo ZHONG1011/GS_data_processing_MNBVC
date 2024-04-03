@@ -1,0 +1,12 @@
+Ataque Normal: Lança Eclesiástica
+<color=#FFD780FF>Ataque Normal</color> Realiza até 5 golpes com a lança.  <color=#FFD780FF>Ataque Carregado</color> Consome uma certa quantidade de Stamina para se lançar para frente, infligindo Dano em seu trajeto.  <color=#FFD780FF>Ataque Imersivo</color> Mergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.
+Confissão Desoladora
+Rosaria muda rapidamente de posição e aparece atrás de seu alvo. Ela o perfura e corta com sua arma, infligindo <color=#99FFFFFF>Dano Cryo</color>. Não é possível deslocar-se para trás de inimigos de tamanho grande com esta habilidade.  <i>A Freira Rosaria não perdoa os pecados daqueles que não se confessam a ela. Todos os pecadores serão castigados com o frio penetrante de uma punição proporcional à gravidade de seus pecados.</i>
+Ritos de Terminação
+A oração característica de Rosaria. Após brandir sua arma para cortar os inimigos próximos, ela invoca uma Lança de Gelo frígida e golpeia o solo, infligindo <color=#99FFFFFF>Dano Cryo</color> ambas as vezes. Enquanto ativa, a Lança de Gelo emite ar frio de forma intermitente, infligindo <color=#99FFFFFF>Dano Cryo</color> aos inimigos ao redor.  <i>O julgamento é algo muito incômodo. Sugiro que pulemos isso e passemos diretamente para a Oração do Decesso. Devido à minha falta de devoção ao Arconte Anemo, é muito fácil fazer isso.</i>
+Confissões Forçadas
+Quando a habilidade <color=#FFD780FF>Confissão Desoladora</color> ataca por trás de um inimigo, a Taxa CRIT de Rosaria aumenta em 12% por 5s.
+Samaritana da Escuridão
+Ao lançar <color=#FFD780FF>Ritos de Terminação</color>, a Taxa CRIT de todos os membros da Equipe (exceto Rosaria) é aumentada em 15% com base na Taxa CRIT de Rosaria por 10s. O aumento da Taxa CRIT obtido dessa maneira não pode ultrapassar 15%.
+Caminhada Noturna
+Durante a noite (18:00 - 06:00), os personagens da equipe recebem um aumento da Veloc. Mov. de 10%. Esse efeito não se aplica em Domínios, Domínios Dizimados e Espiral do Abismo. Além disso, esse não é acumulado com Talentos Passivos de efeito igual.

@@ -1,0 +1,12 @@
+Ataque Normal: Toque do Relâmpago
+<color=#FFD780FF>Ataque Normal</color> Realiza até 4 ataques de relâmpago que infligem <color=#FFACFFFF>Dano Electro</color>.  <color=#FFD780FF>Ataque Carregado</color> Consome uma certa quantidade de Stamina que inflige <color=#FFACFFFF>Dano Electro em uma AdE</color> após um curto período de canalização.  <color=#FFD780FF>Ataque Imersivo</color> Reunindo o poder do Electro, Lisa mergulha ao chão em pleno ar, infligindo dano a todos os inimigos em seu caminho. Inflige <color=#FFACFFFF>Dano Electro em uma AdE</color> durante o impacto com o chão.
+Arco Violeta
+Canaliza o poder dos relâmpagos para se livrar de coisas incômodas.  <color=#FFD780FF>Pressionar</color> Libera uma esfera relâmpago perseguidora. Ao acertar, inflige <color=#FFACFFFF>Dano Electro</color> e aplica um acúmulo do efeito Condutor (máximo de 3 acúmulos) nos inimigos em uma pequena AdE  <color=#FFD780FF>Manter pressionado</color> Após um longo período de canalização, convoca os relâmpagos dos céus, infligindo <color=#FFACFFFF>Dano Electro</color> massivo em todos os inimigos próximos baseado no número de acúmulos do efeito Condução aplicados neles, e remove seus efeitos de Condução.  <i>O Electro Púrpura é a vestimenta de uma Bruxa das Rosas</i>
+Rosa do Relâmpago
+Evoca uma Rosa Elétrica que desfere poderosos relâmpagos, lançando inimigos próximos e infligindo <color=#FFACFFFF>Dano Electro</color>. A Rosa Elétrica irá continuamente emitir raios que empurram os inimigos e infligem <color=#FFACFFFF>Dano Electro</color> enquanto ela permanecer.  <i>Essa rosa é linda, mas tenha cuidado com seus espinhos mortais.</i>
+Indução Pós-Choque
+Ao ser atingida por Ataques aplica o estado de Condutividade de <color=#FFD780FF>Arco Violeta</color> aos inimigos.
+Campo de Eletricidade Estática
+Inimigos acertados por <color=#FFD780FF>Rosa do Relâmpago</color> têm sua DEF diminuída em 15% por 10 segundos.
+Conhecimentos Farmacêuticos
+Quando a Lisa cria uma poção, ela possui 20% de chance de retornar uma porção dos materiais usados.

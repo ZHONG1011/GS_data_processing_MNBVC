@@ -1,0 +1,12 @@
+Guia do Pecado
+Depois do ataque de Rosaria causar Dano CRIT, sua Vel. de ATQ aumenta em 10% e o Dano do Ataque Normal aumenta em 10%. Esse efeito dura por 4s.
+Terra Profana
+O Dano causado pela Lança de Gelo de <color=#FFD780FF>Ritos de Terminação</color> é estendido em 4s.
+Ritual de Confissão
+Aumenta o nível da habilidade <color=#FFD780FF>Confissão Desoladora</color> em 3. O nível máximo é 15.
+Graça do Sofrimento
+Quando a habilidade <color=#FFD780FF>Confissão Desoladora</color> causa um golpe CRIT, Rosaria regenera 5 pontos de Energia Elemental. Esse efeito só pode ocorrer uma vez quando a Confissão Desoladora é lançada.
+Oração do Decesso
+Aumenta o nível da habilidade <color=#FFD780FF>Ritos de Terminação</color> em 3. O nível máximo é 15.
+Julgamento Divino
+Os ataques de <color=#FFD780FF>Ritos de Terminação</color> reduzirão a RES Física dos Inimigos em 20% por 10s.

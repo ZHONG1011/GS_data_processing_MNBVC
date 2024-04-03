@@ -1,0 +1,12 @@
+Buquê Carmesim
+Sob o estado de <color=#FFD780FF>Dança de Borboleta</color> aplicado por <color=#FFD780FF>Guia do Além</color>, o Ataque Carregado de Hutao não consome Stamina.
+Mau Presságio
+<color=#FFD780FF>Pétalas Sangrentas</color> causa Dano adicional equivalente a 10% da Vida Máxima de Hutao. Além disso, <color=#FFD780FF>Pacificadora de Espíritos</color> pode aplicar efeito de <color=#FFD780FF>Pétalas Sangrentas</color> aos inimigos acertados.
+Ritual de Sangria
+O nível de Habilidade <color=#FFD780FF>Guia do Além</color> aumenta em 3 níveis. Pode ser aumentado até 15 níveis.
+Jardim do Descanso Eterno
+Quando os inimigos sob estado de <color=#FFD780FF>Pétalas Sangrentas</color> aplicado por Hutao forem derrotados, a Taxa CRIT de todos os aliados (menos Hutao) ao redor aumenta em 12% por 15s.
+Incenso de Flores
+Aumenta o nível do <color=#FFD780FF>Pacificadora de Espíritos</color> em 3 níveis. O nível máximo de elevação é 15.
+Abraço das Borboletas
+O efeito será ativado quando a Vida de Hutao for inferior a 25%, ou o Dano recebido for suficiente para derrotá-la. O Dano recebido não irá derrubar Hutao, e nos primeiros 10s, a RES Elemental e RES Física irão aumentar em 200%, entretanto, a Taxa CRIT aumenta em 100%, e a sua Resistência contra Interrupção aumenta significativamente. O efeito será ativado automaticamente quando a Vida for 1. O efeito apenas pode ser ativado a cada 60s.

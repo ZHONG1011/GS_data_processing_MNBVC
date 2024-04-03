@@ -1,0 +1,12 @@
+Ágata Ryuukin
+A Flama Dourada criada pela <color=#FFD780FF>Saxifraga Ryuukin</color> ganha um aumento de 4s de duração.  Além disso, quando um inimigo afetado pela Flama Dourada é derrotado, o ATQ da Yoimiya é aumentado em 20% por 20s.
+Procissão de Fogueiras
+Dentro de 6s após Yoimiya causar CRIT com o <color=#FF9999FF>Dano Pyro</color>, Yoimiya obtém 25% de <color=#FF9999FF>Dano Pyro Adicional</color>. Yoimiya pode obter esse efeito mesmo fora de campo.
+Chamas da Malandra
+Aumenta o nível da <color=#FFD780FF>Dança de Fogo Niwabi</color> em 3 níveis. Sendo o nível máximo de elevação 15.
+Profissional Pirotécnica
+Quando a Flama Dourada da Yoimiya explode, restaura a Recarga da <color=#FFD780FF>Dança de Fogo Niwabi</color> em 1.2s.
+Véspera de um Festival de Verão
+Aumenta o nível da <color=#FFD780FF>Saxifraga Ryuukin</color> em 3 níveis. Sendo o nível máximo de elevação 15.
+Chuva de Meteoros de Naganohara
+Durante a <color=#FFD780FF>Dança de Fogo Niwabi</color>, os Ataques Normais de Yoimiya têm 50% de chance de disparar uma Flecha Ardente extra que causa 60% de seu Dano original. Este Dano é considerado Dano de Ataque Normal.

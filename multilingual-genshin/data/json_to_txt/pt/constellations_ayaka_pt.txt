@@ -1,0 +1,12 @@
+Sosai Sumizome Sakura
+Quando os Ataques Normal ou Carregado de Kamisato Ayaka infligem <color=#99FFFFFF>Dano Cryo</color> aos inimigos, têm uma chance de 50% de diminuir a Recarga de <color=#FFD780FF>Arte Kamisato: Hyouka</color> em 0.3s. Esse efeito só pode ocorrer uma vez a cada 0.1s.
+Lâmina da Nevasca Seki no To
+Ao lançar <color=#FFD780FF>Arte Kamisato: Soumetsu</color>, lança 2 Portões Souken pequenos adicionais, cada uma causando 20% do Dano da tempestade.
+Flor Congelada Kamifubuki
+Aumenta o nível de <color=#FFD780FF>Arte Kamisato: Soumetsu</color> em 3. O nível máximo de elevação é 15.
+Eiki Ryuhan
+Inimigos atingidos pelo Granizo Seki no To de <color=#FFD780FF>Arte Kamisato: Soumetsu</color> terão sua DEF reduzido em 30% por 6s.
+Nuvem de Flores Irutsuki
+Aumenta o nível de <color=#FFD780FF>Arte Kamisato: Hyouka</color> em 3. O nível máximo de elevação é 15.
+Dança de Suigetsu
+Kamisato Ayaka ganha Usuhari Butou a cada 10s, aumentando o Dano causado pelo seu Ataque Carregado em 298%. Esse bônus será dissipado 0.5s após o Ataque Carregado de Ayaka atingir um inimigo, em que o Tempo de Recarga dessa habilidade reiniciará.

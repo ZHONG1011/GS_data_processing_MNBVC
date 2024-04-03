@@ -1,0 +1,12 @@
+Tempestade Espiral
+Aumenta a velocidade da <color=#FFD780FF>sucção da Espada do Temporal</color> após manter pressionado por mais de 1s e aumenta o dano causado em 40%.
+Égide do Povo
+Quando a Jean pega um Orbe/Partícula Elemental, todos os membros terão sua Veloc. Mov. e VEL de ATQ aumentados em 15% por 15s.
+Quando o Vento do Oeste Sopra
+Aumenta o nível da <color=#FFD780FF>Brisa de Dandelion</color> em 3. O nível máximo de elevação é 15.
+Terra dos Dandelions
+Dentro do Campo criado pela <color=#FFD780FF>Brisa de Dandelion</color>, todos os inimigos têm sua <color=#80FFD7FF>RES Anemo</color> diminuída em 40%.
+Rajada Explosiva
+Aumenta o nível da <color=#FFD780FF>Espada do Temporal</color> em 3. O nível máximo de elevação é 15.
+Presa do Leão, Protetor de Mondstadt
+Dano recebido é reduzido em 35% dentro da Área criada por <color=#FFD780FF>Brisa de Dandelion</color>. Após sair do Campo de Dandelion, este efeito dura por 3 ataques ou 10 segundos.

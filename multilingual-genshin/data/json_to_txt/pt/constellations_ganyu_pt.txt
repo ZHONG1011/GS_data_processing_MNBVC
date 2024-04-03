@@ -1,0 +1,12 @@
+Bebedor de Orvalho
+Receber Dano de uma Carga Nível 2 da Flecha Congelante ou da Explosão da Flecha Congelante diminui a <color=#99FFFFFF>RES Cryo</color> dos inimigos em 15% por 6s. Um golpe restaura 2 de Energia para Ganyu. Este efeito pode ocorrer apenas uma vez por Carga Nível 2 da Flecha Congelante, independentemente se a Flecha Congelante em si ou sua explosão acertar o alvo.
+O Auspicioso
+Os <color=#FFD780FF>Rastros de Qilin</color> aumentam 1 Carga Adicional.
+Itinerante das Nuvens
+Aumenta o nível da <color=#FFD780FF>Chuva Celestial</color> em 3. O nível máximo de elevação é 15.
+Estadia no Oeste
+Os inimigos dentro da AdE da <color=#FFD780FF>Chuva Celestial</color> recebem Dano aumentado. Este efeito fica mais forte com o tempo. O Dano aumentado recebido começa em 5% e aumenta 5% a cada 3s, chegando no máximo a 25%. Este efeito permanece por 3s após o inimigo sair da AdE.
+O Misericordioso
+Aumenta o nível dos <color=#FFD780FF>Rastros de Qilin</color> em 3. O nível máximo de elevação é 15.
+O Clemente
+Usando o <color=#FFD780FF>Rastros de Qilin</color> faz com que durante 30s seguintes a primeira Flecha Congelante não precise ser carregada.

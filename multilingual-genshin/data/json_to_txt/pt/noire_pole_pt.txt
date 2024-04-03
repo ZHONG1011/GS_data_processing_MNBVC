@@ -1,0 +1,13 @@
+Borla Preta
+Bem, isso resolve o problema das borlas brancas que se mancham facilmente.
+ Certa noite, um oficial de Millelith foi beber um copo com um poeta e trouxe sua Borla Branca. Enquanto conversavam, sem querer, o poeta entornou sua tinta. E assim, a Borla Branca da lança foi tingida de preto. "Claro, isso não é mais nada do que uma anedota entre o Lançador e o poeta." "Nada tem a ver com minha própria lança de Borla Preta." O ferreiro velho deu uma palmada na cabeça seu aprendiz, Ele demandou que fizesse uma borla branca nova para lança. 
+Atacante Pesado
+Aumenta o Dano contra os Slimes em <color=#99FFFFFF>40%</color>.
+Atacante Pesado
+O Dano causado em Slimes aumentam <color=#99FFFFFF>50%</color>.
+Atacante Pesado
+Aumenta o Dano contra os Slimes em <color=#99FFFFFF>60%</color>.
+Atacante Pesado
+Aumenta o Dano contra os Slimes em <color=#99FFFFFF>70%</color>.
+Atacante Pesado
+Aumenta o Dano contra os Slimes em <color=#99FFFFFF>80%</color>.

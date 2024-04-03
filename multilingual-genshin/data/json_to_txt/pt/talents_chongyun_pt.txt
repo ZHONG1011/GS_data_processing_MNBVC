@@ -1,0 +1,12 @@
+Ataque Normal: Desgraça dos Demônios
+<color=#FFD780FF>Ataque Normal</color> Realiza até 4 golpes consecutivos.  <color=#FFD780FF>Ataque Carregado</color> Drena Stamina ao longo do tempo para realizar um ataque giratório contínuo contra todos os inimigos próximos. Ao final da sequência, realiza um corte poderoso.  <color=#FFD780FF>Ataque Imersivo</color> Mergulha em pleno ar para golpear o chão, danificando inimigos em seu caminho e infligindo Dano em uma AdE durante o impacto.
+Lâmina Espiritual - Geada de Chongyun
+Chongyun golpeia o chão com seu Espadão, causando uma explosão Cryo em uma AdE circular na sua frente que inflige <color=#99FFFFFF>Dano Cryo</color>. Depois de um curto intervalo, o ar frio criado pela explosão Cryo se coalescerá em um Campo Gelado Chonghua, em que todos os personagens que usem Espada, Espadão ou Lança receberão encantamento <color=#99FFFFFF>Cryo</color>.  <i>"Um anel de cristal e tudo que se segue é o silêncio. Os rios não se movem, e as nuvens estão pesadas com o gelo. Os portões do altar se abrem, e o mal é banido."</i>
+Lâmina Espiritual - Estrela Cadente
+Criando os secretos selos artesanais, Chongyun evoca 3 lâminas espirituais em pleno ar que caem à terra uma por uma depois de um curto período de tempo, explodindo assim que encostam ao chão. Quando as lâminas espirituais explodem, elas infligem <color=#99FFFFFF>Dano Cryo em uma AdE</color> e lançam inimigos.  <i>"Assim como o frio atroz gera a geada congelante, minha lâmina transcendente estremece o céu e a terra. Ouça meu chamado e atenda ao meu apelo!"</i>
+Respiração Constante
+Os personagens que usam Espada, Espadão e Lança dentro do campo criado pela <color=#FFD780FF>Lâmina do Espíriual - Geada de Chongyun</color> terão a Vel. de ATQ Normal aumentada em 8%.
+Lâmina do Caçador de Gelo
+Quando a área criada pela <color=#FFD780FF>Lâmina Espiritual - Geada de Chongyun</color> dissipa, outra lâmina do espírito será evocada para atacar inimigos próximos, infligindo 100% de Dano da habilidade Geada de Chongyun como <color=#99FFFFFF>Dano Cryo em uma AdE</color>. Inimigos golpeados por essa lâmina terá sua <color=#99FFFFFF>RES Cryo</color> diminuída em 10% por 8 segundos.
+Jornada Galante
+Quando despachado em uma expedição em Liyue, o tempo consumido é reduzido em 25%

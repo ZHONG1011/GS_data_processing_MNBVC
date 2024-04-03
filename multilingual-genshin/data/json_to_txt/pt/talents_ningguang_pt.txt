@@ -1,0 +1,12 @@
+Ataque Normal: Dispersão Espumante
+<color=#FFD780FF>Ataque Normal</color> Dispara gemas que causam <color=#FFE699FF>Dano Geo</color>. Ao acertar, concede a Ningguang 1 Jade de Estrela.  <color=#FFD780FF>Ataque Carregado</color> Consome uma certa quantidade de Stamina para disparar uma gema gigante que causa <color=#FFE699FF>Dano Geo</color>. Se Ningguang possui Jades Estelares, ao liberar um Ataque Carregado fará com que os Jades Estelares sejam disparados contra um inimigo também, causando Dano adicional.  <color=#FFD780FF>Ataque Imersivo</color> Reunindo o poder de Geo, Ningguang mergulha em direção ao solo no ar, causando Dano a todos os inimigos em seu caminho. Causa <color=#FFE699FF>Dano Geo AdE</color> com o impacto no solo.
+Tela de Jade
+Ningguang cria uma Tela de Jade a partir do ouro, obsidiana e sua grande opulência, infligindo <color=#FFE699FF>Dano Geo em uma AdE</color>.  <color=#FFD780FF>Tela de Jade</color> Bloqueia projéteis inimigos.  Resistência aumenta com base na Vida Máxima de Ningguang.  Tela de Jade é considerada uma <color=#FFE699FF>Construção Geo</color> e pode ser usada para bloquear alguns ataques, mas não pode ser escalada. Apenas uma Tela de Jade pode existir ao mesmo tempo.  <i>A tela das estrelas está escrita sobre essa Tela de Jade.</i>
+Quebrador de Estrelas
+Recolhendo um grande número de gemas, Ningguang espalha todas de uma vez, enviando projéteis perseguidores em seus inimigos que causam <color=#FFE699FF>Dano Geo</color> massivo. Se o Quebrador de Estrelas é lançado enquanto a Tela de Jade está próxima, a Tela de Jade irá disparar projéteis de gemas perseguidoras adicionais ao mesmo tempo.  <i>Estrelas quebram. O silêncio recai.</i>
+Plano B
+Quando Ningguang estiver em posse das Jades Estelares, seu Ataque Carregado não consome Stamina.
+Reserva Estratégica
+Um personagem que passa pela <color=#FFD780FF>Tela de Jade</color> ganhará 12% de <color=#FFE699FF> Bônus de Dano GEO</color> por 10s.
+Registro dos Tesouros Maravilhosos
+Mostra a localização de <color=#FFD780FF>veias de minério utilizadas na forja</color> no mapa.

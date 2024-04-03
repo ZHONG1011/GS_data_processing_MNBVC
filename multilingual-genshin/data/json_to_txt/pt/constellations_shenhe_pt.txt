@@ -1,0 +1,12 @@
+Clareza do Coração
+<color=#FFD780FF>Invocação Espiritual</color> pode ser utilizada mais uma vez.
+Espírito Centrado
+Prolonga a duração de <color=#FFD780FF>Encantamento da Donzela Divina</color> em 6s. Personagens ativos na AdE da Habilidade infligem 15% a mais de <color=#99FFFFFF>Dano Cryo</color> CRIT.
+Reclusão
+Aumenta o nível de <color=#FFD780FF>Invocação Espiritual</color> em 3. Nível máximo é 15.
+Clarividência
+Personagens que estejam sob o efeito de <color=#FFD780FF>Pena Gelada</color> de Shenhe farão com que, ao desencadearem o Dano Bônus de Pena Gelada, Shenhe obtenha uma carga de Firmamento Gelado: · Quando Shenhe lançar <color=#FFD780FF>Invocação Espiritual</color>, ela consumirá todos os Firmamentos Gelados, e de acordo com as cargas eliminadas, aumentará o Dano de Invocação Espiritual em 5% por cada carga consumida; · Esse efeito pode ser acumulado em até 50 vezes por 60s.
+Divinização
+Aumenta o nível de <color=#FFD780FF>Encantamento da Donzela Divina</color> em 3. Nível máximo de elevação é 15.
+Abandono Místico
+Quando personagens desencadeiam os efeitos de <color=#FFD780FF>Pena Gelada</color> com Ataques Normais e Ataques Carregados, as cargas de Pena Gelada não serão consumidas.

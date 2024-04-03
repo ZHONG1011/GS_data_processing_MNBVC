@@ -1,0 +1,12 @@
+Circuito Infinito
+Lisa regenera 2 de Energia para cada oponente atingido ao manter o <color=#FFD780FF>Arco Violeta</color> pressionado. É possível regenerar um máximo de 10 de Energia desta maneira por vez.
+Campo Eletromagnético
+Mantendo pressionado o <color=#FFD780FF>Arco Violeta</color> possui os seguintes efeitos: Aumenta a DEF em 25% Aumenta a RES a interrupção de Lisa.
+Relâmpago Ressonante
+Aumenta o nível da <color=#FFD780FF>Rosa do Relâmpago</color> em 3. O nível máximo de elevação é 15.
+Erupção de Plasma
+Aumenta o número de raios lançados pela <color=#FFD780FF>Rosa do Relâmpago</color> em 1 a 3.
+Eletrocutar
+Aumenta o nível do <color=#FFD780FF>Arco Violeta</color> em 3. O nível máximo de elevação é 15.
+Bruxa Pulsante
+Quando a Lisa entra em campo, ela aplica 3 cargas do estado de Condução do <color=#FFD780FF>Arco Violeta</color> nos inimigos ao redor. Este efeito pode ser ativado uma vez a cada 5s.

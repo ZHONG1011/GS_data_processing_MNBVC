@@ -1,0 +1,12 @@
+Fragmentos Perfurantes
+Ao acertar um Ataque Normal, causará Dano de AdE.
+Efeito de Choque
+Quando a <color=#FFD780FF>Tela de Jade</color> for quebrada, o tempo de recarga é redefinido. Este efeito pode ser ativado uma vez a cada 6s.
+Majestosa seja a Formação das Estrelas
+Aumenta o nível do <color=#FFD780FF>Quebrador de Estrelas</color> em 3. O nível máximo da elevação é 15.
+Requintado seja o Jade, brilhando por todo lado
+A <color=#FFD780FF>Tela de Jade</color> aumenta a RES Elemental dos personagens próximos em 10%.
+Invencível seja a Tela de Jade
+Aumenta o nível da <color=#FFD780FF>Tela de Jade</color> em 3. O nível máximo de elevação é 15.
+Grandiosas sejam as Sete Estrelas
+Quando o <color=#FFD780FF>Quebrador de Estrelas</color> for usado, Ningguang ganha 7 Jades Estelares.

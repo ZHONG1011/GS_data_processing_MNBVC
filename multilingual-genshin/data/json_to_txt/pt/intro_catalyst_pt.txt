@@ -1,0 +1,13 @@
+Guia de Magia
+12ª edição. Uma reedição com correção da 11ª edição e novas adições baseadas nos desenvolvimentos atuais.
+ Essa versão do Guia de Magia gerou muita controvérsia quando foi publicada. O Capítulo VII: Princípios do Elemento Anemo continha claras contradições com o senso comum, erros também podem ser observados no que concerne os princípios básicos dos elementos Hydro e Electro. Evidentemente, o livro não foi revisado por pares antes de ser publicado. De qualquer maneira, o livro ainda é o melhor guia de magia que existe. 
+Destruição de Tempestade e Maré
+Aumenta o Dano contra inimigos afetados por Hydro ou Electro em <color=#99FFFFFF>12%</color>.
+Destruição de Tempestade e Maré
+Aumenta o Dano contra inimigos afetados por Hydro ou Electro em <color=#99FFFFFF>15%</color>.
+Destruição de Tempestade e Maré
+Aumenta o Dano contra inimigos afetados por Hydro ou Electro em <color=#99FFFFFF>18%</color>.
+Destruição de Tempestade e Maré
+Aumenta o Dano contra inimigos afetados por Hydro ou Electro em <color=#99FFFFFF>21%</color>.
+Destruição de Tempestade e Maré
+Aumenta o Dano contra inimigos afetados por Hydro ou Electro em <color=#99FFFFFF>24%</color>.

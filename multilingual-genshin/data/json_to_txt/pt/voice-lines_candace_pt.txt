@@ -1,0 +1,138 @@
+Olá...
+#Bem-vind{F#a}{M#o}, Viajante cansad{F#a}{M#o} de terras distantes. As noites no deserto são cruéis. Você deveria descansar aqui essa noite. Durma bem e saiba que estou cuidando de você.
+Bate-Papo - Lança e Escudo
+Um escudo não é o bastante para proteger as coisas mais importantes. É por isso que eu também devo empunhar uma lança.
+Bate-papo - Vida
+Paz e boa saúde devem ser desfrutadas por todos... Se eu puder prover a todos uma vida assim, ficarei contente.
+Bate-Papo - Desejos
+Eu sempre busco proteger as coisas que são mais importantes, não importa o custo... mesmo que pareça fútil.
+Quando Está Chovendo...
+#Fique aquecid{F#a}{M#o}, ou pegará um resfriado.
+Quando Está Trovejando...
+O trovão urge — ele te assusta?
+Quando Está Nevando...
+Este pó estranho, é... fino, como a areia, mas branco como as nuvens e gelado como gelo...
+Quando Está Ventando...
+No deserto, uma forte ventania como essa criará uma tempestade de areia, então é sempre uma boa ideia ficar alerta.
+No Deserto...
+#Eu estou ao seu lado. Se você ainda estiver nervos{M#o}{F#a}, segure a minha mão.
+Bom Dia...
+Bom dia, Viajante. Você dormiu bem na noite passada?
+Boa Tarde...
+Já é meio-dia. O olho dourado do céu olha fixamente para baixo a essa hora... Hehe, nós deveríamos encontrar uma sombra para escapar de sua fúria.
+Boa Noite...
+O céu noturno... aquele grande dossel que desce quando a luz do dia se vai. Quem sabe quantos segredos não divulgados ele oculta...
+Boa Noite...
+Sim, está na hora de descansar. Você deveria dormir. Eu? Ainda é muito cedo. A noite é linda, mas também cheia de perigos... Preciso ficar de guarda, pelo seu bem.
+Sobre Candace — Cor dos Olhos
+...Estranho? Não sei se entendi o que você quis dizer, tanto amarelado quanto azul são cores bem normais, não são?
+Sobre Candace — Vila Aaru
+A Vila Aaru foi onde nasci e cresci. Mesmo quando eu era nova demais para entender qualquer coisa sobre o mundo, o que eu tinha certeza era de que, um dia, eu tomaria o lugar do meu avô como a protetora da nossa vila... Hoje, sou muito grata de cumprir esse dever. É o que nasci para fazer.
+Sobre Candace — Pais
+Meu pai era um estudioso da Academia. Inicialmente, ele veio para a Vila Aaru em uma viagem de pesquisa, então ele acabou conhecendo minha mãe... Quanto a ela, infelizmente, só sei das coisas que meu pai me contou. No dia que nasci, ela começou a sua jornada na noite eterna...
+Sobre Nós — Hospedagem de Convidados
+#Você sempre será {M#um convidado}{F#uma convidada} especial da Vila Aaru, não importa que dia ou hora você visite. Se você em algum momento se cansar de sua jornada, saiba que aqui, você sempre poderá encontrar descanso. A Vila Aaru sempre te receberá de braços abertos... assim como eu.
+Sobre Nós — Tesouro no Baú
+Dizem que dentro do coração de cada uma das pessoas existe uma caixa preciosa, na qual elas colocam as coisas que acham valiosas, para que sejam guardadas pelo resto de suas vidas. Meu coração guarda muitos tesouros... Gostaria de adivinhar quais seriam esses?
+Sobre a Visão...
+Quando ganhei a minha Visão, as pessoas da vila não paravam de me dizer ser uma bênção de Ahmar... mas isso não importa para mim. Prometi proteger a vila, e farei isso com ou sem uma Visão.
+Algo para Compartilhar
+Eu gosto de passar tempo na Vila Aaru. Mas todos os dias que passo aqui também é um lembrete de que se eu começar a abaixar minha guarda... cedo ou tarde, poderá chegar um dia que eu não terei mais uma vida para retornar aqui.
+Coisas Interessantes...
+#Você se deparou com Tâmaras em sua jornada? Elas são naturalmente muito doces, e os habitantes fazem uns doces muito deliciosos com elas. Se você estiver interessad{M#o}{F#a}, deveria tentar.
+Sobre a Lorde Menor Kusanali...
+Talvez seja a prova da benevolência da Arconte Dendro que eu, uma descendente de sangue de Al-Ahmar, seja capaz de viver pacificamente nessa terra. Nesse caso, sou muito grata a isso, mas... Acima de tudo, eu sou uma filha do deserto.
+Sobre Layla...
+DATA NOT FOUND
+Sobre Alhaitham...
+Um estudioso realmente inusitado, diferente de qualquer um que já conheci. Ele vê e pensa sobre as coisas da sua própria forma... Apenas espero que ele jamais empunhe sua mente afiada contra a paz da Vila Aaru.
+Sobre Cyno...
+No passado, era raro de ver o General Mahamatra da Academia desse lado da Muralha de Samiel, mas recentemente ele tem aparecido por aqui o tempo inteiro. Acredito que os Eremitas têm algumas histórias assustadoras para contar sobre ele...
+Sobre Dehya...
+Sempre que Dehya traz algum Eremita para ficar na Vila Aaru, ela sempre faz eles se comportarem. Devo dizer, faz da minha vida bem mais fácil. Ah, Dehya... Ela pode parecer problemática de início, mas a verdade é que ela é muito adorável.
+Mais Sobre Candace 一 I
+Você quer saber mais sobre mim? ...Não posso te prometer uma história incrível, mas se você insiste... Certo, vamos esperar até o anoitecer. Podemos sentar em frente a fogueira e te contarei tudo que quiser saber.
+Mais Sobre Candace 一 II
+Somos pessoas cujo deus não está mais conosco. Mentiras não são ameaças para nós... a ameaça que enfrentamos, é a perspectiva de não haver um amanhã. O caminho a nossa frente está cheio de farpas, dor em cada passo — sim, seguimos adiante nos agarrando a uma mentira, mas talvez... talvez exista mais virtude nisso do que egoistamente abraçar a verdade, e a morte junto com isso...
+Mais Sobre Candace — III
+Mesmo agora, ainda existem aqueles que acreditam que o Rei Escarlate (Rei Deshret) será revivido. Mas não é possível. O passado não é nada se não como um grão de areia, espalhado pelos quatro ventos. O melhor que podemos fazer é deixar ir, e deixar o vento carregá-lo até o local do seu descanso final.
+Mais Sobre Candace — IV
+Meu escudo? Bem, segundo o que as pessoas de fora da vila dizem, ele tem a bênção de Bennu. Com esse escudo em mãos, todos os grãos de areia são meus olhos e ouvidos, e o deserto está preparado para fazer as minhas vontades... A imaginação deles pode ir um pouco longe demais às vezes. Mas de qualquer forma, tirando isso, o principal para mim, é de que sempre funcionou direitinho.
+Mais Sobre Candace — V
+Eu adoraria olhar o seu futuro com meu olho âmbar, se eu pudesse... Algo me diz que tudo seria dourado... algo entre a cor da luz do sol e mel. Uma cor cheia de esperança. Sua jornada será bem tranquila. Estou dando a minha bênção.
+Passatempos de Candace
+Sempre adoro caminhar pela vila. Ver que tudo está bem me dá uma sensação de que... como se hoje fosse como ontem, e ontem como todos os dias anteriores... as coisas sempre foram bem confortáveis por aqui, por toda a história.
+Problemas de Candace
+Vez ou outra, alguns bandidos violentos cometem o erro de tentar perturbar a paz e tranquilidade da Vila Aaru. Me pergunto... será que persegui-los até um vale cheio de monstros um pouco... piedoso demais? O que você acha? Você tem alguma ideia melhor de como eles deveriam ser lidados?
+Comida Favorita...
+Para mim... quantidade é mais importante do que gosto quando se trata de comida. A vida no deserto usa muito mais energia do que você possa imaginar. Depois de um dia de trabalho, não existe nada mais satisfatório do que ter um jantar bem farto.
+Comida que Odeia...
+Eu não odeio, mas comparado com carne normal, comer peixe é bem irritante... Talvez seja porque não como peixe aqui no deserto, mas seja qual for o caso, não sou muito boa em remover todos esses ossinhos pontudos... Isso deve parecer ridículo para você.
+Recebendo Presentes — I
+Hmm, absolutamente incrível! Isso deve ter levado muito tempo e esforço.
+Recebendo Presentes — II
+Para alguém que passa tanto tempo na estrada, seus pratos têm um gosto tão... caseiro.
+Recebendo Presentes — III
+Talvez minha definição de "comestível" seja um pouco antiquada...
+Aniversário...
+Feliz aniversário! É incrível pensar que você nasceu nesse dia, anos atrás. Você tem um desejo de aniversário? Se ele envolver ir a algum lugar perigoso, deixe-me ir com você - serei sua protetora. Ou se você estiver procurando descansar e se revitalizar, venha até a Vila Aaru, e eu servirei as melhores carnes e bebidas que tivermos a você.
+Sentimentos sobre a Ascensão - Introdução
+Eu sinto uma nova força dentro de mim... Que ela me ajude a ser uma protetora melhor.
+Sentimentos sobre a Ascensão - Desenvolvimento
+Meu escudo fica mais firme, e minha lança mais afiada. Um é uma força imbatível, e a outra é um objeto imóvel... Ah, mas... eu nunca colocaria elas uma contra a outra.
+Sentimentos sobre a Ascensão - Auge
+Aprendi a empunhar a lança e o escudo sabendo que eu iria, um dia, precisar deles. E hoje uso essas habilidades para proteger a vila. Então, talvez essa nova força que estou ganhando no presente, está me preparando para os desafios que estão à frente no caminho.
+Sentimentos sobre a Ascensão - Conclusão
+Agora sou capaz de me aventurar a sua frente, e derrotando todos os perigos que viriam em seu caminho. Se você confia em mim, então eu lhe convido a fechar seus olhos e deixar os inimigos comigo.
+Habilidade Elemental - I
+Renda-se!
+Habilidade Elemental - II
+Fuja!
+Habilidade Elemental - III
+Venha!
+Habilidade Elemental - IV
+Prenda eles!
+Habilidade Elemental - V
+Hah, fácil demais!
+Habilidade Elemental - VI
+Fraqueza exposta!
+Supremo - I
+Ouça minhas preces!
+Supremo - II
+Conceda-nos sua bênção!
+Supremo - III
+Nós prevaleceremos!
+Abrir Baú do Tesouro - I
+Estes parecem... surpreendentemente úteis.
+Abrir Baú do Tesouro - II
+O que você acha? Algo chamou sua atenção?
+Abrir Baú do Tesouro - III
+Espero que você encontre algum uso para estes.
+Vida Baixa - I
+Sem misericórdia.
+Vida Baixa - II
+Sem remorsos. Hmph.
+Vida Baixa - III
+Saia... agora...
+Aliado com Vida baixa - I
+Por favor, descanse...
+Aliado com Vida baixa - II
+Fique atrás de mim!
+Derrotado - I
+Preciso... treinar mais...
+Derrotado - II
+Eu falhei... Sinto muito...
+Derrotado - III
+O escudo... quebrou...
+Ataque Leve Sofrido - I
+Não é nada.
+Ataque Pesado Sofrido - I
+Impressionante.
+Ataque Pesado Sofrido - II
+Só um arranhão.
+Entrando na Equipe - I
+O que há de errado? Você está em perigo?
+Entrando na Equipe - II
+Fique por perto.
+Entrando na Equipe - III
+Prometo que te manterei em segurança.

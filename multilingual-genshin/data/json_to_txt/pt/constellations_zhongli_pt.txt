@@ -1,0 +1,12 @@
+Pedra, a Espinha Vertebral da Terra
+Aumenta o número máximo de Estelas de Pedra criadas pelo <color=#FFD780FF>Dominus Lapidis</color> que podem existir simultaneamente para 2.
+Pedra, a Vela de Jade
+Quando a <color=#FFD780FF>Chuva Estelar</color> cair, dará um Escudo de Jade para os personagens ao redor em campo próximos.
+Jade, Cintilando na Escuridão
+Aumenta o nível do <color=#FFD780FF>Dominus Lapidis</color> em 3. O nível máximo de elevação é 15.
+Topázio, Inquebrável e Destemido
+Aumenta a AdE da <color=#FFD780FF>Chuva Estelar</color> em 20%. Além disso, o efeito de Petrificação da Chuva Estelar é prolongado em 2s.
+Lazuli, Heraldo da Ordem
+Aumenta o nível da <color=#FFD780FF>Chuva Estelar</color> em 3. O nível máximo de elevação é 15.
+Chrysos, Recompensa do Dominador
+Quando o Escudo de Jade recebe dano, 40% do Dano recebido é convertido em Vida para o personagem atual. A regeneração não pode exceder 8% da Vida Máxima do personagem por vez.
