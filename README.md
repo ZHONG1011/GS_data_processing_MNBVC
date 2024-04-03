@@ -28,4 +28,5 @@
 - 项目数据均在multilingual-genshin/data内，其中原数据在artedata、charadata、weaponsdata这三个文件中，皆为json文件。
 - 使用jsonpath提取json数据，进行数据的分析处理，转换为txt文件输出。
 - 将数据转换为jsonl格式输出。
+
 如果希望探索更多的内容，我认为genshin-db项目中的内容是比较全面的，欢迎补充。
