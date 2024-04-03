@@ -1,0 +1,164 @@
+Première rencontre...
+Bien le bonjour, je suis Tartaglia, 11e Exécuteur des Fatui. Et vous êtes une personne qui gagnerait à nous rejoindre. Soyons amis !
+Bavardage - Oisiveté
+Ce n'est pas en restant plantés là que des adversaires dignes de ce nom se montreront.
+Bavardage - Compétition
+Avez-vous affronté un adversaire de taille récemment ?
+Bavardage - Fatui
+Je me demande à quoi sont occupés les autres Exécuteurs ? Bah, ils sont sûrement en train de comploter et de faire des plans sur la comète, comme d'habitude.
+Bavardage - Snezhnaya
+On serait déjà gelés comme des glaçons à discuter au milieu de la neige à Snezhnaya, hahaha.
+Après la pluie...
+Le bruit de la pluie qui tombe dans l'eau effraie les poissons. C'est mieux d'attendre que l'averse passe pour faire de bonnes prises.
+Quand il neige - Pays étranger
+Hahaha, il neige même ici ?
+Quand il neige - Snezhnaya
+Eh bien, il y en a de la neige ! Le monde est recouvert de blanc, comme sous la lueur de la lune. Un canvas parfait pour un massacre.
+Quand le vent souffle...
+Ah, la douce odeur du chaos que le vent transporte...
+Le vent souffle fort - Pays étranger
+Quel coup de vent majestueux !
+Le vent souffle fort - Snezhnaya
+Le vent imprègne tout, purifiant corps et esprit. Excellent.
+Au réveil...
+Bien le bonjour ! Vous avez l'air en forme aujourd'hui, je vois.
+À l'heure du déjeuner...
+Vous m'avez l'air en forme. Que diriez-vous d'un duel ?
+Le soir...
+Ça fait du bien de manger. Maintenant, un peu d'exercice pour digérer !
+La nuit...
+Je n'ai pas vu cette journée passer. À demain !
+À propos de Tartaglia...
+Un guerrier doit toujours être prêt à affronter n'importe quel défi avec sa lame. Le résultat de la bataille importe peu ; ce qui compte, c'est apprendre de son expérience.
+À propos de nous - Camarades
+Les Onze doivent déjà être au courant de nos affaires. Oh, comme j'adorerais voir la tête qu'ils font... Hahaha...
+À propos de nous - Arsenal
+L'arc est l'arme avec laquelle je suis le plus faible... Et c'est précisément pourquoi je me dois de le maîtriser !
+À propos de nous - Survie
+Vous renfermez de tels pouvoirs sans posséder d'œil divin... J'ai vraiment hâte de voir ce que vous avez en réserve... Voyons voir jusqu'où vous pouvez aller ! Et n'allez pas mourir avant de tout donner pendant notre bataille ! Je ne le permettrai pas !
+À propos de nous - Invitation
+Que diriez-vous de rejoindre les Fatui ? Hum, en fait, oubliez ça. Vos talents alliés aux miens suffiraient à venir à bout des onze sans problème. Je ne voudrais pas rater une telle occasion.
+À propos de l'œil divin...
+Tant que ça me rend plus fort, je suis partant. L'œil divin ? Je prends ! L'œil maléfique ? Sans hésiter ! Les enseignements hérétiques de l'Abîme ? C'est parti !
+Quelque chose à partager ?
+La neige, blanche comme les os des cadavres, dévore la vie sans laisser aucune trace. C'est l'ennemi invisible contre lequel nous combattons chaque jour.
+Détails intéressants...
+#Une fois, je me suis aventuré profondément dans des profondeurs, et je me suis retrouvé nez à nez avec une énorme bête. Je ne connais pas son nom... Tout ce que je sais, c'est que son regard m'a glacé jusqu'aux os. Mais entendez mes paroles : un jour, j'y retournerai et je décapiterai cette bête, et vous, mon {M#ami}{F#amie}, en serez le témoin !
+À propos de Skirk...
+Cela fait des années que je n'ai pas vu mon maître. J'espère que la prochaine fois que nous nous rencontrerons, je pourrai au moins la forcer à utiliser ses deux mains pour me combattre...
+À propos de Zhongli – Réflexion
+Cet homme renferme une force bien plus grande qu'il n'y paraît. Quant à l'étendue de sa puissance... Hum, j'ai vraiment hâte.
+À propos de Zhongli – Défi
+Comment se porte le sieur Zhongli ? Pas trop mal ? Il semble bien s'adapter à sa nouvelle vie de mortel. Bon sang... Il m'a vraiment bien eu ! Je dois lui mettre une raclée !  Quoi ? Je ne fais pas le poids contre lui ? Hahaha...
+À propos de la Tsarine...
+Son Altesse la Tsarine est une personne très douce... Trop douce, en fait, et c'est pourquoi elle a dû s'endurcir. De même, si elle a déclaré la guerre au monde entier, c'est parce qu'elle rêve de paix. Et comme elle s'est faite ennemie du monde, nous avons l'occasion d'être amis.
+À propos de Varka...
+Varka ? Rien que l'idée de me mesurer au plus puissant des chevaliers de l'Ordre de Favonius m'excite ! Quelle chance de vivre dans le même monde qu'un adversaire pareil !
+À propos de Pierro...
+Il est le tout premier Exécuteur des Fatui, et aujourd'hui, c'est notre chef. Il n'apparaît que lors des grandes occasions. Quant à ce qu'il a accompli... Pour être honnête, je ne m'en soucie pas vraiment. Je dois ma loyauté ainsi que ma dévotion à la Tsarine et à personne d'autre.
+À propos de Capitano...
+Je l'ai déjà vu au combat, et quel spectacle c'était. Je dois sans doute être de rang trop bas pour qu'il puisse me remarquer. Enfin bon, il ne reconnaît peut-être pas encore ma force, mais un jour, je lui montrerai de quoi je suis capable.
+À propos de Dottore...
+J'ai entendu dire qu'il a pris des parties de lui-même à différents âges pour en faire des prothèses qui ont chacune un rôle particulier. Je sais, mes camarades sont un peu bizarres. Maintenant que j'y pense, si je rencontrais ma propre prothèse... Ha, il faudrait que je me batte avec elle pour décider de qui d'entre nous survivra.
+À propos de Columbina...
+Les Exécuteurs des Fatui sont classés selon leur force, j'ignore pourquoi cette fille est numéro 3. Si j'en avais l'occasion, j'aimerais pouvoir me mesurer à tous les Exécuteurs qui sont d'un rang supérieur au mien, pourtant, je n'ai pas très envie de me confronter à elle... Il y a quelque chose qui cloche avec elle. Bref, tu devrais faire attention avec elle.
+À propos d'Arlecchino...
+Je n'ai rien contre les gens qui ont leurs propres idées. Après tout, si j'ai rejoint les Fatui, c'est bien parce que je voulais avoir plus d'occasions de me battre. Par contre, elle, je ne l'apprécie pas. Si la trahison pouvait lui apporter quelque avantage, elle n'aurait aucun scrupule à asséner un coup d'épée à Son Altesse la Tsarine. Elle n'est que folie.
+À propos de Pulcinella...
+Je ne sais pas quelles sont ses motivations, mais il semble sincèrement vouloir m'aider. Il me traite comme un membre de sa famille. Oh, en parlant de famille, Tonia et Teucer me parlent toujours dans leurs lettres des pâtisseries et autres cadeaux qu'il leur apporte. Cela montre qu'il a tenu sa promesse de prendre soin de ma famille alors que j'étais loin de Snezhnaya.
+À propos de Sandrone...
+Elle semble toujours absorbée par ses recherches. Hmm... Je me demande si ces machines ont quelque chose à voir avec elle ? En tout cas, je ne l'ai rencontrée que quelques fois, mais à chaque fois, on aurait dit qu'elle voulait me tuer. Je n'ai aucune idée de ce que j'ai pu faire pour l'énerver, cependant.
+À propos de Pantalone...
+Oh, ce type est ambitieux, il a la tête pleine de plans grandioses. Je ne comprends pas un mot de ce qu'il dit quand il commence à parler de ses théories... Enfin, tant qu'il garde nos réserves d'argent bien remplies, je ne me plains pas.
+À propos de Signora...
+Je ne me suis jamais entendu avec elle, tu le sais bien. Je suppose qu'il n'y a pas grand-chose d'autre à dire sur elle à ce stade. Quand on est Exécuteur, on doit accepter que la mort puisse survenir à tout moment... Mais ne t'inquiète pas pour moi. Quoi qu'il arrive, je ferai tout ce qu'il faut pour rester en vie.
+À propos de Scaramuccia...
+On a perdu contact avec lui depuis qu'il a emporté le Gnosis. Il va encore falloir qu'on le traque pour le récupérer. En vérité, ça ne me dérange pas, ça me permet de voyager partout. Je me demande si je te rencontrerai quelque part en chemin ?
+Connaître Tartaglia (1)
+#Souvenez-vous, l'{M#ami}{F#amie}, un jour, je conquerrai le monde !
+Connaître Tartaglia (2)
+Affrontez-moi en personne, d'homme à homme, et j'aurai toujours une chance de victoire. Et il en va de même si vous êtes une divinité ou un monstre de l'Abîme. Mais les Onze ? Ils préfèrent leurs manigances et leurs complots... Cela explique qu'on ne s'entende guère.
+Connaître Tartaglia (3)
+Aussi loin que soit ma patrie, nous sommes tous sous le même ciel. Cette lune blanche comme la neige... Ma famille aussi peut la contempler. J'espère que mes jeunes frères et sœurs vont bien... Et j'espère aussi qu'ils sont devenus de redoutables guerriers.
+Connaître Tartaglia (4)
+N'oubliez pas : pas la peine de crier des âneries dans le feu du combat. Ça sonne peut-être bien, mais si vous y réfléchissez, ça ne veut rien dire... Je parle de répliques comme « Je suis en feu ! »... C'est la dernière chose qu'on veut entendre. Le feu ne laisse que des cendres, et il faut survivre, quoi qu'il advienne.
+Connaître Tartaglia (5)
+#Comme le temps passe vite... Un jour, vous me verrez conquérir le monde et piétiner les trônes des divinités ! Alors, en attendant... Ne mourez pas, l'{M#ami}{F#amie} ! Restez en vie !
+Les loisirs de Tartaglia...
+La pêche sur glace et le combat reposent sur les mêmes principes ; la patience et la prise de décision en sont des éléments clés. Cela dit, je suppose qu'on peut dire la même chose pour tout dans la vie...
+Les problèmes de Tartaglia...
+Ah ? Ce qui me préoccupe ? Hum, à dire vrai, je m'amuse trop à voyager avec vous et à tuer tous les ennemis de taille pour m'attarder sur des questions aussi insignifiantes.
+Plats préférés...
+Ce monde regorge de plats délicieux permettant de se repaître... Sans oublier tous ces combats captivants dans lesquels s'enivrer. Que la vie est belle !
+Plats détestés...
+La nourriture est comme une arme. Un vrai guerrier ne se plaint jamais de l'arme qu'il trouve, ni de la nourriture qu'il mange. Et vous devriez en faire de même.
+Cadeau reçu (1)
+Manger de bonnes choses ne manque jamais de me rendre très heureux. Comment puis-je te remercier ?
+Cadeau reçu (2)
+#Tu t'es bien {M#amélioré}{F#améliorée} en cuisine. Tu te serais {M#entraîné}{F#entraînée} sans relâche pendant tout ce temps ?
+Cadeau reçu (3)
+Le goût est assez inattendu... D'accord, j'en reprends pour réessayer.
+Anniversaire...
+#Joyeux anniversaire, l'{M#ami}{F#amie} ! Quelqu'un veut se battre ? Dites-le-moi, je me ferai un plaisir de vous aider...
+Affinité faible
+Oh, je me sens un peu plus fort ! Bon, est-ce qu'il y a quelqu'un sur qui essayer ça...
+Affinité moyenne
+« La force d'un guerrier est comme un dôme. Plus le dôme est grand, plus il peut accommoder d'adversaires. » Qui est-ce qui a dit ça déjà...
+Affinité élevée
+#Bravo, l'{M#ami}{F#amie} ! Grâce à votre aide, je fais un pas de plus vers mon objectif de conquête du monde ! Même la Tsarine n'aurait jamais imaginé que je puisse atteindre ce stade.
+Affinité max
+N'oubliez pas vous aussi de continuer à vous entraîner ! Sinon, qui restera-t-il pour me combattre à mort quand le monde sera à mes pieds ?
+Compétence élémentaire (1)
+Je te tiens !
+Compétence élémentaire (2)
+Ha !
+Compétence élémentaire (3)
+Puissant comme la marée déchaînée !
+Compétence élémentaire (4)
+Allez !
+Compétence élémentaire (5)
+Ensuite...
+Compétence élémentaire (6)
+Ouh...
+Déchaînement élémentaire (1)
+Contre-courant !
+Déchaînement élémentaire (2)
+Tu ne m'échapperas pas !
+Déchaînement élémentaire (3)
+Pas très prudent de se relâcher comme ça !
+Déchaînement élémentaire (4)
+Préparez-vous, ça va faire mal !
+Début de sprint (1)
+Pas de temps à perdre.
+Utilisation de planeur (1)
+Hé, ça fait du bien.
+Ouverture de coffre (1)
+Bien ! Voilà qui me plaît !
+Ouverture de coffre (2)
+Pas mal... Pas mal du tout !
+Ouverture de coffre (3)
+Il ne me reste plus qu'à mettre la main sur le reste !
+PV faibles (1)
+Eh bien, ça devient intéressant.
+PV faibles (2)
+Pas mal !
+PV faibles (3)
+La mort approche. Il est pour moi de montrer ce que je sais faire !
+Compagnon avec PV faibles (1)
+Quel est le souci ? Un manque d'entraînement ?
+Compagnon avec PV faibles (2)
+Place ! C'est mon tour.
+K.O. (1)
+Comment... Je viens de...
+K.O. (2)
+J'ai fait une erreur...
+K.O. (3)
+Je suis... plutôt impressionné...
+Attaque puissante subie (1)
+Quelle erreur d'amateur...
+Ajout dans l'équipe (1)
+Où sont les ennemis ?
+Ajout dans l'équipe (2)
+Garde bien les yeux ouverts !
+Ajout dans l'équipe (3)
+Allez, ne me fais pas attendre !

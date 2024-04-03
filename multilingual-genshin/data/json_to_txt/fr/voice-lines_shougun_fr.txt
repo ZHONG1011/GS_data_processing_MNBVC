@@ -1,0 +1,148 @@
+Première rencontre...
+Des salutations ne sont pas nécessaires. Le prestige de mon statut ne doit pas transparaître lorsque nous évoluons parmi le peuple. Je reconnais que tu possèdes des compétences exceptionnelles, tu feras donc office de garde. Ne t'en fais pas, en cas de danger, je m'en occupe.
+Bavardage - Oisiveté
+L'oisiveté est inutile. Hmm !
+Bavardage - Le monde des mortels
+Le monde demeure inchangé à travers les millénaires. La vie humaine est comme la rosée du matin ou une bulle à la surface de l'eau. Éphémère.
+Bavardage - Beauté du monde
+La beauté de ce monde n'est qu'une toile de fond en mouvement perpétuel. Je me tiens devant elle, immuable.
+Quand il pleut...
+Une petite pluie n'est pas une tempête. Il faut du tonnerre pour cela.
+Quand le tonnerre gronde...
+#Eh bien, ne sois pas {M#effrayé}{F#effrayée}. Après tout, tu es en présence de la plus majestueuse et terrifiante incarnation du tonnerre de tout Teyvat.
+Quand il neige...
+Le Shogun de l'hiver approche.
+Quand il fait beau...
+Un ciel dégagé ne peut occulter la brillance du tonnerre. Un éclair divin peut frapper même lorsqu'il ne pleut pas. Tu vois cet arbre là-bas ? Tu comprends où je veux en venir ? Tu n'as pas besoin d'une démonstration ? Très bien.
+Au réveil...
+Bâiller sans se couvrir la bouche ? C'est très grossier. Je peux faire l'impasse sur ton impolitesse cette fois. Bonjour à toi aussi.
+À l'heure du déjeuner...
+Ah, j'aimerais manger une petite douceur. Comment ça, non ? Que veux-tu dire, « Ce n'est pas l'heure du dessert » ? C'est parce que je suis la Shogun qu'ils m'ont fait plaisir précédemment ? Intéressant.
+Le soir...
+#Connais-tu la vérité derrière les étoiles filantes la nuit ? Elles ne sont que des éclats de lumière éphémère. Oh, tu en étais une auparavant ? Tu es {M#un}{F#une} Tengu ?
+La nuit...
+J'ordonne au tonnerre des quatre coins du monde de s'apaiser. Repose-toi bien cette nuit.
+À propos de la Shogun Raiden - Fugacité
+Le tonnerre gronde et l'éclair illumine. Tellement éphémères. Voilà pourquoi il est souhaitable d'atteindre l'éternité. Non, voilà pourquoi il est nécessaire de l'atteindre.
+À propos de la Shogun Raiden - Éternité
+L'érosion est une chose terrible. La fonction de ce corps est de résister à l'usure, afin que celle en moi puisse atteindre l'éternité.
+À propos de nous - Okuzumeshuu
+Je te déclare à mon service. En d'autres mots, d'après mon jugement, tu seras utile au Shogunat et me sera fidèle.
+#À propos de nous - Protect{F#rice}{M#eur}
+Même si tu fais office de garde pendant notre voyage, tu n'as pas besoin de me protéger. La constitution de la Shogun est plutôt solide. Quand bien même elle viendrait à se briser, il suffira de la remplacer. En cas de danger, tu peux l'envoyer en première ligne.
+À propos de nous - Héritage
+L'art du maniement de la naginata et de l'épée, tout comme leur technique de forge, trouvent leurs origines auprès de moi. Par la suite, de nombreuses techniques ont émergé avec leurs particularités respectives.  Que dirais-tu de croiser le fer à nouveau ? Si tu t'en sors indemne, je te laisserai fonder ta propre école d'arts martiaux à Inazuma. Ah, la volonté de s'améliorer et d'évoluer est vraiment imparable.
+À propos de l'œil divin...
+Vraiment ? Depuis tout ce temps, aucun nouvel œil divin Électro n'est apparu dans le monde extérieur ? Je ne peux pas m'exprimer librement en raison de certaines contraintes, cependant... L'octroi ou le retrait d'un œil divin ne relève pas de moi. La clé réside dans l'ambition des gens, mais ce n'est pas tout...
+Quelque chose à partager ?
+Non, je n'ai rien à partager. Mais toi... Comment est-il possible que tu utilises l'énergie élémentaire sans l'aide d'un œil divin ? Éclaire ma lanterne.
+Détails intéressants...
+Bien que son corps ait disparu, elle est devenue le cerisier sacré. C'est aussi une forme d'éternité.
+À propos de Yae Miko...
+Ah, cette femme... Au départ, c'était le genre de personne facile à amadouer grâce à du tofu frit. Je suis soulagée de voir qu'elle est devenue pleine de ressources. Je dois cependant avouer que je suis assez contrariée d'avoir été la cible de ses manigances. Je sais qu'il en allait de mon propre bien, mais je crains qu'elle ne se moque de moi lors de notre prochaine rencontre... Peut-être devrais-je prendre l'initiative et attaquer la première ? Elle esquiverait de toute manière.
+À propos de Kamisato Ayato...
+Les Kamisato... Un des plus illustres clans d'Inazuma. Malgré les agissements d'Ayato envers les affaires des Trois Commissions, il demeure un sujet loyal. Ses méfaits peuvent être pardonnés.
+À propos de Kamisato Ayaka...
+Les Kamisato... Un des plus illustres clans d'Inazuma. Hein ? Ce sont les paroles exactes de la Shogun ? Eh bien, Ayaka elle aussi excelle dans l'art de l'épée.
+À propos de Kujou Sara...
+Fidèle et droite, ainsi qu'une guerrière accomplie. Elle mérite le titre d'héroïne. Grâce à une telle héritière, la prospérité du Clan Kujou est assurée.
+À propos de Yoimiya...
+Qui donc ? Ah oui, l'artificière. Une créatrice d'illusions éphémères, éprise du monde de l'imaginaire. Elle fait pourtant partie de mes sujets.  Hmm ? Un feu d'artifice a été lancé depuis la Commission administrative ? Par qui, elle ?
+À propos de Thomas...
+Je ne peux pas nier que je suis en quelque sorte impliquée dans les événements qui l'ont mené à se retrouver presque privé de son œil divin. Pour être franche, je pense que la Shogun est celle qui devrait lui présenter des excuses... Bon, très bien, je vais y réfléchir.
+À propos de Sangonomiya Kokomi...
+En effet, c'est moi qui ai terrassé Orobashi. Mais j'ai malgré tout autorisé le peuple de Sangonomiya à continuer de vénérer leur Divinité des tréfonds, afin qu'ils continuent d'apporter à cette dernière des offrandes. À présent, Sangonomiya a détruit l'autel de Narukami de la région et se rebelle contre le Shogunat. En tant que Prêtresse divine représentant la Divinité des tréfonds, c'est elle qui doit être tenue responsable.
+À propos de Kunikuzushi...
+Il est une des conséquences découlant de la création de la Shogun. Peut-être est-ce car j'ai le sentiment de lui devoir quelque chose, mais je ne souhaite pas exercer de contrôle sur lui.
+À propos d'Arataki Itto...
+Qui ?
+À propos de Morax...
+J'ai eu l'occasion de prendre part à une célébration en sa compagnie, alors que je n'étais encore qu'une guerrière de l'ombre assistant à un banquet des dieux. Il a fait son choix ? Je pense cependant que son histoire est loin d'être terminée.
+À propos de Venti...
+C'est le nom par lequel se fait appeler l'Archon Anémo aujourd'hui ? Pour être franche, dès notre première rencontre, j'ai eu le sentiment que nous ne nous entendrions guère. De plus, il boit vraiment beaucoup.
+Connaître la Shogun Raiden (1)
+Pose ta question et va à l'essentiel.
+Connaître la Shogun Raiden (2)
+Les jours de tempête, le peuple d'Inazuma prononce les mots « kuwabara, kuwabara », pour se protéger du danger. Tu n'as rien à craindre des orages invoqués par ma personne, ils ne te feront aucun mal. Je ne peux cependant rien te garantir quant à ceux qui se produisent de manière naturelle.
+Connaître Ei (3)
+Ce qui est raconté dans le livre « Contes précieux » est en grande partie véridique. À cette époque, elle était occupée avec les affaires de l'île. En tant que sa guerrière de l'ombre, j'ai agi en son nom et j'ai rejoint les troupes parties pacifier Watatsumi. Après cela, le reste n'est qu'une sorte de vœu pieux. Je n'étais à l'époque qu'une artiste martiale, absorbée par le combat. Je n'étais pas animée par un sentiment de vertu pour guider le peuple.
+Connaître Ei (4)
+Il est possible que ma poursuite de l'éternité soit une forme d'échappatoire. En fin de compte, la méthode que j'ai employée est similaire à celle d'une tortue qui se replie dans sa carapace. Pourtant, les tortues ont toujours été symbole de longévité. Peut-être qu'il nous faut suivre leur exemple pour atteindre l'éternité.
+Connaître Ei (5)
+Si j'ai peur, c'est à cause de ce dont j'ai été témoin il y a de ça cinq cents ans : sa disparition et cette chose. Mais, si c'était toi... tu pourrais protéger tout le monde. Si c'était toi... tu aurais réussi à sauver le monde. Tout comme je chéris mes souvenirs d'Inazuma, tant que tu te souviens de moi, je vivrai pour toujours.
+Les loisirs de la Shogun Raiden...
+Quelle question stupide. Il n'existe que deux types de choses : les choses à faire et celles à ne pas faire.
+Les problèmes d'Ei...
+Ne me demande surtout pas de cuisiner. Je peux faire tout ce que tu veux, mais pas ça.
+Plats préférés...
+N'écoute pas la Shogun. Les desserts, bien sûr ! Les caries, ce n'est rien, ça. Les dents, ça se remplace. Je ne vois pas en quoi les desserts formeraient un obstacle à la poursuite de l'éternité.
+Plats détestés...
+Question idiote. Il n'y a que deux types d'aliments : ceux qui nourrissent le corps et ceux qui lui nuisent.
+Cadeau reçu (1)
+C'est une saveur qui m'est familière. Pas mal.
+Cadeau reçu (2)
+Pose ça ici, je vais goûter.
+Cadeau reçu (3)
+Ce plat pourrait endommager le fonctionnement de mon organisme, reprends-le.
+Cadeau reçu (4)
+C'est un plat délicieux. Je me sens aussi plus détendue grâce à lui, merci.
+Cadeau reçu (5)
+Ça m'a l'air délicieux, comment as-tu fait ?
+Cadeau reçu (6)
+Excuse-moi, mais je dois refuser.
+Jour de naissance...
+Aujourd'hui est le jour de ta création ? Reviens en ville avec moi. Je lirai un discours pour toi devant tous mes sujets. Comment ? Tu trouves cela embarrassant ? Bon, très bien.
+Anniversaire...
+Joyeux anniversaire ! Célébrons-le ensemble, créons des souvenirs inoubliables pour l'année à venir jusqu'à l'année prochaine, et ainsi de suite. Ainsi, tu posséderas de la joie pour l'éternité.
+Affinité faible
+La phase initiale de mon art, appelée « Shoden », comprend l'étude du Jutsu du tachi à neuf voies et le maniement rudimentaire de la naginata. Il n'y a pas de différence majeure avec les autres courants à ce stade. Je dirais plutôt que ce sont eux qui ne diffèrent guère du mien.
+Affinité moyenne
+Dans la phase intermédiaire de mon art, appelée « Chuden », le Jutsu du tachi se concentre sur différentes postures et variations, ainsi que l'apprentissage des coups et revers à la naginata.
+Affinité élevée
+La phase finale de mon art, appelée « Kaiden », implique un apprentissage des techniques les plus approfondies. Inévitablement, ces dernières sont liées au pouvoir élémentaire, rendant la tâche compliquée pour le commun des mortels. La plupart de ceux qui pratiquent d'autres formes d'art en sont incapables.
+Affinité max
+La plus approfondie des techniques est appelée « Kendo d'insouciance », un art sans précédent. Avec toi comme partenaire d'entraînement, je vais pouvoir la perfectionner davantage.
+Compétence élémentaire (1)
+Brille !
+Compétence élémentaire (2)
+Tu ne peux m'échapper !
+Compétence élémentaire (3)
+Illusion brisée !
+Déchaînement élémentaire (1)
+Sombre dans l'oubli !
+Déchaînement élémentaire (2)
+Tu périras ici et maintenant !
+Déchaînement élémentaire (3)
+Inazuma est éternelle !
+Ouverture de coffre (1)
+Prends-les, je n'en ai pas besoin.
+Ouverture de coffre (2)
+... Une distraction momentanée.
+Ouverture de coffre (3)
+Hmm ?
+PV faibles (1)
+... Je transcende toutes les contraintes.
+PV faibles (2)
+... J'élimine toute menace.
+PV faibles (3)
+... Je supprime tous les obstacles.
+Compagnon avec PV faibles (1)
+Repliez-vous et attendez mes ordres.
+Compagnon avec PV faibles (2)
+Retirez-vous.
+K.O. (1)
+Le monde mortel est un rêve fugace...
+K.O. (2)
+Je me détache du monde...
+K.O. (3)
+Le tonnerre tombe dans le silence...
+Attaque puissante subie (1)
+Quelle insolence !
+Attaque puissante subie (2)
+C'est absurde !
+Ajout dans l'équipe (1)
+Quelle est la situation ?
+Ajout dans l'équipe (2)
+Reste près de moi et tu vivras.
+Ajout dans l'équipe (3)
+La campagne commence.

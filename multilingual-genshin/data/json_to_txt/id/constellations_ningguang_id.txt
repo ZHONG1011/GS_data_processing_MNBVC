@@ -1,0 +1,12 @@
+Piercing Fragments
+Saat Normal Attack mengenai musuh, mengakibatkan DMG Area.
+Shock Effect
+Saat <color=#FFD780FF>Jade Screen</color> pecah, CD skill akan selesai. Dapat terpicu setiap 6 detik.
+Majesty be the Array of Stars
+Meningkatkan 3 level <color=#FFD780FF>Starshatter</color>. Maksimum: Lv. 15.
+Exquisite be the Jade, Outshining All Beneath
+<color=#FFD780FF>Jade Screen</color> meningkatkan Elemental RES karakter di sekitar sebanyak 10%.
+Invincible be the Jade Screen
+Meningkatkan 3 level <color=#FFD780FF>Jade Screen</color>. Maksimum: Lv. 15.
+Grandeur be the Seven Stars
+Ningguang akan mendapatkan 7 Star Jade ketika <color=#FFD780FF>Starshatter</color> digunakan.

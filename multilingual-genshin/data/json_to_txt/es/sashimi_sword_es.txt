@@ -1,0 +1,13 @@
+Hoja de Filetear
+Un cuchillo afilado con una larga hoja.
+ Se dice que, antiguamente, el pez ticker era de los favoritos entre la gente de Liyue. Finalmente, la gente acabó llamándolo simplemente “pez tigre”. En la actualidad, es difícil encontrarse con uno, pero este animal se ha vuelto sinónimo de un gran festín en Liyue. 
+Determinación
+Al golpear a un enemigo con un ataque, hay un 50% de probabilidad de infligir un <color=#99FFFFFF>240%</color> de daño a un solo enemigo. Este efecto puede ocurrir una vez cada <color=#99FFFFFF>15</color> s.
+Determinación
+Al golpear a un enemigo con un ataque, hay un 50% de probabilidad de infligir un <color=#99FFFFFF>280%</color> de daño a un solo enemigo. Este efecto puede ocurrir una vez cada <color=#99FFFFFF>14</color> s.
+Determinación
+Al golpear a un enemigo con un ataque, hay un 50% de probabilidad de infligir un <color=#99FFFFFF>320%</color> de daño a un solo enemigo. Este efecto puede ocurrir una vez cada <color=#99FFFFFF>13</color> s.
+Determinación
+Al golpear a un enemigo con un ataque, hay un 50% de probabilidad de infligir un <color=#99FFFFFF>360%</color> de daño a un solo enemigo. Este efecto puede ocurrir una vez cada <color=#99FFFFFF>12</color> s.
+Determinación
+Al golpear a un enemigo con un ataque, hay un 50% de probabilidad de infligir un <color=#99FFFFFF>400%</color> de daño a un solo enemigo. Este efecto puede ocurrir una vez cada <color=#99FFFFFF>11</color> s.

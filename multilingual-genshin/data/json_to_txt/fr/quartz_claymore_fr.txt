@@ -1,0 +1,13 @@
+Grande épée en quartz
+Une ancienne grande épée simple mais lourde sculptée et aiguisée dans un quartz noir solide, ornée de motifs dorés qui la rendent digne et élégante.
+ La Guerre des Archons faisait rage. La pierre comme épée, le rocher comme lance, l'Archon Géo transperça le démon, et écrasa les monstres. En son honneur fut forgée à Rochenoire une arme nouvelle : une épée à deux mains en quartz noir. 
+Chaleur résiduelle
+Augmente l'ATQ de <color=#99FFFFFF>20 %</color> pendant 12 s après avoir déclenché Surcharge, Fonte, Brûlure, Évaporation, Bourgeonnement ou Dispersion Pyro.
+Chaleur résiduelle
+Augmente l'ATQ de <color=#99FFFFFF>25 %</color> pendant 12 s après avoir déclenché Surcharge, Fonte, Brûlure, Évaporation, Bourgeonnement ou Dispersion Pyro.
+Chaleur résiduelle
+Augmente l'ATQ de <color=#99FFFFFF>30 %</color> pendant 12 s après avoir déclenché Surcharge, Fonte, Brûlure, Évaporation, Bourgeonnement ou Dispersion Pyro.
+Chaleur résiduelle
+Augmente l'ATQ de <color=#99FFFFFF>35 %</color> pendant 12 s après avoir déclenché Surcharge, Fonte, Brûlure, Évaporation, Bourgeonnement ou Dispersion Pyro.
+Chaleur résiduelle
+Augmente l'ATQ de <color=#99FFFFFF>40 %</color> pendant 12 s après avoir déclenché Surcharge, Fonte, Brûlure, Évaporation, Bourgeonnement ou Dispersion Pyro.

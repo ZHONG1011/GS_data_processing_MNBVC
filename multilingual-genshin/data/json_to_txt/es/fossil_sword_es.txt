@@ -1,0 +1,13 @@
+Espada de Sacrificio
+Una espada decorativa que ha sido petrificada por el tiempo. Las baratijas incrustadas en su superficie todavía son visibles. Concede al portador el poder de resistir los vientos del tiempo.
+ En el acantilado frente al mar oriental, los antepasados adoraban a los amos del tiempo y Anemo por igual. Ambos estaban unidos por la noción de que “las semillas traídas por el viento crecerán con el tiempo”. Esta espada cuenta una historia de protección para demostrar su valor. Antes era un simple accesorio, pero con el paso del tiempo su hoja adquirió filo.  Esta espada perteneció una vez a la amable gente del clan Gunnhildr. En las ceremonias de sacrificio, hacían con ella representaciones de la defensa de Mondstadt.  La ceremonia a los vientos del tiempo se dividió en tres actos. En el último, se relataba una historia sobre la protección de Mondstadt, de la vida y de la libertad.  Aunque tanto la ceremonia como su historia ya se han perdido, el clan Gunnhildr continúa actuando como guardián de Mondstadt hasta el día de hoy. 
+Serenidad
+Al hacer daño por medio de una Habilidad Elemental, hay un <color=#99FFFFFF>40%</color> de probabilidad de restablecer el TdE de esta habilidad. Este efecto puede activarse una vez cada <color=#99FFFFFF>30</color> s.
+Serenidad
+Al hacer daño por medio de una Habilidad Elemental, hay un <color=#99FFFFFF>50%</color> de probabilidad de restablecer el TdE de esta habilidad. Este efecto puede activarse una vez cada <color=#99FFFFFF>26</color> s.
+Serenidad
+Al hacer daño por medio de una Habilidad Elemental, hay un <color=#99FFFFFF>60%</color> de probabilidad de restablecer el TdE de esta habilidad. Este efecto puede activarse una vez cada <color=#99FFFFFF>22</color> s.
+Serenidad
+Al hacer daño por medio de una Habilidad Elemental, hay un <color=#99FFFFFF>70%</color> de probabilidad de restablecer el TdE de esta habilidad. Este efecto puede activarse una vez cada <color=#99FFFFFF>19</color> s.
+Serenidad
+Al hacer daño por medio de una Habilidad Elemental, hay un <color=#99FFFFFF>80%</color> de probabilidad de restablecer el TdE de esta habilidad. Este efecto puede activarse una vez cada <color=#99FFFFFF>16</color> s.

@@ -1,0 +1,148 @@
+Compétence élémentaire (1)
+Vous voulez voir un feu d'artifice ?
+Compétence élémentaire (2)
+Allumez la mèche !
+Compétence élémentaire (3)
+Attention à l'incendie ~
+Déchaînement élémentaire (1)
+Le festival est de retour !
+Déchaînement élémentaire (2)
+Voilà le poisson rouge !
+Déchaînement élémentaire (3)
+Voilà les feux d'artifice !
+Utilisation de planeur (1)
+Je vole haut !
+Ouverture de coffre (1)
+Peut-être y a-t-il des matériaux de feux d'artifice dedans ?
+Ouverture de coffre (2)
+Qu'avons-nous donc ?
+Ouverture de coffre (3)
+Oh, je veux l'ouvrir !
+PV faibles (1)
+Oh oh !
+PV faibles (2)
+Quelle honte...
+PV faibles (3)
+Soyons prudent.
+Compagnon avec PV faibles (1)
+Je suis venue aider !
+Compagnon avec PV faibles (2)
+Pas de problème, j'arrive !
+K.O. (1)
+Un faux pas et...
+K.O. (2)
+J'ai trop joué...
+K.O. (3)
+Le festival... est terminé.
+Attaque légère subie (1)
+Doucement !
+Attaque puissante subie (1)
+Ça ne compte pas !
+Ajout dans l'équipe (1)
+Ça vous dit d'organiser un festival ?
+Ajout dans l'équipe (2)
+Jouons ensemble !
+Ajout dans l'équipe (3)
+D'autres amis, ouais !
+Première rencontre...
+Bienvenue chez les Naganohara ! Je suis Yoimiya. Dites-moi si vous avez besoin de quelque chose !  Hum... Du kushikatsu et de l'omelette roulée... Stop ! Nous ne sommes pas un restaurant, mais des pyrotechniciens ! Oui, c'est ça... Nous fabriquons des feux d'artifice ! Ces choses qui éclatent dans le ciel et qui l'illuminent...
+Bavardage - Feux d'artifice
+Les feux d'artifice sont éphémères, mais l'amitié est éternelle.
+Bavardage - Raconter une histoire
+Si vous n'avez rien à faire, laissez-moi vous raconter une histoire !
+Bavardage - Poisson rouge
+Avez-vous déjà eu un poisson rouge ? Ils sont sages et mignons comme tout.
+Quand il pleut...
+Zut, les feux d'artifice sont en train de prendre l'eau ! Trouvons un abri, vite ! Ah, c'est trop tard !
+Quand il neige...
+Haha ! Regardez-moi rouler cette boule de neige !
+Il fait bon dehors...
+La chaleur envahit mon corps, c'est agréable. J'ai l'impression de flotter.
+Le vent souffle fort...
+Le vent souffle si fort ! Il renvoie ma voix !
+Au réveil...
+*bâille* Bonjour. L'air du matin est le plus frais. Respirez-le, ça vous rendra plus intelligent.
+À l'heure du déjeuner...
+Eh bien, c'est l'heure de manger. Hé... Les œufs d'aujourd'hui ont un double jaune. Héhé, c'est un signe de chance.
+Le soir...
+C'est le moment idéal pour essayer les feux d'artifice. Ils seront superbes, qu'ils explosent dans le ciel ou sur le sol. Héhé, je plaisante, je vais faire attention.
+La nuit...
+C'est l'heure du quiz ! Que ferez-vous après avoir regardé des feux d'artifice toute la journée ? La réponse est : regarder des feux d'artifice dans vos rêves, bien sûr ! Bonne nuit, à demain.
+À propos de Yoimiya - Affaires de famille
+Mon père est malentendant. Quand j'étais petite, il avait toujours le sourire, quoi que je lui dise. J'ai pensé que ça signifiait que mes paroles étaient bonnes, alors j'ai continué à parler et lui à me sourire. Ce n'est que bien plus tard que je me suis rendu compte qu'il riait parce qu'il n'entendait pas bien, mais... je continuerai à lui parler si ça le rend heureux.
+À propos de Yoimiya - Parler
+On dit que les problèmes sortent toujours de notre bouche, mais je ne m'en soucie pas, car les émotions contenues dans chaque mot ne mentent pas. Même si vous dites quelque chose qui provoque un malentendu, vous pouvez le dissiper en vous expliquant. Mais si vous ne dites rien, la personne en face n'a aucun moyen de comprendre ce que vous vouliez réellement dire et de se rapprocher de vous.
+À propos de nous - Pierre, papier, ciseaux
+Jouons à pierre, papier, ciseaux ! C'est parti : pierre, papier, ciseaux ! Ouais, j'ai gagné ! J'ai gagné ! Hein ? Je n'ai pas changé ma main en cours de route, pas du tout.
+À propos de nous - Amitié
+En réalité, ce que je fais m'importe peu, je me soucie davantage des personnes avec qui je le fais. Par exemple, faire des choses simples comme regarder le paysage ou de frapper dans une canette en votre compagnie me rend très heureuse, car je peux vous parler inlassablement.
+À propos de l'œil divin...
+Laissez-moi vous dire un secret : quand j'ai reçu mon œil divin, je m'en suis servi comme un silex pour allumer des feux d'artifice et faire bouillir de l'eau, puis je l'ai jeté dans le débarras en rentrant chez moi. Mon père l'a trouvé et m'a dit qu'il s'agissait d'un objet particulièrement précieux et que je devais en prendre soin. Haha... Heureusement qu'il n'a pas été saisi par l'Archon Électro.
+Quelque chose à partager - Festival des lanternes
+Le saviez-vous ? Beaucoup de feux d'artifice utilisés lors du Festival des lanternes de Liyue sont commandés chez nous. Je les confectionne selon la commande, puis je demande à Beidou de les livrer à Liyue par bateau. Je n'ai pas le droit d'exporter mes produits selon le décret de confinement, mais... un festival n'en est vraiment pas un sans feux d'artifice.
+Quelque chose à partager - Cycle
+« Après que les étincelles des feux d'artifice s'estompent dans le ciel, elles retombent au sol sous forme de pluie et de neige. Celles-ci nourrissent la terre et l'humanité, afin d'être envoyées vers le ciel une fois de plus pour recréer un moment magnifique. » C'est mon histoire préférée parmi les très nombreuses histoires que raconte mon père.
+Quelque chose à partager - Taches lumineuses
+Avez-vous déjà marché sur une tache lumineuse quand vous étiez enfant ? Je parle de ces taches qui apparaissent sur le sol avec la lumière du soleil qui passe à travers les feuilles des arbres. Je pensais qu'elles disparaîtraient si je marchais dessus, mais elles se déplaçaient toujours sur mes pieds. J'ai donc continué à marcher dessus pendant longtemps, en vain. Contrariée, je me suis assise sur un rocher en soupirant : « Il y existe quelque chose dans ce monde sur lequel personne ne peut marcher... »
+Détails intéressants...
+Lors d'un festival d'été, alors que je regardais les enfants pêcher des poissons rouges, accroupie à côté d'eux, une idée m'est venue à l'esprit : « Et si je fabriquais un feu d'artifice qui puisse être déclenché sur l'eau ? » C'est ainsi que mes feux d'artifice de poissons rouges sont nés ! Ils nagent, émettent des lumières multicolores et crachent des bulles... Génial, pas vrai ? Je ne pensais pas pouvoir être capable de les fabriquer, mais la vie ne cesse jamais de vous surprendre.
+À propos de Beidou...
+Beidou m'aide à livrer mes feux d'artifice depuis qu'Inazuma est confinée. Un jour, j'ai voulu lui faire une surprise, alors j'ai fabriqué un feu d'artifice en forme de bateau. Quand la Flotte du Crux s'apprêtait à larguer les amarres, il a filé vers le ciel. Les marins ont eu la peur de leur vie ! Ils avaient cru qu'un de leurs bateaux s'était envolé ! Mais Beidou a apprécié ce petit spectacle, en me disant qu'il avait tout d'une surprise agréable.
+À propos de la Shogun Raiden...
+Les feux d'artifice sont ce qu'il y a de plus éloigné de l'« éternité » recherchée par la Shogun. Elle pense probablement que leur lumière éphémère n'a pas de réelle valeur pour Inazuma. Hélas, je suppose que c'est une chose que les êtres éternels comme elle ont du mal à comprendre. Nous, mortels, avons besoin de ces instants de beauté passagers, car nous disparaîtrons nous-mêmes un jour.
+À propos de Kamisato Ayaka - Sérieux
+Nous travaillons beaucoup ensemble. Contrairement aux gens des deux autres Commissions, elle m'écoute à chaque fois et me répond sérieusement sans avoir l'air impatiente. On dirait que le mot « noble » a été inventé pour elle.
+À propos de Kamisato Ayaka - Baignade
+Après avoir discuté du festival d'été toute la soirée, j'ai invité Ayaka à prendre un bain. Mais quand elle a su qu'elle se laverait avec d'autres personnes, son visage s'est transformé en tomate ! C'est comme ça que j'ai appris que les filles de bonne famille ne pouvaient pas aller aux bains publics.
+À propos de Thomas...
+C'est un très bon orateur, chaque mot qui sort de sa bouche n'est jamais de trop. Parfois, ses phrases n'ont pas forcément de lien entre elles, mais on se rend compte progressivement que chacune est prononcée pour servir un objectif commun. C'est une approche assez... différente de la mienne. Je lui demande souvent son aide quand je rencontre des problèmes que je ne peux pas régler.
+À propos de Yae Miko...
+Lors d'un festival au sanctuaire, Ayaka m'a demandé si je pouvais préparer des feux d'artifice pour divertir la Guuji Yae. Mais... je croyais qu'elle devait rester à l'intérieur du sanctuaire pendant tout le festival ? Alors, je l'ai observée pendant tout le festival, en me demandant comment elle allait tirer les feux d'artifice. J'ai attendu, puis attendu, jusqu'à ce qu'Ayaka vienne me voir pour me dire que la Guuji Yae était très satisfaite de mon travail. Mais enfin, comment est-ce possible ? Qui était à l'intérieur du sanctuaire alors ?
+À propos d'Arataki Itto - Défis
+Oh, lui. Il a l'air effrayant, mais les enfants l'adorent. À chaque fois que nous jouons avec eux, ça se termine par un petit défi entre lui et moi. Par exemple, manger un bol de ramen le plus rapidement possible ou des prunes salées sans faire de grimace. Les enfants essaient de deviner le gagnant et nous encouragent. Du coup, je ne peux pas me permettre de perdre, pas vrai ?
+À propos d'Arataki Itto - Gang d'Arataki
+Le gang Arataki ? Hein ?! Je croyais que ce type n'avait rien à faire de ses journées ?
+À propos de Kaedehara Kazuha...
+Les gens insouciants comme moi s'expriment de manière directe, alors que ceux qui ont beaucoup de préoccupations font des allusions à d'anciens poèmes ou au paysage et parlent de fleurs, d'oiseaux, du vent et de la lune, mais jamais de la réalité à laquelle ils font face. Kazuha a sans doute vécu son lot de choses inimaginables, sans doute.
+À propos de Kujou Sara...
+À cause de problèmes liés à l'ordre public et aux risques d'incendie, je me fais souvent emmener devant la Commission administrative pour me faire réprimander. Kujou Sara est la plus rationnelle de tous ses membres. Elle écoute toujours ce que j'ai à dire avant de se prononcer. Si je n'ai vraiment rien fait de mal, elle reconnaît ma position, mais dans le cas contraire... je supplie Thomas de venir s'excuser pour moi, héhé.
+À propos de Sayu...
+Si vous la voyez, n'oubliez pas de me le dire. J'aimerais l'emmener au festival et lui faire rencontrer plein de nouveaux amis. Elle n'a jamais l'air de très bonne humeur, mais ça pourrait changer petit à petit si elle rencontre des gens avec qui s'amuser !
+À propos de Klee...
+Hmm ? Vous dites qu'il y a une petite fille à Mondstadt qui sait fabriquer des bombes ? Les bombes ne sont pas très différentes des feux d'artifice... En gros, elle pourrait être un génie en la matière ? J'aimerais pouvoir la rencontrer. *soupir* Hé, mais... c'est dangereux de laisser des enfants jouer avec des explosifs, non ? Les Mondstadtois ne s'en inquiètent pas ?
+Connaître Yoimiya (1)
+Vous voulez entendre une histoire ? Eh bien, asseyez-vous, je vais vous raconter l'histoire dont je suis la plus fière : celle de la famille Naganohara. Ce n'est pas tous les jours que vous m'entendrez conter une histoire aussi sérieuse.
+Connaître Yoimiya (2)
+Nous avons une tradition de longue date qui consiste à donner à chaque client une note de papier que seule notre famille peut lire et sur laquelle est inscrite la recette de fabrication exacte des feux d'artifice. En la lisant, un Naganohara pourra fabriquer des feux d'artifice identiques, même après dix ou cent ans.
+Connaître Yoimiya (3)
+Les plus beaux feux d'artifice créent des instants inoubliables. Les émotions passagères sont immortalisées grâce aux feux d'artifice et se transmettent sous une autre forme. Les notes que nous donnons à nos clients sont des clés qui leur permettent de commémorer leurs souvenirs heureux, dont nous sommes les gardiens.
+Connaître Yoimiya (4)
+Lors du festival d'été, des histoires émouvantes naissent à chaque instant. Les personnes qui se sont rencontrées sous les feux d'artifice grandissent, mûrissent et finissent par vieillir. Quand ils tirent les mêmes feux d'artifice que lors de leur première rencontre, le ciel reflète le même paysage après tant d'années... Les feux d'artifice ne sont pas éternels, mais les merveilleuses émotions qui y sont associées devraient être aussi éternelles qu'Inazuma.
+Connaître Yoimiya (5)
+Je pense que je ne devrais pas vous raconter la dernière histoire. À la place, j'aimerais regarder des feux d'artifice tranquillement avec vous pour m'imprégner de la beauté de cette nuit et de vos paroles. Ne vous méprenez pas : ce n'est pas la fin de notre histoire, mais plutôt son début.
+Les loisirs de Yoimiya - Jouer
+Les feux d'artifice ! Ah, ça ne compte pas ? Eh bien, voyons, hum... c'est une question difficile... J'aime parler avec mes voisins de leurs vies familiales, aller aux festivals d'été avec les enfants, nager, cueillir des fruits sauvages... Je n'arrive pas à choisir mon passe-temps préféré... Oh, je sais ! En fin de compte, ce que j'aime, c'est de passer du temps avec tout le monde !
+Les loisirs de Yoimiya - Imitation
+*pouf pouf* Hé ! Haha, je suis en train d'imiter le bruit que fait Paimon en disparaissant.
+Les problèmes de Yoimiya...
+Le roman que je suivais depuis un bon moment vient de toucher à sa fin. L'héroïne perd la mémoire et le mariage prévu n'a pas lieu... C'est si triste, pourquoi ?!
+Plats préférés...
+Je préfère les encas aux plats. Lors des festivals, je passe à tous les étals qui en proposent jusqu'à ce que je ne puisse plus en manger. Au fait, vous savez en faire ? Je vous offre des dango de ma confection en échange. Prenez les plus gros.
+Plats détestés...
+Le lait. Quand j'en bois, c'est comme s'il y avait des feux d'artifice dans mon estomac. Mais je peux manger des aliments faits avec du lait pour une raison qui m'échappe. Peut-être que les fées dans mon ventre sont plus exigeantes que celles des autres ?
+Cadeau reçu (1)
+Ouah, vous êtes balèze en cuisine, vous ! Je suis sûre que vous feriez un malheur si vous teniez un étal en plein festival !
+Cadeau reçu (2)
+#On se sent revigoré après avoir mangé un bon plat. Ce n'est qu'en étant en forme qu'on commence à raconter des histoires. Bien, je me lance en premier{NON_BREAK_SPACE}!
+Cadeau reçu (3)
+Ah, on dirait qu'un Spectre est en train de tourbillonner dans mon estomac... Ça ne va pas...
+Anniversaire...
+#Les anniversaires ne sont jamais une fête pour vous seul. Les gens qui vous apportent un gâteau, en allument les bougies et vous souhaitent le meilleur sont véritablement heureux que vous existiez. Il faut que l'ambiance soit bonne, pour que tout le monde ait l'occasion de vous remercier d'être dans leurs vies ! Alors, joyeux anniversaire ! {M#Prêt}{F#Prête} ? Je vais allumer les feux d'artifice !
+Affinité faible
+Plus haut ils volent et plus fort ils explosent !
+Affinité moyenne
+Haha ! Je vais essayer ! Tirons des feux d'artifice dans le ciel avec un arc !
+Affinité élevée
+Je ne pensais pas apprendre autant de techniques de combat avec vous, alors pourquoi ne pas me lancer à temps partiel comme aventurière en plus de mon activité de pyrotechnicienne, ou... devenir une héroïne ?
+Affinité max
+« N'ayez crainte, Yoimiya est là ! Le crime recule et la justice règne en maître ! »  Voilà comment je vais me présenter aux enfants, avec tout ce que vous m'avez appris maintenant ? C'est cool, non ? Si quelqu'un vous embête, je lui botterai les fesses !

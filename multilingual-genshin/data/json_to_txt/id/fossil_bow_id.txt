@@ -1,0 +1,13 @@
+Sacrificial Bow
+Busur berburu dekorasi yang telah membatu oleh waktu. Dekorasi yang ada di atasnya masih terlihat dengan jelas. Memberikan kekuatan melawan angin waktu bagi penggunanya.
+ Di tepi jurang yang menghadap laut Timur, para leluhur memuja Dewa Waktu dan Anemo bersama-sama. Keduanya saling berhubungan, seperti pepatah, "Anemo membawakan cerita sementara waktu memupuknya." Busur ini menceritakan kisah para perintis dan kesulitan yang mereka alami. Dahulu digunakan sebagai alat peraga dengan senar busur yang tak berguna, namun senarnya menjadi fleksibel dan menjadi kokoh seiring berjalannya waktu.  Busur ini dulunya adalah properti milik Klan Lawrence. Di masa lalu, mereka menggunakannya untuk menceritakan kembali kemenangan klan mereka atas hutan belantara yang membeku.  Adegan pertama dari upacara tersebut menceritakan kisah leluhur mereka menaklukkan tanah melalui kebijaksanaan dan kekuatan mereka. Selama sejarah panjang mereka, walaupun upacara ini telah hilang, mereka masih memainkan peran yang sama.  Namun peran ini ternodai. Lambat laun, pandangan mereka berubah dari penakluk, menjadi penguasa, menjadi raja. Lambat laun, mereka beralih ke jalan sesat dan kehilangan kasih sayang dari angin Mondstadt. 
+Composed
+Setelah Elemental Skill mengakibatkan DMG, terdapat <color=#99FFFFFF>40%</color> persentase CD Skill langsung selesai. Dapat terpicu setiap <color=#99FFFFFF>30 detik</color>.
+Composed
+Setelah Elemental Skill mengakibatkan DMG, terdapat <color=#99FFFFFF>50%</color> persentase CD Skill langsung selesai. Dapat terpicu setiap <color=#99FFFFFF>26 detik</color>.
+Composed
+Setelah Elemental Skill mengakibatkan DMG, terdapat <color=#99FFFFFF>60%</color> persentase CD Skill langsung selesai. Dapat terpicu setiap <color=#99FFFFFF>22 detik</color>.
+Composed
+Setelah Elemental Skill mengakibatkan DMG, terdapat <color=#99FFFFFF>70%</color> persentase CD Skill langsung selesai. Dapat terpicu setiap <color=#99FFFFFF>19 detik</color>.
+Composed
+Setelah Elemental Skill mengakibatkan DMG, terdapat <color=#99FFFFFF>80%</color> persentase CD Skill langsung selesai. Dapat terpicu setiap <color=#99FFFFFF>16 detik</color>.

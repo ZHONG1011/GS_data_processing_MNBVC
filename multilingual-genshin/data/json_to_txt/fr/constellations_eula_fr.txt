@@ -1,0 +1,12 @@
+Illusion des marées
+À chaque fois qu'un cumul de Cœur de glace de <color=#FFD780FF>Vortex des mers glacées</color> est consommé, Eula gagne un bonus de DGT physiques de 30 % pendant 6 s. Chaque cumul de Cœur de glace consommé prolonge la durée de l'effet de 6 s, jusqu'à un maximum de 18 s.
+Fille d'écume de mer
+Réduit le TdR de l'appui long de <color=#FFD780FF>Vortex des mers glacées</color> pour correspondre à celui de l'appui simple.
+Le sang des Lawrence
+Niveau d'aptitude <color=#FFD780FF>Lame de fond</color> +3. Niveau max : 15
+Émergence de la plèbe
+Augmente de 25 % les DGT infligés par l'épée de lumière aux ennemis dont les PV sont inférieurs à 50 %.
+Honneur de la chevalerie
+Niveau d'aptitude <color=#FFD780FF>Vortex des mers glacées</color> +3. Niveau max : 15
+Obligations aristocratiques
+Confère immédiatement 5 cumuls d'énergie à l'épée de lumière créée par <color=#FFD780FF>Lame de fond</color>. De plus, lorsque vous utilisez des attaques normales, la compétence ou le déchaînement élémentaire pour obtenir des cumuls, vous avez 50 % de chances de gagner un cumul supplémentaire.

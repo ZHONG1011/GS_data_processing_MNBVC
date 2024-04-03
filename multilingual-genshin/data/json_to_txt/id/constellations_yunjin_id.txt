@@ -1,0 +1,12 @@
+Thespian Gallop
+Mengurangi 18% CD <color=#FFD780FF>Opening Flourish</color>.
+Myriad Mise-En-Scène
+Setelah melancarkan <color=#FFD780FF>Cliffbreaker's Banner</color>, DMG Normal Attack seluruh anggota party di sekitar meningkat 15% selama 12 detik.
+Seafaring General
+Meningkatkan 3 level <color=#FFD780FF>Cliffbreaker's Banner</color>. Maksimum: Lv. 15.
+Flower and a Fighter
+Setelah Yun Jin memicu reaksi Crystallize, DEF Yun Jin meningkat 20% selama 12 detik.
+Famed Throughout the Land
+Meningkatkan 3 level <color=#FFD780FF>Opening Flourish</color>. Maksimum: Lv. 15.
+Decorous Harmony
+Meningkatkan 12% Normal ATK SPD Karakter yang berada dalam status <color=#FFD780FF>Flying Cloud Flag Formation</color>.

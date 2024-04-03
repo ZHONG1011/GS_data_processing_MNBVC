@@ -1,0 +1,12 @@
+The Law Knows No Kindness
+Saat Yanfei menggunakan Charged Attack, setiap Scarlet Seal yang terkumpul akan mengurangi 10% konsumsi stamina Charged Attack dan meningkatkan ketahanan terhadap interupsi selama Charged Attack berlangsung.
+Right of Final Interpretation
+Meningkatkan 20% CRIT Rate Charged Attack Yanfei terhadap musuh dengan HP kurang dari 50%.
+Samadhi Fire-Forged
+Meningkatkan 3 level <color=#FFD780FF>Signed Edict</color>. Maksimum: Lv. 15.
+Supreme Amnesty
+Saat <color=#FFD780FF>Done Deal</color> digunakan: Menciptakan perisai yang dapat menahan DMG hingga 45% dari Max HP Yanfei selama 15 detik. Perisai ini dapat menahan <color=#FF9999FF>Pyro DMG</color> 250% lebih efektif.
+Abiding Affidavit
+Meningkatkan 3 level <color=#FFD780FF>Done Deal</color>. Maksimum: Lv. 15.
+Extra Clause
+Meningkatkan jumlah maksimum Scarlet Seal sebanyak 1.

@@ -1,0 +1,12 @@
+Buveur de rosée
+La <color=#99FFFFFF>RÉS Cryo</color> des ennemis touchés par une flèche de givre (attaque chargée) ou par la zone de givre qui en résulte est réduite de 15 % pendant 6 s. Ganyu récupère de plus 2 pts d'énergie élémentaire lorsqu'elle touche. Ce dernier effet ne peut être déclenché qu'une fois par flèche de givre, même si la zone de givre et la flèche de givre touchent toutes les deux.
+Auspices
+Confère une utilisation supplémentaire de <color=#FFD780FF>Trace de Qilin</color>.
+Mouvement des nuages
+Niveau d'aptitude <color=#FFD780FF>Baptême céleste</color> +3. Niveau max : 15
+Chasse vers l'ouest
+Les DGT subis par les ennemis se trouvant dans la zone de <color=#FFD780FF>Baptême céleste</color> augmentent ; cet effet se cumule avec le temps. Bonus de DGT initial : 5 %. Ce bonus augmente de 5 % toutes les 3 s (cumul max : 25 %). L'effet perdure pendant 3 s après avoir quitté la zone.
+Miséricorde
+Niveau d'aptitude <color=#FFD780FF>Trace de Qilin</color> +3. Niveau max : 15
+Clémence
+La première flèche de givre libérée dans les 30 s suivant l'activation de <color=#FFD780FF>Trace de Qilin</color> ne requiert pas de charge.

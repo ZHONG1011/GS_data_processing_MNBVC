@@ -1,0 +1,13 @@
+Orbe Esmeralda
+Un catalizador tallado en jade extraído del Desfiladero Jueyun, al norte de Liyue. Es pequeño, ligero y duradero. Popularmente se conoce como “Orbe de Jade”.
+ Un catalizador ligero esculpido en jade. Es resistente y asequible, lo que lo hace muy popular. Debido a su pequeño tamaño y exquisita fabricación, la gente de Liyue comúnmente se refiere a él como “Orbe de Jade”. Además de ser muy eficaz para defenderse, también es un accesorio atractivo. 
+Rápidos
+Tras causar una reacción de Vaporización, Electrocargado, Congelación, Florecimiento o Torbellino Hydro, el ATQ aumenta en un <color=#99FFFFFF>20%</color> durante 12 s.
+Rápidos
+Tras causar una reacción de Vaporización, Electrocargado, Congelación, Florecimiento o Torbellino Hydro, el ATQ aumenta en un <color=#99FFFFFF>25%</color> durante 12 s.
+Rápidos
+Tras causar una reacción de Vaporización, Electrocargado, Congelación, Florecimiento o Torbellino Hydro, el ATQ aumenta en un <color=#99FFFFFF>30%</color> durante 12 s.
+Rápidos
+Tras causar una reacción de Vaporización, Electrocargado, Congelación, Florecimiento o Torbellino Hydro, el ATQ aumenta en un <color=#99FFFFFF>35%</color> durante 12 s.
+Rápidos
+Tras causar una reacción de Vaporización, Electrocargado, Congelación, Florecimiento o Torbellino Hydro, el ATQ aumenta en un <color=#99FFFFFF>40%</color> durante 12 s.

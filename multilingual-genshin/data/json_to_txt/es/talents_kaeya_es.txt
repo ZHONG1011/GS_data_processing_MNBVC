@@ -1,0 +1,12 @@
+Ataque Normal: Técnica de espada ceremonial
+<color=#FFD780FF>Ataque Normal</color> Realiza hasta 5 ataques rápidos.  <color=#FFD780FF>Ataque Cargado</color> Consume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado.  <color=#FFD780FF>Ataque Descendente</color> Se lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.
+Golpe de escarcha
+Lanza una ráfaga gélida que inflige <color=#99FFFFFF>Daño Cryo</color> a los enemigos frente a Kaeya.  <i>Kaeya parece amable, pero su naturaleza es la del hielo inderretible.</i>
+Vals gélido
+Al condensar la escarcha en el aire, Kaeya invoca 3 carámbanos que giran a su alrededor. Estos carámbanos seguirán al personaje e infligirán <color=#99FFFFFF>Daño Cryo</color> a los enemigos que se atraviesen.  <i>Una sonrisa encantadora, palabras bondadosas y la despiadada escarcha que yace oculta... Esas son las armas de Kaeya.</i>
+Espada de sangre fría
+Al atacar a un enemigo con <color=#FFD780FF>Golpe de escarcha</color>, Kaeya restaura su Vida una cantidad equivalente al 15% de su ATQ.
+Corazón glacial
+Cuando <color=#FFD780FF>Golpe de escarcha</color> <color=#99FFFFFF>congela</color> a un enemigo, el enemigo congelado dejará caer partículas elementales adicionales. Cada golpe dará un máximo de 2 partículas elementales adicionales.
+Fuerza subyacente
+Disminuye en un 20% el Coste de Aguante al esprintar de todos los miembros de tu equipo. No se puede acumular con otros talentos pasivos que tengan los mismos efectos.

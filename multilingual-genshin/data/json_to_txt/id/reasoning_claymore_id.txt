@@ -1,0 +1,13 @@
+Debate Club
+Tongkat praktis yang terbuat dari baja berkualitas. Ini adalah perlengkapan dasar yang diperlukan untuk memiliki debat yang rasional.
+ Sebuah alat persuasif yang pasti bisa diandalkan dalam argumen apa pun. Dijamin menambah bobot argumen seseorang. Berguna dalam argumen apa pun, tidak peduli siapa pun lawannya, mereka pasti akan mendengarkan. Dengan kata lain, orang akan mendengarkan mutiara kebijaksanaan. Akhirnya, produksi terpaksa berhenti karena banyaknya protes. Suara orang banyak mengalahkan suara orang yang membutuhkan. 
+Blunt Conclusion
+Setelah mengerahkan Elemental Skill, Normal, atau Charged Attack, serangan mengakibatkan DMG tambahan sebesar <color=#99FFFFFF>60%</color> ATK di area kecil, efek bertahan selama 15 detik. Dapat terpicu setiap 3 detik.
+Blunt Conclusion
+Setelah mengerahkan Elemental Skill, Normal, atau Charged Attack, serangan mengakibatkan DMG tambahan sebesar <color=#99FFFFFF>75%</color> ATK di area kecil, efek bertahan selama 15 detik. Dapat terpicu setiap 3 detik.
+Blunt Conclusion
+Setelah mengerahkan Elemental Skill, Normal, atau Charged Attack, serangan mengakibatkan DMG tambahan sebesar <color=#99FFFFFF>90%</color> ATK di area kecil, efek bertahan selama 15 detik. Dapat terpicu setiap 3 detik.
+Blunt Conclusion
+Setelah mengerahkan Elemental Skill, Normal, atau Charged Attack, serangan mengakibatkan DMG tambahan sebesar <color=#99FFFFFF>105%</color> ATK di area kecil, efek bertahan selama 15 detik. Dapat terpicu setiap 3 detik.
+Blunt Conclusion
+Setelah mengerahkan Elemental Skill, Normal, atau Charged Attack, serangan mengakibatkan DMG tambahan sebesar <color=#99FFFFFF>120%</color> ATK di area kecil, efek bertahan selama 15 detik. Dapat terpicu setiap 3 detik.

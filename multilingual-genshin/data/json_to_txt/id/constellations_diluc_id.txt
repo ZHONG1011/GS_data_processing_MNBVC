@@ -1,0 +1,12 @@
+Conviction
+Diluc menghasilkan 15% DMG lebih kepada musuh yang mempunyai HP di atas 50%.
+Searing Ember
+Saat Diluc menerima DMG, meningkatkan 10% ATK dan 5% ATK SPD selama 10 detik. Efek ini dapat ditumpuk sampai 3 kali dan terpicu setiap 1,5 detik.
+Fire and Steel
+Meningkatkan 3 level <color=#FFD780FF>Searing Onslaught</color>. Maksimum: Lv. 15.
+Flowing Flame
+Mengerahkan <color=#FFD780FF>Searing Onslaught</color> secara beruntun akan meningkatkan DMG yang dihasilkan. 2 detik setelah mengerahkan <color=#FFD780FF>Searing Onslaught</color>, DMG Searing Onslaught berikutnya meningkat 40% selama 2 detik.
+Phoenix, Harbinger of Dawn
+Meningkatkan 3 level <color=#FFD780FF>Dawn</color>. Maksimum: Lv. 15.
+Flaming Sword, Nemesis of the Dark
+Setelah mengerahkan <color=#FFD780FF>Searing Onslaught</color>, 2 Normal Attack dalam waktu 6 detik berikutnya akan meningkatkan 30% DMG dan ATK SPD. Selain itu, Searing Onslaught tidak akan mengganggu kombo Normal Attack.

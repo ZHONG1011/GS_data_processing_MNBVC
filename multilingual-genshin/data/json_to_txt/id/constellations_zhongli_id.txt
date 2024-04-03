@@ -1,0 +1,12 @@
+Rock, the Backbone of Earth
+Jumlah Stone Stele yang dapat diciptakan oleh <color=#FFD780FF>Dominus Lapidis</color> meningkat menjadi 2.
+Stone, the Cradle of Jade
+Saat <color=#FFD780FF>Planet Befall</color> dilancarkan, sebuah Jade Shield akan tercipta untuk Karakter yang berada di dekatnya.
+Jade, Shimmering through Darkness
+Meningkatkan 3 level <color=#FFD780FF>Dominus Lapidis</color>. Maksimum: Lv. 15.
+Topaz, Unbreakable and Fearless
+Meningkatkan radius <color=#FFD780FF>Planet Befall</color> sebesar 20% dan meningkatkan durasi dari efek Petrification Planet Befall sebanyak 2 detik.
+Lazuli, Herald of the Order!
+Meningkatkan 3 level <color=#FFD780FF>Planet Befall</color>. Maksimum: Lv. 15.
+Chrysos, Bounty of Dominator
+Saat Jade Shield aktif, 40% DMG yang diterima akan dikonversi menjadi pemulihan HP. Jumlah pemulihan yang diterima dalam satu kali konversi tidak dapat melebihi 8% dari Max HP karakter tersebut.

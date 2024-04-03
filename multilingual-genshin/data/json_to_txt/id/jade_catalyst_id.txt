@@ -1,0 +1,13 @@
+Emerald Orb
+Sebuah Catalyst yang dibentuk dari giok keras yang berasal dari Jueyun Karst di Utara Liyue. Bentuknya kecil, ringan, dan memiliki ketahanan yang kuat.
+ Katalis ringan yang diukir dari batu giok. Tahan lama dan terjangkau, sehingga menjadikannya item yang populer di masyarakat sekitar. Kecil namun dibuat dengan indah, orang-orang Liyue menyebutnya sebagai Jade Orb. Tidak hanya dapat digunakan sebagai senjata pertahanan diri yang efektif, namun juga merupakan perhiasan yang bagus untuk dikenakan pada tubuh. 
+Rapids
+Saat memicu Vaporize, Electro-Charged, Frozen, Bloom, atau reaksi Swirl dengan elemen Hydro, meningkatkan <color=#99FFFFFF>20%</color> ATK selama 12 detik.
+Rapids
+Saat memicu Vaporize, Electro-Charged, Frozen, Bloom, atau reaksi Swirl dengan elemen Hydro, meningkatkan <color=#99FFFFFF>25%</color> ATK selama 12 detik.
+Rapids
+Saat memicu Vaporize, Electro-Charged, Frozen, Bloom, atau reaksi Swirl dengan elemen Hydro, meningkatkan <color=#99FFFFFF>30%</color> ATK selama 12 detik.
+Rapids
+Saat memicu Vaporize, Electro-Charged, Frozen, Bloom, atau reaksi Swirl dengan elemen Hydro, meningkatkan <color=#99FFFFFF>35%</color> ATK selama 12 detik.
+Rapids
+Saat memicu Vaporize, Electro-Charged, Frozen, Bloom, atau reaksi Swirl dengan elemen Hydro, meningkatkan <color=#99FFFFFF>40%</color> ATK selama 12 detik.

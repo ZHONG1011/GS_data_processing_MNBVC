@@ -1,0 +1,12 @@
+Ascetics of Frost
+Saat Herald of Frost mengenai musuh yang ditandai oleh Fortune-Preserving Talisman, Qiqi mendapatkan 2 Energy.
+Frozen to the Bone
+Meningkatkan 15% Normal dan Charged Attack Qiqi terhadap musuh yang terpengaruh <color=#99FFFFFF>Cryo</color>.
+Ascendant Praise
+Meningkatkan 3 level <color=#FFD780FF>Adeptus Art: Preserver of Fortune</color>. Maksimum: Lv. 15.
+Divine Suppression
+ATK dari musuh yang ditandai oleh Fortune-Preserving Talisman berkurang 20%.
+Crimson Lotus Bloom
+Meningkatkan 3 level <color=#FFD780FF>Adeptus Art: Herald of Frost</color>. Maksimum: Lv. 15.
+Rite of Resurrection
+Menggunakan <color=#FFD780FF>Adeptus Art: Preserver of Fortune</color> akan menghidupkan kembali Karakter yang gugur di sekitar dan memulihkan 50% HP mereka. Efek ini terpicu setiap 15 menit.

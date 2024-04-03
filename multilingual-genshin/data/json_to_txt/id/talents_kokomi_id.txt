@@ -1,0 +1,14 @@
+Normal Attack: The Shape of Water
+<color=#FFD780FF>Normal Attack</color> Melancarkan hingga 3 serangan beruntun dalam wujud ikan yang berenang dan mengakibatkan <color=#80C0FFFF>Hydro DMG</color>.  <color=#FFD780FF>Charged Attack</color> Mengonsumsi sejumlah Stamina untuk mengakibatkan <color=#80C0FFFF>Hydro DMG area</color> setelah jeda singkat.  <color=#FFD780FF>Plunging Attack</color> Mengumpulkan kekuatan Hydro dan menghantam ke tanah dari udara, menyerang musuh di jalur terjangan dan mengakibatkan <color=#80C0FFFF>Hydro DMG Area</color> saat mendarat.
+Kurage's Oath
+Memanggil "Bake-Kurage" yang tercipta dari air untuk menyembuhkan rekan. Ketika melancarkan skill ini, Sangonomiya Kokomi akan terkena status <color=#80C0FFFF>Wet</color>.  <color=#FFD780FF>Bake-Kurage</color> Setiap beberapa saat, Bake-Kurage akan mengakibatkan <color=#80C0FFFF>Hydro DMG</color> pada musuh di sekitar dan memulihkan HP Karakter yang berada di medan pertempuran. Jumlah HP yang dipulihkan dihitung berdasarkan Max HP Sangonomiya Kokomi.  <i>Kokomi sewaktu-waktu perlu mengisi ulang "energi" demi mempertahankan kinerja yang sempurna.</i>
+Nereid's Ascension
+Memanggil kekuatan Watatsumi dan mengakibatkan <color=#80C0FFFF>Hydro DMG</color> pada musuh di sekitar, kemudian menyelimuti Kokomi dengan Ceremonial Garment yang tercipta dari aliran air Sangonomiya.  <color=#FFD780FF>Ceremonial Garment</color> ·Meningkatkan DMG Normal dan Charged Attack, serta DMG Bake-Kurage berdasarkan Max HP Sangonomiya Kokomi. ·Saat Normal dan Charged Attack mengenai musuh, Sangonomiya Kokomi akan memulihkan HP seluruh anggota party yang berada di sekitar berdasarkan Max HP miliknya. ·Meningkatkan ketahanan Sangonomiya Kokomi terhadap interupsi dan membuat Kokomi dapat berjalan di atas permukaan air.  Efek ini akan hilang jika Kokomi meninggalkan medan pertempuran.  <i>Kilauan cahaya berkumpul membentuk jubah, yang menunjukkan keagungan rupa Yang Mulia, Sangonomiya Kokomi.</i>
+Tamanooya's Casket
+Saat Kokomi melancarkan <color=#FFD780FF>Nereid's Ascension</color>, jika Bake-Kurage milik Sangonomiya Kokomi sendiri masih berada di medan pertempuran, durasi Bake-Kurage tersebut akan diperbarui.
+Song of Pearls
+Saat mengenakan Ceremonial Garment dari skill <color=#FFD780FF>Nereid's Ascension</color>, Bonus DMG Normal dan Charged Attack yang didapatkan Sangonomiya Kokomi berdasarkan Max HP-nya akan meningkat lagi sebesar 15% dari Healing Bonus Kokomi.
+Princess of Watatsumi
+Mengurangi 20% konsumsi Stamina Karakter party sendiri saat berenang. Efek tidak dapat ditumpuk dengan Talenta Pasif lain yang efeknya sama persis.
+Flawless Strategy
+Meningkatkan 25% Healing Bonus Sangonomiya Kokomi, tetapi CRIT Rate Kokomi berkurang 100%.

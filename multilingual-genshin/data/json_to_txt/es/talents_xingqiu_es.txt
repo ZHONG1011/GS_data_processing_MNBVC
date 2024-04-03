@@ -1,0 +1,12 @@
+Ataque Normal: Técnica de espada Guhua
+<color=#FFD780FF>Ataque Normal</color> Realiza hasta 5 ataques rápidos.  <color=#FFD780FF>Ataque Cargado</color> Consume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado.  <color=#FFD780FF>Ataque Descendente</color> Se lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.
+Espada Guhua: Lluvia torrencial mortal
+Xingchiu realiza dos golpes consecutivos con su espada, infligiendo <color=#80C0FFFF>Daño Hydro</color>. Al mismo tiempo, esta habilidad crea la máxima cantidad posible de espadas de lluvia, las cuales orbitarán alrededor del personaje en uso. Las espadas de lluvia tienen las siguientes características: ·Cuando el personaje recibe daño, una espada de lluvia se romperá, reduciendo la cantidad de daño recibido. ·Aumenta la RES a interrupción del personaje. Un 20% del <color=#80C0FFFF>Bono de Daño Hydro</color> de Xingchiu se convertirá en reducción de daño adicional de las espadas de lluvia.  La cantidad máxima de reducción de daño que se puede obtener de esta manera es del 24%. El número máximo inicial de espadas de lluvia es de 3. El uso de esta habilidad aplica el estado de <color=#80C0FFFF>Mojado</color> sobre el personaje.  <i>“Es más fácil degollar a un dragón que cortar la lluvia”</i>.
+Espada Guhua: Sable de lluvia
+Activa la espada arcoíris y lucha con una lluvia de espadas ilusoria, a la vez que crea la máxima cantidad posible de espadas de lluvia.  <color=#FFD780FF>Espada arcoíris</color> ·Los Ataques Normales de tu personaje en uso desencadenarán una lluvia de espadas consecutiva que inflige <color=#80C0FFFF>Daño Hydro</color>. ·Durante el efecto de esta habilidad, se mantendrá en todo momento el máximo número posible de espadas de lluvia.  <i>La técnica de corte de lluvia es uno de los secretos de la Academia Guhua.</i>
+Secretos del agua
+Cuando una espada de lluvia se rompe o termina su duración, el personaje en uso regenera una cantidad de Vida proporcional al 6% de la Vida Máx. de Xingchiu.
+Cuchillas a cántaros
+Xingchiu obtiene un 20% de <color=#80C0FFFF>Bono de Daño Hydro</color>.
+Destello repentino
+Al fabricar materiales de talento de personaje, hay una probabilidad del 25% de recuperar los materiales usados.

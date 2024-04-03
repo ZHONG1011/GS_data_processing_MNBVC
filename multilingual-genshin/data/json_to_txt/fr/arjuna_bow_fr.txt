@@ -1,0 +1,13 @@
+Serment de l'archer
+Cet arc de haute qualité aurait appartenu à un maître archer. La forte odeur qu'il dégage le rend inadapté pour la chasse.
+ La légende conte cette histoire d'un temps enfoui dans le passé. Ce drame ancien vit le frère combattre le frère. En ces temps vivait un archer renommé, qui, ayant subi une cuisante défaite, fit le serment suivant : « Tant que mon ennemi ne sera pas tombé, tant que sa gorge n'aura point été percée, » « Tant que son sang n'aura point refroidi, mes pieds jamais ne laverai. » Et c'est ainsi qu'il mourut des suites d'une infection. 
+Précision
+Augmente les DGT de <color=#99FFFFFF>24 %</color> si les points faibles de l'ennemi sont visés.
+Précision
+Augmente les DGT de <color=#99FFFFFF>30 %</color> si les points faibles de l'ennemi sont visés.
+Précision
+Augmente les DGT de <color=#99FFFFFF>36 %</color> si les points faibles de l'ennemi sont visés.
+Précision
+Augmente les DGT de <color=#99FFFFFF>42 %</color> si les points faibles de l'ennemi sont visés.
+Précision
+Augmente les DGT de <color=#99FFFFFF>48 %</color> si les points faibles de l'ennemi sont visés.

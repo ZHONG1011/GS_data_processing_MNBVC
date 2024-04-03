@@ -1,0 +1,132 @@
+Première rencontre...
+Ton odeur... J'aime bien. En chasse !
+Bavardage - Odeurs
+Oh, ça sent le lapin...
+Bavardage - Faim
+J'ai faim, allons chasser.
+Bavardage - Vents
+Je monte la garde. Appelle-moi si tu pars.
+Quand le tonnerre gronde - Avertissement
+Si tu as peur, cache-toi.
+Quand le tonnerre gronde - Guide
+Évite les arbres et suis-moi !
+Quand le vent souffle...
+Le vent... J'aime le vent.
+Le vent souffle fort...
+Le vent... Ce vent pique les poils.
+Au réveil...
+Le soleil est là. Partons en chasse.
+À l'heure du déjeuner...
+Un bon gros morceau de viande ! Youpi !
+Le soir...
+Dors, je vais regarder la lune.
+La nuit...
+Dors, je monte la garde.
+À propos de toi...
+Je suis un loup. Je n'ai pas de parents humains.
+À propos de nous - Amitié
+#Tu es... {M#mon ami}{F#mon amie}. Chassons ensemble.
+À propos de nous - Arme
+J'ai des griffes de métal et des crocs de tonnerre. Je protège.
+À propos de l'œil divin...
+L'œil divin aide. Razor combat avec des crocs d'éclair ! Je protège mon lupical !
+Quelque chose à partager ?
+J'aime les étoiles, la nuit. Il y en a... plein. Dans le ciel, sur le lac, dans la ville...
+Détails intéressants...
+Les loups de mon lupical sont ma famille.
+À propos de Lisa...
+Lisa peut peindre le ciel en noir. Elle est forte. Elle fait peur.
+À propos de Barbara...
+Barbara est gentille. Très gentille.
+À propos de Diluc...
+Diluc, tout rouge et noir. Chaud et froid.
+À propos de Venti...
+Je ne comprends pas les poèmes... mais j'aime bien.
+À propos de Bennett...
+Bennett parle beaucoup, mais il n'y pas beaucoup à manger à ses côtés.
+À propos de Klee...
+Klee, c'est une amie ! Amie, mais... plein de problèmes.
+À propos de Varka - Inconnu
+Varka ? Je ne connais pas...
+À propos de Varka - Souvenirs
+Oh, Varka, c'est un nom. Un homme. Très grand. « Razor », mon nom, c'est lui qui l'a trouvé... Il me manque.
+Connaître Razor (1)
+Ton odeur... L'odeur de la bonté. Tu manges de la viande ?
+Connaître Razor (2)
+Tu as la puissance, comme le loup. La chasse sera bonne.
+Connaître Razor (3)
+Le lupical c'est la maison du loup. Non, sa famille. Mon lupical vit dans les bois, et je suis leur lupical.
+Connaître Razor (4)
+Mon lupical c'est tout pour moi. Mais j'ai deux jambes, pas comme lui. Des fois ça me rend triste.
+Connaître Razor (5)
+#Courir et chasser à tes côtés me rend heureux. Je ne suis ni loup, ni enfant. Je suis moi, Razor. Tu es mon {M#ami}{F#amie}, mon lupical.
+Les loisirs de Razor...
+J'aime mon lupical. J'aime les bois. J'aime mes amis. J'aime courir.
+Les problèmes de Razor...
+Parler, c'est... dur, fatigant. Mais il faut parler.
+Plats préférés...
+J'aime la viande. J'aime les pommes de terre.
+Plats détestés...
+Les légumes c'est mauvais. Les animaux mangent les légumes, et je mange les animaux.
+Cadeau reçu (1)
+Ça sent bon, c'est délicieux. J'aime.
+Cadeau reçu (2)
+Manger donne des forces, je suis content.
+Cadeau reçu (3)
+Si je mange, pas bon. Si je ne mange pas, pas bon non plus. C'est triste.
+Anniversaire...
+#C'est ton jour, le jour de ta naissance. Tant de lunes ont passé... Je veux que tu sois {M#heureux}{F#heureuse} aujourd'hui. On va manger de la viande ?
+Affinité faible
+Les bras... Plus gros ?
+Affinité moyenne
+Griffes aiguisées, crocs aiguisés. Il faut toujours être fort !
+Affinité élevée
+Courir... Chasser... Non, pas assez ! Je dois devenir plus fort !
+Affinité max
+Crocs. Griffes. Pattes. Plus forts, tous. Pour te protéger.
+Compétence élémentaire (1)
+Dégagez !
+Compétence élémentaire (2)
+Ah !
+Compétence élémentaire (3)
+Aïe !
+Compétence élémentaire (4)
+N'approchez pas !
+Déchaînement élémentaire (1)
+Raaah !
+Déchaînement élémentaire (2)
+Blitz !
+Déchaînement élémentaire (3)
+Raaah !
+Déchaînement élémentaire (4)
+Aah !
+Ouverture de coffre (1)
+Ces choses... utiles ?
+Ouverture de coffre (2)
+Coffre vide... Bien pour ranger choses !
+Ouverture de coffre (3)
+Odeur de trésor... Étrange.
+PV faibles (1)
+Aïe !
+PV faibles (2)
+Aouuuuh !
+PV faibles (3)
+Je vous tue !
+Compagnon avec PV faibles (1)
+Non !
+Compagnon avec PV faibles (2)
+Debout !
+K.O. (1)
+Respirer... difficile...
+K.O. (2)
+Je veux rentrer...
+K.O. (3)
+Mon... lupical...
+Attaque puissante subie (1)
+Ma bouche, du sang...
+Ajout dans l'équipe (1)
+Je me mettrai devant.
+Ajout dans l'équipe (2)
+Où allons-nous ?
+Ajout dans l'équipe (3)
+Je m'occupe de vos arrières.

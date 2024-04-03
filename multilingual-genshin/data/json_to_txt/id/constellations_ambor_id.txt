@@ -1,0 +1,12 @@
+One Arrow to Rule Them All
+Menembakkan 2 anak panah setiap <color=#FFD780FF>Serangan Membidik</color>. Anak panah kedua mengakibatkan DMG sebesar 20% dari DMG anak panah pertama.
+Bunny Triggered
+Baron Bunny, kini hadir lebih fantastis! Menyerang kakinya dengan Serangan Membidik penuh akan meledakkan Baron Bunny secara manual. Ledakan manual mengakibatkan 200% DMG tambahan.
+It Burns!
+Meningkatkan 3 level <color=#FFD780FF>Fiery Rain</color>. Maksimum: Lv. 15.
+It's Not Just Any Doll...
+Mengurangi 20% CD <color=#FFD780FF>Explosive Puppet</color>. Serta menambah 1 kali jumlah penggunaan.
+It's Baron Bunny!
+Meningkatkan 3 level <color=#FFD780FF>Explosive Puppet</color>. Maksimum: Lv. 15.
+Wildfire
+<color=#FFD780FF>Fiery Rain</color> meningkatkan 15% Movement SPD dan 15% ATK seluruh anggota party selama 10 detik.

@@ -1,0 +1,12 @@
+「旗竿」
+予備用
+未定
+敵を倒したとき、HPを<color=#99FFFFFF>8%</color>回復する。
+未定
+敵を倒したとき、HPを<color=#99FFFFFF>10%</color>回復する。
+未定
+敵を倒したとき、HPを<color=#99FFFFFF>12%</color>回復する。
+未定
+敵を倒したとき、HPを<color=#99FFFFFF>14%</color>回復する。
+未定
+敵を倒したとき、HPを<color=#99FFFFFF>16%</color>回復する。

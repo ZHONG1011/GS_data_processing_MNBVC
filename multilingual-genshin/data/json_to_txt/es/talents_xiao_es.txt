@@ -1,0 +1,12 @@
+Ataque Normal: Impulso de torbellino
+<color=#FFD780FF>Ataque Normal</color> Realiza hasta 6 ataques rápidos con lanza.  <color=#FFD780FF>Ataque Cargado</color> Consume una cierta cantidad de Aguante para atacar alzando su lanza.  <color=#FFD780FF>Ataque Descendente</color> Se lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto. Xiao no recibirá daño al caer con un Ataque Descendente.
+Ciclón de viento lemniscático
+Xiao se lanza hacia adelante e inflige <color=#80FFD7FF>Daño Anemo</color> a todos los enemigos que se crucen en su camino. Puede activarse en el aire y empieza con un total de 2 cargas.  <i>Cuentan las leyendas de otra tierra que el mundo será aplastado por dos grandes ruedas de viento. El dominio con la lanza de Xiao le permite destrozar a sus enemigos igual que las legendarias ruedas de viento.</i>
+Azote de todos los males
+Xiao se pone la máscara de Yaksha que aterrorizó tanto a los demonios como a los arcontes hace miles de años.  <color=#FFD780FF>Máscara de Yaksha</color> ·Mejora la capacidad de salto de Xiao. ·Mientras dura la habilidad, aumenta el alcance y el daño de los ataques de Xiao. ·Convierte su daño de ataque en <color=#80FFD7FF>Daño Anemo</color>. Este cambio elemental no puede sustituirse imbuyéndose de otro elemento. Estar en esta forma consume la Vida de Xiao de manera continua.  <i>Xiao se pone una máscara y adopta la forma del Guardián Yaksha para aterrorizar a todos los males y eliminar a los monstruos y espíritus del mundo. Sin embargo, un gran poder conlleva un gran dolor. Algunos lo llaman el “Azote de todos los males”.</i>
+Conquista del mal: Domademonios
+Al estar bajo los efectos de <color=#FFD780FF>Azote de todos los males</color>, el daño infligido por Xiao se incrementa en un 5%. Después, su daño continúa aumentando en un 5% cada 3 s hasta el fin de la habilidad. Solo se puede alcanzar un 25% de bono de daño máximo.
+Desintegración: Caída celestial
+Usar <color=#FFD780FF>Ciclón de viento lemniscático</color> aumenta en un 15% el daño infligido por los siguientes Ciclones de viento lemniscático durante 7 s. Este efecto puede acumularse un máximo de 3 veces y, cada vez que se obtenga una nueva carga, la duración de este efecto se reiniciará.
+Trascendencia: Desafío a la gravedad
+Disminuye en un 20% el Coste de Aguante al escalar de todos los miembros de tu equipo. No se puede acumular con otros talentos pasivos que tengan los mismos efectos.

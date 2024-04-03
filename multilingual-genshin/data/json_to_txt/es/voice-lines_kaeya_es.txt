@@ -1,0 +1,148 @@
+Hola...
+Soy Kaeya, de los Caballeros de Favonius. Por favor, permíteme acompañarte en tu viaje. Protegerte suena mucho más entretenido que cualquiera de las cosas que solemos hacer los Caballeros.
+Charla - Sin nada que hacer
+No sabía que tú también solías escabullirte del trabajo.
+Charla - Caballeros de Favonius
+Jeje, el resto de los Caballeros están tan ocupados que no tienen tiempo de nada.
+Charla - Pereza
+Vamos, en marcha. Si no nos movemos un poco, nos saldrá hasta musgo en el cuerpo.
+Cuando llueve...
+Con este tiempo, mis poderes Cryo son mucho más fuertes. Esto se va a poner interesante...
+Cuando nieva - Anécdota
+Oh, aprovecharé este día nevado para contarte una historia de fantasmas.
+Cuando nieva - Frío
+¿Eh? ¿Es que no aguantas el frío?
+Cuando hace viento...
+Qué brisa tan agradable... ¿Cuánto durará?
+Buenos días...
+Que disfrutes de este día.
+Buenas tardes...
+¡Ey! ¿Quieres venir a la taberna conmigo?
+Buenas noches... (I)
+¿Te da miedo la oscuridad? ¿En serio? Qué... interesante.
+Buenas noches... (II)
+¿Ya te vas? Bueno, hasta la próxima, pero no me hagas esperar mucho.
+Sobre Kaeya
+¿La Orden del Abismo te ha estado causando problemas últimamente? Si necesitas algo, no dudes en hablar conmigo.
+Sobre nosotros - Relación entre empleador y empleado
+Si alguna vez me necesitas, dímelo. No quiero que nuestra relación sea un intercambio de servicios.
+Sobre nosotros - Fuerza
+#¿Eh? Bueno, si tanto te preocupa que nuestra relación sea profesional... tal vez te pueda servir de más ayuda en primera línea. ¿Qué te parece? Jaja, pero no te sientas intimidad{F#a}{M#o} por lo que puedo hacer con mi fuerza.
+Sobre la Visión...
+¿Todavía no entiendes cómo funcionan las Visiones? Veamos... ¿Cómo podría explicártelo?... El órgano que nos permite ver son los ojos, ¿cierto? Pues una Visión es el “órgano” por el cual controlamos los elementos. Muy simple, ¿no crees?
+¿Algo que decir?
+¿Bebes vino? El cuerpo del vino de diente de león es único. Oh, ¿eres menor de edad? Entonces, deberías probar la sidra de manzana de Mondstadt. Conozco un lugar muy bueno donde puede beberse.
+Una noticia interesante...
+¿Alguna vez has visto al búho de Espinadragón? Si lo miras directamente, es como si su mirada te atravesara, sin dejar que la tuya le haga lo mismo a él... Fascinante, ¿no crees?
+Sobre Jean...
+¿Eh? ¿La Gran Maestra Intendente? Debes darle tu apoyo en todo momento.
+Sobre Lisa...
+Oh, Lisa... Humm... Con ella, será mejor que no olvides devolver tus libros a tiempo. Cometí ese error una vez y se enojó muchísimo. Todavía me duele el brazo desde aquella vez...
+Sobre Amber...
+La Caballera Exploradora es inteligente y justa. Ten cuidado de no hacer nada malo con ella delante.
+Sobre Diluc...
+¿Diluc? De pequeño, era un muchacho muy lindo, pero hoy en día solo está en su mundo... En general, no es muy divertido pasar el rato con él.
+Sobre Klee...
+Parece que no pudo escapar a las habilidades de investigación de la Gran Maestra Intendente, a pesar de los consejos que le di... Jaja, era broma, ¿eh? No vayas a decírselo a nadie.
+Sobre Albedo...
+¿Albedo? Es una persona tranquila, serena y con mucho talento. Le cae bien a mucha gente. ¿Eh? ¿Que a ti también?
+Sobre Diona...
+¿Has probado las bebidas de Diona? Oh, cierto, todavía eres menor de edad. Jaja, es realmente una lástima no poder disfrutar contigo del placer de beber. Supongo que lo único que podemos hacer es esperar a que seas mayor, jeje.
+Sobre Varka...
+Ahora que lo mencionas, es una pena que no haya nadie en los Caballeros de Favonius que haya heredado el estilo de trabajo del Gran Maestro. *Suspira* La verdad es que aprecio mucho a las personas como él.
+Sobre Fischl...
+¿Qué? ¿Crees que el hecho de que Fischl tenga un ojo tapado misteriosamente es muy apropiado debido a su título de “Princesa del Juicio”? Jajaja, por esa lógica, yo también debería ser alguien de linaje real, ¿no?
+Sobre Noelle...
+La Gran Maestra Intendente me encargó cuidar a Noelle en secreto, pero no he tenido que hacer mucho. Es una persona muy sensata, lo cual es un alivio.
+Sobre Rosaria...
+Jajaja, ¿quieres saber los secretos de la Hermana Rosaria? Eso... no puedo decírtelo. No tengo una mala impresión de ella. Al menos, mejor que la de cierta persona cuyo nombre no me molestaré en mencionar. Es honesta consigo misma, no hace aquello para lo que no tiene tiempo y no finge emocionarse por asuntos que no le interesan.
+Sobre Sacarosa...
+No te dejes engañar por lo tranquila e introvertida que es Sacarosa. Dicen que en su laboratorio guarda artefactos muy especiales y estimulantes... ¿Eh? ¡¿Cómo puedes preguntarme eso?! ¡No soy de los que van espiando a las mujeres cuando están en su habitación!
+Sobre Collei...
+Oh, ¿Collei? ¡Hacía mucho que nadie mencionaba ese nombre! Pues estás con la persona adecuada. ¡Te contaré todo su pasado, empezando desde el comienzo y con todo lujo de detalles!
+Sobre Mika...
+Cuando conocí a Mika, parecía una persona muy nerviosa, así que decidí contar algunos chistes para romper el hielo. Lo que no anticipé es que eso le haría ponerse aún más nervioso. Era como si hubieran pegado una sonrisa en su cara. Al final, hasta me escribió una carta de disculpas. *Tch, Tch*, ¿acaso es hereditario entre los Schmidt el tomárselo todo tan en serio?
+Más sobre Kaeya (I)
+El título de “Capitán de Caballería” no es motivo de emoción. Ahora que lo pienso, el Gran Maestro se llevó con él a toda la caballería de Mondstadt, así que no me queda nada que pueda liderar...
+Más sobre Kaeya (II)
+En realidad, hay un total de diez capitanes en los Caballeros de Favonius, pero no todos ellos tienen lo que se necesita para ser capitán.
+Más sobre Kaeya (III)
+¿Mi ojo? Mi ojo esta bien. Querer ocultar una parte de tu cuerpo no es algo extraño, ¿no? Uso el parche por la misma razón que uso pantalones o cualquier otra prenda de vestir.
+Más sobre Kaeya (IV)
+Khaenri'ah, ¿eh? ¡Sabes mucho! El legado de Khaenri'ah ya no existe, lo único que queda son los pecadores, y no vale la pena hablar de ellos.
+Más sobre Kaeya (V)
+No me había parado a pensar en cuánto tiempo hace que nos conocemos. ¡El tiempo vuela! Seguirte en tu viaje es de lo más divertido que he hecho en toda mi vida. Espero que siga siendo así.
+Aficiones de Kaeya...
+La cata de vinos es un arte. El vino de Mondstadt es un regalo del Arconte Anemo, por lo que es necesario saber apreciarlo.
+Preocupaciones de Kaeya...
+¿Que si me siento solo? No puedo sentirme solo con alguien parloteando constantemente a mi lado.
+Comida que más le gusta...
+El vino espumoso es una especialidad de Mondstadt. Si lo mezclas con un tercio de vino de diente de león, su amargura desaparece por completo. Esta bebida se conoce como “Muerte después del mediodía”. ¡Deliciosa!
+Comida que menos le gusta...
+No me puedo creer que algunas personas beban jugo de uva... Si tuvieran un poco más de paciencia, se darían cuenta que, con un poco de tiempo, el jugo se fermenta hasta conseguir un excelente vino. Algunas personas son tan poco refinadas...
+Al recibir un regalo (I)
+#¡Vaya! Esto es excepcional. Estás llen{F#a}{M#o} de sorpresas.
+Al recibir un regalo (II)
+Deberías servir esto con vino, le daría el toque perfecto.
+Al recibir un regalo (III)
+#Como muy despacio... Pero me lo terminaré, tranquil{F#a}{M#o}.
+Cumpleaños...
+Hoy es un día digno de celebrar. Espero que seas muy feliz.
+El sentimiento de Ascensión - Introducción
+¡Esto no está nada mal!
+El sentimiento de Ascensión - Desarrollo
+Siempre estás cuidándome. Gracias.
+El sentimiento de Ascensión - Nudo
+#Estoy haciéndome más fuerte. ¿Cómo es que pareces más emocionad{F#a}{M#o} tú que yo?
+El sentimiento de Ascensión - Desenlace
+#En un principio, tú y yo solo éramos compañeros de viaje. Nunca pensé que me ayudarías a llegar hasta este punto... Te lo pagaré, puedes estar segur{F#a}{M#o}. Sigamos con nuestro viaje, soci{F#a}{M#o}. Aún nos queda mucho por recorrer.
+Habilidad Elemental (I)
+¡Enfríalo!
+Habilidad Elemental (II)
+¡Congélate!
+Habilidad Elemental (III)
+¡Esquiva esto!
+Habilidad Definitiva (I)
+¡El hielo también quema!
+Habilidad Definitiva (II)
+Oh, ¡perdón!
+Habilidad Definitiva (III)
+Este momento se congelará para siempre.
+Al esprintar (I)
+¿Por qué tanta prisa?
+Después de esprintar (I)
+*Uf*, jaja.
+Al abrir el planeador (I)
+Hace viento.
+Al abrir un cofre (I)
+¡Qué buena suerte!
+Al abrir un cofre (II)
+Fascinante.
+Al abrir un cofre (III)
+Jaja, ¡qué buen hallazgo!
+Vida baja (I)
+Hora de ponerse serios.
+Vida baja (II)
+Ya me estoy aburriendo...
+Vida baja (III)
+Qué molesto...
+Aliado con vida baja (I)
+Te ayudaré, pero me debes una.
+Aliado con vida baja (II)
+Ey, no te me mueras, eso no tendría gracia.
+Derrotado (I)
+Aún no he terminado...
+Derrotado (II)
+Eso no me lo esperaba...
+Derrotado (III)
+Esto no es bueno...
+Recibiendo un fuerte ataque (I)
+¡Arg!
+Recibiendo un fuerte ataque (II)
+No tientes a la suerte.
+Unirse al equipo (I)
+¡Estoy impaciente!
+Unirse al equipo (II)
+Esto será interesante.
+Unirse al equipo (III)
+Estoy listo cuando tú lo estés.

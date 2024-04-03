@@ -1,0 +1,136 @@
+Première rencontre...
+<color=#37FFFF>Fischl : </color>Je me prénomme Fischl, Princesse du châtiment. Le destin m'a invoquée en ce monde pour... Oh ? Vous êtes également originaire d'un autre monde ? Très bien, je vous accorde l'honneur de pouvoir voyager en compagnie de mon illustre personne.  <color=#37FFFF>Oz :</color> La princesse veut dire qu'elle est ravie de faire votre connaissance.
+Bavardage - Murmures du sort
+J'entends la voix du destin qui murmure mon nom...
+Bavardage - Création du monde
+Que la gloire de la Princesse du châtiment illumine ce monde.
+Bavardage - La personne de l'autre côté
+<color=#37FFFF>Fischl :</color> Le bien-être de mes humbles serviteurs en mon absence me tourmente...  <color=#37FFFF>Oz :</color> Je suis sûr que nos amis de la Guilde des aventuriers s'en sortiront, chère maîtresse.
+Après la pluie...
+Oh, le soleil vient de se coucher... Ahem ! Ce phénomène météorologique est d'une splendeur extrême ! Comme un tour du destin, magnifique !
+Quand le tonnerre gronde...
+<color=#37FFFF>Fischl :</color> Cette foudre est un signe de rétribution divine...  <color=#37FFFF>Oz :</color> Permettez-moi aussi de vous rappeler que votre linge est encore dehors...  <color=#37FFFF>Fischl :</color> Comment ?!
+Quand il neige...
+<color=#37FFFF>Fischl :</color> Ce merveilleux paysage me rappelle mon monde d'origine. Le sang et les larmes des pécheurs se transformaient en glace à la simple vue de la Princesse du châtiment ! ... ATCHOUM !  <color=#37FFFF>Oz :</color> Leur salive et leur morve également, ma chère maîtresse.  <color=#37FFFF>Fischl :</color> Oz... A—ATCHOUM !!
+Il fait bon dehors...
+<color=#37FFFF>Fischl :</color> Ozzounet, mon familier chéri...  <color=#37FFFF>Oz :</color> Ozzounet ?  <color=#37FFFF>Fischl :</color> Je t'ordonne de déployer tes ailes bénies et de plonger les cieux dans l'obscurité la plus totale...  <color=#37FFFF>Oz :</color> Vous ne pourrez pas me forcer à le faire !
+Dire bonjour à Fischl
+L'aube et le crépuscule ne sont que des illusions éphémères. Le destin vous mènera toujours à la nuit éternelle.
+Dire bonjour à Oz
+<color=#37FFFF>Oz : </color>Bonjour. Ma maîtresse est en train de préparer le petit déjeuner. Elle s'est mise à l'œuvre dès qu'elle a su que vous viendriez.  <color=#37FFFF>Fischl : </color>Oz ! ... Ahem, qu'est-ce qui me vaut l'honneur de votre visite ?
+À l'heure du déjeuner...
+La fatigue n'épargne pas ceux de sang royal à cette heure-ci...
+Le soir...
+<color=#37FFFF>Fischl :</color> Les étoiles du firmament ne sont rien de plus que des cavités qu'Oz a creusées avec son bec dans le ciel nocturne.  <color=#37FFFF>Oz :</color> Vous en dites des choses étranges, mademoiselle...
+La nuit...
+<color=#37FFFF>Fischl :</color> Réparateur et paisible sera votre sommeil. Après tout, nul cauchemar n'oserait hanter ceux qui ont l'honneur d'être bénis par l'Empire de la nuit éternelle !  <color=#37FFFF>Oz :</color> Elle vous souhaite une bonne nuit.
+À propos de Fischl - Princesse du châtiment
+<color=#37FFFF>Fischl :</color> Retenez bien, tête de linotte : je suis Fischl, la Princesse du châtiment et unique souveraine de l'Empire de la nuit éternelle ! Éminente et omnisciente, je juge les transgressions de ce bas monde !  <color=#37FFFF>Oz :</color> Elle est enquêtrice au sein de la Guilde des aventuriers.  <color=#37FFFF>Fischl :</color> ... Cela fait partie de mes nombreux engagements royaux !
+À propos de nous - Ceux qui descendirent des cieux
+#Vous et moi sommes des {M#voyageurs}{F#voyageuses} d'un autre monde. Notre rencontre n'est guère un hasard ; c'est le destin qui l'a décidée.
+À propos de nous - Destruction de la bête-monde
+#Vous semblez {M#contrarié}{F#contrariée}... Ne sombrez pas dans la tristesse, {M#voyageur}{F#voyageuse} ! À l'aide de mon œil du jugement qui voit à travers le destin, je vous protégerai de tous les dangers. Oz, mon fidèle compagnon, qui a assisté à la destruction d'innombrables mondes, veillera également sur vous sans faille. Moi, Princesse du châtiment, vous promets que mes flèches du jugement perceront quiconque osera se mettre en travers de vos rêves !
+À propos de nous - Importantes figures
+#<color=#37FFFF>Fischl : </color> Oz, mon loyal serviteur... Je suis forte heureuse de ma rencontre avec {M#ce voyageur étranger}{F#cette voyageuse étrangère} à ce monde. Bien que le péché coule dans mes veines, le destin a daigné me sourire cette fois. Si je dois demeurer ici, dans cette prison sans issue qu'est la réalité, alors...  <color=#37FFFF>Oz : </color> En effet, vous avez trouvé une personne qui restera à vos côtés quoi qu'il arrive...
+À propos de nous - Surveillance
+#<color=#37FFFF>Fischl :</color> Ozvaldo von Hrafnavines, moi, la Princesse du châtiment et souveraine de l'Empire de la nuit éternelle, t'ordonne de faire tout ton possible pour protéger {M#ce voyageur}{F#cette voyageuse} des griffes du destin qui {M#le}{F#la} menace en permanence ! Prépare-toi à l'ultime sacrifice en cas de force majeure afin d'honorer le plus noble de tes devoirs !  <color=#37FFFF>Oz :</color> Je vous prie de ne pas me sacrifier comme bon vous semble, mademoiselle !
+À propos de l'œil divin...
+Vous m'interrogez sur l'Edelstein der Dunkelheit ? Il s'agit d'un joyau de famille qui témoigne de ma majesté en tant que Princesse du châtiment devant les indignes. Nous avons été réunis dans ce monde, comme le destin l'a toujours voulu.
+Quelque chose à partager ?
+<color=#37FFFF>Fischl :</color> Selon le calendrier de ce monde, moi, Fischl, ai vécu pendant trois mille hivers. Le passage du temps ne laisse pas de traces sur mon illustre personne qui a assisté à la naissance de trois mille galaxies.  <color=#37FFFF>Oz :</color> Malgré cela, vous n'êtes toujours pas en âge de boire dans ce monde et aucun barman n'aurait la bêtise de penser le contraire.
+Détails intéressants...
+Oz se prénomme en réalité Ozvaldo von Hrafnavines. Dans notre monde d'origine, il est le maître des cieux étoilés de trois univers, et les âmes des héros tombés au combat reposent dans l'ombre de ses ailes majestueuses. Les misérables qui ont le malheur d'écorcher son nom sont dépossédés de leur langue. Toutefois, n'ayez nulle crainte, je suis une princesse et vous êtes sous ma protection ; nous avons donc le privilège de l'appeler Oz.
+À propos de Bennett...
+<color=#37FFFF>Fischl :</color> Ah, ce jeune homme maudit par les étoiles... Mon œil du jugement a vu l'immense chagrin que cet enfant abandonné par le monde ressent dans son cœur...  <color=#37FFFF>Oz :</color> Quelqu'un doit garder un œil sur ce pauvre garçon...
+À propos de Lisa...
+<color=#37FFFF>Fischl :</color> La magicienne détentrice des livres, gardienne du savoir infini... Gagnez sa confiance et un monde de connaissances s'ouvrira devant vous...  <color=#37FFFF>Oz :</color> Elle veut dire qu'il suffit de rendre les premiers livres qu'on emprunte à temps pour pouvoir emprunter d'autres ouvrages à la bibliothèque.
+À propos de Kaeya...
+<color=#37FFFF>Fischl :</color> Je n'arrive guère à cerner cet individu dont le destin n'est que mystère. Fiction et réalité s'entremêlent dans ses paroles... Il est sans doute également doté d'une vue particulière, tout comme mon illustre personne.  <color=#37FFFF>Oz :</color> Ou peut-être qu'il est simplement borgne comme un pirate ?
+À propos de Mona...
+<color=#37FFFF>Fischl :</color> Ah, oui ! Je me souviens de cette Mona, une astromancienne réputée qui a eu le culot d'essayer de voir mon destin. Eh bien, elle n'avait pas fini de trembler face à sa découverte !  <color=#37FFFF>Oz :</color> La pauvre fille se retenait de pouffer de rire... Ce n'était pas chose aisée.
+À propos de Rosalia...
+<color=#37FFFF>Fischl :</color> Sœur Rosalia est une religieuse les plus dévouées à l'Archon Anémo.  <color=#37FFFF>Oz :</color> Parlons-nous vraiment de la même personne, chère maîtresse ?  <color=#37FFFF>Fischl :</color> Je suis sûre ! Un soir, je l'ai entendue dire à autrui : « Périssez au nom du seigneur Barbatos ! »... Je pense qu'elle menait une prière...
+Connaître Fischl (1)
+Condamner les pécheurs, sanctifier les justes et mener leurs rêves naufragés vers Empire de la nuit éternelle. C'est le devoir absolu qui m'incombe en tant que Princesse du châtiment.
+Connaître Fischl (2)
+Mon œil gauche ? Vous voulez parler de mon œil du jugement ? Il voit la vérité du monde et quelle agonie ! Je le dissimule pour cette raison. Personne ne voudrait volontairement porter un tel fardeau. Puis... le monde ne serait pas aussi divertissant sans artifices.
+Connaître Fischl (3)
+<color=#37FFFF>Fischl :</color> Stormterror ? Je n'aurais jamais cru que ce dragon qui aurait le potentiel d'être mon animal de compagnie sèmerait le chaos dans ce monde... *soupir* ... Les habitants de ce bas monde sont d'une grande incompétence...  <color=#37FFFF>Oz :</color> Vous étiez quand même inquiète pour eux...  <color=#37FFFF>Fischl :</color> Ahem, j'ai le devoir de veiller sur toutes les pauvres âmes de ce monde, qu'elles soient belles ou laides !
+Connaître Fischl (4)
+<color=#37FFFF>Oz : </color> Ma maîtresse est connue sous de nombreux noms, mais elle m'a donné la vie en tant que « Fischl ». Tout compte fait, il s'agit de celui qui lui correspond le mieux, alors je vous prie de ne pas l'appeler autrement ou...  <color=#37FFFF>Fischl :</color> Auriez-vous l'amabilité de m'informer du sujet de vos bavardage ?  <color=#37FFFF>Oz :</color> N—Nous parlions de l'Incarnation de la nuit ! Et de votre prestigieux nom !
+Connaître Fischl (5)
+#Pourquoi je punis les pécheurs ? P—Pour la simple et bonne raison que leur existence souille le destin ! C'est lui qui vous a {M#amené}{F#amenée} ici et c'est aussi grâce à lui que nos chemins ont eu la chance de se croiser... Moi, Fischl, jure d'assurer votre protection pour toujours... p—parce que le destin en a décidé ainsi !
+Loisirs de Fischl - Interroger Fischl
+J'ai parcouru d'innombrables galaxies et ai voyagé à travers mille mondes. En observant le destin de dix mille univers, je connais celui de chaque âme vivante.
+Loisirs de Fischl - Interroger Oz
+<color=#37FFFF>Oz :</color> Ma maîtresse est une lectrice férue. Elle m'a nommé après un de ses romans préférés.
+Les problèmes de Fischl...
+Vous voulez savoir ce qui agace une princesse au plus haut point ? Eh bien, ce sont les malotrus qui ne savent pas à qui ils ont affaire. Cela me mécontente, mais les nobles en ont l'habitude. Je n'en tiens guère rigueur, car seule la noblesse de mon âme m'importe.
+Plats préférés...
+<color=#37FFFF>Fischl :</color> Hmph, la faim n'est qu'une faiblesse du corps humain ! Moi, la Princesse du châtiment, ne me délecte que des larmes des pécheurs et des langues des menteurs...  <color=#37FFFF>Oz : </color> Vous n'aimez plus les toasts sucrés façon nuit éternelle du Palais d'été ?  <color=#37FFFF>Fischl :</color> Ahem ! Ne te méprends pas, mon corps nécessite d'ingérer de la nourriture de temps en temps pour que je puisse réaliser mes royales fonctions.
+Plats détestés...
+<color=#37FFFF>Oz :</color> Je crois connaître la réponse à cette question...  <color=#37FFFF>Fischl :</color> Oh que oui, mon cher Oz ! Cette pauvre créature a été mutilée et privée de son enveloppe charnelle...  <color=#37FFFF>Oz :</color> Elle ne pourra plus jamais voler...  <color=#37FFFF>Fischl :</color> Dépossédée de la tête avec laquelle elle naquit et qui lui permettait d'admirer la grandeur de ses souverains... Cela ressemble bien à une fraction de l'enfer de notre monde d'origine. Le nom de ce plat m'échappe...  <color=#37FFFF>Oz :</color> Il me semble que cela commence par « poulet »...
+Cadeau reçu (1)
+<color=#37FFFF>Fischl :</color> Un mets aussi délicat est digne d'être servi dans le Jardin du sans-souci.  <color=#37FFFF>Oz :</color> Ma maîtresse veut dire que ce plat a un goût qui lui sied parfaitement.
+Cadeau reçu (2)
+<color=#37FFFF>Fischl :</color> Pour vaincre la Bête-monde, il faut d'abord s'élever au-dessus des désirs ordinaires, et ainsi tisser le chemin qui mène au destin.  <color=#37FFFF>Oz :</color> Pourtant, vous aviez l'air de vous délecter de ce mets tout à l'heure ?
+Cadeau reçu (3)
+<color=#37FFFF>Fischl :</color> Vous osez présenter cette assiette en présence de votre princesse ?  <color=#37FFFF>Oz :</color> Ma maîtresse n'apprécie pas vraiment ce plat, veuillez l'en excuser.
+Anniversaire...
+<color=#37FFFF>Fischl : </color> Comme nous avons le bonheur de fêter l'anniversaire de votre naissance, je me dois de célébrer cette occasion festive. Je suis tout ouïe aux vœux que vous souhaitez réaliser le temps de votre éphémère et insignifiante existence dans ce monde damné ! Si le hasard veut qu'il soit en mon pouvoir de...  <color=#37FFFF>Oz : </color> Ma maîtresse vous souhaite un joyeux anniversaire et si vous voulez, elle peut...  <color=#37FFFF>Fischl : </color> Oz ! Tais-toi !
+Affinité faible
+<color=#37FFFF>Fischl :</color> Ma flèche magique crie mon nom lors de sa traversée de la nuit sombre, implorant que la foudre divine s'abatte sur les ennemis du destin !  <color=#37FFFF>Oz :</color> Que c'est beau ! D'ailleurs, l'heure du dîner approche ; vous pourriez sûrement chasser un pigeon pendant que vous y êtes.
+Affinité moyenne
+<color=#37FFFF>Fischl : </color> De cette manière, je pourrais asseoir mon autorité en tant que Princesse du châtiment et vaincre l'ennemi du destin qu'est la réalité.  <color=#37FFFF>Oz :</color> Cela vous sera aussi d'une grande utilité pour votre travail au sein de la Guilde des aventuriers.
+Affinité élevée
+Réjouissez-vous ! Tremblez de peur ! Moi, la Princesse du châtiment de l'Empire de la nuit éternelle, ai vu les fils qui tissent le destin de l'univers grâce à mon œil du jugement !
+Affinité max
+#Je crois bien avoir regagné la puissance que j'ai perdue lors de ma traversée des mondes. Mouhaha ! Le jour du jugement est arrivé ! ... Ah, ne vous en faites pas. Lorsque j'abattrai ma foudre divine sur ce monde, je m'assurerai qu'aucun mal ne vous soit fait. Vous êtes {M#mon protégé}{F#ma protégée} après tout...
+Compétence élémentaire (1)
+Au nom du châtiment !
+Compétence élémentaire (2)
+Montre-toi, Oz !
+Compétence élémentaire (3)
+Réponds-moi !
+Compétence élémentaire (4)
+Oz : C'est reparti...
+Déchaînement élémentaire (1)
+Ailes des ténèbres, coupez le jour de la nuit !
+Déchaînement élémentaire (2)
+Incarnation de la nuit !
+Déchaînement élémentaire (3)
+Corbeau des ombres, fais tomber la nuit !
+Déchaînement élémentaire (4)
+Oz : À vos ordres, maîtresse !
+Déchaînement élémentaire (5)
+Oz : Incarnation de la nuit !
+Ouverture de coffre (1)
+Le destin m'a amenée en ce lieu !
+Ouverture de coffre (2)
+Quels bibelots se cachent dans ce plan désolé ?
+Ouverture de coffre (3)
+Hahaha, que mon illustre nom retentisse !
+PV faibles (1)
+Hmph ! Il semblerait que je doive m'appliquer.
+PV faibles (2)
+Oz : Chère maîtresse, si vous tombez, je...
+PV faibles (3)
+Ce destin n'est pas digne d'une princesse...!
+Compagnon avec PV faibles (1)
+Hmph ! Permettez-moi.
+Compagnon avec PV faibles (2)
+Oz : Maîtresse, votre présence est requise de toute urgence...
+K.O. (1)
+Ce monde n'est pas pour moi...
+K.O. (2)
+Je reviendrai... Ugh...
+K.O. (3)
+Oz : Maîtresse !
+Attaque puissante subie (1)
+Quelle insubordination !
+Ajout dans l'équipe (1)
+Au nom de la princesse !
+Ajout dans l'équipe (2)
+Fischl : Réjouissez-vous de mon arrivée.  Oz : Longue vie à la princesse !
+Ajout dans l'équipe (3)
+Votre destin est entre mes mains !

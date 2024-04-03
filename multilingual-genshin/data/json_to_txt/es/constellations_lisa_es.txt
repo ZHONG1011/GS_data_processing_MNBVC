@@ -1,0 +1,12 @@
+Circuito infinito
+Al mantener pulsado <color=#FFD780FF>Arco violeta</color>, Lisa recupera 2 pts. de Energía Elemental por cada enemigo golpeado. Solo se puede regenerar un máximo de 10 pts. de energía de esta manera.
+Campo electromagnético
+Al mantener pulsado, <color=#FFD780FF>Arco violeta</color> tiene los siguientes efectos: ·Aumenta en un 25% la DEF. ·Aumenta la RES a interrupción de Lisa.
+Trueno resonante
+Aumenta el nivel de habilidad de <color=#FFD780FF>Rayo de la rosa</color> +3. Puede ser aumentado hasta Niv. 15.
+Erupción de plasma
+Aumenta el número de rayos lanzados por <color=#FFD780FF>Rayo de la rosa</color> de 1 a 3.
+Electrocución
+Aumenta el nivel de habilidad de <color=#FFD780FF>Arco violeta</color> +3. Puede ser aumentado hasta Niv. 15.
+Bruja palpitante
+Al cambiar a Lisa, los enemigos cercanos acumulan 3 cargas de conducción de <color=#FFD780FF>Arco violeta</color>. Este efecto puede ocurrir una vez cada 5 s.

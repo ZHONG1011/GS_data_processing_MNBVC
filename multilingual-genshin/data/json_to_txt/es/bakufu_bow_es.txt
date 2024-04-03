@@ -1,0 +1,13 @@
+Masacrademonios
+El arco de guerra que perteneció a una miko del pasado. Exquisito y resistente, fue fabricado con una técnica inigualable.
+ “¡Bájate! ¡Las mujeres siempre se las apañan para estorbar en el barco!”. Eso dijo el ladrón Ako Domeki mientras se giraba. Al oír esto, la miko no pudo evitar sonreír. Si quien me enseñó a tirar con el arco no se hubiera ido a la guerra con la Shogun... Nuestro hijo tendría ahora la misma edad que Zaemon. Y quizás yo me apellidaría Takamine, o él tomaría el apellido Asase...  El tono de Zaemon y cómo me dio la espalda deliberadamente... Fue como cuando él tomó la espada y se marchó. Así que, esta vez, no dejaré que este hombre muera. Incluso aunque signifique luchar contra el estandarte del emblema Electro...  “Ya afilamos los arpones y las espadas. Es hora de zarpar”. “¡Mostremos a esos soldados la fuerza de Seiragi!”.  Al oír las salomas, la miko bajó su arco. La magia auténtica que aprendió en secreto en la Montaña Yougou... Aunque le daba lástima por su maestro tengu, decidió usarla aquí. Desharía la gran barrera que había durado miles de años, y dejaría que el resentimiento moribundo del iris violeta destruyera los barcos con el estandarte Electro. Solo esperaba que ese gato viejo no atravesara la tormenta...
+Gran jugada
+Aumenta en un <color=#99FFFFFF>16%</color> el daño infligido con Ataques Normales y en un <color=#99FFFFFF>12%</color> el infligido con Ataques Cargados. Este efecto aumenta en un 100% cuando el personaje que equipa esta arma tiene restaurada toda su Energía Elemental.
+Gran jugada
+Aumenta en un <color=#99FFFFFF>20%</color> el daño infligido con Ataques Normales y en un <color=#99FFFFFF>15%</color> el infligido con Ataques Cargados. Este efecto aumenta en un 100% cuando el personaje que equipa esta arma tiene restaurada toda su Energía Elemental.
+Gran jugada
+Aumenta en un <color=#99FFFFFF>24%</color> el daño infligido con Ataques Normales y en un <color=#99FFFFFF>18%</color> el infligido con Ataques Cargados. Este efecto aumenta en un 100% cuando el personaje que equipa esta arma tiene restaurada toda su Energía Elemental.
+Gran jugada
+Aumenta en un <color=#99FFFFFF>28%</color> el daño infligido con Ataques Normales y en un <color=#99FFFFFF>21%</color> el infligido con Ataques Cargados. Este efecto aumenta en un 100% cuando el personaje que equipa esta arma tiene restaurada toda su Energía Elemental.
+Gran jugada
+Aumenta en un <color=#99FFFFFF>32%</color> el daño infligido con Ataques Normales y en un <color=#99FFFFFF>24%</color> el infligido con Ataques Cargados. Este efecto aumenta en un 100% cuando el personaje que equipa esta arma tiene restaurada toda su Energía Elemental.

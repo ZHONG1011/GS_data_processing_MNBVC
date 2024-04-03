@@ -1,0 +1,164 @@
+Hola...
+Soy el undécimo de Los Once, Tartaglia “Nobile”. Y tú... eres una persona capaz de atraer el conflicto. ¡Me encanta! Seguro que nos llevaremos muy bien.
+Charla - Ociosidad
+No vamos a poder pelear contra nadie si nos quedamos aquí parados.
+Charla - Competición
+Humm... ¿Sabes si por aquí cerca hay algún poderoso enemigo al que podamos enfrentarnos?
+Charla - Fatui
+Me pregunto qué estarán haciendo el resto de Los Once... Hummm, bueno, no importa. Seguro que están llevando a cabo alguno de sus misteriosos “grandes planes”.
+Charla - Nevada tierra natal
+Si te quedaras así de parado en los campos nevados de mi tierra natal, ya te habrías congelado hace tiempo. ¡Jajaja!
+Tras la lluvia...
+El sonido de las gotas de lluvia cayendo sobre el agua espanta a los peces. Es mejor esperar a que amaine para pescar.
+Cuando nieva - Tierras extranjeras
+Jajaja. ¿Estará nevando también en mi hogar?
+Cuando nieva - Snezhnaya
+¡Qué nieve tan hermosa! Todo parece tan puro como el blanco de la luz de la luna. Es el escenario perfecto para una sangrienta batalla.
+Cuando hace viento...
+Ah... El viento trae consigo un ambiente bélico.
+Hace mucho viento - Tierras Extranjeras
+¡Qué bien se siente este viento!
+Hace mucho viento - Snezhnaya
+Siento como si el viento hubiera limpiado mi cuerpo y mi mente. Es una sensación tan agradable...
+Buenos días...
+¡Ey, colega! ¡Hoy te veo de muy buen humor!
+Buenas tardes...
+Parece que estás en forma. ¿Quieres un duelo rápido conmigo?
+Buenas noches... (I)
+Ah... ¡qué bien he comido! Ahora, a moverse un poco. Hay que hacer la digestión.
+Buenas noches... (II)
+¡Hoy fue un buen día! Nos vemos mañana, ¡colega!
+Sobre Tartaglia...
+Como soldado que soy, mi espada siempre ha de estar preparada para un desafío. No importa que gane o pierda, la experiencia de la batalla es algo valioso e irremplazable.
+Sobre nosotros - Colegas
+El resto de Los Once ya sabe que trabajo contigo. ¡Hum! Me encantaría ver las caras que ponen... Jajaja.
+Sobre nosotros - Arsenal
+En realidad, el arma que peor manejo es el arco, pero precisamente por eso estoy decidido a dominarla.
+Sobre nosotros - Supervivencia
+#Como tienes una gran fuerza incluso sin poseer una Visión, la gente espera mucho de ti. Antes de que llegues a tu límite, déjalo todo y combate a muerte contra mí. Ni se te ocurra ser derrotad{F#a}{M#o} antes de ese momento, compañer{F#a}{M#o}. ¡No te lo permitiré!
+Sobre nosotros - Invitación
+#Compañer{F#a}{M#o}, ¿te gustaría unirte a los Fatui? ¿Sabes qué? Olvídalo. Con tus habilidades, juntos podríamos vencer a Los Once. No querría perder una oportunidad como esa por nada en el mundo.
+Sobre la Visión...
+Aceptaré cualquier cosa que me haga ser más fuerte. ¿Una Visión? Excelente. ¿Un Engaño? Genial. ¿Enseñanzas sacrílegas del Abismo? Que así sea.
+¿Algo que decir?
+El paisaje nevado de un color blanco hueso devora la vida sin dejar rastro. Se trata de un enemigo invisible contra el que luchamos todos los días.
+Una noticia interesante...
+#Una vez me aventuré en las profundidades del abismo y me encontré cara a cara con una enorme bestia. No sé cómo se llamaba, solo sé que mi cuerpo entero se congeló nada más verla. Pero recuerda esto que voy a decir: un día regresaré y decapitaré a esa bestia, ¡y tú, compañer{F#a}{M#o}, serás mi testigo!
+Sobre Skirk...
+Han pasado años desde la última vez que vi a mi maestra. Espero que la próxima vez que nos veamos, al menos, pueda obligarla a usar ambas manos para luchar conmigo...
+Sobre Zhongli - Reflexión
+Ese hombre es más astuto de lo que parece. En cuanto a su poder... espero mucho de él.
+Sobre Zhongli - Reto
+Dime, ¿cómo ha estado el Sr. Zhongli últimamente? ¿No está mal, dices? Veo que no ha tenido problemas para adaptarse a la vida “mortal”. ¡Hum! Seguro que me engañó. No puedo perdonarlo, ¡la única forma de hacer las paces es mediante un feroz combate!  ¿Qué quieres decir con que no soy rival para él? Jajaja...
+Sobre la Zarina...
+En realidad, Su Majestad la Zarina es una persona muy amable. Demasiado amable, de hecho, por eso tuvo que volverse más dura. Le declaró la guerra al mundo entero precisamente porque sueña con la paz y, gracias a que se convirtió en enemiga del mundo, te he podido conocer a ti.
+Sobre Varka...
+¿Varka? El pensamiento de enfrentarme cara a cara a él en un combate, el legendario Caballero de Boreas en persona, máxima autoridad de los Caballeros de Favonius... me hace temblar de emoción. Es tan hermoso vivir en este mundo...
+Sobre El Bufón...
+Fue el miembro original de Los Once, y es nuestro líder hoy en día. Solo aparece en ocasiones importantes. En cuanto a sus logros... Para ser honestos, me dan exactamente igual. Mi lealtad y devoción son para con la Zarina, y nadie más.
+Sobre El Capitán...
+Le he visto en batalla y, guau, da gusto verlo. Tal vez aún estoy muy por debajo de él como para que se fije en mí... Bueno, puede que aún no reconozca mi fuerza, pero algún día le enseñaré lo que valgo.
+Sobre El Doctor...
+He oído que tomó partes de sí mismo a diferentes edades para hacer prototipos con ellos y asignó diferentes tareas a cada uno. Lo sé... Todos mis compañeros son un tanto excéntricos. Ahora que lo pienso, si me encontrara con un prototipo de mí mismo... ¡Ja! Tendríamos que luchar en el momento para decidir quién sobrevive.
+Sobre La Damisela...
+Los Once de los Fatui estamos clasificados por nuestra fuerza, pero no tengo ni idea de por qué ella es la tercera. Siempre que puedo, pongo a prueba mis habilidades con todos los heraldos que están por encima de mí, pero con ella... No sé, siento que hay algo que no encaja. Sea como sea, ten cuidado cuando esté cerca.
+Sobre La Sota...
+A ver, no tengo nada en contra de la gente que tiene su propia agenda; yo mismo me uní a los Fatui para adquirir más experiencia de combate. Pero ella no me agrada en absoluto. Si pudiera sacar beneficio traicionando a otras personas, ella se rebelaría contra la Zarina en un abrir y cerrar de ojos. No tiene ningún tipo de cordura.
+Sobre El Gallo...
+No sé cuál es su motivación, pero parece querer ayudarme genuinamente. Me trata como si fuera de su familia. Oh, hablando de familias, en las cartas que me escriben, Tonia y Teucer siempre me hablan de los dulces y otros regalos que él les lleva. Desde que me fui de Snezhnaya, ha cumplido su promesa de cuidar a mi familia.
+Sobre La Títere...
+Siempre parece estar muy ocupada investigando. Humm... Me pregunto si esas máquinas tendrán algo que ver con ella. El caso es que no nos hemos visto muchas veces, pero cuando lo hemos hecho, era como si quisiera asesinarme. No tengo ni idea de qué puedo haber hecho para enojarla.
+Sobre El Regatero...
+Oh, ese tipo tiene la cabeza llena de “planes grandiosos” avivados por su gran ambición. No entiendo ni una palabra de lo que dice cuando se pone a hablar de sus teorías. Bueno, mientras mantenga llenas nuestras reservas de dinero, yo no me quejo.
+Sobre Signora...
+Ya sabes que nunca me llevé bien con ella, aunque supongo que a estas alturas no vale la pena decir mucho más al respecto. Cuando eres uno de Los Once, has de aceptar que la muerte puede llamar a tu puerta en cualquier momento. Pero no te preocupes por mí. Pase lo que pase, haré todo lo que pueda por seguir viviendo.
+Sobre El Baladista...
+Después de llevarse la Gnosis, perdimos todo contacto con él. Ahora tenemos la tarea de buscarla y recuperarla... En realidad, a mí me da igual, eso quiere decir que puedo viajar por todas partes. Me pregunto si me encontraré contigo a lo largo de ese viaje.
+Más sobre Tartaglia (I)
+#Recuerda esto, compañer{F#a}{M#o}: un día, ¡yo conquistaré el mundo!
+Más sobre Tartaglia (II)
+Ya sea un dios o un monstruo del abismo, no importa contra quién combata, mientras tenga una forma física, siempre habrá una posibilidad de vencerlo. En cambio, a Los Once les preocupan más las cosas intangibles, y se pasan el día maquinando. Por eso no son de mi agrado.
+Más sobre Tartaglia (III)
+Por muy lejos que esté mi hogar, todos vivimos bajo el mismo cielo. Esa luna blanca como la nieve que se ve desde aquí... seguro que mi familia también la ve. Espero que mis hermanos estén bien... ¿Se habrán convertido también en formidables guerreros?
+Más sobre Tartaglia (IV)
+#Compañer{F#a}{M#o}, un consejo: no grites tonterías como “¡Arderás en el infierno!” en el fragor de la batalla. Puede que suenen bien en tu cabeza, pero si lo piensas, no tienen ningún sentido. El fuego no deja más que cenizas en la guerra, y tú debes sobrevivir sea como sea.
+Más sobre Tartaglia (V)
+#Qué rápido pasa el tiempo... Un día, verás cómo conquisto el mundo y aplasto los tronos de los dioses. Así que, hasta entonces, ¡no mueras, compañer{F#a}{M#o}!
+Aficiones de Tartaglia...
+La pesca sobre hielo y el combate siguen los mismos principios clave: la paciencia y la determinación. Aunque, ahora que lo pienso, supongo que es igual para el resto de cosas en la vida.
+Preocupaciones de Tartaglia...
+¿Mis preocupaciones? Estoy demasiado ocupado viajando contigo y derrotando enemigos poderosos como para pensar en asuntos tan insignificantes.
+Comida que más le gusta...
+En este mundo, hay mucha comida deliciosa que probar, y también muchas peleas en las que meterse. ¡La vida es bella!
+Comida que menos le gusta...
+La comida es como un arma. Un verdadero guerrero nunca le encuentra defectos a su arma, ni tampoco a la comida que come. Tú tampoco deberías hacerlo.
+Al recibir un regalo (I)
+Comer algo delicioso siempre sirve para quitar las preocupaciones. ¿Cómo puedo agradecértelo?
+Al recibir un regalo (II)
+Has mejorado mucho en la cocina. ¿Eso significa que también te has vuelto más fuerte?
+Al recibir un regalo (III)
+Humm, admito que el sabor me sorprende un poco... ¿Eh? Está bien, lo probaré una vez más.
+Cumpleaños...
+#¡Feliz cumpleaños, compañer{F#a}{M#o}! ¿Hay alguien a quien necesites dar una paliza hoy? Dímelo y estaré encantado de ayudarte.
+El sentimiento de Ascensión - Introducción
+¡Siento que me he vuelto más fuerte! Hummm, ¿a quién puedo usar como conejillo de indias?
+El sentimiento de Ascensión - Desarrollo
+“La fuerza de un guerrero es como una esfera. Cuanto más grande es la esfera, más oponentes para desafiar hay dentro de ella”. ¿Quién era el que dijo esa frase?
+El sentimiento de Ascensión - Nudo
+#¡Bravo, compañer{F#a}{M#o}! Gracias a tu ayuda, estoy a un paso menos de alcanzar mi objetivo de conquistar el mundo. Seguro que ni la propia Zarina esperaba que algún día llegase tan lejos.
+El sentimiento de Ascensión - Desenlace
+#Compañer{F#a}{M#o}, tú también debes seguir entrenando. De lo contrario, ¿contra quién podré luchar a muerte cuando el mundo se haya rendido ante mis pies?
+Habilidad Elemental (I)
+¡Ya eres mío!
+Habilidad Elemental (II)
+¡Ja!
+Habilidad Elemental (III)
+¡Olas furiosas!
+Habilidad Elemental (IV)
+¡Vamos!
+Habilidad Elemental (V)
+¿Quién es el siguiente?
+Habilidad Elemental (VI)
+¡Ja!
+Habilidad Definitiva (I)
+¡Obstrucción del flujo!
+Habilidad Definitiva (II)
+¡Corre, pero no podrás esconderte!
+Habilidad Definitiva (III)
+¡No bajes la guardia!
+Habilidad Definitiva (IV)
+¡Prepárate, esto va a doler!
+Al esprintar (I)
+¡No hay tiempo que perder!
+Al abrir el planeador (I)
+Podría acostumbrarme...
+Al abrir un cofre (I)
+¡Genial! ¡Así me gusta!
+Al abrir un cofre (II)
+No está mal... No está nada mal.
+Al abrir un cofre (III)
+¡Ahora solo tengo que conseguir el resto!
+Vida baja (I)
+¡Ja! Esto se pone interesante...
+Vida baja (II)
+¡No lo haces nada mal!
+Vida baja (III)
+Se acerca la muerte... ¡Llegó la hora de lucirme!
+Aliado con vida baja (I)
+¿Qué pasa, te falta práctica?
+Aliado con vida baja (II)
+¡A un lado! ¡Me toca a mí!
+Derrotado (I)
+¿Cómo? Si acababa de...
+Derrotado (II)
+¡Maldición!
+Derrotado (III)
+Me has... impresionado...
+Recibiendo un fuerte ataque (I)
+¡Error de principiante!
+Unirse al equipo (I)
+¿Tienes que acabar con unos cuantos enemigos?
+Unirse al equipo (II)
+¡Mantén los ojos bien abiertos!
+Unirse al equipo (III)
+¡Vamos, no me hagas esperar!

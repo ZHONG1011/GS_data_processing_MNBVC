@@ -1,0 +1,13 @@
+Ebony Bow
+Busur yang terbuat dari kayu hitam, tubuhnya lebih kaku dari busur biasa. Tetapi tentunya juga lebih kuat.
+ Kekuatan dan keterampilan, keduanya dibutuhkan untuk menggunakan busur panjang. Busur panjang yang terbuat dari kayu hitam ini membutuhkan tenaga yang besar, karena busurnyapun lebih kokoh. Namun beberapa orang mengatakan, kayu hitam seharusnya bukan bahan untuk membuat busur. Di masa lalu, seorang pemburu memburu mangsa dengan busur panjang kayunya. Dia berburu sampai jarinya tergores, membuat busurnya menjadi hitam, sama seperti hatinya yang ikut menghitam. Noda di busurnya bisa dibersihkan namun tidak demikian dengan hatinya. 
+Decimate
+Meningkatkan <color=#99FFFFFF>40%</color> DMG terhadap musuh Ruins.
+Decimate
+Meningkatkan <color=#99FFFFFF>50%</color> DMG terhadap musuh Ruins.
+Decimate
+Meningkatkan <color=#99FFFFFF>60%</color> DMG terhadap musuh Ruins.
+Decimate
+Meningkatkan <color=#99FFFFFF>70%</color> DMG terhadap musuh Ruins.
+Decimate
+Meningkatkan <color=#99FFFFFF>80%</color> DMG terhadap musuh Ruins.

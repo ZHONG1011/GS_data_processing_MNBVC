@@ -1,0 +1,13 @@
+Fléau du dragon
+Une lance aussi légère que pointue sur laquelle s'enroule un dragon d'or. Légère et affûtée, cette arme pourrait fort bien être capable de tuer des dragons.
+ Une hallebarde que l'on dit légendaire à Liyue. L'arme affiche un motif de dragon s'enroulant de la poignée à l'extrémité. Elle allait autrefois de pair avec un étui en bois en forme de dragon ; mais il ne suffit plus à contenir sa puissance. L'arme est capable de percer tout ce qui se trouve en son chemin.  On raconte que Kunwu forgea le manche de cette hallebarde dans la colonne vertébrale d'un dragon, et la lame dans l'une de ses griffes. Cela expliquerait pourquoi elle est incassable, et pourquoi sa lame au trachant incomparable semble luire de la malveillance du dragon.  Dans les temps anciens vécut un chasseur de dragons au courage n'ayant d'égal que la force. Il défia la fureur de l'océan, et affronta les monstruosités qui s'y cachaient. Les années passèrent, et l'on perdit sa trace ; sur les mers retentissait toujours l'écho des dragons.  Le héros devint une légende ; et sa hallebarde tueuse de dragons le suivit dans l'oubli. Aujourd'hui libérée des étreintes du passé, l'arme affiche toute sa puissance et sa férocité, à la manière du dragon retrouvant les flots.
+Fléau de feu et d'eau
+Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Pyro de <color=#99FFFFFF>20 %</color>.
+Fléau de feu et d'eau
+Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Pyro de <color=#99FFFFFF>24 %</color>.
+Fléau de feu et d'eau
+Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Pyro de <color=#99FFFFFF>28 %</color>.
+Fléau de feu et d'eau
+Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Pyro de <color=#99FFFFFF>32 %</color>.
+Fléau de feu et d'eau
+Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Pyro de <color=#99FFFFFF>36 %</color>.

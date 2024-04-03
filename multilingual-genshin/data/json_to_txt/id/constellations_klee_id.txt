@@ -1,0 +1,12 @@
+Chained Reaction
+Saat melancarkan serangan atau skill, Klee memiliki kemungkinan untuk menimbulkan percikan api yang mengakibatkan DMG sebesar 120% dari DMG <color=#FFD780FF>Sparks 'n' Splash</color> pada musuh.
+Explosive Frags
+DEF musuh berkurang 23% selama 10 detik saat terkena ranjau dari <color=#FFD780FF>Jumpy Dumpty</color>.
+Exquisite Compound
+Meningkatkan 3 level <color=#FFD780FF>Jumpy Dumpty</color>. Maksimum: Lv. 15.
+Sparkly Explosion
+Jika Klee meninggalkan medan pertempuran saat <color=#FFD780FF>Sparks 'n' Splash</color> sedang berlangsung, kepergian Klee akan memicu ledakan yang mengakibatkan <color=#FF9999FF>Pyro DMG Area</color> sebesar 555% ATK.
+Nova Burst
+Meningkatkan 3 level <color=#FFD780FF>Sparks 'n' Splash</color>. Maksimum: Lv. 15.
+Blazing Delight
+Saat <color=#FFD780FF>Sparks 'n' Splash</color> aktif, Klee akan memulihkan 3 Energy setiap 3 detik untuk semua anggota party (tidak termasuk Klee sendiri). Setelah melancarkan <color=#FFD780FF>Sparks 'n' Splash</color>, seluruh anggota party mendapatkan 10% <color=#FF9999FF>Pyro DMG Bonus</color> selama 25 detik.

@@ -1,0 +1,12 @@
+Unholy Revelation
+Setelah Rosaria mengakibatkan serangan CRIT, ATK SPD dan DMG Normal Attack Rosaria meningkat 10% selama 4 detik.
+Land Without Promise
+Durasi Ice Lance yang terbentuk dari Talenta <color=#FFD780FF>Rites of Termination</color> bertambah 4 detik.
+The Wages of Sin
+Meningkatkan 3 level <color=#FFD780FF>Ravaging Confession</color>. Maksimum: Lv. 15.
+Painful Grace
+Serangan CRIT <color=#FFD780FF>Ravaging Confession</color> memulihkan 5 Energy Rosaria. Hanya dapat terpicu setiap Ravaging Confession dilancarkan.
+Last Rites
+Meningkatkan 3 level <color=#FFD780FF>Rites of Termination</color>. Maksimum: Lv. 15.
+Divine Retribution
+Serangan dari <color=#FFD780FF>Rites of Termination</color> dapat mengurangi 20% Physical RES musuh selama 10 detik.

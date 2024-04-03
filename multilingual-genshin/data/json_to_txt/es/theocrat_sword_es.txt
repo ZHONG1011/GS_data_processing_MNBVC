@@ -1,0 +1,13 @@
+Espada Real Larga
+Una vieja espada larga que perteneció a aquellos que una vez gobernaron sobre Mondstadt. Tiene un acabado exquisito. Sus decoraciones y grabados son una muestra del estatus de su antiguo propietario.
+ Una espada larga que perteneció a un aristócrata que gobernó Mondstadt. Fue elaborada artesanalmente con materiales de primera calidad. Por eso, aunque ha pasado de generación en generación, no ha perdido el filo. Antiguamente, el dominio de la espada era un requisito indispensable entre los nobles. El propósito era cultivar la sabiduría y la elegancia, no combatir. Según las fuentes escritas, desafortunadamente, la sabiduría y la elegancia se perdieron, y el uso de la espada se convirtió en una mera formalidad.  La era de los habitantes más antiguos de Mondstadt se remonta a hace 2600 años. Después de que el nuevo Arconte Anemo descendiera y reconstruyera el mundo, hicieron un solemne juramento:  “Proteger Mondstadt para siempre. Proteger sus verdes llanuras, sus colinas y sus bosques, para que siempre conserven su verdor”. “Proteger Mondstadt para siempre, para que nunca más sufra tormentas tiránicas que lo dejen atrapado y para que sea libre por la eternidad”.  Independientemente de los problemas a los que se enfrente Mondstadt, ya sea la tiranía humana o las plagas de monstruos, e incluso de si se destruye la estela sobre la que escribieron su juramento, este en sí mismo seguirá volando con los mil vientos, protegiendo a Mondstadt con afecto y defendiéndolo firmemente como un padre. 
+Concentración
+Al dañar a un enemigo, aumenta la Prob. CRIT en un <color=#99FFFFFF>8%</color>. Puede acumularse hasta 5 veces. Una vez asestado un golpe CRIT, las acumulaciones de Concentración se reiniciarán.
+Concentración
+Al dañar a un enemigo, aumenta la Prob. CRIT en un <color=#99FFFFFF>10%</color>. Puede acumularse hasta 5 veces. Una vez asestado un golpe CRIT, las acumulaciones de Concentración se reiniciarán.
+Concentración
+Al dañar a un enemigo, aumenta la Prob. CRIT en un <color=#99FFFFFF>12%</color>. Puede acumularse hasta 5 veces. Una vez asestado un golpe CRIT, las acumulaciones de Concentración se reiniciarán.
+Concentración
+Al dañar a un enemigo, aumenta la Prob. CRIT en un <color=#99FFFFFF>14%</color>. Puede acumularse hasta 5 veces. Una vez asestado un golpe CRIT, las acumulaciones de Concentración se reiniciarán.
+Concentración
+Al dañar a un enemigo, aumenta la Prob. CRIT en un <color=#99FFFFFF>16%</color>. Puede acumularse hasta 5 veces. Una vez asestado un golpe CRIT, las acumulaciones de Concentración se reiniciarán.

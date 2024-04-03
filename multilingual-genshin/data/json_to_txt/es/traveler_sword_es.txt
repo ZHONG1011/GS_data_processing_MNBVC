@@ -1,0 +1,13 @@
+Espada del Viajero
+Una práctica espada de acero que esconde en su empuñadura unas tijeras, una lupa y yesca, entre otras cosas...
+ Una espada fiable y equilibrada, hecha de acero resistente. La mayor desventaja es su estructura, que no tiene virola, lo que reduce en gran medida su durabilidad. En lugar de eso, esconde en su empuñadura un cuchillo para fruta, tijeras, yesca y otros útiles. ¿Quizás se llama Espada del Viajero porque... tiene todo tipo de herramientas de viaje? 
+Viaje
+Restaura un <color=#99FFFFFF>1%</color> de Vida al obtener un orbe o partícula elemental.
+Viaje
+Restaura un <color=#99FFFFFF>1.25%</color> de Vida al obtener un orbe o partícula elemental.
+Viaje
+Restaura un <color=#99FFFFFF>1.5%</color> de Vida al obtener un orbe o partícula elemental.
+Viaje
+Restaura un <color=#99FFFFFF>1.75%</color> de Vida al obtener un orbe o partícula elemental.
+Viaje
+Restaura un <color=#99FFFFFF>2%</color> de Vida al obtener un orbe o partícula elemental.

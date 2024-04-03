@@ -1,0 +1,13 @@
+Couteau à filets
+Un couteau de pêche à la lame tranchante. Il est très acéré.
+ La légende raconte que les poissons chiwen abondaient autrefois à Liyue ; les habitants en raffolaient. Le nom évolua au fil du temps en « poisson chihu ». Il est de nos jours assez rare d'en voir ; et le terme « poisson chihu » désigne également les amateurs de poissons de Liyue. 
+Détermination
+Les attaques ont 50 % de chances d'infliger <color=#99FFFFFF>240 %</color> de DGT d'ATQ à un ennemi lorsqu'elles touchent. Cet effet peut être déclenché une fois toutes les <color=#99FFFFFF>15</color> s.
+Détermination
+Les attaques ont 50 % de chances d'infliger <color=#99FFFFFF>280 %</color> de DGT d'ATQ à un ennemi lorsqu'elles touchent. Cet effet peut être déclenché une fois toutes les <color=#99FFFFFF>14</color> s.
+Détermination
+Les attaques ont 50 % de chances d'infliger <color=#99FFFFFF>320 %</color> de DGT d'ATQ à un ennemi lorsqu'elles touchent. Cet effet peut être déclenché une fois toutes les <color=#99FFFFFF>13</color> s.
+Détermination
+Les attaques ont 50 % de chances d'infliger <color=#99FFFFFF>360 %</color> de DGT d'ATQ à un ennemi lorsqu'elles touchent. Cet effet peut être déclenché 1 fois toutes les <color=#99FFFFFF>12</color> s.
+Détermination
+Les attaques ont 50 % de chances d'infliger <color=#99FFFFFF>400 %</color> de DGT d'ATQ à un ennemi lorsqu'elles touchent. Cet effet peut être déclenché 1 fois toutes les <color=#99FFFFFF>11</color> s.

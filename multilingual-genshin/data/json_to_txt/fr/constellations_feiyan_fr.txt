@@ -1,0 +1,12 @@
+Plaidoyer convaincant
+Lorsque Yanfei utilise une attaque chargée, chaque sceau écarlate existant réduit sa consommation d'endurance de 10 % supplémentaires et augmente la RÉS à l'interruption lors de son déclenchement.
+Verdict final
+Le taux CRIT des attaques chargées de Yanfei augmente de 20 % lorsqu'elles touchent des ennemis dont les PV sont inférieurs à 50 %.
+Mise sous scellés
+Niveau d'aptitude <color=#FFD780FF>Pacte des flammes</color> +3. Niveau max : 15
+Droit commun
+<color=#FFD780FF>Application des peines</color> confère les effets suivants : Génère un bouclier qui absorbe une quantité de DGT équivalant à 45 % des PV max et dure 15 s. Le bouclier est efficace à 250 % contre les <color=#FF9999FF>DGT Pyro</color>.
+Déclaration sous serment
+Niveau d'aptitude <color=#FFD780FF>Application des peines</color> +3. Niveau max : 15
+Clause complémentaire
+Augmente le nombre max de sceaux écarlates de 1.

@@ -1,0 +1,12 @@
+Danse de la lune décroissante
+<color=#FFD780FF>Danse des haftkarsvars</color> bénéficie des améliorations suivantes : · Les DGT infligés par la lune aqueuse augmentent de 65 %. · La durée de l'aura de tranquillité augmente de 6 s.
+Pluie de fleurs du ciel étoilé
+Lorsqu'un personnage sous l'effet de Prime du calice d'or a infligé des <color=#80C0FFFF>DGT Hydro</color> à un ennemi, la <color=#80C0FFFF>RÉS Hydro</color> de ce dernier diminue de 35 % pendant 10 s. Lorsqu'une réaction de Fleurissement a infligé des DGT à un ennemi, la <color=#99FF88FF>RÉS Dendro</color> de ce dernier diminue de 35 % pendant 10 s. L'aptitude passive « Cour des pétales dansants » doit être déjà débloquée.
+Pas d'ombre séduisant
+Niveau d'aptitude <color=#FFD780FF>Danse d'abzendegi : Ruisseau des rêves lointains</color> +3. Niveau max : 15
+Impulsion fricative
+Lorsque le troisième pas de danse de l'état de Pirouette de <color=#FFD780FF>Danse des haftkarsvars</color> a touché un ennemi, Nilou récupère 15 pts d'énergie élémentaire et les DGT qu'elle inflige en utilisant <color=#FFD780FF>Danse d'abzendegi : Ruisseau des rêves lointains</color> augmentent de 50 % pendant 8 s.
+Lumière tourbillonnante
+Niveau d'aptitude <color=#FFD780FF>Danse des haftkarsvars</color> +3. Niveau max : 15
+Mélodie de brise-givre
+Pour chaque tranche de 1 000 PV max, le taux CRIT de Nilou augmente de 0,6 % et ses DGT CRIT de 1,2 %. Le taux CRIT de Nilou peut être augmenté d'un maximum de 30 % et ses DGT CRIT d'un maximum de 60 % de cette manière.

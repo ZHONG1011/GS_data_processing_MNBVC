@@ -1,0 +1,12 @@
+Dissolution d'éon : Destructeur de mondes
+Confère une utilisation supplémentaire de <color=#FFD780FF>Cycle du vent lemniscatique</color>.
+Annihilation d'éon : Fleur du kaléidoscope
+La recharge d'énergie de Xiao augmente de 25 % lorsqu'il fait partie de l'équipe mais n'est pas déployé.
+Dompteur de démons : Déité de la colère
+Niveau d'aptitude <color=#FFD780FF>Cycle du vent lemniscatique</color> +3. Niveau max : 15
+Transcendance : Extinction de la souffrance
+Xiao bénéficie d'un bonus de DÉF de 100 % quand ses PV sont inférieurs à 50 %.
+Évolution d'éon : Origine de l'ignorance
+Niveau d'aptitude <color=#FFD780FF>Fléau du mal</color> +3. Niveau max : 15
+Dompteur de démons : Gardien Yaksha
+Lorsque <color=#FFD780FF>Fléau du mal</color> est actif, les attaques plongeantes touchant au moins 2 ennemis confèrent immédiatement un cumul de <color=#FFD780FF>Cycle du vent lemniscatique</color> supplémentaire, qui peut être activé dans la seconde qui suit même s'il n'est pas entièrement rechargé.

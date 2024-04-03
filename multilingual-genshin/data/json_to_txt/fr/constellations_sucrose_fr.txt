@@ -1,0 +1,12 @@
+Champ du néant
+Confère une utilisation supplémentaire de <color=#FFD780FF>Esprit du vent : Sujet 6308</color>.
+Bett : Forme éthérée
+Prolonge la durée d'<color=#FFD780FF>Esprit du vent : Isomorphe 75 Type II</color> de 2 s.
+Zéro défaut
+Niveau d'aptitude <color=#FFD780FF>Esprit du vent : Sujet 6308</color> +3. Niveau max : 15
+Alchémania
+Sucrose réduit le TdR d'<color=#FFD780FF>Esprit du vent : Sujet 6308</color> de 1 à 7 s tous les 7 coups d'attaque normale ou chargée qu'elle inflige à un ennemi. Un coup peut être compté toutes les 0,1 s.
+Flasque standard
+Niveau d'aptitude <color=#FFD780FF>Esprit du vent : Isomorphe 75 Type II</color> +3. Niveau max : 15
+Théorie de l'entropie
+En cas d'absorption élémentaire, <color=#FFD780FF>Esprit du vent : Isomorphe 75 Type II</color> confère à tous les personnages de l'équipe un bonus de DGT élémentaires de 20 % pour l'élément absorbé tant que la compétence est active.

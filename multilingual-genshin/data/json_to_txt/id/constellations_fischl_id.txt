@@ -1,0 +1,12 @@
+Gaze of the Deep
+Saat Oz tidak di dalam medan pertarungan, dia masih tetap bisa melindungi Fischl melalui mata burung gagak. Saat Fischl menyerang musuh dengan Normal Attack, Oz melancarkan serangan melalui mata burung gagak yang mengakibatkan DMG sebesar 22% ATK.
+Devourer of All Sins
+Menggunakan <color=#FFD780FF>Nightrider</color> akan mengakibatkan serangan tambahan sebesar 200% ATK, dan meningkatkan 50% area serangan.
+Wings of Nightmare
+Meningkatkan 3 level <color=#FFD780FF>Nightrider</color>. Maksimum: Lv. 15.
+Her Pilgrimage of Bleak
+Saat menggunakan <color=#FFD780FF>Midnight Phantasmagoria</color>, mengakibatkan <color=#FFACFFFF>Electro DMG</color> ke musuh di sekitar sebesar 222% ATK ke musuh di sekitar. Saat skill berakhir, memulihkan 20% HP Fischl.
+Against the Fleeing Light
+Meningkatkan 3 level <color=#FFD780FF>Midnight Phantasmagoria</color>. Maksimum: Lv. 15.
+Evernight Raven
+Meningkatkan durasi pemanggilan Oz selama 2 detik, selama durasi, Oz menyerang bersama dengan karakter yang sedang bertarung, mengakibatkan 30% ATK Fischl sebagai <color=#FFACFFFF>Electro DMG</color>.

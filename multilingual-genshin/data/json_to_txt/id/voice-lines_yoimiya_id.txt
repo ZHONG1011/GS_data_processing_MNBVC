@@ -1,0 +1,148 @@
+Elemental Skill: I
+Waktunya pertunjukan cahaya!
+Elemental Skill: II
+Nyalakan sumbunya!
+Elemental Skill: III
+Awas kebakaran~
+Elemental Burst: I
+Perayaan dimulai kembali!
+Elemental Burst: II
+Ikan Emas datanglah!
+Elemental Burst: III
+Ini dia kembang apinya!
+Membuka Wind Glider: I
+Naik, naik, naik terus!
+Membuka Peti Harta: I
+Ada bahan kembang api tidak ya di dalam?
+Membuka Peti Harta: II
+Dapat apa nih?
+Membuka Peti Harta: III
+Asyik, biar aku yang buka!
+HP Rendah: I
+Waduh-duh, waduh!
+HP Rendah: II
+Aduh, sakit juga...
+HP Rendah: III
+Aku harus berhati-hati...
+HP Rekan Rendah: I
+Aku datang, aku bantu!
+HP Rekan Rendah: II
+Jangan takut, Yoimiya sudah tiba!
+Gugur: I
+Celaka...
+Gugur: II
+Main-mainnya... kelewatan...
+Gugur: III
+Festival... sudah berakhir.
+Menerima Serangan Ringan: I
+Pelan-pelan, dong!
+Menerima Serangan Hebat: I
+Itu tidak dianggap!
+Bergabung ke Party: I
+Apa kamu mau mengadakan sebuah festival?
+Bergabung ke Party: II
+Ayo main sama-sama!
+Bergabung ke Party: III
+Lebih banyak rekan. Hore!
+Halo
+Selamat datang di Naganohara! Namaku Yoimiya — bilang padaku kalau perlu sesuatu! Kami punya Kushikatsu, Egg Roll ... Eh, salah, kami bukan restoran. Kami bikin kembang api! Seperti ini, lihat kan? Berkilau dan berpijar, kembang api kecil yang lucu~
+Berbincang: Kembang Api
+Kembang Api hanya sesaat, persahabatan itu untuk selamanya.
+Berbincang: Bercerita
+Kalau tidak ada hal lain, bagaimana kalau aku cerita saja?
+Berbincang: Ikan Emas
+Apa kamu pernah pelihara ikan emas? Mereka lucu sekali loh.
+Ketika Turun Hujan
+Ahh, kembang apinya basah kuyup! Cari tempat berteduh, cepat! Aduh, sepertinya tidak akan sempat!
+Ketika Turun Salju
+Haha, lihat aku bikin bola salju ....
+Ketika Matahari Bersinar
+Ah, nyaman!!! Aku merasa ringan sekali, seolah bisa melayang.
+Ketika Angin Berembus
+Anginnya kencang amat—! Suaraku tertiup balik ke arahku—! Hahaha ....
+Selamat Pagi
+Ah ... *hoam* Pagi. Udara pagi memang paling segar. Ayo, ambil napas dalam-dalam! Kamu bakal jadi lebih pintar~
+Selamat Siang
+Waktunya makan siang! ...Astaga, kuning telurnya ada dua. Beruntung sekali, kembar nih!
+Selamat Malam
+Sekarang adalah waktu ideal buat tes kembang api, tapi aku yakin meledaknya akan tetap bagus mau di langit atau di tanah ... Hehe, bercanda. aku tetap mengutamakan keselamatan kok.
+Selamat Tidur
+Waktunya kuis! Apa yang kamu lakukan sehabis nonton kembang api seharian? Hehe, jawabannya adalah ... nonton lagi di dalam mimpi! Selamat malam. Sampai besok!
+Tentang Yoimiya: Urusan Keluarga
+Pendengaran ayahku kurang. Waktu aku kecil, mau aku bilang apa pun, dia akan tersenyum. Kukira semuanya sudah benar, jadi aku terus saja ngomong, dia pun terus saja senyum. Belakangan, aku sadar bahwa dia senyum karena pendengarannya kurang jelas, tapi ... asalkan dia senang, aku akan terus bicara dengannya.
+Tentang Yoimiya: Berbicara
+Aku tidak pernah pusing soal peribahasa "mulutmu harimaumu". Perasaan yang ada di dalam perkataan tidak bisa berbohong. Salah paham yang muncul dari salah ucap, dapat diselesaikan jika kamu terus bicara. Kalau kamu diam saja, orang lain mana mungkin paham apa maksudmu, dan mereka pun jadi tidak bisa dekat denganmu.
+Tentang Kita: Batu, Gunting, Kertas
+Ayo suit! Aku yang hitung ya, sekarang — batu, kertas, gunting! Hore, aku menang! Hore! Eh? Tidak, aku tidak ganti pilihan di tengah jalan kok. Buat apa juga aku begitu?
+Tentang kita: Teman Perjalanan
+Bagiku, mau melakukan apa pun bukan masalah, yang penting adalah dengan siapa aku melakukannya. Kalau sama kamu, hal sepele seperti melihat-lihat pemandangan atau menendang-nendang toples saja jadi menyenangkan rasanya. Aku tidak akan pernah bosan ngobrol denganmu.
+Tentang Vision
+Biar kuberi tahu kamu sebuah rahasia. Waktu baru dapat Vision, aku memakainya sebagai korek api untuk menyalakan kembang api dan masak air, terus aku pulang, kusimpan di gudang, lalu lupa deh. Pada akhirnya, ayahku menemukannya dan dia bilang kalau itu barang berharga yang harus kusimpan baik-baik. Haha, untungnya Archon kita tercinta tidak menyitanya lagi ya.
+Berbagi Cerita: Lantern Rite
+Kamu tahu tidak? Banyak kembang api yang dipakai selama Lantern Rite di Liyue itu dibeli dari toko kami. Aku membuatnya sesuai pesanan, lalu minta tolong Beidou untuk mengirimnya ke Liyue. Ekspor seperti ini tidak diperbolehkan di bawah Dekrit Sakoku, tapi ... Bagaimana bisa ada festival tanpa kembang api?
+Berbagi Cerita: Perputaran
+"Ketika percikan terakhir kembang api di langit telah menghilang, mereka berubah menjadi hujan dan salju yang jatuh ke bumi, untuk menyuburkan tanah dan memelihara umat manusia, sehingga suatu hari nanti mereka dapat kembali lagi ke langit untuk menampilkan keagungan mereka." Dari sekian banyak cerita ayahku, ini yang paling aku suka.
+Berbagi Cerita: Titik Cahaya
+Apa kamu pernah coba injak titik cahaya waktu kecil dulu? Kamu tahu kan, bercak-bercak di tanah itu terjadi waktu sinar matahari melewati dedaunan. Aku pikir itu akan hilang jika aku injak, tetapi bercak itu akan selalu lompat ke atas kakiku. Aku coba, coba, dan terus mencoba, tapi selalu saja gagal ... Aku jadi putus asa, lalu duduk di atas batu, mendesah sendiri dan berpikir, "Ah, jadi ada ya hal-hal di dunia ini yang tidak bisa diinjak ...."
+Kisah Menarik
+Saat jongkok di sebelah anak-anak dan nonton mereka menangkap ikan emas di suatu festival musim panas, tiba-tiba aku kepikiran: bisa tidak ya aku bikin kembang api yang mampu meledak di permukaan air? Demikianlahlahir "Kembang Api Ikan Emas" tercipta! Mereka bisa berenang ke sana kemari, memancarkan sinar warna-warni, bahkan mengeluarkan gelembung! Aku tidak sangka itu bisa berhasil, tetapi sepertinya keajaiban itu memang ada ya.
+Tentang Beidou
+Beidou membantuku mengirim kembang api sejak Inazuma ditutup. Aku menyiapkan kembang api berbentuk kapal besar untuk mengagetkannya, dan waktu Crux Fleet mau berangkat, kembang api nya WUUUSH! di depan mata mereka, meluncur ke langit. Para awak kapal jadi ketakutan, mereka kira ada kapal mereka yang meledak! Tapi Beidou malah suka sekali, dia bilang memang begitulah seharusnya sebuah kejutan: mengejutkan sekaligus menyenangkan.
+Tentang Raiden Shogun
+Kembang api adalah sesuatu yang jauh sekali dari "keabadian" yang diidamkan sang Shogun. Dia mungkin merasa kalau ledakan cahaya yang sekejap saja itu sama sekali tidak ada artinya buat Inazuma. Haah, mungkin ini sulit dipahami oleh dia yang memegang "keabadian" di tangannya. Justru karena hidup manusia fana seperti kita ini singkat, kita harus menghargai keindahan yang hanya sekejap saja itu.
+Tentang Kamisato Ayaka: Keseriusan
+Kami banyak berkolaborasi untuk urusan pekerjaan. Tidak seperti orang-orang di dua Commission lainnya, dia selalu menunggu aku selesai bicara dan menanggapiku dengan sabar dan serius. Kurasa, istilah "Ladylike" itu memang diciptakan khusus untuk dia.
+Tentang Kamisato Ayaka: Mandi
+Suatu ketika kami pernah membahas soal festival musim panas sampai larut malam. Lelah sekali rasanya, jadi kuajak dia pergi berendam untuk relaksasi. Waktu dia dengar kalau akan ada banyak orang lain yang juga berendam di pemandian yang sama, wajahnya merona merah dalam sekejap! Itulah pertama kalinya aku tahu kalau gadis bangsawan tidak boleh berendam di pemandian umum.
+Tentang Thoma
+Dia pintar bicara dan selalu punya pengertian di balik setiap ucapan yang keluar dari bibirnya. Awalnya memang terkesan tak jelas, tapi semakin dia bicara, semakin jelas apa tujuannya. Ini ... beda sekali dengan caraku. Aku selalu minta bantuannya setiap ada masalah yang tidak bisa kuselesaikan.
+Tentang Yae Miko
+Waktu itu ada festival di kuil, dan Ayaka tanya apa aku bisa buat kembang api untuk Nona Guuji. Lah, Nona Guuji bukannya duduk di dalam kuil selama festival berlangsung? Jadi aku terus mengawasi beliau selama festival berlangsung, sambil berpikir bagaimana caranya dia bakar kembang apinya. Aku tunggu, tunggu dan tunggu lagi, sampai akhirnya Ayaka datang dan bilang kalau Nona Guuji suka sekali dengan kembang apinya. Loh? Kapan dia bakar kembang api? Jadi orang yang di dalam kuil itu ... siapa?
+Tentang Arataki Itto: Duel
+Oh, dia. Tampangnya seram, tapi dia populer di kalangan anak-anak. Dia sangat kompetitif loh. Setiap kali main sama anak-anak, akhirnya selalu jadi lomba antara aku dan dia. Misalnya, semangkuk kuah ramen kami habiskan sekali telan, atau makan buah plum tapi tak boleh ada ekspresi apa pun di muka. Anak-anak bersorak menyemangati kami sambil menebak siapa yang menang. Kalau kejadiannya begitu ya ... aku mana boleh membiarkan dia menang, kan?
+Tentang Arataki Itto: Kubu Arataki
+Geng Arataki? Hah!? Jadi dia bukan cuma pengangguran banyak acara ya?
+Tentang Kaedehara Kazuha
+Orang-orang yang tidak punya kekhawatiran macam aku suka berbicara blak-blakan, sedangkan mereka yang punya banyak beban suka membicarakan puisi kuno atau pemandangan. Misalnya tentang bunga dan burung, angin dan bulan, tapi tidak tentang realita. Dia pasti punya banyak cerita, aku yakin itu.
+Tentang Kujou Sara
+Karena masalah keamanan dan risiko kebakaran, aku sering diboyong ke Tenryou Commission untuk diceramahi. Kujou Sara mungkin orang paling rasional yang ada di sana. Setidaknya dia tidak main hukum seenaknya sebelum dengar penjelasan. Kalau aku benar, dia akan maklum. Kalau aku salah ... Hehe, aku akan minta Thoma datang dan bantu aku minta maaf!
+Tentang Sayu
+Kasih tahu aku kalau kamu ketemu dia, oke? Aku ingin sekali bawa dia ikut ke festival dan mengenalkan banyak teman baru padanya. Dia selalu kelihatan murung, tapi mungkin kalau ketemu teman baru yang bisa main sama-sama, dia akan jadi bersemangat!
+Tentang Klee
+Eh? Kamu bilang ada anak kecil di Mondstadt yang bisa bikin bom? Bom tidak jauh beda dengan kembang api loh ... yang artinya, dia itu jenius di bidangnya. Ah, aku jadi ingin ketemu. Tapi, kan bahaya kalau anak kecil main-main dengan bahan peledak? Apa orang Mondstadt tidak khawatir soal itu?
+Mengenal Yoimiya: I
+Kamu mau dengar cerita? Oke, oke. Duduklah, aku ceritakan kisah yang paling aku banggakan — kisah keluarga Naganohara! Aku jarang sekali loh cerita hal serius begini.
+Mengenal Yoimiya: II
+Keluarga kami punya tradisi memberikan catatan untuk setiap klien yang memesan kembang api. Isinya hanya bisa dipahami oleh keluarga kami, yaitu tentang komposisi khusus kembang api yang dipesan. Asalkan catatan itu ada, tidak peduli mau sepuluh atau seratus tahun berlalu, keluarga kami tetap bisa membuat lagi kembang api yang sama persis.
+Mengenal Yoimiya: III
+Kembang api yang paling cantik menyertai momen-momen yang paling menakjubkan. Perasaan yang mudah dilupakan akan tetangkap oleh kembang api dan diperlihatkan dalam bentuk yang berbeda. Catatan yang kami berikan kepada klien kami ibarat kunci pintu kenangan yang menunggu untuk dibuka. Tugas kami di Naganohara menjaga pintu itu baik-baik.
+Mengenal Yoimiya: IV
+Setiap momen di festival musim panas adalah suatu kisah yang menyentuh. Mereka yang bertemu di bawah cahaya kembang api tumbuh, dewasa, dan jadi tua. Saat mereka menyalakan kembang api yang sama, langit pun akan memantulkan pemandangan yang sama ... Kembang api tidak abadi, tapi aku yakin kalau perasaan dan makna yang terkandung di dalamnya harus terus ada, bersama Inazuma menuju keabadian.
+Mengenal Yoimiya: V
+Kurasa aku tidak perlu menceritakan kisah yang terakhir. Mendingan kita sama-sama nonton kembang api, dengan tenang, dalam diam. Rekam pemandangan dan semua yang ingin kamu katakan. Ini bukan akhir, tapi sebaliknya. Aku percaya kalau kisah kita baru akan dimulai.
+Hobi Yoimiya: Bermain
+Kembang api! Hah, itu tidak dihitung? Kalau begitu, aku pikir-pikir lagi. Ah ... ini susah juga. Aku suka ngobrol dengan tetangga, suka pergi ke festival musim panas sama anak-anak, berenang, petik buah liar ... aku bingung mana yang paling aku suka. Ah, aku tahu! Aku suka main dengan semua orang!
+Hobi Yoimiya: Meniru
+*bbbrrrrr* Hahaha, Aku meniru suara Paimon saat menghilang!
+Kesulitan Yoimiya
+Novel yang sudah lama aku baca akhirnya habis. Tapi tokoh utamanya kehilangan ingatan, lalu pernikahan yang sudah direncanakan pun jadi batal ... sedih sekali ....
+Makanan Favorit
+Aku lebih suka makan camilan daripada makan berat. Waktu festival, aku suka jalan dari satu kios ke kios lainnya, makan sambil jalan-jalan. Ngomong-ngomong, apa kamu jago bikin camilan? Kutukar dengan dango buatanku. Ini, yang besar-besar buat kamu.
+Makanan yang Tidak Disukai
+Susu tidak pernah gagal menyulut kembang api di dalam perutku — kreek, bum! Paham kan maksudnya? Tapi aku bisa makan masakan atau camilan yang terbuat dari susu. Hmm. Mungkin Seelie di perutku lebih pemilih ya.
+Menerima Hadiah: I
+Wah! Ternyata kamu bakat memasak ya! Kalau kamu buka kios waktu festival, pasti laku keras deh!
+Menerima Hadiah: II
+Makanan enak benar-benar bisa membuat semangat nih, dan aku juga jadi mau cerita-cerita yang menarik. Ooh, ada nih satu cerita yang bagus, kamu harus dengar cerita ini ...!
+Menerima Hadiah: III
+Aduh, rasanya seperti ada Specter yang bikin ribut di dalam perutku ... kok begini ya ....
+Ulang Tahun
+Ulang tahun itu bukan acara buat diri sendiri saja. Mereka yang kirim kue, menyalakan lilin, tepuk tangan, dan bersorak ... Semuanya benar-benar bersyukur kamu dilahirkan ke dunia ini. Itu sebabnya acaranya harus meriah, sehingga semua punya kesempatan untuk bersyukur! Nah ... selamat ulang tahun! Sudah siap? Aku nyalakan kembang apinya!
+Perasaan Tentang Ascension: Permulaan
+Semakin tinggi terbangnya, semakin keras ledakannya!
+Perasaan Tentang Ascension: Persiapan
+Hehehe, biar kucoba metode "tembak kembang api ke langit pakai busur" ini!
+Perasaan Tentang Ascension: Klimaks
+Dengan semua ilmu tempur yang kupelajari darimu, aku harusnya ikutan jadi petualang, maskudku selain kerjaan sehari-hari membuat kembang api. Woohh ... apa aku jadi pahlawan saja ya?
+Perasaan Tentang Ascension: Konklusi
+"Jangan takut, Yoimiya ada di sini! Enyahlah kejahatan! Keadilan pasti menang!"  Menurutmu apakah ini sudah oke buat mengenalkan kekuatan yang kupunya ke anak-anak? Keren kan? Hehe! Hei, kasih tahu aku kalau ada yang menindasmu ya. Aku akan turun tangan!

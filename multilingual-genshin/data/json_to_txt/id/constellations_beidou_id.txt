@@ -1,0 +1,12 @@
+Sea Beast's Scourge
+Saat <color=#FFD780FF>Stormbreaker</color> digunakan: Membentuk perisai yang menahan DMG sebesar 16% dari Max HP Beidou selama 15 detik. Perisai ini juga menahan <color=#FFACFFFF>Electro DMG</color> 250% lebih efektif.
+Upon the Turbulent Sea, the Thunder Arises
+Sambaran listrik <color=#FFD780FF>Stormbreaker</color> menyambar 2 musuh lebih banyak.
+Summoner of Storm
+Meningkatkan 3 level <color=#FFD780FF>Tidecaller</color>. Maksimum: Lv. 15.
+Stunning Revenge
+Setelah terkena serangan, Normal Attack Beidou memperoleh 20% <color=#FFACFFFF>Electro DMG</color> tambahan selama 10 detik.
+Crimson Tidewalker
+Meningkatkan 3 level <color=#FFD780FF>Stormbreaker</color>. Maksimum: Lv. 15.
+Bane of Evil
+Selama durasi <color=#FFD780FF>Stormbreaker</color>, <color=#FFACFFFF>Electro RES</color> musuh di sekitar berkurang 15%.

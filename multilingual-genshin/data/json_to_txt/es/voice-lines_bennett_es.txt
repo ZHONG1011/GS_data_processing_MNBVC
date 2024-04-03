@@ -1,0 +1,146 @@
+Hola...
+¿Este es tu equipo de aventuras? Genial... me gusta su ambiente. Soy Bennett, líder de la Brigada de Benny. ¿Puedo unirme a ustedes? ¿Por favor?
+Charla - Tesoro escondido
+Busquemos en los alrededores. ¡El tesoro debe estar al caer!
+Charla - Aventura
+¡Hace mucho que no voy de aventuras con alguien! ¡Vamos!
+Charla - Autocrítica
+“¡Las cosas buenas solo les llegan a aquellos que no se quedan esperando!”. Al menos, eso es lo que dice la gente. Aunque, conociendo mi suerte, probablemente a mí me ocurra lo contrario...
+Cuando llueve...
+Siempre hace este tiempo cuando voy de aventuras.
+Cuando truena...
+¡Ah! No te acerques mucho a mí, o te alcanzará un rayo.
+Qué sol hace...
+Qué buen tiempo hace hoy... Ups, no debí decir eso. ¿Qué te apuestas a que ahora empieza a llover?
+Hace mucho viento...
+Ten cuidado. Con este viento, una roca podría golpearte en la cabeza.
+Buenos días...
+¡Buenos días! ¿A dónde vamos hoy de aventuras?
+Buenas tardes...
+Traje un sándwich. ¿Quieres? Toma la mit... *Ejem, ejem* *Cof, cof* *Ejem* Uf, perdón, me atraganté al comer.
+Buenas noches... (I)
+¿Quieres venir conmigo a hablar con mis papás? ¡Sus historias de aventuras son muy interesantes!
+Buenas noches... (II)
+¿Ya te vas? Me encanta ir de aventuras contigo. ¡Avísame para la próxima!
+Sobre Bennett - Equipo de aventura
+Soy el líder de la Brigada de Benny, ¡una estrella del Gremio de Aventureros de Mondstadt cada vez más popular! ¿Dónde están mis compañeros de equipo? Ah, cierto, se tomaron el día libre, jaja.
+Sobre Bennett - Mala suerte
+¡No tengo tan mala suerte como dicen! Sí, es cierto que suelo caer en las trampas de los cazadores o que de repente me caen en la cabeza ramas de árboles, pero eso es normal, ¿no?
+Sobre nosotros - Compañeros de equipo
+Jaja, me encantaría, pero no puedo. No hay vacantes en la Brigada de Benny. Seguro que puedes unirte a alguien mejor. ¿Por qué querrías a escogerme a mí, la persona con la peor suerte que existe?
+Sobre nosotros - Distribución del trabajo
+De ahora en adelante, distraeré a los monstruos y pondré trampas mientras tú robas el tesoro. ¿Te parece bien? ¿No? ¡Oh, no te preocupes si me lesiono! Es lo que mejor se me da... ¡Estaría encantado de hacerlo por ti!
+Sobre nosotros - Situaciones peligrosas
+Creo que ya entiendo por qué te uniste a mí: porque somos iguales. A los dos nos gusta la adrenalina que se siente al estar en una situación peligrosa. ¡Eso es lo que hace que la aventura sea tan adictiva!
+Sobre la Visión...
+Ser reconocido por los dioses fue lo último que esperaba, ya que tengo tanta mala suerte todo el tiempo... Pero si los dioses no se han rendido conmigo, supongo que eso significa que yo tampoco debería tirar la toalla conmigo mismo.
+¿Algo que decir?
+¿Quieres venir a ver las vistas de Mondstadt desde un lugar alto? Es muy bonito por la noche, cuando la ciudad está iluminada y la luna se refleja en el Lago de Sidra. ¿Eh? ¿Me preguntas que desde dónde lo vi exactamente? Jaja. Bueno, una vez un fuerte tornado me arrastró hasta un lugar muuuy elevado y... ¿No quieres ir? Oh, bueno... Está bien.
+Una noticia interesante...
+En realidad, me gusta mucho el repollo. A simple vista, no parece tener nada de especial, pero es un ingrediente que casi todo el mundo necesita. Puedes cultivarlo en cualquier lugar, combina con todo y su sabor no eclipsa al de los otros ingredientes. No sé, las cosas corrientes también tienen su atractivo.
+Sobre Bárbara...
+¡Es la mejor cantante y bailarina que existe! Siempre voy a verla a un concierto cuando una aventura no me salió bien. Cantar junto a otros admiradores suyos y animarla me levanta el ánimo. ¡Es algo realmente mágico! No es de extrañar que sea tan popular... Si fuera la mitad de popular que ella como líder de mi brigada...
+Sobre Klee...
+Es una niña muy linda... pero debo mantener mis distancias con ella. Cada vez que juega conmigo, sus bombas siempre terminan explotando... No me preocupa por mí, pero sería horrible si algo le sucediera a Klee. Los Caballeros de Favonius nunca me lo perdonarían, estoy seguro.
+Sobre Fischl...
+¡Ah, sí! ¡La Princesa del Juicio de otro mundo distinto! Es una persona alucinante. Siempre le pregunto si podemos ir de aventuras juntos a su mundo natal, pero cada vez que lo hago, ella evita el tema... Tal vez esté preocupada por mi seguridad. Su mundo natal debe ser un lugar muy peligroso.
+Sobre Jean...
+Llevo mucho tiempo queriendo pedirle ayuda a la Maestra Jean con el Gremio de Aventureros de Mondstadt, pero no sé cómo hacerlo. El Gremio no tiene tantas reglas como los Caballeros de Favonius, así que los papás y yo solemos hacerlo todo muy tranquilamente. Sin embargo, estoy seguro de que esa actitud no valdría con Jean... Quizás debería leer sobre la etiqueta de los Caballeros o algo así.
+Sobre Varka...
+¡Él es mi modelo a seguir, y digno de ser reconocido como Gran Maestro! Lidera a todos los Caballeros de Favonius. ¿Te imaginas lo fuerte que debe de ser? Pero luego pienso que tampoco es bueno que la brigada de aventuras sea demasiado grande. Si tuviéramos muchas cosas que hacer, no tendría tiempo para cuidar a los papás del Gremio. Las cosas están bien como están, jaja.
+Sobre Razor...
+¡El chico del Reino de los Lobos! Parece un poco... salvaje. Y no habla mucho... ¡pero no pasa nada! A los dos nos encanta comer carne, así que a veces le cocino algo de carne y él, a cambio, me enseña cómo se comunican los lobos. ¡Jaja! ¡Deberías venir con nosotros la próxima vez!
+Sobre Amber...
+Ah... Sé a quién te refieres. La chica que siempre está corriendo de acá para allá. Siempre está de aventuras en la naturaleza, como yo... Pero, si alguna vez ves una nube de humo negro que va en tu dirección, seguida de un olor a filete quemado, sabrás que es porque ha estado cocinando... Quizás también nació con muy mala suerte.
+Sobre Noelle...
+Noelle es alguien a quien he estado observando por un tiempo. Tiene un gran talento y es extremadamente trabajadora, pero, aun así, sigue siendo una criada: los Caballeros de Favonius aún no la han convertido en caballera. Es una pena, ¿no te parece? Si se uniera al Gremio de Aventureros, sería una de las mejores aventureras.
+Más sobre Bennett (I)
+Oh... ¿quieres saber algo sobre mí? Jaja, solo soy un simple aventurero con muy mala suerte. No puedo compararme contigo y todas las aventuras legendarias que has vivido.
+Más sobre Bennett (II)
+Los “papás”... Así es como me refiero a los aventureros más mayores de Mondstadt. Al parecer, yo era un niño huérfano al que rescataron de una situación muy peligrosa. Increíble, ¿verdad? Siempre tengo tan mala suerte y, sin embargo, me rescataron de aquella situación y sobreviví todo este tiempo... Es casi un milagro.
+Más sobre Bennett (III)
+Veo que ya te diste cuenta... Sí, yo soy el único miembro de la Brigada de Benny desde hace mucho tiempo. La razón es que tengo tanta mala suerte que incluso las aventuras más simples y seguras acaban convirtiéndose en situaciones de vida o muerte, así que nadie quiere venir conmigo... ¿A ti también te pasa lo mismo?
+Más sobre Bennett (IV)
+Nací con mala suerte. Así son las cosas, y llevo tanto tiempo viviendo con eso que ya estoy acostumbrado. Pero ¿sabes qué? Quizás sea algo bueno. Mi mala suerte podría llegar a matarme, así que prefiero aprovechar al máximo mi vida mientras dure, participar en muchas aventuras, conocer mucha gente... Si no viviera así, ¡tal vez nunca te hubiera conocido! ¡Jaja!
+Más sobre Bennett (V)
+¡El tiempo vuela! Ya llevamos un tiempo siendo compañeros. ¿Sabes cuál es mi mayor sueño? Cuando el Gremio de Aventureros de Mondstadt se convierta en la división más grande de Teyvat, ¡quiero ir de aventuras por todo el mundo! La Brigada de Benny será el mejor equipo de aventuras que haya existido, porque en ella estamos tú y yo, ¡los mejores aventureros! ¿Que desde cuándo formas parte de mi Brigada? Hummm... No recuerdo exactamente cuándo firmaste el contrato, ¡pero eso da igual! Son detalles sin importancia, ¿verdad?
+Aficiones de Bennett...
+Me gustan todo tipo de cosas, pero, sobre todo, ¡me gustan las aventuras! Un día encontraré el tesoro más valioso del mundo para darles a mis papás una vida mejor... ¡y el Gremio de Aventureros de Mondstadt se situará en la cima de todo Teyvat!
+Preocupaciones de Bennett...
+Humm... Bueno, si realmente quieres saberlo... Cuando tengo un mal día, me siento un poco triste. Odio cuando regreso con las manos vacías de una aventura, o cuando a alguno de mis papás le duele alguna herida o lesión que se hicieron. Pero, al final, son cosas pequeñas y, después de una buena noche de sueño, me olvido de ellas. ¡Nuevo día, nuevo comienzo!
+Comida que más le gusta...
+¡La carne! La carne es el mejor alimento que existe. Lo que mejor cocino son las brochetas de champiñones y pollo, filete a la barbacoa y pollo asado con miel. No pasarás hambre si vienes de aventuras conmigo, ¡eso te lo aseguro!
+Comida que menos le gusta...
+Un aventurero no puede ser muy quisquilloso con la comida. Dicho esto, no aguanto la comida picante. Cuando como chiles de Jueyun, me resulta difícil respirar, como si el picante entrara directamente en mis pulmones. Además, después de comerlo, necesito ir al baño todo el tiempo... Es como la comida del diablo. ¿A quién se le ocurrió cultivarlo?
+Al recibir un regalo (I)
+Guau, ¡qué suerte! Jaja... Oh, ¡espera! ¿Esto significa que ya usé toda mi buena suerte de hoy?
+Al recibir un regalo (II)
+En serio, cocines lo que cocines, siempre está delicioso. ¡Eres increíble!
+Al recibir un regalo (III)
+Uff... Me duele el estómago...
+Cumpleaños...
+¡Feliz cumpleaños! Te deseo mucha suerte en este año. No te preocupes, ¡la mala suerte no es contagiosa! Si estoy contigo, la mala suerte vendrá a mí, no a ti, así que estás a salvo.
+El sentimiento de Ascensión - Introducción
+¡Me siento mucho más fuerte! Pero con la misma mala suerte que siempre, jaja.
+El sentimiento de Ascensión - Desarrollo
+Un poco más y casi te alcanzo. ¡Seguiré esforzándome al máximo!
+El sentimiento de Ascensión - Nudo
+No sé cómo podré darte las gracias por lo fuerte que me he hecho. Cierto, sé de un dominio donde hay un tesoro supervalioso. ¿Quieres venir conmigo?
+El sentimiento de Ascensión - Desenlace
+Gracias a tu ayuda, creo que por fin podría ser capaz de proteger a los demás. Tal vez la gente empiece a tener otra opinión de mí y digan: “Bennett, el chico con mala suerte que siempre tiene heridas por todo el cuerpo, ¡por fin es un aventurero en quien se puede confiar!”. Jeje, ojalá...
+Habilidad Elemental (I)
+¡Ja!
+Habilidad Elemental (II)
+¡Fuego!
+Habilidad Elemental (III)
+¡Largo de aquí!
+Habilidad Elemental (IV)
+¡Oh! ¡Ja!
+Habilidad Elemental (V)
+¡A cubierto!
+Habilidad Elemental (VI)
+¡Apártense!
+Habilidad Definitiva (I)
+¡Pónganse detrás de mí!
+Habilidad Definitiva (II)
+¡Allá voy!
+Habilidad Definitiva (III)
+¡Trabajemos en equipo!
+Al esprintar (I)
+¡Hora de irse de aventuras!
+Al esprintar (II)
+¡Vamos!
+Al abrir un cofre (I)
+¡Eso sí que es un tesoro!
+Al abrir un cofre (II)
+¡Mejor de lo que esperaba! ¡Debe ser mi día de suerte!
+Al abrir un cofre (III)
+¡Es un milagro!
+Vida baja (I)
+Oh, no... No tengo dinero para comprar más vendas...
+Vida baja (II)
+No te preocupes. Lo tengo bajo control.
+Vida baja (III)
+Siempre me recupero. Déjamelo a mí.
+Aliado con vida baja (I)
+¡Estás en un buen lío! ¡Déjame a mí!
+Aliado con vida baja (II)
+¡Ey, métete con alguien de tu tamaño!
+Derrotado (I)
+Brigada de Benny... Te he fallado...
+Derrotado (II)
+Esta es mi suerte...
+Derrotado (III)
+No pude romper... mi maldición...
+Recibiendo un ligero ataque (I)
+Eso no lo vi venir.
+Recibiendo un fuerte ataque (I)
+Esto me dolerá mañana...
+Recibiendo un fuerte ataque (II)
+¿Por qué no fallan nunca?
+Unirse al equipo (I)
+¿D-de verdad me quieres en tu equipo?
+Unirse al equipo (II)
+No seré una carga... o lo intentaré.
+Unirse al equipo (III)
+¡Esto va a ser genial!

@@ -1,0 +1,12 @@
+Ice Unleashed
+Serangan terakhir kombo Normal Attack Chongyun akan menghasilkan 3 pedang es. Setiap pedang membuat 50% dari ATK Chongyun menjadi <color=#99FFFFFF>Cryo DMG</color> kepada semua musuh di jalurnya.
+Atmospheric Revolution
+CD Elemental Skill dan Elemental Burst yang digunakan di dalam Frost Field yang dibuat oleh <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color> berkurang 15%.
+Cloudburst
+Meningkatkan 3 level <color=#FFD780FF>Spirit Blade: Cloud-parting Star</color>. Maksimum: Lv. 15.
+Frozen Skies
+Chongyun mendapatkan 1 Energy setiap kali memukul musuh yang terkena efek <color=#99FFFFFF>Cryo</color>. Efek ini terpicu setiap 2 detik.
+The True Path
+Meningkatkan 3 level <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color>. Maksimum: Lv. 15.
+Rally of Four Blades
+<color=#FFD780FF>Spirit Blade: Cloud-parting Star</color> mengakibatkan 15% DMG lebih banyak kepada musuh dengan persentase sisa HP lebih rendah dari Chongyun. Skill ini juga akan memanggil 1 spirit blade tambahan.

@@ -1,0 +1,12 @@
+Attaque normale : Passe d'armes
+<color=#FFD780FF>Attaque normale</color> Enchaîne jusqu'à 5 coups d'épée.  <color=#FFD780FF>Attaque chargée</color> Consomme de l'endurance pour déclencher deux coups d'épée rapides.  <color=#FFD780FF>Attaque plongeante</color> Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.
+Attaque givrée
+Libère un blizzard gelant qui inflige des <color=#99FFFFFF>DGT Cryo</color> aux ennemis en face.  <i>Qui serait capable de faire fondre la glace qui se cache derrière ce masque aimable...</i>
+Valse glaciale
+Kaeya condense les particules dans l'air pour invoquer 3 stalactites tournoyantes. Les stalactites suivent le personnage, et infligent des <color=#99FFFFFF>DGT Cryo</color> aux ennemis sur leur route.  <i>Ses dehors souriants, son ton agréable, et la glace qu'ils cachent : voici les armes de Kaeya.</i>
+Épée de la cruauté
+Chaque fois qu'<color=#FFD780FF>Attaque givrée</color> touche un ennemi, Kaeya récupère une quantité de PV équivalant à 15 % de son ATQ.
+Cœur de l'Abîme glacial
+Les ennemis <color=#99FFFFFF>gelés</color> par <color=#FFD780FF>Attaque givrée</color> font tomber davantage de particules élémentaires. Attaque givrée peut accorder un maximum de 2 particules supplémentaires de cette manière à chaque utilisation.
+Force cachée
+Réduit la consommation d'endurance des personnages de l'équipe de 20 % lors du sprint. Ne peut pas être cumulé avec d'autres aptitudes passives aux effets identiques.

@@ -1,0 +1,13 @@
+Épée de la raison
+Une grande massue en acier fin qui répond bien ; le meilleur recours lors d'une argumentation agitée.
+ Un outil fiable, possédant le pouvoir de tourner toute dispute à l'avantage de son propriétaire, et garantit d'apporter du poids à ses paroles. Utile dans tous types de querelles, peu importe qui vous contredit : cette arme vous assurera d'avoir le dernier mot. Et n'est-ce pas le seul qui compte ? La production de cette arme a été interrompue suite à de nombreuses plaintes. Après tout, il est normal que la majorité l'emporte. 
+Franc-parler
+Après l'utilisation d'une compétence élémentaire, les attaques normales et chargées infligent <color=#99FFFFFF>60 %</color> de DGT d'ATQ supplémentaires dans une zone restreinte lorsqu'elles touchent. Cet effet dure 15 s, et peut être déclenché une fois toutes les 3 s.
+Franc-parler
+Après l'utilisation d'une compétence élémentaire, les attaques normales et chargées infligent <color=#99FFFFFF>75 %</color> de DGT d'ATQ supplémentaires dans une zone restreinte lorsqu'elles touchent. Cet effet dure 15 s, et peut être déclenché une fois toutes les 3 s.
+Franc-parler
+Après l'utilisation d'une compétence élémentaire, les attaques normales et chargées infligent <color=#99FFFFFF>90 %</color> de DGT d'ATQ supplémentaires dans une zone restreinte lorsqu'elles touchent. Cet effet dure 15 s, et peut être déclenché une fois toutes les 3 s.
+Franc-parler
+Après l'utilisation d'une compétence élémentaire, les attaques normales et chargées infligent <color=#99FFFFFF>105 %</color> de DGT d'ATQ supplémentaires dans une zone restreinte lorsqu'elles touchent. Cet effet dure 15 s, et peut être déclenché une fois toutes les 3 s.
+Franc-parler
+Après l'utilisation d'une compétence élémentaire, les attaques normales et chargées infligent <color=#99FFFFFF>120 %</color> de DGT d'ATQ supplémentaires dans une zone restreinte lorsqu'elles touchent. Cet effet dure 15 s, et peut être déclenché une fois toutes les 3 s.

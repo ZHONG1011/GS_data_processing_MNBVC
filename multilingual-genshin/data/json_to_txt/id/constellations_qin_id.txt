@@ -1,0 +1,12 @@
+Spiraling Tempest
+Meningkatkan kecepatan menarik <color=#FFD780FF>Gale Blade</color> setelah ditahan lebih dari 1 detik, dan meningkatkan 40% DMG yang diakibatkan.
+People's Aegis
+Meningkatkan 15% Movement SPD dan ATK SPD seluruh anggota party selama 15 detik saat Jean mengambil Elemental Orb atau Particle.
+When the West Wind Arises
+Meningkatkan 3 level <color=#FFD780FF>Dandelion Breeze</color>. Maksimum: Lv. 15.
+Lands of Dandelion
+Mengurangi 40% <color=#80FFD7FF>Anemo RES</color> musuh yang berada di dalam lingkup area <color=#FFD780FF>Dandelion Breeze</color>.
+Outbursting Gust
+Meningkatkan 3 level <color=#FFD780FF>Gale Blade</color>. Maksimum: Lv. 15.
+Lion's Fang, Fair Protector of Mondstadt
+Mengurangi 35% DMG yang diterima saat berada di dalam <color=#FFD780FF>Dandelion Breeze</color>. Efek ini masih bertahan selama 3 serangan atau 10 detik setelah meninggalkan lingkup area skill.

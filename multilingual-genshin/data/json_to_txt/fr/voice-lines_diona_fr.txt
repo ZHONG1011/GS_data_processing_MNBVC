@@ -1,0 +1,160 @@
+Première rencontre...
+Diona, barmaid à La Queue de Chat ! Mes services pour tout événement privé ne sont pas donnés... Quoi ? Tu n'es pas là pour boire ? Hmph... Dans ce cas d'accord, je peux bien accepter ton invitation.
+Bavardage - Détente
+Aaah... Un peu d'étirement, rien de tel.
+Bavardage – Réflexions
+Queue de lézard, poivre, conque d'étoile... Que manque-t-il pour faire un cocktail bien dégoûtant ?
+Bavardage - Attente
+J—Je ne t'attendais pas du tout ! J'étais simplement en train de me reposer !
+Quand il pleut...
+Rah, je déteste la pluie... Allons vite à l'intérieur ! Que ce soit clair : je n'ai pas peur de l'eau ! C'est juste que je n'aime pas être trempée...
+Quand le tonnerre gronde...
+Hein ?! ... Mais non, je ne tremble pas ! Pas du tout ! Aaaah...
+Quand il neige - Jeux d'hiver
+Ouh, c'est froid au toucher dis donc ! Et c'est plutôt marrant !
+Quand il neige – Paysages
+J'adore voir la neige danser dans le vent. La place à côté de moi est libre, tu peux t'asseoir...
+Il fait bon dehors...
+Allez, allons profiter un peu du soleil... Si tu ne viens pas, j'irai seule. Dernier appel ! Tu viens ou pas alors ?!
+Au réveil...
+Tiens, salut ! Tu peux me passer le poisson salé qui est dans la réserve ? L'heure est venue de détruire l'industrie du vin !
+Bon après-midi – Étranges bruits
+*gargl* ... Tu n'as rien entendu ! D'accord ?
+Bon après-midi – Boîtes de conserve
+... Je me gardais cette conserve de poisson pour plus tard quand j'aurai un creux, pas la peine de bloquer dessus ! ... Bon, d'accord, tu peux en avoir un peu – mais juste un peu !
+Le soir...
+J'enchaîne les échecs... Tout le monde adore mes boissons... N'essaie pas de me consoler, je n'en ai pas besoin...
+La nuit...
+#Tu n'as pas trop peur la nuit ? Ça doit être effrayant quand on est incapable de vision nocturne... Tu veux que je te raccompa— Ah, il y a des lampadaires ? Pff. Dans ce cas, rentre {M#tout seul}{F#toute seule}. Allez, zou !
+À propos de Diona...
+Mes oreilles et ma queue sont on ne peut plus réelles. Preuve que du sang Kätzlein court dans mes veines. Ça te paraît bizarre parce que tu n'as pas l'habitude. P—Pourquoi tu me regardes comme ça ? Bon, d'accord, vas-y. Tu peux toucher mes oreilles si tu veux, mais c'est tout !
+À propos de nous – Boissons
+Préparer des boissons sans alcool ? C'est facile, mais ça n'a pas de sens pour moi ! Comment suis-je censée détruire l'industrie du vin sans alcool ? Non, merci.
+À propos de nous – Canaux VIP
+J'ai créé le thé corail pétillant d'un fantastique songe d'été parce que je m'ennuyais. Tout le monde se l'arrache ? Hmph, je vais faire comme si je n'avais rien entendu.
+À propos de nous – Besoin de discuter
+#Si jamais tu te sens {M#seul}{F#seule}, tu peux venir discuter avec moi. Je connais plein de choses sympa ! Et je fais une bonne confitu... Non, comment on dit déjà... Ah, confidente, c'est ça ! Alors viens discuter avec moi... D'accord ?
+À propos de nous – Curiosité
+Oh, mais qu'est-ce que c'est ? Laisse-moi voir ! Tu tiens peut-être l'ingrédient secret qui rendra mes boissons dégoût— Ah. Ce n'était qu'un champignon avec une forme bizarre. Pas intéressée...
+À propos de l'œil divin – Héritage
+Comment j'ai obtenu mon œil divin ? Simple : tous ceux faisant partie de la lignée des Kätzlein en possède un... Comment ? Pourquoi Draff n'en a pas ? Ah, le secret est éventé !
+À propos de l'œil divin – Origine
+#Pourquoi je t'en parlerais ? Hmph... *soupir* Enfin, puisque tu n'arrêtes pas... et puisqu'on est {M#amis}{F#amies}, soit. Un jour, mon père est parti chasser alors que le temps se déchaînait et n'est pas rentré. Tout ce qui comptait alors à mes yeux était de le retrouver et de le sauver... Voilà ! J'espère que tu es {M#content}{F#contente} maintenant !
+Quelque chose à partager ?
+Tu crois qu'on trouve des plantes exotiques sur les Monts Dosgragon ? Peut-être quelque chose de bien amer, ou alors qui paralyse la bouche quand on y touche... Si c'est le cas, je vais en cueillir une pelletée, et après... Héhéhé...
+Détails intéressants...
+Je suis la reine quand il s'agit d'écra... euh, d'attraper les papillons. Eh ! Pas comme tu l'imagines ! Je les attrape pour donner un méchant goût à mes cocktails, je ne suis pas un chat ! Miaou !
+À propos de Diluc...
+Ce Diluc... Je ne peux pas le voir ! Sans Diluc, pas d'industrie du vin à Mondstadt. Et sans industrie du vin, mon père ne boirait pas. Et si mon père ne buvait pas... il pourrait me tenir compagnie... *soupir* ...
+À propos de Kaeya...
+Comment se fait-il que même un capitaine soit aussi un vrai pochtron ? Tu sais bien, le type qui a ce rire... Il écluse verre après verre. Désolant.
+À propos de Venti...
+Venti ? Je ne le connais pas trop, mais les bardes sont ceux qui jouent pour ces abrutis d'ivrognes, alors je les déteste !
+À propos de Barbara...
+Comment ça se fait que tous mes fans sont des hommes mûrs à moitié éméchés, tandis que ceux de Barbara sont tous des jeunes...? Hmph ! C'est stupide, laisse tomber !
+À propos de Jean...
+La Grande Maîtresse suppléante de l'Ordre... Une de ces rares adultes à ne pas boire... Mais peut-être qu'elle en fait un peu trop, à moins que ce ne soit moi – mais les chevaliers en font beaucoup rien que pour me protéger, non ?
+À propos d'Albedo...
+Le génie de l'alchimie ? Hum... Je me demande s'il arriverait à m'aider à enfin créer une boisson que personne n'aime ?
+À propos de Lisa...
+Lisa est si bienveillante et douce ! Mais pourtant, elle aime boire ! *sniff* Mondstadt est condamnée...
+À propos de Xiangling...
+Xiangling m'a une fois fait goûter un plat de son invention, comme quoi c'était répugnant, blablabla... Tu parles. Tout ce que mes petites oreilles de chat m'ont entendu prononcer cette nuit-là a été :« Encore ! » *soupir* ...
+À propos de Klee...
+Quand Klee me demande de jouer avec elle, je suis forcée de l'emmener loin de la taverne. L'alcool ne fait pas bon ménage avec les explosifs ! Je sais que j'aimerais bien détruire l'industrie du vin de Mondstadt, mais il est hors de question de recourir à de telles méthodes.
+À propos de son père...
+J'adore mon père plus que n'importe qui d'autre au monde ! C'est le meilleur ! Mais... À chaque fois qu'il boit... Hmph. Je dois mettre un terme à l'industrie du vin de Mondstadt, et vite ! Pas le temps de discuter !
+Connaître Diona (1)
+Je suis une barmaid très occupée ! Quand je ne prépare pas de boisson, il faut que j'élabore de nouveaux mélanges. Alors je te prierai de ne pas me déranger s'il n'y a rien d'urgent.
+Connaître Diona (2)
+Tu ne voudrais quand même pas me demander de miauler comme un chat, comme tous ces autres ivrognes de la taverne ? Pas question ! Je ne suis pas un animal de compagnie juste bon à bouger des oreilles et à s'étirer ! Je... Je suis Diona, celle qui viendra à bout de l'industrie du vin !
+Connaître Diona (3)
+« Comment celle qui veut mettre à bas l'industrie du vin est devenue la mascotte de La Queue de Chat ? » T—Tu demandes ça juste pour te moquer, c'est ça ? Tu es terrible ! Plus de boissons pour toi, même pas un verre d'eau ! Hmph !
+Connaître Diona (4)
+Ne m'énerve pas. Je suis plutôt tolérante, mais celui qui s'amuse à me chercher des noises le regrette. Je te préviens, je mords quand je suis en colère ! Miaou ! ... Mais peut-être que pour toi je ferai une exception...
+Connaître Diona (5)
+#Toi et moi... On est {M#amis}{F#amies} maintenant, non ? J'ai l'impression d'avoir déjà eu un ami comme ça, mais c'est juste une impression, un rêve sans doute... Tiens, donne-moi ta main. Ah... Hmm, toute douce et chaude... S'il te plaît ne pars pas, ne deviens pas un rêve à ton tour.
+Les loisirs de Diona...
+J'aime la chasse. Je suis naturellement douée pour pister une proie ! Mais mon père dit que la nature sauvage est dangereuse, et qu'on ne doit s'y aventurer qu'avec un adulte responsable à ses côtés... Tu es responsable toi, non ?
+Les problèmes de Diona...
+Mais comment faire pour réussir à créer une boisson qui ait vraiment un sale goût...? J'avais beaucoup misé sur mon « cocktail sauce soja/piments de Jueyun/graines de pissenlit » – la pire combinaison que j'ai trouvée à ce jour ! Mais même ça a reçu l'approbation à la taverne... « C'est la meilleure création de Diona jusqu'ici ! » Grrr... Mais je n'abandonnerai pas...
+Plats préférés...
+J'adore le poisson ! Papa sait le cuisiner à la perfection ! ... Mais accompagner l'alcool avec du poisson est un vrai blasphème !
+Plats détestés...
+Carottes, pommes de terre, ognons, tomates... Je n'aime rien de tout ça. D'ailleurs, je n'aime aucun légume, c'est bien simple !
+Cadeau reçu (1)
+C'est bon... Je... Je demande juste comme ça, mais tu m'en referas une prochaine fois ?
+Cadeau reçu (2)
+Ne crois pas pouvoir m'amadouer avec de la bonne nourriture...
+Cadeau reçu (3)
+Je suis un chat de gouttière pour toi ou quoi ?!
+Anniversaire...
+Et voilà – poisson frit à ma sauce spéciale ! ... T'inquiète, je n'ai rien mis de bizarre dedans ! Quand je veux, je cuisine bien tu sais – tais-toi et goûte donc ! Hmph. C'est mieux... Ah, et joyeux anniversaire.
+Affinité faible
+L'œil d'un chat est capable de voir même la plus imperceptible des proies dans l'obscurité.
+Affinité moyenne
+L'oreille d'un chat peut percevoir les plus silencieux des déplacements.
+Affinité élevée
+Les pattes d'un chat sont capables escalader le plus haut des arbres de Teyvat.
+Affinité max
+La truffe d'un chat peut sentir les personnes qu'elle connaît et qu'elle aime... Euh ?! Non, je n'ai pas dit ça, tu te trompes ! ... Oh...
+Compétence élémentaire (1)
+Yah !
+Compétence élémentaire (2)
+Piu, piu !
+Compétence élémentaire (3)
+Cible verrouillée.
+Compétence élémentaire (4)
+Attaque et défense.
+Compétence élémentaire (5)
+Je t'ai attrapé !
+Compétence élémentaire (6)
+Je ne me laisserai pas faire !
+Déchaînement élémentaire (1)
+Cocktail spécial de Diona !
+Déchaînement élémentaire (2)
+Vous avez trop bu ! Hmph !
+Déchaînement élémentaire (3)
+Regarde-toi, ivrogne !
+Début de sprint (1)
+J'arrive.
+Début de sprint (2)
+Allons-y, c'est parti !
+Fin de sprint (1)
+Pfiou.
+Fin de sprint (2)
+*halète* ...
+Utilisation de planeur (1)
+Je vole !
+Ouverture de coffre (1)
+Si on ne peut pas gâcher un verre avec, ce n'est pas vraiment un trésor...
+Ouverture de coffre (2)
+Ça brille tellement... Je dois... contrôler... cette envie de bondir...
+Ouverture de coffre (3)
+Un trésor potentiel... *soupir* Eh bien, à chat curieux rien d'impossible !
+PV faibles (1)
+Je ne m'avouerai jamais vaincue !
+PV faibles (2)
+Miaou... Miaou...!
+PV faibles (3)
+Tu n'as pas encore gagné !
+Compagnon avec PV faibles (1)
+Il faut faire plus attention !
+Compagnon avec PV faibles (2)
+Fais une petite pause !
+K.O. (1)
+L'odeur du vin... Ça pue...
+K.O. (2)
+Fée de la source... ne pars pas...
+K.O. (3)
+Mes yeux... Je n'arrive pas à les ouvrir...
+Attaque légère subie (1)
+Je n'ai pas réussi à esquiver...
+Attaque puissante subie (1)
+D'où ça vient ?
+Ajout dans l'équipe (1)
+La chasse est ouverte !
+Ajout dans l'équipe (2)
+Il faut vraiment que je fasse quelque chose !
+Ajout dans l'équipe (3)
+Hmph, laisse-moi faire.

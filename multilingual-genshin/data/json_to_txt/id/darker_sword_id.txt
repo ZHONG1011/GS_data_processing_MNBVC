@@ -1,0 +1,13 @@
+Dark Iron Sword
+Sebenarnya, hanya sebilah pedang yang sedikit lebih gelap dari Iron Sword.
+ "Kenapa pedangmu tergeletak di tanah?" "Aku menjemurnya agar terlihat lebih gelap." "Kenapa kamu mau membuat lebih gelap?" "Pertanyaan bagus, Nak. Benda tergelap apa yang bisa kamu pikirkan sekarang?" "Gagak?" "Oke! Apa lagi?" "Hmm... Panci memasak?" "Bagus. Teruskan. Apa yang ada di bawah panci memasak?" "Api!" "Api berasal dari mana?" Gadis itu berpikir untuk beberapa saat. "Arang! Arang adalah benda tergelap dari semuanya!" "Betul! Arang, atau karbon, adalah hal yang membuat besi menjadi lebih kuat. Tapi kupikir aku bisa membuat pedang lebih kuat hanya dengan menjemurnya." Dengan itu, dia membalikkan pedang ke sisi lainnya. 
+Overloaded
+Saat memicu Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, atau reaksi Swirl dengan elemen Electro, meningkatkan <color=#99FFFFFF>20%</color> ATK selama 12 detik.
+Overloaded
+Saat memicu Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, atau reaksi Swirl dengan elemen Electro, meningkatkan <color=#99FFFFFF>25%</color> ATK selama 12 detik.
+Overloaded
+Saat memicu Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, atau reaksi Swirl dengan elemen Electro, meningkatkan <color=#99FFFFFF>30%</color> ATK selama 12 detik.
+Overloaded
+Saat memicu Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, atau reaksi Swirl dengan elemen Electro, meningkatkan <color=#99FFFFFF>35%</color> ATK selama 12 detik.
+Overloaded
+Saat memicu Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, atau reaksi Swirl dengan elemen Electro, meningkatkan <color=#99FFFFFF>40%</color> ATK selama 12 detik.

@@ -1,0 +1,114 @@
+Hola...
+Soy Aloy. Aunque todavía no conozco muy bien este mundo, mi arco y flechas están a tu servicio en cualquier momento. No te arrepentirás de tenerme en tu equipo.
+Charla - Movimiento
+#Vamos, no te quedes ahí parad{F#a}{M#o}, sigamos.
+Charla - Ayuda
+No podemos detenernos ahora, hay gente que necesita nuestra ayuda.
+Cuando llueve...
+La lluvia elimina la suciedad.
+Tras la lluvia...
+Ya dejó de llover, es hora de secarse.
+Cuando nieva...
+Cuando nieva, parece que el mundo entero se llena de calma.
+Cuando hace viento...
+Se está levantando el viento otra vez. ¡Qué agradable es respirar este aire!
+Hace mucho viento...
+¡Qué vendaval! Me duele el rostro con este viento tan cortante.
+Buenos días...
+¡Buenos días! El mundo vuelve a rebosar energía, y yo también.
+Buenas tardes...
+#Ya pasó la mitad del día y nosotr{F#as}{M#os} todavía tenemos mucho que hacer.
+Buenas noches... (I)
+Ya se puso el sol, las estrellas están a punto de aparecer.
+Buenas noches... (II)
+Buenas noches. Ya es hora de descansar, a menos que quieras aprovechar la luz de las estrellas para continuar nuestro viaje.
+Sobre Aloy...
+Desde pequeña me trataron como a una paria y tuve una infancia muy dura. Aquí, incluso siendo una forastera, todo el mundo es mucho más amable que los miembros de mi tribu. Se siente... muy bien.
+#Sobre nosotr{F#as}{M#os} - Acción
+Todas mis acciones tienen el propósito de salvar vidas, no de traer muertes. Es por eso que lucho hombro con hombro contigo.
+#Sobre nosotr{F#as}{M#os} - Promesa
+Una promesa me parece demasiada formalidad. Pero si quieres, la haré.
+#Sobre nosotr{F#as}{M#os} - Hacia delante
+Siempre iré contigo hacia delante, hasta el final. No dudaré ni un instante, tampoco te fallaré.
+¿Algo que decir?
+Si tengo que mencionar algo, que sean mi arco y mis flechas. Solo hago uso de ellos para servir a los demás.
+Una noticia interesante...
+Como el mío, el pasado de este mundo también está lleno de misterios. Si tengo tiempo suficiente, revelaré todos sus secretos.
+Más sobre Aloy (I)
+No se me da bien hablar de mí misma. Lo importante es nuestra misión.
+Más sobre Aloy (II)
+No tengo padres, me crio un hombre llamado Rost. Era un tanto estricto, pero tenía un gran corazón y era muy generoso. Me enseñó muchas cosas. Lo extraño...
+Más sobre Aloy (III)
+Invertí mucho tiempo en encontrar a mi madre, pero no lo conseguí. En lugar de eso, encontré unos mensajes que dejó la... mujer de la que me clonaron. Al leer sus palabras, sentí que me conocía muy bien y que me apoyaba con entusiasmo.
+Más sobre Aloy (IV)
+En mi niñez no tuve ningún amigo. Después conocí a algunas personas en mi viaje, pero abandoné ese mundo antes de que nuestra relación fuera muy cercana. Así que estoy muy contenta de poder pasar tanto tiempo contigo.
+Más sobre Aloy (V)
+#No confío fácilmente en los demás, pero puedo garantizar que eres una persona de fiar. Eres {F#una}{M#un} verdader{F#a}{M#o} amig{F#a}{M#o}, y eso no es algo que yo diga fácilmente.
+Aficiones de Aloy...
+No tengo muy claro cuáles son mis aficiones. ¿Leer cosas del pasado? Humm... la historia, supongo.
+Preocupaciones de Aloy...
+Además de mi mundo, ahora tengo otro que salvar. No tengo ni un momento de descanso.
+Comida que más le gusta...
+No soy quisquillosa con la comida. Si tengo hambre mientras estoy de viaje, puedo comer cualquier cosa.
+Comida que menos le gusta...
+Una vez comí un guiso de los Oseram, estaba tan duro que podría usarse de asfalto, uf.
+Cumpleaños...
+Nunca le di importancia a mi cumpleaños. En el mundo en el que nací, todos veneran a sus madres, nadie celebra su propio cumpleaños. Pero eso no importa. De todas formas... ¡feliz día!
+El sentimiento de Ascensión - Introducción
+Muy bien, estamos progresando. Pero no podemos conformarnos con haber llegado hasta aquí.
+El sentimiento de Ascensión - Desarrollo
+Mejorar, hacerse más fuerte... Eso es buena señal.
+El sentimiento de Ascensión - Nudo
+#No importa lo experimentada que sea ahora en la caza, siempre se puede ser mejor. No dejes de progresar por estar satisfech{F#a}{M#o} contigo mism{F#a}{M#o}, nunca dejes de aprender.
+El sentimiento de Ascensión - Desenlace
+#Cuando acabábamos de convertirnos en compañeros de viaje, todavía eras {F#una}{M#un} desconocid{F#a}{M#o} para mí, de un mundo que no conocía en absoluto. Sin embargo, a día de hoy vivimos tantas cosas junt{F#as}{M#os} que puedo prometerte que siempre podrás contar con mi arco.
+Habilidad Elemental (I)
+Esta cosa explota.
+Habilidad Elemental (II)
+¡Tengo algo para ti!
+Habilidad Elemental (III)
+¿Has visto esto alguna vez?
+Habilidad Definitiva (I)
+¡Te atrapé!
+Habilidad Definitiva (II)
+Un nuevo truco.
+Habilidad Definitiva (III)
+¡Comienza la caza!
+Al abrir el planeador (I)
+¡Qué divertido!
+Al abrir un cofre (I)
+Estas cosas pueden venirnos muy bien.
+Al abrir un cofre (II)
+Esto puedo comerlo... Esto puedo usarlo...
+Al abrir un cofre (III)
+¿Quién puso todo esto aquí?
+Vida baja (I)
+Este es un luchador...
+Vida baja (II)
+Tengo que encontrar el punto débil...
+Vida baja (III)
+Bajé la guardia...
+Aliado con vida baja (I)
+¡Cuidado!
+Aliado con vida baja (II)
+¡No te precipites!
+Derrotada (I)
+Fallé...
+Derrotada (II)
+Lo siento...
+Derrotada (III)
+No me puedo levantar... Se acabó...
+Recibiendo un ligero ataque (I)
+Ay...
+Recibiendo un ligero ataque (II)
+Eso no es nada...
+Recibiendo un fuerte ataque (I)
+¡Ah!
+Recibiendo un fuerte ataque (II)
+Debería haber sabido que no iba a ser fácil...
+Unirse al equipo (I)
+¿A dónde vamos ahora?
+Unirse al equipo (II)
+Soy Aloy y estoy lista para cazar.
+Unirse al equipo (III)
+¿Necesitas ayuda? ¡Aquí estoy!

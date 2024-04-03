@@ -1,0 +1,158 @@
+Halo
+Outrider Amber, siap melapor! Apa yang bisa kubantu hari ini, ayo cepat katakan!
+Berbincang: Hobi
+Ah, rasanya ingin berlari-lari sebentar.
+Berbincang: Kerinduan
+Jean pasti akan jengkel kalau dia tahu kita bermalas-malasan!
+Berbincang: Penemuan Baru
+Di sana sepertinya ada sesuatu yang aneh... Mau pergi lihat?
+Saat Hujan: Kekhawatiran
+Wah, hujan... bajuku akan basah semua kalau begini...
+Saat Hujan: Peringatan
+Hujan ya... Ini akan menghalangi penglihatan kita, jadi kita harus tetap waspada!
+Setelah Hujan
+Wah~ cuacanya bagus sekali!
+Ketika Matahari Bersinar
+Kalau saja anginnya sedikit lebih kencang...
+Saat Berangin: Rasa Senang
+Nyaman sekali...
+Saat Berangin: Bersantai
+Aku suka sekali cuaca hari ini, hm... Rasanya santai sekali!
+Selamat Pagi
+Selamat pagi! Mau lari pagi bersamaku?
+Selamat Siang
+Bolehkah aku makan bersamamu?
+Selamat Malam
+Hari sudah gelap, bagaimana kalau kunyalakan obor?
+Selamat Tidur
+Betul sekali, istirahat itu penting! Cepat istirahat, sampai jumpa besok!
+Tentang Amber sendiri
+Siapa juara meluncur di Mondstadt? Tentu saja aku!
+Tentang Kita: Kontes
+Meskipun lawannya kamu, aku tidak akan mengalah sedikit pun!
+Tentang Kita: Meluncur
+Dengan mengajarimu terbang... saat terbang bersamamu, aku sendiri sepertinya bisa terbang lebih cepat dari biasanya... Hei, apa yang kamu tertawakan? Sini kubuktikan! Ayo kita balapan sekarang!
+Tentang Vision
+Vision... adalah bentuk kepercayaan Archon kepadaku. Jadi aku harus menjadi Outrider yang terbaik!
+Berbagi Cerita
+Ayo kita ke atas menara jam Katedral, pemandangan dari sana benar-benar menakjubkan!
+Kisah Menarik
+Lihat, ada merpati di sana! Ah... aku jadi ingin terbang bersama mereka.
+Tentang Jean: Bantuan
+Setelah Grand Master pergi dalam ekspedisinya, semua urusan Knights of Favonius diserahkan kepada Jean. Kalau saja aku bisa membantunya lebih banyak lagi...
+Tentang Jean: Perhatian
+Jean mungkin masih bekerja? Yuk kita traktir dia segelas kopi.
+Tentang Lisa: Dengar cerita
+Setelah kamu ada waktu luang, ayo kita kunjungi Lisa! Terakhir kali aku melihatnya, dia bercerita tentang kisah yang melibatkan harta karun di daerah Dragonspine. Tapi waktu itu aku baru mendengar separuhnya, jadi tidak sabar untuk mendengar sisa ceritanya!
+Tentang Lisa: Rasa kagum
+Lisa sepertinya selalu membaca kecuali saat tidur! Sungguh menakjubkan, kalau aku sih tidak akan bisa duduk diam selama itu.
+Tentang Kaeya: Kegelisahan
+... Perasaanku jadi tidak enak! Kamu barusan bersama Kaeya, kan? Apakah dia menyusahkanmu?
+Tentang Kaeya: Pelaku
+Dandelion di taman bunga terlihat aneh... pasti kelakuannya Kaeya lagi!
+Tentang Bennett
+Hmm? Bennett... sepertinya pernah mendengarnya di suatu tempat... Oh! Maksudmu bocah antusias dari Adventurers' Guild, bukan?! Aku sering melihatnya di sekitar Domain, sepertinya dia sangat suka berburu harta karun.
+Tentang Klee
+Klee? Terkadang dia agak nakal, tapi semua orang di Knights of Favonius menyukainya. Tapi... aku benar-benar harus mengawasi gerak-geriknya agar tidak dikurung oleh Jean lagi.
+Tentang Albedo
+Albedo menghabiskan sebagian besar waktunya di ruang kerjanya, mengutak-atik semua barang-barangnya yang luar biasa. Tapi, kalau bertemu dengannya secara langsung, kamu tidak akan pernah tahu apa yang dipikirkannya... Tidak ada petunjuk sama sekali...
+Tentang Noelle
+Noelle? Dia sangat ulet. Sebagai senior, kami harus melakukan apa yang kami bisa untuk membantunya.
+Tentang Eula
+Eula adalah teman baikku! Kamu hanya perlu terbiasa dengan selera humornya dan semua akan baik-baik saja! Alasan satu-satunya banyak orang salah paham terhadapnya adalah karena nama keluarganya. Bagaimana ya caranya agar aku bisa membuat orang-orang melihat diri Eula yang sebenarnya?
+Tentang Collei
+DATA NOT FOUND
+Tentang Mika
+Oh! Mika adalah prajurit veteran di tim Eula. Ketika dia pertama kali tiba, dia selalu bilang "Ya, Komandan!" setiap kali dia bicara padaku — aku kira itu pasti karena dia melihatku dekat dengan Eula. Tapi kemudian, bahkan setelah aku memberitahunya bahwa aku sebenarnya adalah Outrider, dia masih memanggilku "Senior" ... Itu sangat memalukan. Bagaimanapun juga, tanggung jawab kami benar-benar berbeda. Aku pasti tidak akan pernah bisa menandingi keahliannya dalam kartografi.
+Mengenal Amber: I
+Aku sangat ahli dalam berburu! Bagaimana jika aku memperlihatkan beberapa kemampuanku padamu? Atau... bagaimana jika kita tanding saja?
+Mengenal Amber: II
+Aku akan berbagi rahasia pengalaman Gliding Champion aku untukmu! Hal yang paling penting untuk diingat adalah memiliki keberanian!
+Mengenal Amber: III
+Sebenarnya aku tidak pandai memecahkan teka-teki, aku selalu mencoba untuk menghindari teka-teki berdiri selama Ludi Harpastum... kalau kamu?
+Mengenal Amber: IV
+Aku bergabung dengan Knights karena kakekku, dan aku tinggal karena Jean. Dan sekarang, kamulah yang menunjukkan kepadaku dunia di luar Mondstadt. Aku sunguh bahagia.
+Mengenal Amber: V
+Aku ingin menjelajahi dunia lain di luar, aku ingin pergi hingga ke ujung langit! Kamu akan terus menemaniku, kan?
+Hobi Amber
+Baron Bunny, hari ini juga hari yang bersih!
+Kekhawatiran Amber
+Oh... Apakah kamu tahu cara membuat Moon Pie yang lezat?
+Makanan Favorit
+Kopi buatan Jean benar-benar enak! Kamu harus mencobanya kapan-kapan.
+Makanan yang tidak kamu suka
+Selama itu bukan cold Wolfhook juice... Ugh... aku bisa mengatasi apa pun!
+Menerima Hadiah: I
+Wuah, ini enak banget! Kamu memang koki jagoan!
+Menerima Hadiah: II
+Huh, coba aku bisa masak seenak kamu ya ....
+Menerima Hadiah: III
+Ugh, aku kurang cocok sama rasa seperti ini. Maaf ya! Bukan salahmu kok!
+Ulang Tahun
+Hehehe, selamat ulang tahun! Ini untukmu, hadiah eksklusif Baron Bunny buatan tanganku sendiri... Jangan khawatir, ini versi spesial, jadi tidak akan meledak!
+Perasaan Tentang Ascension: Permulaan
+Wah! Secepat menunggang angin~
+Perasaan Tentang Ascension: Persiapan
+Dengan kecepatan sekarang, tidak ada yang bisa mengejarku!
+Perasaan Tentang Ascension: Klimaks
+Langit di atas Mondstadt tampaknya semakin mengecil... atau apakah karena pandanganku jauh lebih luas dari sebelumnya?
+Perasaan Tentang Ascension: Konklusi
+Sepertinya sekarang... aku sudah jauh lebih baik dibandingkan ketika kita pertama kali bertemu! Hehe, terima kasih banyak ya! Aku akan mentraktirmu Sticky Honey Roast! Ayo, sini ikuti aku!
+Elemental Skill: I
+Habisi mereka!
+Elemental Skill: II
+Baron Bunny, serang!
+Elemental Skill: III
+♪Hmm~ hmm~ hmm~ hmm~ hmm~
+Elemental Burst: I
+Tak ada yang bisa luput dari mataku!
+Elemental Burst: II
+Biarlah hujan turun!
+Elemental Burst: III
+Tak ada jalan untukmu!
+Mulai Lari: I
+Ayo balapan!
+Mulai Lari: II
+Kamu tidak mungkin bisa mengejarku!
+Selesai Berlari: I
+Sudah kubilang aku akan menang.
+Selesai Berlari: II
+Ini dia!
+Membuka Wind Glider: I
+Juara meluncur di Mondstadt, siap!
+Membuka Wind Glider: II
+Aku tidak akan menjatuhkanmu!
+Membuka Peti Harta: I
+Buka peti itu rasanya seperti buka kado ya!
+Membuka Peti Harta: II
+Satu lagi target yang ditemukan oleh Outrider Amber!
+Membuka Peti Harta: III
+Wah, ini pasti berguna nih!
+HP Rendah: I
+Aku tidak akan menyerah!
+HP Rendah: II
+Auch! Jahat...
+HP Rendah: III
+*hosh* Ugh, kamu harus... dapat ganjarannya!
+HP Rekan Rendah: I
+Berlindung!
+HP Rekan Rendah: II
+Hei ... perlu dibantu?
+Gugur: I
+Capek...
+Gugur: II
+Harus terus... latihan...
+Gugur: III
+Aku kalah...
+Menerima Serangan Ringan: I
+Hei!
+Menerima Serangan Hebat: I
+Ugh! Tidak terlalu sakit tuh!
+Menerima Serangan Hebat: II
+Kamu curang!
+Bergabung ke Party: I
+Serahkan kepadaku!
+Bergabung ke Party: II
+Lebih dari siap!
+Bergabung ke Party: III
+Outrider Amber, hadir!

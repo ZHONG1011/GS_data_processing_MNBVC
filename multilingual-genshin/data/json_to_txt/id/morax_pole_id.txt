@@ -1,0 +1,13 @@
+Primordial Jade Winged-Spear
+Sebuah polearm giok yang diciptakan oleh para Archon, memiliki kekuatan untuk membunuh monster laut legenda.
+ Pada saat Liyue baru terbentuk, monster dan para Dewa masih menguasai lautan. Nenek moyang mereka hidup dalam ketakutan akan samudra dan bertempur melawan laut dengan kekuatan yang sangat terbatas.  Ribuan musim semi dan musim gugur berlalu, seekor behemoth bangkit dan menguasai lautan, Bahkan Geo Whale milik Archon Geo tidak bisa menang darinya.  Masyarakat Liyue menyebutnya "Baqiu", monster tanpa tanding bahkan di kedalaman jurang laut terdalam sekalipun. Ombaknya yang ganas bahkan bisa menghanyutkan seluruh pemukiman.  Sehingga sang Archon Geo akhirnya membuat sebuah layangan hitam dari giok dan batu.  Burung yang terbuat dari batu itu terbang ke langit yang tak terbelenggu, Meluncur ke dalam jantung samudra, menuju medan tempur dengan behemoth dan Geo Whale, Behemoth hanyut ke kedalaman laut terdalam dan tidak muncul lagi. Sejak itu, orang-orang Liyue akhirnya berhasil menyingkirkan raungan binatang buas raksasa itu di laut. 
+Eagle Polearm of Justice
+Saat mengenai musuh, meningkatkan <color=#99FFFFFF>3,2%</color> ATK selama 6 detik. Maks. 7 lapis. Dapat terpicu setiap 0,3 detik. Saat tumpukan penuh, meningkatkan <color=#99FFFFFF>12%</color> DMG.
+Eagle Polearm of Justice
+Saat mengenai musuh, meningkatkan <color=#99FFFFFF>3,9%</color> ATK selama 6 detik. Maks. 7 lapis. Dapat terpicu setiap 0,3 detik. Saat tumpukan penuh, meningkatkan <color=#99FFFFFF>15%</color> DMG.
+Eagle Polearm of Justice
+Saat mengenai musuh, meningkatkan <color=#99FFFFFF>4,6%</color> ATK selama 6 detik. Maks. 7 lapis. Dapat terpicu setiap 0,3 detik. Saat tumpukan penuh, meningkatkan <color=#99FFFFFF>18%</color> DMG.
+Eagle Polearm of Justice
+Saat mengenai musuh, meningkatkan <color=#99FFFFFF>5,3%</color> ATK selama 6 detik. Maks. 7 lapis. Dapat terpicu setiap 0,3 detik. Saat tumpukan penuh, meningkatkan <color=#99FFFFFF>21%</color> DMG.
+Eagle Polearm of Justice
+Saat mengenai musuh, meningkatkan <color=#99FFFFFF>6%</color> ATK selama 6 detik. Maks. 7 lapis. Dapat terpicu setiap 0,3 detik. Saat tumpukan penuh, meningkatkan <color=#99FFFFFF>24%</color> DMG.

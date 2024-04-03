@@ -1,0 +1,12 @@
+Dance of the Waning Moon
+<color=#FFD780FF>Dance of Haftkarsvar</color> mendapatkan penguatan berikut: ·DMG yang diakibatkan Luminous Illusion meningkat sebesar 65%; ·Durasi Tranquility Aura diperpanjang 6 detik.
+The Starry Skies Their Flowers Rain
+Setelah Karakter yang berada dalam status "Golden Chalice's Bounty" mengakibatkan <color=#80C0FFFF>Hydro DMG</color> kepada musuh, mengurangi 35% <color=#80C0FFFF>Hydro RES</color> musuh tersebut selama 10 detik. Setelah memicu reaksi Bloom yang mengakibatkan DMG kepada musuh, mengurangi 35% <color=#99FF88FF>Dendro RES</color> musuh selama 10 detik. Kamu harus membuka Talenta Pasif "Court of Dancing Petals" terlebih dahulu.
+Beguiling Shadowstep
+Meningkatkan 3 level <color=#FFD780FF>Dance of Abzendegi: Distant Dreams, Listening Spring</color>. Maksimum: Lv. 15.
+Fricative Pulse
+Setelah langkah tarian ketiga dalam status Pirouette dari <color=#FFD780FF>Dance of Haftkarsvar</color> mengenai musuh, Nilou akan memulihkan 15 Energy, meningkatkan 50% DMG <color=#FFD780FF>Dance of Abzendegi: Distant Dreams, Listening Spring</color>-nya selama 8 detik.
+Twirling Light
+Meningkatkan 3 level <color=#FFD780FF>Dance of Haftkarsvar</color>. Maksimum: Lv. 15.
+Frostbreaker's Melody
+Untuk setiap 1.000 poin Max HP, akan meningkakan CRIT Rate dan CRIT DMG Nilou masing-masing sebesar 0,6% dan 1,2%. Kenaikan maksimum CRIT Rate dan CRIT DMG masing-masing adalah 30% dan 60%.

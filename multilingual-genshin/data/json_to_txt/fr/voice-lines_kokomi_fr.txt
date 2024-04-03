@@ -1,0 +1,136 @@
+Bavardage - Lecture
+La Chambre Yae a publié un bon nombre d'ouvrages qui présentent la stratégie militaire d'une manière simple et réaliste. Je les apprécie beaucoup.
+Bavardage - Poisson
+Chaque créature vivante est digne de respect, elles vont dans leur propre direction. Tout comme chaque poisson de l'océan.
+Bavardage - Préparation
+Pour surmonter l'adversité, il faut s'y préparer.
+Première rencontre...
+Je suis Sangonomiya Kokomi, la Prêtresse divine de l'Île de Watatsumi. Voyager avec vous sera l'occasion de me déten... Euh, je veux dire de voir de nouveaux horizons. Ne vous inquiétez pas, j'ai laissé des directives à mon peuple en mon absence, et j'ai terminé les plans de développement de l'île. Tout le monde saura se débrouiller même si je m'absente un peu.
+Quand il pleut...
+Marcher sous la pluie nous permet de ne pas nous faire remarquer et de mettre notre endurance à l'épreuve...
+Quand il neige...
+De la neige... Que c'est beau.
+Il fait bon dehors...
+Le temps est agréable aujourd'hui... Voulez-vous vous promener avec moi ?
+Le vent souffle fort...
+Hmm, une attaque au feu sera particulièrement efficace avec ce temps.
+Au réveil...
+Bonjour. Je viens de lire un stratagème particulièrement fascinant. Ça vous dirait qu'on l'étudie ensemble ?
+À l'heure du déjeuner...
+Nous devons recourir à quelques ajustements quant à notre plan de bataille de cet après-midi pour améliorer son efficacité.
+Le soir...
+Hmm ? Il fait déjà nuit ? Décidément, le temps passe vite en votre compagnie.
+La nuit...
+Bonne nuit. Reposez-vous bien, vous aurez besoin de toutes vos forces pour demain.
+À propos de Sangonomiya Kokomi - Directives
+Le champ de bataille est imprévisible. Un mouvement de travers peut entraîner la défaite. C'est pour cela qu'avant chaque bataille, j'analyse tous les scénarios possibles pour ensuite coucher mes directives sur papier. Elles sont ensuite transmises aux troupes. Il semblerait cependant qu'elles se reposent énormément sur ces directives, ce qui m'inquiète. Si seulement les soldats s'intéressaient un peu à la lecture sur la stratégie militaire, ils pourraient utiliser ces compétences au combat. Il faut qu'ils puissent identifier et saisir les opportunités au cœur de l'action.
+À propos de Sangonomiya Kokomi - Détente
+J'espère que cette bataille viendra rapidement à sa fin. La Chambre Yae vient de publier un nouveau volume d'« Une légende d'épée ». Je ne souhaite rien de plus que de me retirer chez moi pour le lire d'une seule traite.
+À propos de nous - Expérience
+Ma mère me raconta un jour que posséder une vaste perspective est nécessaire afin de devenir un dirigeant de qualité. Cependant, mes jeunes années furent passées entre Sangonomiya et l'armée. Je n'ai jamais eu l'occasion de partir vivre ma propre aventure. C'est pour cela que j'ignore encore beaucoup des aspects relevant de l'aventure. J'espère que vous pourrez excuser mon manque d'expérience dans ce domaine.
+À propos de nous - Doutes
+#On dit que l'esprit d'une personne est difficile à cerner. Pourtant, en ma qualité de Prêtresse divine, il est de mon devoir de m'efforcer à comprendre les pensées de chacun. Je vais commencer par vous, {M#voyageur}{F#voyageuse}. Laissez-moi deviner, à quoi pensez-vous à l'instant ?
+À propos de l'œil divin...
+À mes yeux, l'œil divin est un symbole d'aspiration. L'aspiration est quelque chose de très précieux, elle est la raison derrière laquelle la Résistance s'est formée et pourquoi nous nous battons contre le décret de saisie. L'aspiration ne doit jamais être abandonnée ou retirée de force.
+Quelque chose à partager - Publications
+Parmi les nombreuses publications de la Chambre Yae, ma préférée est « L'art de la guerre en Teyvat ». Regardez, cet ouvrage contient des articles sur des campagnes militaires classiques, ainsi que des analyses et des commentaires de célèbres stratèges. En voici quelques-uns que j'apprécie particulièrement, laissez-moi vous en lire un passage...
+Quelque chose à partager - Plongée
+Le monde sous-marin n'est pas aussi lumineux que celui de la surface. Pourtant, à chaque fois que j'y plonge, mon cœur s'apaise. Les bancs de poissons nagent au loin, les méduses dansent à mes côtés. Sans même m'en rendre compte, mes soucis disparaissent. Si l'occasion se présente, que diriez-vous de m'accompagner ?
+Détails intéressants...
+J'adore les perles de corail de Watatsumi. Elles ne sont pas seulement une source de revenus pour l'Île de Watatsumi, mais bien un cadeau de l'océan.
+À propos de Gorou...
+Gorou est un général d'exception, sincère, déterminé et courageux. Il possède un profond sens de la camaraderie envers les soldats et élabore toujours des stratégies de combat créatives. La seule lacune dont il fait preuve est qu'il se laisse souvent emporter dans le feu de l'action. Si vous combattez un jour côte à côte, assurez-vous de le retenir avant que les choses ne s'emballent.
+À propos de Kujou Sara...
+Je dois admettre que Kujou Sara est une adversaire redoutable. Bien qu'elle n'ait que très rarement recours à des stratagèmes, ses performances sur le champ de bataille sont exceptionnelles. L'armée de la Shogun place toute sa confiance en elle. Les forces armées sont unies et prêtes à agir sous son commandement et ce même jusqu'à la mort. Ses troupes ont déjà prouvé à plusieurs reprises être une sérieuse menace pour la Résistance.
+À propos de Yae Miko...
+J'ai aussi entendu parler des exploits de la Guuji Yae. En toute honnêteté, je reconnais qu'elle excelle dans son rôle de prêtresse. J'ai même eu vent du fait qu'elle s'occupe de la gestion des publications de la Chambre Yae. Quel personnage énigmatique...
+À propos de la Shogun Raiden...
+Maintenant que le décret de saisie est de l'histoire ancienne, l'Île de Watatsumi peut reprendre le cours d'une vie normale. Je n'ai jamais eu l'intention de juger du bien ou du mal des agissements de la Shogun, ce qui m'importe est l'avenir de l'Île de Watatsumi. J'ai l'espoir que la Shogun tiendra sa promesse et que nous pourrons cohabiter en paix avec le Shogunat. Cependant, si le jour arrive où elle dédaigne à nouveau les aspirations du peuple, nous ne pourrons en aucun cas rester les bras croisés.
+À propos de Beidou...
+À l'époque où Beidou et moi préparions une embuscade contre les troupes de la Shogun, j'ai exprimé mon inquiétude quant à la possibilité que notre approche soit détectée par l'ennemi. Beidou m'assura que sa flotte possédait une discipline inébranlable et que l'opération pouvait se poursuivre sans encombre. Les choses se passèrent effectivement comme prévu. Aujourd'hui, lorsque la flotte de l'Île de Watatsumi se trouve face à une difficulté, j'envisage de lui demander de venir nous guider. Il n'y a pas à dire, elle sait maintenir la discipline...
+À propos de Kaedehara Kazuha...
+Kazuha est resté un moment parmi la Résistance. Il me semble qu'il s'entendait très bien avec Gorou, on pouvait souvent les voir se battre côte à côte. Kazuha possède un esprit libre et n'apprécie guère les contraintes. Pourtant, il suivit à la lettre tous les ordres qui lui étaient adressés lorsqu'il évoluait dans nos rangs. Selon moi, il est non seulement un épéiste exceptionnel, mais aussi quelqu'un de très mature.
+À propos de Shikanoin Heizou...
+Au départ, j'étais étonnée de voir quelqu'un vêtu de l'uniforme de la Commission administrative venir sur l'Île de Watatsumi. Un samouraï de la Commission administrative ne ferait jamais preuve d'un caractère aussi effronté, tandis qu'un espion n'agirait pas de manière aussi ostentatoire. Peu après, j'ai découvert qu'il s'agissait d'un « détective » auto-proclamé dénommé Shikanoin et qu'il ne s'intéressait en rien aux affaires militaires, politiques ou commerciales de l'Île Watatsumi. Au contraire, il n'était là que pour faire un peu de tourisme. Je me suis donc assurée qu'on le surveille de loin mais j'ai interdit toute action visant à lui faire quitter l'île. Si l'occasion se présente, allez donc échanger quelques mots avec lui.
+Connaître Sangonomiya Kokomi (1)
+Qu'importe le caractère urgent de la situation, je me dois de garder mon calme. Si je me laissais emporter par l'anxiété, que feraient ceux qui m'entourent ?
+Connaître Sangonomiya Kokomi (2)
+La légende raconte que nos ancêtres vivaient au fond de l'océan dans un palais à Enkanomiya et qu'Orobashi les amena à la surface. Je me suis souvent demandée, un palace dans les fonds marins ne serait-il pas un endroit particulièrement sombre ? Chaque fois que j'y pense, j'apprécie d'autant plus la lumière.
+Connaître Sangonomiya Kokomi (3)
+Après votre départ, les soldats de l'Espadon II ont temporairement nommé un autre capitaine, mais tout le monde espérait votre retour. Je n'ai pu que leur dire qu'une importante mission en solitaire vous attendait et qu'il vous était impossible de revenir. Allez leur rendre visite si vous en avez l'occasion, je suis certaine qu'ils adoreraient vous revoir.
+Connaître Sangonomiya Kokomi (4)
+En vérité, il y a longtemps, je n'avais aucunement l'intention de devenir Prêtresse divine. Mon unique but était d'étudier la stratégie militaire et de devenir conseillère. De cette manière, il m'aurait été possible d'agir dans l'ombre et de diminuer la charge de mon fardeau. En fin de compte, le destin en a décidé autrement. Vous ne pouvez pas vous opposer à ce qui coule dans vos veines...
+Connaître Sangonomiya Kokomi (5)
+Après avoir accédé au titre de Prêtresse divine, je me suis tout doucement habituée à cette vie. Au moins, j'ai le pouvoir de changer les choses lorsqu'elles ne sont pas adaptées. Mais plus important encore, ce titre m'a permis de vous rencontrer, n'est-ce pas ?
+Les loisirs de Sangonomiya Kokomi...
+Ce que j'aime faire ? J'aime trouver un endroit calme pour lire un livre de stratégie militaire où personne ne viendra me déranger de toute la journée. Je serais encore plus heureuse si nous en faisions la lecture ensemble. Cependant... vous devrez dormir sur le sol.
+Les problèmes de Sangonomiya Kokomi...
+Pour être honnête, je ne suis pas particulièrement douée pour communiquer avec les autres. Endosser mon rôle de Prêtresse divine rend les choses plus faciles, mais dès que manque d'énergie, je deviens quelque peu négative. Je me garde de montrer cette facette de moi aux autres à tout prix. Le peuple de l'Île de Watatsumi a besoin d'une dirigeante parfaite, pas une jeune femme qui préfère passer son temps chez elle.
+Plats préférés...
+J'adore les sushis à l'œuf. Les ingrédients sont faciles à trouver et les préparer l'est encore plus. Parfaitement adapté à la vie militaire. S'asseoir pour manger un sushi à l'œuf en plein combat peut paraître un peu extravagant, mais la plupart du temps, un plat aussi simple que celui-là remonte le moral des troupes.
+Plats détestés...
+Hmm, je n'aime pas vraiment les plats à base de poisson. Mais je vous en prie, gardez cela pour vous. La pêche est essentielle pour l'Île de Watatsumi et si le peuple avait vent du fait que je n'apprécie pas le poisson, leur moral en serait certainement affecté.
+Cadeau reçu (1)
+C'est vraiment bon ! On dirait que mon énergie... Non, rien...
+Cadeau reçu (2)
+Le plaisir durera plus longtemps si je mange en petites bouchées.
+Cadeau reçu (3)
+Vous me posez une colle, là.
+Anniversaire...
+Joyeux anniversaire ! Qu'avez-vous prévu aujourd'hui ? Pourquoi ne pas le célébrer sur l'Île de Watatsumi ? Je vous emmènerai d'abord au petit matin voir le lever du soleil, puis nous pourrons plonger lorsqu'il fera chaud en journée. Le soir, nous pourrons nous promener à Sangonomiya. S'il pleut, nous pourrons trouver un endroit confortable pour lire un livre de stratégie militaire puis pourquoi ne pas faire un gâteau. Dans tous les cas, pas besoin de planifier quoi que ce soit, la plus fine des stratèges a déjà pensé à tout !
+Affinité faible
+Bien que je ne fasse pas preuve de force brute, je dois admettre que devenir plus fort est une bonne chose.
+Affinité moyenne
+Je déborde d'énergie... Nous formerons une équipe redoutable lors de notre prochain combat.
+Affinité élevée
+La lune éclaire les profondeurs de l'océan alors que la marée va-et-vient. Mon esprit fluctue à mesure que je me renforce.
+Affinité max
+Je me laissais autrefois immerger dans mes propres doutes. Je me demandais si quelqu'un comme moi était vraiment digne du titre de Prêtresse divine. Mais aujourd'hui, tout cela ne me traverse plus l'esprit. Quand vous êtes à mes côtés, je suis capable de tout affronter.
+Compétence élémentaire (1)
+Je m'en occupe !
+Compétence élémentaire (2)
+Tenez la ligne.
+Compétence élémentaire (3)
+Repos.
+Déchaînement élémentaire (1)
+Pacte des profondeurs.
+Déchaînement élémentaire (2)
+Déferlante !
+Déchaînement élémentaire (3)
+Torrents, protégez-les !
+Début de sprint (1)
+Allons-y.
+Utilisation de planeur (1)
+Magnifique.
+Ouverture de coffre (1)
+Les provisions sont vitales.
+Ouverture de coffre (2)
+Nous devrions tirer le meilleur parti de ces provisions.
+Ouverture de coffre (3)
+Hmm... Alors voici le frisson de l'aventure...
+PV faibles (1)
+La fatigue s'installe...
+PV faibles (2)
+Il est temps de changer de tactique.
+PV faibles (3)
+La prudence l'emportera.
+Compagnon avec PV faibles (1)
+Les renforts sont arrivés !
+Compagnon avec PV faibles (2)
+Repli.
+K.O. (1)
+Notre stratégie... est à revoir.
+K.O. (2)
+J'ai commis une erreur de jugement...
+K.O. (3)
+Je dois apprendre de mes erreurs...
+Attaque puissante subie (1)
+Une manœuvre impétueuse !
+Attaque puissante subie (2)
+Une bataille difficile...
+Ajout dans l'équipe (1)
+On va avoir besoin d'une stratégie.
+Ajout dans l'équipe (2)
+N'ayez crainte, nous serons victorieux.
+Ajout dans l'équipe (3)
+Tout est en ordre, allons-y.

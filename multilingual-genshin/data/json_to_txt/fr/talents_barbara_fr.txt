@@ -1,0 +1,12 @@
+Attaque normale : Murmure de l'eau
+<color=#FFD780FF>Attaque normale</color> Enchaîne jusqu'à 4 attaques d'eau qui infligent des <color=#80C0FFFF>DGT Hydro</color>.  <color=#FFD780FF>Attaque chargée</color> Consomme de l'endurance pour infliger des <color=#80C0FFFF>DGT Hydro de zone</color> après un court délai.  <color=#FFD780FF>Attaque plongeante</color> Plonge depuis les airs en concentrant ses pouvoirs Hydro, infligeant des DGT aux ennemis en chemin et des <color=#80C0FFFF>DGT Hydro de zone</color> à l'impact.
+C'est parti pour le show ♪
+Invoque des gouttelettes dansantes qui forment un cercle de mélodie infligeant des <color=#80C0FFFF>DGT Hydro</color> et <color=#80C0FFFF>trempant</color> les ennemis proches.  <color=#FFD780FF>Cercle de mélodie</color> · Les attaques normales de Barbara restaurent les PV de vos personnages dans l'équipe ainsi que de tous les alliés proches lorsqu'elles touchent. La quantité de PV restaurés est proportionnelle aux PV max de Barbara. · L'effet des soins est multiplié par 4 avec les attaques chargées. · Régénère les PV de votre personnage déployé à intervalles réguliers. · Barbara <color=#80C0FFFF>trempe</color> les personnages et les ennemis avec qui elle entre en contact.  <i>La musique de Barbara est une magie capable de soigner chacun.</i>
+Miracle brillant ♪
+Restaure considérablement les PV des alliés et de vos personnages dans l'équipe ; la quantité de PV restaurés est proportionnelle aux PV max de Barbara.  <i>Soigner le cœur de chacun, telle est la force du chant de Barbara.</i>
+Splendide saison
+Les personnages situés dans le cercle de mélodie de <color=#FFD780FF>C'est parti pour le show ♪</color> consomment 12 % d'endurance en moins.
+Bis repetita
+Chaque orbe ou particule élémentaire obtenu(e) par votre personnage déployé prolonge le cercle de mélodie de <color=#FFD780FF>C'est parti pour le show ♪</color> de 1 s. Durée max : 5 s.
+De tout mon cœur ♪
+12 % de chances d'obtenir un plat supplémentaire lorsque vous cuisinez un plat de soins parfait.

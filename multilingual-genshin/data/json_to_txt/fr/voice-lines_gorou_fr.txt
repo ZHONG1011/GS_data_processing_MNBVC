@@ -1,0 +1,142 @@
+Première rencontre...
+Général Gorou de la Résistance de l'Île de Watatsumi, ici pour vous servir ! Cela fait longtemps que j'entends parler de vous. J'ai hâte de combattre à vos côtés jusqu'à la victoire ! Héhé... Alors, comment c'était ? Vous avez trouvé ça inspirant ?
+Bavardage - Tactique
+Ayez toujours votre arme près de vous pour parer à toute éventualité...
+Bavardage - Entraînement
+#Les combats ont cessé pour le moment... Commençons une séance d'entraînement physique{NON_BREAK_SPACE}!
+Bavardage - Physique
+Un corps robuste est symbole de force. C'est très important pour le moral des troupes. Et c'est pour ça que je dois toujours être au sommet de ma forme !
+Quand il pleut...
+Argh, ma queue est mouillée... Il faut que je trouve un feu de camp pour la sécher.
+Quand le tonnerre gronde...
+Restez en alerte !
+Quand il neige...
+Brr, quel froid de canard ! Ce n'est pas un temps propice aux manœuvres en extérieur.
+Il fait bon dehors...
+J'aurais bien envie de profiter du soleil, mais un soldat ne doit jamais se relâcher.
+Le vent souffle fort...
+On peut attaquer dans le sens du vent pour bénéficier d'un avantage majeur. Ou prendre son courage à deux mains et combattre sous un vent contraire !
+Au réveil...
+C'est l'heure de la séance d'entraînement matinale. On va escalader une montagne ?
+À l'heure du déjeuner...
+Au déjeuner aujourd'hui, c'est ragoût de radis et de poisson accompagné de riz. C'est l'un des plats préférés des soldats de la Résistance. Vous devriez essayer aussi.
+Le soir...
+La fin de journée n'est pas un prétexte pour baisser sa garde. Il faut laisser ses yeux s'habituer à l'obscurité, car même un campement obscur peut se transformer en champ de bataille.
+La nuit...
+#Si vous êtes {M#fatigué}{F#fatiguée}, allez vous reposer. Je prends le tour de garde ! Ne vous inquiétez pas, tout sera en bon ordre à votre retour.
+À propos de Gorou - Chien en chef
+#« Gorou, le chien en chef » ? Où est-ce que vous avez entendu ça{NON_BREAK_SPACE}? *soupir* Pour tout vous dire, je suis assez proche de mes officiers et je partage toutes les bonnes choses que je trouve avec eux. Ils ont donc commencé à me donner le surnom de « Chien en chef » en privé... Même si en réalité, ils ont tous plus de métier que moi.
+À propos de Gorou - Conseil
+Les soldats me considèrent comme une personne aux capacités extraordinaires, sûrement en raison de notre récente série de victoires. Et maintenant, ils viennent toujours me voir pour me demander conseil, même sur les questions les plus triviales. Quand je vois leur regard plein d'espoir, il m'est impossible de leur dire non. Mais en même temps, mes capacités stratégiques sont limitées... Tout ce que je peux faire, c'est fournir des indications générales ou, à défaut, répondre en me fiant à mon intuition. *soupir* J'espère juste que je ne les déçois pas.
+À propos de nous - Sincérité
+Si quelque chose vous préoccupe, ne le gardez pas pour vous. Vous pouvez toujours dire ce que vous avez sur le cœur avec moi ! Même si je ne peux pas garantir que j'aurai toujours la réponse, je vous donnerai mes meilleurs conseils. Et même si je ne sais pas quoi vous répondre, vous pouvez toujours compter sur moi pour être à l'écoute.
+À propos de nous - Camaraderie
+Nous nous entraînons, mangeons et nous reposons ensemble. Il n'y a pas de meilleur moyen pour renforcer la cohésion des troupes. Dans le feu de l'action, un simple regard suffit à transmettre des informations cruciales. Hein ? Vous ne trouvez pas ça approprié ? Eh bien, c'est de cette manière que mes soldats et moi avons créé des liens forts.
+À propos de l'œil divin...
+Mon œil divin amplifie mes capacités au combat. Il me permet de jouer davantage de rôles différents sur le champ de bataille et d'ouvrir la voie pour les troupes. Mais je comprends aussi qu'une personne seule, aussi forte soit-elle, ne suffit jamais à renverser le cours d'une bataille. La clé de la victoire réside dans l'effort uni de tous, dans le combat pour une cause commune.
+Quelque chose à partager - Panoplie de combat
+Je n'aime pas m'engager dans un combat vêtu d'un équipement lourd. Je voyage aussi léger que possible, c'est mon style. Ma force consiste à me déplacer avec agilité sur le champ de bataille et à chercher des ouvertures pour contrôler le cours du combat. Je commence toujours par attaquer les guerriers les plus forts pour affaiblir le moral de l'ennemi.
+Quelque chose à partager - Général victorieux
+#Les soldats m'ont trouvé un surnom : «{NON_BREAK_SPACE}général toujours victorieux aux oreilles pointues{NON_BREAK_SPACE}». Il y a même une rumeur qui circule parmi eux, comme quoi il faudrait «{NON_BREAK_SPACE}toucher les oreilles du chef Gorou pour avoir de la chance{NON_BREAK_SPACE}»... Grr, personne ne touchera à mes oreilles, je vous le dis ! Ils n'arriveront pas à me persuader. Hé ! Qu'est-ce que vous faites...? Arrêtez, pas touche !
+Détails intéressants...
+J'ai entendu dire qu'il y avait à Liyue une chaîne de montagnes si haute qu'elle toucherait les nuages. Ah, comme j'aimerais pouvoir y aller pour l'escalader et voir ça de mes propres yeux !
+À propos de Beidou...
+La capitaine Beidou attache beaucoup d'importance à l'esprit de camaraderie, et ses compétences exceptionnelles forcent le respect. Elle a dit un jour qu'elle préférait éviter d'impliquer ses collègues dans des combats qui ne les concernent pas, ce que je comprends parfaitement. Compte tenu de cela, il est normal que je ne demande son aide que lorsque nous n'avons personne d'autre vers qui nous tourner.
+À propos de Kaedehara Kazuha...
+J'ai vu toutes sortes de vagabonds, mais Kazuha ne ressemble à aucun autre. Il est comme un coup de vent : il ne reste jamais longtemps au même endroit, mais il apporte toujours quelque chose à ceux qui l'entourent. En combattant à ses côtés, j'ai mieux compris ce que c'est que d'être vraiment libre et insouciant. En tout cas, je trouve que Kazuha et moi formons une très bonne équipe !
+À propos de Sangonomiya Kokomi - Devoir
+Son Altesse Sangonomiya est la dirigeante de Watatsumi. C'est elle qui fixe le cap à suivre et élabore des plans selon les circonstances générales. Mon rôle est donc de mettre en œuvre chaque détail de ces plans et de garder le contrôle de la situation sur la ligne de front. L'armée de la Résistance est unie autour d'un seul objectif : la victoire.
+À propos de Sangonomiya Kokomi - Attitude
+Je n'ai que le plus grand respect pour Son Altesse. Sans ses stratégies ingénieuses et perspicaces, la Résistance n'aurait jamais pu aller aussi loin. Mais selon moi, il semble qu'elle préférerait mener une existence beaucoup plus tranquille. Pour cette raison, j'essaie de ne pas trop la déranger quand il n'y a pas d'affaires militaires urgentes.
+À propos de la Shogun Raiden...
+Grr, la Shogun Raiden... Je ne pourrai jamais lui pardonner ce qu'elle a fait, peu importe ce qui l'a poussée à agir ainsi. Même si un traité de paix a été signé entre l'Île de Watatsumi et le Shogunat, je refuse de baisser ma garde. Si un conflit devait éclater à nouveau, je serais le premier à aller en première ligne.
+À propos de Kujou Sara...
+Je n'ai rien de positif à dire à propos de l'armée du Shogunat, mais Kujou Sara est sans doute son officière la plus respectable. Je l'ai rencontrée maintes et maintes fois sur le champ de bataille, tantôt en tant que vainqueur, tantôt en tant que vaincu. Pendant un moment, je me suis même retrouvé à imaginer naïvement comment les choses se passeraient si les gens comme elles pouvaient écouter la volonté du peuple et se libérer de l'emprise du Shogunat.
+À propos de Yae Miko...
+Oh, elle... Est-ce qu'on peut parler d'autre chose ? Par exemple, s'il y a des tâches dont vous voulez vous débarrasser, dites-le-moi. Je m'en chargerai avec plaisir ! Ahem... Disons que ce serait mieux pour mon bien-être général si nous pouvions éviter de parler d'elle...
+À propos de Kamisato Ayaka...
+La Commission culturelle fait partie du Shogunat, mais sur de nombreuses questions, elle tend à se ranger du côté du peuple d'Inazuma. Malgré les pressions des deux camps, la Shirasagi Himegimi a réussi à se forger une excellente réputation. Je suppose qu'elle doit savoir garder son calme à tout moment et gérer les situations délicates avec tact... Il y a beaucoup de choses que je pourrais apprendre d'elle.
+À propos de Sayu...
+#Hmm, selon nos informations, c'est une ninja experte dans l'art de l'infiltration... Une compétence qui pourrait s'avérer très utile dans certaines des opérations spéciales de Son Altesse... Cependant, nos renseignements indiquent également qu'elle pourrait être difficile à recruter, car elle est plutôt indisciplinée et disparaît souvent sans laisser de traces. Ah{NON_BREAK_SPACE}? Elle est de la Commission culturelle ? Oh, alors on va laisser tomber.
+À propos de Shikanoin Heizou...
+Vous parlez de ce détective sournois qui ne semble jamais vraiment être en train de travailler sur une affaire ? On ne peut pas faire entièrement confiance à un membre du Shogunat, alors je vais continuer de garder mes oreilles tendues et mes yeux pointés sur lui ! C'est vrai qu'il a un certain talent pour mener des enquêtes, mais comment être sûr que tout son travail ne fait pas partie d'un complot infâme ? Hmm, seul le temps nous le dira.
+Connaître Gorou (1)
+Hmm, je passe la plupart de mes journées sur le champ de bataille... Donc j'ai bien peur qu'il n'y ait pas grand-chose à dire sur moi. Mais si vous voulez vraiment écouter mes histoires, je serais heureux de vous les raconter.
+Connaître Gorou (2)
+Je n'ai pas d'intelligence hors norme, ni ne suis-je plus rusé que le commun des mortels. Tout ce que j'ai à offrir, ce sont mes deux mains et ma vie. Après d'innombrables batailles, je suis toujours là... Donc je suppose que ces mains et ma volonté de survivre sont assez fortes pour me permettre de m'en sortir. Certains disent même qu'il suffit de me suivre pour sortir indemne d'une bataille, même si la situation sur le terrain est catastrophique. C'est de cette manière que je suis devenu peu à peu le général que vous avez devant vous.
+Connaître Gorou (3)
+Au début, nos seuls ennemis étaient des bandits de grand chemin, des pirates et des monstres. Mais tout a changé lorsque la Shogun Raiden a promulgué le décret de saisie. Lorsque l'armée de la Shogun est arrivée dans l'espoir de nous remettre à notre place, nous étions prêts et l'avons attaquée avec toute notre force. Héhé, je parie qu'ils ne s'attendaient pas à rencontrer une résistance aussi féroce.
+Connaître Gorou (4)
+Un jour, Son Altesse m'a mis en garde contre mon défaut le plus fatal : pendant les batailles, je me laisse trop emporter jusqu'à m'enfoncer au milieu des lignes ennemies. Elle m'a dit qu'une telle bravoure était quelque chose de louable, mais que ce n'était pas le rôle d'un officier supérieur de se battre éperdument au point d'en oublier tout le reste. Je fais tout ce que je peux pour corriger ça, mais... Est-ce que vous pourriez garder un œil sur moi ?
+Connaître Gorou (5)
+Nous ne nous battons pas contre un groupe ou une faction en particulier. Non ! Nous nous battons contre un mal destructeur, un mal qui a piétiné les aspirations du peuple et détruit la vie paisible que celui-ci menait jusqu'alors. Après avoir débarrassé les terres de ce mal, je pourrai déposer mon arme en ayant le cœur libre. Ce n'est qu'à ce moment-là que je troquerai mon uniforme pour une tenue de civil... et que je me promènerai enfin avec vous dans les magnifiques paysages de l'Île de Watatsumi.
+Les loisirs de Gorou...
+J'adore l'alpinisme ! Plus la pente est raide, mieux c'est. Grimper en montagne entraîne mon corps et mon esprit, en plus de me rendre plus fort. Mais ce que je préfère, c'est de gravir des montagnes avec mes hommes. Après des heures dans la sueur et la saleté pour atteindre le sommet, nous pouvons nous asseoir et profiter de la vue ensemble. C'est l'une des plus grandes joies de la vie ! Ahem, cependant, je n'ai absolument aucune envie d'escalader le plus haut sommet d'Inazuma...
+Les problèmes de Gorou...
+Porter des protections légères n'a pas que des avantages : par exemple, quand nous subissons une attaque par le feu, je dois faire particulièrement attention à ne pas me brûler la queue.
+Plats préférés...
+J'aime les gâteaux et les dango trois couleurs ! C'est sûrement parce que je peux rarement m'offrir le luxe de manger de pareilles délicatesses. Les rations que nous avons sur le terrain sont destinées à être simples, efficaces et rapides à manger. Elles sont rarement accompagnées d'assaisonnements, sans même parler de sucre... C'est certainement l'ingrédient le plus précieux chez nous. C'est donc normal que j'aie un penchant pour les choses sucrées.
+Plats détestés...
+Je mange à peu près de tout, à l'exception des oignons. Une fois, la division logistique a ajouté de l'oignon émincé à ma nourriture : je me suis mis à pleurer devant tout le monde à table... *soupir* Vous parlez d'une situation embarrassante. Les soldats de la division logistique se sont aussi sentis très gênés à cause de ça.
+Cadeau reçu (1)
+Je ne peux pas résister à cette saveur !
+Cadeau reçu (2)
+J'ai repris du poil de la bête ! Je peux vous aider à faire quelque chose ?
+Cadeau reçu (3)
+C'est plus épicé que je le pensais... Ouh, je... Je ne pense pas que je vais y arriver.
+Anniversaire...
+Aujourd'hui, c'est votre anniversaire ! C'est un jour très important, aussi permettez-moi d'organiser une fête pour vous. Nous irons faire un feu sur une plage et nous attraperons des poissons et des crabes frais. Je préparerai un bon repas pour le moral des troupes, qui fera pâlir d'envie même les généraux les plus hauts gradés !
+Affinité faible
+Avec cette force nouvelle, je pourrai protéger ceux qui luttent à mes côtés.
+Affinité moyenne
+Si je veux protéger mes compagnons, rester sur la défense n'est pas la solution. Parfois, il faut prendre les devants et attaquer !
+Affinité élevée
+Au combat, la clé de la victoire est de garder à l'esprit la raison pour laquelle on lutte et d'employer les bonnes tactiques. C'est ainsi que vos soldats deviendront une force implacable.
+Affinité max
+Avec l'avantage de notre côté et un fort esprit de camaraderie entre nos hommes, la victoire est assurée. Merci pour votre aide ! Cette victoire nous appartient à tous les deux.
+Compétence élémentaire (1)
+En avant !
+Compétence élémentaire (2)
+Chargez !
+Compétence élémentaire (3)
+En formation !
+Déchaînement élémentaire (1)
+Tous avec moi !
+Déchaînement élémentaire (2)
+Une ouverture !
+Déchaînement élémentaire (3)
+Regroupement !
+Ouverture de coffre (1)
+La bataille tourne en notre faveur !
+Ouverture de coffre (2)
+Partageons ce butin avec les troupes.
+Ouverture de coffre (3)
+Un coffre... Serait-ce un piège ?
+Début de sprint (1)
+Avec moi !
+PV faibles (1)
+Je peux continuer à me battre !
+PV faibles (2)
+Une erreur stratégique !
+PV faibles (3)
+Capituler n'est pas une option !
+Compagnon avec PV faibles (1)
+Repli !
+Compagnon avec PV faibles (2)
+Restez en formation !
+K.O. (1)
+Nous sommes... vaincus...
+K.O. (2)
+Pour... Watatsumi...
+K.O. (3)
+À toutes les unités... Retraite...
+Attaque légère subie (1)
+Ce n'est rien !
+Attaque puissante subie (1)
+Allez !
+Ajout dans l'équipe (1)
+Prêt au combat !
+Ajout dans l'équipe (2)
+Que les troupes se préparent !
+Ajout dans l'équipe (3)
+Soldats, en formation !

@@ -1,0 +1,12 @@
+Fléau des monstres marins
+L'activation de <color=#FFD780FF>Brisure d'orage</color> confère les effets suivants : Génère un bouclier qui absorbe une quantité de DGT équivalant à 16 % des PV max et dure 15 s. Le bouclier est efficace à 250 % contre les <color=#FFACFFFF>DGT Électro</color>.
+Sur la mer turbulente, le tonnerre gronde
+Les décharges de <color=#FFD780FF>Brisure d'orage</color> se propagent à 2 ennemis supplémentaires.
+Invocateur de tonnerre
+Niveau d'aptitude <color=#FFD780FF>Invocation des marées</color> +3. Niveau max : 15
+Vengeance étonnante
+Après avoir subi une attaque, les attaques normales de Beidou infligent 20 % de <color=#FFACFFFF>DGT Électro</color> supplémentaires pendant 10 s.
+Marcheur de marée écarlate
+Niveau d'aptitude <color=#FFD780FF>Brisure d'orage</color> +3. Niveau max : 15
+Chancre du mal
+La <color=#FFACFFFF>RÉS Électro</color> des ennemis proches est réduite de 15 % tant que <color=#FFD780FF>Brisure d'orage</color> est actif.

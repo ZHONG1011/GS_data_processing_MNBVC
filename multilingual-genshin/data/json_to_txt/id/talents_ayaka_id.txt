@@ -1,0 +1,14 @@
+Kamisato Art: Kabuki
+<color=#FFD780FF>Normal Attack</color> Melancarkan maks. 5 tebasan pedang.  <color=#FFD780FF>Charged Attack</color> Mengonsumsi sejumlah Stamina untuk terus mengerahkan rentetan tebasan.  <color=#FFD780FF>Plunging Attack</color> Menukik dari langit dan menghantam tanah, menyerang musuh di jalurnya dan mengakibatkan DMG Area saat mendarat.
+Kamisato Art: Hyouka
+Memanggil dan menerbangkan bunga es ke arah musuh di sekitar untuk mengakibatkan <color=#99FFFFFF>Cryo DMG Area</color>.  <i>"Awan menyelimuti langit malam yang cerah diterangi rembulan. Rasa rindu yang timbul layaknya kabut, memenuhi hati seseorang dengan keinginan tuk' mengembara."</i>
+Kamisato Art: Senho
+<color=#FFD780FF>Alternate Sprint</color> Ayaka mengonsumsi energi untuk bersembunyi di balik es dan salju yang mengikuti gerakannya.  Dalam status Senho, Ayaka akan bergerak dengan kecepatan tinggi di atas permukaan air. Saat Ayaka muncul kembali, efek berikut akan berlaku: ·Melepaskan energi dingin yang menambahkan efek <color=#99FFFFFF>Cryo</color> kepada musuh di sekitar. ·Energi dingin berkumpul di bilah pedang dan dalam waktu singkat membuat serangan Ayaka memperoleh infusi <color=#99FFFFFF>Cryo</color>.  <i>"Bulu-bulu basah yang indah menghilang dalam sekejap, sang bangau putih pun menapaki air tanpa cela."</i>
+Kamisato Art: Soumetsu
+Memanggil es dengan ketenangan tanpa cela, lalu melepaskan Frostflake Seki no To yang terus bergerak maju.  <color=#FFD780FF>Frostflake Seki no To</color> ·Terus-menerus menebas musuh yang disentuhnya dengan angin dingin setajam pisau dan mengakibatkan <color=#99FFFFFF>Cryo DMG</color>; ·Terbuka mekar setelah durasinya berakhir dan mengakibatkan <color=#99FFFFFF>Cryo DMG Area</color>.  <i>"Badai salju memenuhi pikiran sang bangau, sedang rasa iba yang berat membebani hatinya."</i>
+Amatsumi Kunitsumi Sanctification
+Setelah menggunakan <color=#FFD780FF>Kamisato Art: Hyouka</color>, meningkatkan 30% DMG Normal dan Charged Attack Kamisato Ayaka selama 6 detik.
+Kanten Senmyou Blessing
+Jika efek Cryo di akhir <color=#FFD780FF>Kamisato Art: Senho</color> mengenai musuh, Kamisato Ayaka akan mendapatkan efek berikut: ·Memulihkan 10 Stamina ·Mendapatkan 18% <color=#99FFFFFF>Cryo DMG Bonus</color> selama 10 detik.
+Fruits of Shinsa
+Saat membuat Material Ascension Senjata, memiliki 10% kemungkinan untuk mendapatkan hasil 2 kali lipat.

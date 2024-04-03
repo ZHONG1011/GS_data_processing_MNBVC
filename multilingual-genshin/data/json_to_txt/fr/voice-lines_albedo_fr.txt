@@ -1,0 +1,130 @@
+Première rencontre...
+Je suis Albedo, alchimiste en chef des chevaliers de l'Ordre de Favonius. L'odeur des étoiles émane de vous, intéressant... J'aimerais étudier cela de plus près. Je suis sûr que les occasions ne manqueront pas.
+Bavardage - Nature morte
+Joli paysage. Voilà qui devrait faire une peinture correcte.
+Bavardage - Investigation
+« La vérité du monde »... Qu'est-ce que ça peut bien être ?
+Bavardage - Nostalgie
+Parcourir le monde à la recherche de ses mystères, et transformer l'« inconnu » en « connu »... Ah, ça me manque.
+Quand il pleut...
+La terre est humide, idéale pour récupérer des racines de fleur-bombe. Oh, je vous prie, laissez-moi faire.
+Quand il neige...
+Maître...
+Il fait bon dehors...
+Plein de lumière, de la vie... Oui, voici un excellent endroit pour faire un croquis.
+Au réveil...
+#Bien le bonjour. Alors, {M#prêt}{F#prête} à partir à la recherche d'artéfacts du passé ?
+À l'heure du déjeuner...
+Ah, j'avais entendu vos pas. Quelle animation dès qu'on sort du laboratoire...
+Le soir...
+Le calme revient, enfin.
+La nuit...
+Bonne nuit, partez d'abord vous reposer ; j'aimerais finir cette dernière expérience. Les résultats ont l'air de vous intéresser, alors je vous en ferai part plus tard.
+À propos d'Albedo - Don
+J'ai un don pour l'alchimie ? Beaucoup de gens le disent... Mais ce n'est pas mon opinion.
+À propos d'Albedo - Relations sociales
+Les relations sociales sont compliquées et doivent être entretenues en permanence. Rien n'est plus chronophage que d'essayer de rattraper le temps perdu.
+À propos de nous - Expérience
+Vous vous préparez pour m'assister dans cette expérience ? J'en suis honoré.  Soyez sans crainte. Mes expériences sont peut-être dangereuses, mais ne blessent quasiment jamais personne.
+À propos de nous - Assistance
+Vous pouvez m'aider ? Vous avez assisté à tellement d'expériences, l'alchimie ne vous est pas inconnue, après tout. Ne vous inquiétez pas, je serai à côté de vous. Ne vous en faites pas si c'est la première fois, tout ira bien. J'ai confiance en mes talents de professeur, et dans les vôtres.
+À propos de l'œil divin...
+Mon œil divin ? Rien de plus qu'un outil supplémentaire pour mes expériences, au même titre qu'un bécher ou un creuset. La seule chose qui m'intéresse à son sujet est son principe de fonctionnement... Ça viendra un jour, quand j'aurai le temps.
+Quelque chose à partager ?
+Je n'ai jamais osé en parler, par peur de vous gêner, mais...  La petite fée qui vole autour de vous m'intéresse grandement. Serait-il possible de vous l'emprunter pour études ?
+Détails intéressants...
+Vous aimeriez en apprendre davantage sur les Arbres pétrifiés ? Eh bien... Ceux que vous pouvez voir près des donjons ne sont pas si anciens, en réalité. Les arbres adultes font généralement deux à trois kilomètres de haut. On trouve souvent un genre d'araignée au milieu de leurs racines. Fumée avec des gardénias et de la citronnelle pendant plusieurs heures, c'est un véritable délice... Inoubliable, vraiment.
+La famille...
+Ma famille ? Alice voudrait que je la considère comme ma mère... Mais pour moi, parler de la famille équivaut à parler de mon maître. Aussi loin que remontent mes souvenirs, elle est à mes côtés. C'est elle qui m'a enseigné tout ce que je sais sur l'alchimie et le monde. « Famille », « maître »... Peut-être même qu'aucune de ces appellations ne rend vraiment justice à ce qu'elle représente à mes yeux.
+À propos de Sucrose - Direction
+Sucrose ? Je comprends son engouement pour la bio-alchimie... Quoi qu'il en soit, je suis heureux de voir que ses recherches avancent sans problème.
+À propos de Sucrose - Manières
+C'est toujours un plaisir de travailler avec elle, même si Sucrose peut avoir des idées bien arrêtées en dehors des cours. Par exemple, j'ai beau lui dire de m'appeler par mon prénom, elle continue de faire preuve de bien trop de manières à mon égard... Enfin, si c'est ce qu'elle veut.
+À propos de Lisa...
+Lisa, vous dites ? Discuter avec elle est toujours enrichissant. Avec un talent pareil, il doit y avoir une raison cachée au fait qu'elle se contente d'un poste de bibliothécaire.
+À propos de Klee...
+Klee est comme une sœur pour moi. C'est pour ça qu'à chaque fois qu'elle s'attire des ennuis, je me console en me disant qu'au moins pour l'instant, elle n'a pas la puissance d'Alice...
+À propos de Jean...
+Jean ? C'est la Grande Maîtresse suppléante de l'Ordre, aussi respectée, sinon plus, que le Grand Maître. Tout le monde doit s'attendre à la voir prendre officiellement sa place un jour ou l'autre.
+À propos de Xingqiu...
+Xingqiu ? Les romans qu'il écrit valent le détour. Cela fait un moment que la Chambre Yae, là-bas à Inazuma, me fait du pied pour que je collabore avec quelqu'un d'autre, pour de meilleurs bénéfices... Tsss, ai-je l'air aussi désespéré de gagner quelques moras ?
+À propos de Barbara...
+Barbara ? Assurément une personne d'église aux convictions bien ancrées. Elle m'a servi de modèle, il n'y a pas si longtemps. Ce qu'est devenue la peinture ? Hum... J'ai refusé le prix qu'en offrait Albert pour l'offrir directement à Jean. Entretenir ses relations n'est pas chose aisée.
+Connaître Albedo (1)
+Vous avez une question ? Je vous écoute. Enfin, ça ne prendra pas trop longtemps j'espère ? J'ai lancé une expérience qui arrive en phase finale d'ici peu.
+Connaître Albedo (2)
+Ah, juste une remarque en passant. Saviez-vous qu'en l'absence d'intervention humaine, il faut détruire l'équivalent de huit soleils de la taille du nôtre pour créer de l'or naturellement ?
+Connaître Albedo (3)
+Le temps passé à peindre dépend beaucoup de l'humeur. Je peux passer une demi-journée entière à dessiner Hoffman, quand quelques traits rapides suffisent pour représenter sieur Kaeya – un ovale pour le visage, un trait pour l'attache du cache-œil... et là son cache-œil.
+Connaître Albedo (4)
+Quoi d'autre à part la peinture et l'alchimie ? ... Je lis des romans de Liyue et d'Inazuma de temps en temps. J'y trouve beaucoup d'idées qui méritent réflexion, et il m'arrive d'y trouver l'inspiration à l'occasion.
+Connaître Albedo (5)
+Aujourd'hui encore, l'alchimie de la Khemia que m'a enseignée mon maître demeure pleine de mystères. Que cherche-t-elle donc à créer ? ... J'ai encore beaucoup à apprendre, et je compte sur vous pour m'aider dans cette quête.
+Les loisirs d'Albedo...
+Voyons... En dehors de mes recherches, j'aime passer mon temps à peindre. J'ai commencé à faire des croquis pour représenter la structure des choses et m'aider dans mes expériences ; mais avec le temps, c'est devenu une passion. Oui, c'est un excellent moyen de se détendre, en effet.
+Les problèmes d'Albedo...
+Le temps file... Repousser ce qu'on ne veut pas faire au lendemain ne change hélas pas grand-chose.
+Plats préférés...
+J'aime bien les desserts. Comment vous expliquer... C'est un excellent moyen de faire le plein d'énergie quand on est à plat.
+Plats détestés...
+Ce que je n'aime pas manger ? Les plats de viande trop copieux. J'ai un petit appétit, et qui dit petit appétit dit gaspillage ou plats qui tournent. J'ai fini par ne plus aller au restaurant, même si ça veut dire passer plus de temps à cuisiner...
+Cadeau reçu (1)
+S'il s'agissait d'une couleur, je dirais que c'est de l'or.
+Cadeau reçu (2)
+#Vous semblez très {M#enclin}{F#encline} à consacrer du temps à cuisiner, cela se ressent dans le goût de ce plat.
+Cadeau reçu (3)
+Cette portion est un peu trop grande pour moi... Ça vous dit de partager ?
+Anniversaire...
+Joyeux anniversaire ! Vous rayonnez de bonheur, ça vous dérange si je vous prends comme modèle ? La mémoire de chacun est limitée, on finit toujours par oublier. Une peinture est comme l'extension d'un souvenir ; avec elle, vous revivez un peu ce qu'elle représente.
+Affinité faible
+La Khemia est à la base de l'alchimie ; c'est là l'état originel de toute chose. Il est de notre devoir en tant qu'habitants de ce monde d'en chercher le sens.
+Affinité moyenne
+La craie symbolise le renouveau... Libérée de toute imperfection et prête à absorber le savoir. Vous joindrez-vous à moi pour découvrir les mystères de ce monde ?
+Affinité élevée
+En alchimie, « Rubedo » fait référence à l'affinage de ses sentiments. Je ressens que le raffinement de mes propres émotions est aussi de votre fait.
+Affinité max
+L'or, la phase ultime de l'alchimie, lorsque ce qui n'avait aucune valeur prend enfin son sens... Moi aussi, j'ai trouvé mon sens.
+Compétence élémentaire (1)
+Épanouis-toi !
+Compétence élémentaire (2)
+Aura solaire !
+Compétence élémentaire (3)
+Telle est la loi de la création.
+Déchaînement élémentaire (1)
+L'heure de la création est venue.
+Déchaînement élémentaire (2)
+Sentez cette force antique.
+Déchaînement élémentaire (3)
+Soyez témoins de mon œuvre.
+Ouverture de coffre (1)
+Ce monde recèle de nombreux trésors rares.
+Ouverture de coffre (2)
+Si ce trésor pouvait parler...
+Ouverture de coffre (3)
+Bien que ce ne soit pas d'or, cela brille indubitablement.
+PV faibles (1)
+Mauvais calcul...
+PV faibles (2)
+Je dois réévaluer la situation...
+PV faibles (3)
+Il faut changer de stratégie.
+Compagnon avec PV faibles (1)
+Je vais prendre les choses en main.
+Compagnon avec PV faibles (2)
+C'est trop dangereux pour vous.
+K.O. (1)
+Les cendres aux cendres et la poussière à la poussière...
+K.O. (2)
+L'expérience a-t-elle échoué ?
+K.O. (3)
+Mes recherches sont terminées...
+Attaque légère subie (1)
+Ça reste acceptable...
+Attaque puissante subie (1)
+Une erreur de calcul...
+Ajout dans l'équipe (1)
+Compris.
+Ajout dans l'équipe (2)
+S'agit-il d'une enquête sur le terrain ?
+Ajout dans l'équipe (3)
+Allons enquêter.

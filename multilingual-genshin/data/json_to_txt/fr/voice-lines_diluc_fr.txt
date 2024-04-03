@@ -1,0 +1,146 @@
+Première rencontre...
+Diluc de Mondstadt. Épargnez-moi tout bavardage inutile, mais faites-moi signe si vous souhaitez que je me charge de quelque chose pour vous.
+Bavardage - Détente
+Un peu de repos est bénéfique de temps en temps.
+Bavardage - Ordre de Favonius
+Vous devriez vraiment amener quelques chevaliers de l'Ordre avec vous la prochaine fois.
+Bavardage - Industrie du vin
+J'ai encore à faire pour l'Association, reposez-vous pendant que je m'en occupe.
+Bavardage - Préparation
+On devrait commencer par se préparer, puis attaquer contre l'ennemi en premier.
+Bavardage - Planification
+Prenons un moment pour nous reposer et planifier notre prochain mouvement.
+Bavardage - Rappel
+Chaque opération comporte sa part de risque. Il faut redoubler de prudence.
+Quand il pleut - Parapluie
+Je n'ai pas besoin de parapluie, mais faites ce que bon vous semble.
+Quand il pleut - Nettoyage
+Si seulement la pluie pouvait nettoyer les âmes corrompues de ce monde...
+Il fait bon dehors...
+Tant que l'on croit en ce que l'on fait, peu importe qu'il pleuve ou qu'il vente.
+Le vent souffle fort...
+Certains dissimulent leurs crimes grâce au bruit du vent.
+Au réveil...
+L'heure n'est pas au bavardage. Tout ce qui compte est que vous soyez hors de danger.
+À l'heure du déjeuner...
+Vous voulez jeter un œil à notre menu secret ?
+Le soir...
+La nuit vient de tomber.
+La nuit...
+Oui, à la prochaine. Je veillerai à ce que vous rentriez en toute sécurité.
+À propos de Diluc...
+La légende du Héros de la Nuit ? Intéressant.
+À propos de nous - Besoins
+Faites-moi savoir si vous avez besoin de quoi que ce soit. Pour les remboursements, il faudra s'adresser à Elzer.
+À propos de nous - Preuve
+Vous avez déjà prouvé votre détermination. Laissez-moi vous montrer la mienne.
+À propos de l'œil divin...
+L'œil divin est telle une lumière pour ceux qui ne distinguent pas le chemin. Mais pour ceux qui ont la foi, ce n'est rien de plus qu'une médaille à prendre ou à jeter.
+Quelque chose à partager ?
+Je sers à boire au Cadeau de l'Ange parfois. On en apprend des choses dans les tavernes...
+Détails intéressants...
+... C'est une chouette. Elle surveille sa proie depuis l'ombre de la nuit, attendant le moment idéal pour frapper... Une créature parfaite.
+À propos de Kaeya...
+Kaeya ? On ne peut jamais vraiment se fier à tout ce qui sort de sa bouche.
+À propos de Lisa...
+Lisa fait partie des chevaliers les plus fiables de l'Ordre de Favonius... quand elle le veut.
+À propos de Jean - Ennemi
+Ne pas savoir différencier le futile de l'essentiel est la plus grande faiblesse de Jean.
+À propos de Jean - Métier
+Le sens des responsabilités de Jean l'empêche de trouver sa véritable voie.
+À propos de Mona...
+Les terres de Mondstadt sont déjà bénies par l'Archon Anémo. Nul besoin d'une astromancienne pour prédire les récoltes.
+À propos de Diona...
+Diona se comporte de façon très froide avec moi... Je n'ai jamais vraiment eu l'occasion de lui parler. Elle pourrait avoir un problème avec ma famille ou... Ah, c'est l'alcool qu'elle déteste ? Je n'aurais jamais pensé qu'il existait une barmaid qui détestait l'alcool à Mondstadt...
+À propos de Varka...
+Le Grand Maître... Bien que je comprenne sa position, je ne pourrais jamais approuver ses actions... Ahem, j'en ai trop dit. J'ai quitté l'Ordre de Favonius depuis longtemps, cela ne me concerne plus.
+À propos d'Eula...
+J'en ai entendu parler. Une femme qui a ses propres convictions. Sa détermination à se libérer des chaînes de son clan est admirable. Mais... il a fallu qu'elle rejoigne les chevaliers de l'Ordre.
+Connaître Diluc (1)
+Qu'est-ce qui vous amène aujourd'hui ?
+Connaître Diluc (2)
+L'Ordre de Favonius ? Hmpf, je n'ai rien de bien à vous raconter à leur égard. Nous ne sommes pas sur la même longueur d'onde.
+Connaître Diluc (3)
+Je n'ai pas joué aux échecs contre un adversaire autre que mon majordome depuis très longtemps. Voudriez-vous faire une partie ? C'est une opportunité qui ne se représentera pas de sitôt.
+Connaître Diluc (4)
+Échec et mat. Peu nombreux sont ceux qui ont réussi à me mettre en difficulté de la sorte.
+Connaître Diluc (5)
+#Pas mal. Vous êtes toujours {M#plein}{F#pleine} de surprises, que ce soit aux échecs ou en combat. Ce genre de collaboration est assez nouveau pour moi, mais ce n'est pas pour me déplaire... Je compte désormais sur vous, {M#cher partenaire}{F#chère partenaire}.
+Les loisirs de Diluc...
+Les œuvres d'art du manoir ? Elles appartenaient à mon père. Il était un grand collectionneur d'art.
+Les problèmes de Diluc...
+Le mal qui habite les ténèbres, emplis de démons devant disparaître... Il faudra plus qu'un coup d'épée pour le trancher.
+Plats préférés...
+Ce qu'il y a dans mon verre ? Du simple jus de raisin, comme d'habitude.
+Plats détestés...
+Je ne bois pas de vin. Le goût de l'alcool ne m'est guère agréable, rien de plus.
+Cadeau reçu (1)
+C'est excellent. Je n'oublierai pas le goût de ce plat.
+Cadeau reçu (2)
+Je peux sentir vos efforts. C'est pas mal.
+Cadeau reçu (3)
+... Merci.
+Anniversaire...
+Joyeux anniversaire. Aujourd'hui est un jour rien qu'à vous. Dites-moi ce que vous désirez et j'y réfléchirai, si c'est en mon pouvoir.
+Affinité faible
+Il faut faire preuve de force pour atteindre son objectif.
+Affinité moyenne
+Que nous réserve le futur ? J'y pense peu. Car je dois continuer à avancer, quel que soit l'obstacle qui se dresse sur mon chemin.
+Affinité élevée
+Je deviens plus fort... Pas encore assez, mais je ferai face aux ténèbres. Le monde a besoin de ceux capables de percer l'obscurité de leur lumière.
+Affinité max
+Je croyais autrefois que combattre le mal était une tâche solitaire. Mais après vous avoir rencontré, j'ai compris que non. Merci.
+Compétence élémentaire (1)
+Hu !
+Compétence élémentaire (2)
+Ha !
+Compétence élémentaire (3)
+Haaaa !
+Compétence élémentaire (1)
+Ah.
+Compétence élémentaire (2)
+Ha.
+Compétence élémentaire (3)
+Ha !
+Déchaînement élémentaire (1)
+Ta sentence a été prononcée !
+Déchaînement élémentaire (2)
+Que les flammes dévorent tout !
+Déchaînement élémentaire (3)
+Accepte ton jugement !
+Déchaînement élémentaire (1)
+Flammes purgatrices !
+Déchaînement élémentaire (2)
+Que les flammes anéantissent tout !
+Déchaînement élémentaire (3)
+Que l'aube arrive !
+Ouverture de coffre (1)
+Hmph, j'imagine que c'est mieux que rien.
+Ouverture de coffre (2)
+Je suppose que cela fera l'affaire.
+Ouverture de coffre (3)
+Il nous en faudra davantage.
+PV faibles (1)
+C'est tout ce que vous avez ?
+PV faibles (2)
+Bon sang...
+PV faibles (3)
+Vous allez payer.
+Compagnon avec PV faibles (1)
+Attention !
+Compagnon avec PV faibles (2)
+Ne vous épuisez pas ! Reculez !
+K.O. (1)
+Le plan... a mal tourné...
+K.O. (2)
+Il n'y a pas d'excuses... pour la défaite...
+K.O. (3)
+Mes flammes ont été éteintes...
+Attaque puissante subie (1)
+Argh !
+Ajout dans l'équipe (1)
+Allons-y.
+Ajout dans l'équipe (2)
+Quel est le but de la mission ?
+Ajout dans l'équipe (3)
+Finissons-en rapidement.

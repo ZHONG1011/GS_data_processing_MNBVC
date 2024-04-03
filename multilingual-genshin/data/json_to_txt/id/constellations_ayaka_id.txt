@@ -1,0 +1,12 @@
+Snowswept Sakura
+Saat Normal atau Charged Attack Kamisato Ayaka mengakibatkan <color=#99FFFFFF>Cryo DMG</color> pada musuh, memiliki 50% kemungkinan untuk mengurangi 0,3 detik CD skill <color=#FFD780FF>Kamisato Art: Hyouka</color>. Efek ini dapat terpicu setiap 0,1 detik.
+Blizzard Blade Seki no To
+Melancarkan <color=#FFD780FF>Kamisato Art: Soumetsu</color> akan menciptakan 2 Frostflake Seki no To tambahan yang lebih kecil. Masing-masing akan mengakibatkan DMG sebesar 20% dari Frostflake Seki no To asli.
+Frostbloom Kamifubuki
+Meningkatkan 3 level <color=#FFD780FF>Kamisato Art: Soumetsu</color>. Maksimum: Lv. 15.
+Ebb and Flow
+Mengurangi 30% DEF musuh yang terkena serangan Frostflake Seki no To dari skill <color=#FFD780FF>Kamisato Art: Soumetsu</color> selama 6 detik.
+Blossom Cloud Irutsuki
+Meningkatkan 3 level <color=#FFD780FF>Kamisato Art: Hyouka</color> . Maksimum: Lv. 15.
+Dance of Suigetsu
+Setiap 10 detik, Kamisato Ayaka akan mendapatkan efek "Usurahi Butou" yang meningkatkan DMG Charged Attack Ayaka sebesar 298%. Efek Usurahi Butou ini akan hilang 0,5 detik setelah Charged Attack mengenai musuh dan perhitungan waktu akan diulang kembali.

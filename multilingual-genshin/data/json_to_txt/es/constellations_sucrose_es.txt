@@ -1,0 +1,12 @@
+Cúmulo de campo de vacío
+Aumenta en 1 las cargas de <color=#FFD780FF>Creación del espíritu del viento: Experimento 6308</color>.
+Bett: Forma no consolidada
+Aumenta en 2 s la duración de <color=#FFD780FF>Creación prohibida del espíritu del viento: Isomorfo 75 tipo II</color>.
+Alquimista infalible
+Aumenta el nivel de habilidad de <color=#FFD780FF>Creación del espíritu del viento: Experimento 6308</color> +3. Puede ser aumentado hasta Niv. 15.
+Alquemanía
+Por cada 7 veces consecutivas que Sacarosa golpee a un enemigo con sus Ataques Normales o Cargados, el TdE de <color=#FFD780FF>Creación del espíritu del viento: Experimento 6308</color> se reduce entre 1 y 7 s. Como máximo, cada golpe solo puede ocurrir una vez cada 0.1 s.
+Precaución: Frasco ordinario
+Aumenta el nivel de habilidad de <color=#FFD780FF>Creación prohibida del espíritu del viento: Isomorfo 75 tipo II</color> +3. Puede ser aumentado hasta Niv. 15.
+Entropía caótica
+Si <color=#FFD780FF>Creación prohibida del espíritu del viento: Isomorfo 75 tipo II</color> desencadena un cambio elemental, todos los miembros del equipo obtienen un 20% de Bono de Daño Elemental del elemento al que se cambió mientras dure la habilidad.

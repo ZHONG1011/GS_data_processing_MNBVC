@@ -1,0 +1,12 @@
+Favonius Bladework
+<color=#FFD780FF>Normal Attack</color> Melancarkan hingga 5 serangan berturut-turut.  <color=#FFD780FF>Charged Attack</color> Mengonsumsi sejumlah Stamina untuk melancarkan serangan yang menghempas musuh ke udara dengan kekuatan angin. Musuh yang terhempas akan terjatuh perlahan untuk sementara waktu.  <color=#FFD780FF>Plunging Attack</color> Menerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.
+Gale Blade
+Jean mengerahkan badai kecil dengan memusatkan kekuatan angin di bilah pedangnya untuk menghempas musuh ke arah yang dia tunjuk. Mengakibatkan <color=#80FFD7FF>Anemo DMG</color> yang besar.  <color=#FFD780FF>Tahan</color> Dengan terus mengonsumsi Stamina, Jean dapat mengarahkan badai tersebut, yang menarik musuh dan obyek di sekitar ke depannya. Arahnya dapat disesuaikan. Karakter tidak dapat bergerak selama durasi skill.  <i>Yang mengikuti Jean, pelindung berhati emas, adalah angin penjaga yang bisa menghalau bahaya dari rekan-rekannya.</i>
+Dandelion Breeze
+Dengan memanggil perlindungan dari angin, Jean dapat menciptakan Dandelion Field yang menghempas musuh di sekitar dan mengakibatkan <color=#80FFD7FF>Anemo DMG</color>. Di saat yang sama, sejumlah besar HP untuk semua anggota party akan pulih secara langsung. Jumlah HP yang dipulihkan bergantung dari ATK Jean.  <color=#FFD780FF>Dandelion Field</color> ·Memulihkan HP karakter yang berada di dalam lingkup area secara berkelanjutan. ·Memengaruhi musuh yang berada di dalam lingkup area dengan elemen <color=#80FFD7FF>Anemo</color> secara berkelanjutan. ·Mengakibatkan <color=#80FFD7FF>Anemo DMG</color> kepada musuh yang memasuki atau keluar dari Dandelion Field.  <i>Berkat Anemo bagaikan dandelion yang terbang ke seluruh pelosok dunia. Inilah fondasi prinsip dan pendirian Jean.</i>
+Wind Companion
+Saat Normal Attack Jean mengenai musuh, memiliki 50% kemungkinan untuk memulihkan HP seluruh anggota party sebesar 15% ATK Jean.
+Let the Wind Lead
+Menggunakan <color=#FFD780FF>Dandelion Breeze</color> akan memulihkan 20% Energy.
+Guiding Breeze
+Saat masakan jenis pemulihan dimasak dengan sempurna, memiliki 12% kemungkinan mendapatkan hasil 2 kali lipat.

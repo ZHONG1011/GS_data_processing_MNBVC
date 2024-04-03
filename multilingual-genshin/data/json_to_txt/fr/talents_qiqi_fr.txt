@@ -1,0 +1,12 @@
+Attaque normale : Escrime ancienne des nuages
+<color=#FFD780FF>Attaque normale</color> Enchaîne jusqu'à 5 coups d'épée.  <color=#FFD780FF>Attaque chargée</color> Consomme de l'endurance pour déclencher deux coups d'épée rapides.  <color=#FFD780FF>Attaque plongeante</color> Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.
+Arcane d'Adepte : Héraut de givre
+Utilise un talisman infusé de glace et de sang pour invoquer un Héraut de givre, infligeant des <color=#99FFFFFF>DGT Cryo</color> aux ennemis à proximité.  <color=#FFD780FF>Héraut de givre</color> · Les attaques normales et chargées de Qiqi restaurent les PV de vos personnages ainsi que des alliés proches lorsqu'elles touchent. La quantité de PV restaurée est proportionnelle à l'ATQ de Qiqi. · Régénère les PV du personnage déployé à intervalles réguliers. · Le héraut suit le personnage déployé et inflige des <color=#99FFFFFF>DGT Cryo</color> aux ennemis sur sa route.  <i>« Je l'utilise pour empêcher le réchauffement et la pourriture... des précieux ingrédients de monsieur Baizhu, bien sûr. »</i>
+Arcane d'Adepte : Talisman sacré
+Qiqi libère le pouvoir d'Adepte scellé en elle et marque les ennemis d'un talisman qui leur inflige des <color=#99FFFFFF>DGT Cryo</color>.  <color=#FFD780FF>Talisman</color> Les personnages récupèrent des PV équivalant aux DGT subis par les ennemis marqués.  <i>« Je suis l'envoyée de la Providence, le symbole de la renaissance. »</i> <i>— Qiqi est bien incapable de se rappeler de ces mots.</i>
+Survie en milieu hostile
+Lorsqu'un personnage sous l'effet d'<color=#FFD780FF>Arcane d'Adepte : Héraut de givre</color> déclenche une réaction élémentaire, il gagne un bonus de soins reçus de 20 % pendant 8 s.
+Ouverture des arcanes
+Les attaques normales et chargées de Qiqi ont 50 % de chances de marquer l'ennemi touché d'un talisman pendant 6 s. Cet effet peut être déclenché une fois toutes les 30 s.
+Souvenir d'une vie lointaine
+Affiche l'emplacement des <color=#FFD780FF>produits de Liyue</color> sur la mini-carte.

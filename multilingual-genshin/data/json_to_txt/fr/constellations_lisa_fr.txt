@@ -1,0 +1,12 @@
+Circuit infini
+Lisa regagne 2 pts d'énergie par ennemi touché tant qu'<color=#FFD780FF>Arc fulminant</color> reste activé. Un maximum de 10 pts d'énergie élémentaire peut être restauré à chaque utilisation de cette manière.
+Champ électromagnétique
+<color=#FFD780FF>Arc fulminant</color> confère les effets suivants tant qu'il reste activé : · DÉF augmentée de 25 %. · Augmente la RÉS à l'interruption de Lisa.
+Tonnerre résonant
+Niveau d'aptitude <color=#FFD780FF>Rose de foudre</color> +3. Niveau max : 15
+Éruption de plasma
+<color=#FFD780FF>Rose de foudre</color> libère 1 à 3 décharges supplémentaires.
+Électrification
+Niveau d'aptitude <color=#FFD780FF>Arc fulminant</color> +3. Niveau max : 15
+Sorcière de pulse
+Lisa inflige 3 cumuls de l'effet Conductivité d'<color=#FFD780FF>Arc fulminant</color> aux ennemis proches lorsqu'elle est déployée au combat. cet effet peut être déclenché une fois toutes les 5 s.

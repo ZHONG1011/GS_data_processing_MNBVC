@@ -1,0 +1,12 @@
+Returning Heiress of the Scarlet Sands
+Durasi Prayer of the Crimson Crown yang terpicu oleh skill <color=#FFD780FF>Sacred Rite: Wagtail's Tide</color> bertambah 3 detik.
+Moon-Piercing Brilliance
+Saat <color=#FFD780FF>Sacred Rite: Heron's Sanctum</color> mengenai musuh, akan meningkatkan 20% Max HP Candace selama 15 detik.
+Hunter's Supplication
+Meningkatkan 3 level <color=#FFD780FF>Sacred Rite: Wagtail's Tide</color>. Maksimum: Lv. 15.
+Sentinel Oath
+Mengurangi CD Mode Tahan <color=#FFD780FF>Sacred Rite: Heron's Sanctum</color>, menjadikannya sama dengan CD Mode Tekan.
+Heterochromatic Gaze
+Meningkatkan 3 level <color=#FFD780FF>Sacred Rite: Heron's Sanctum</color>. Maksimum: Lv. 15.
+The Overflow
+Saat Karakter (kecuali Candace sendiri) yang terpengaruh efek Prayer of the Crimson Crown yang disebabkan oleh <color=#FFD780FF>Sacred Rite: Wagtail's Tide</color> mengakibatkan Elemental DMG terhadap musuh dengan menggunakan Normal Attack, sebuah serangan gelombang yang mengakibatkan <color=#80C0FFFF>Hydro DMG Area</color> yang setara dengan 15% Max HP Candace akan dilancarkan. Efek ini dapat terpicu setiap 2,3 detik, dan DMG yang diakibatkan akan dianggap sebagai DMG Elemental Burst.

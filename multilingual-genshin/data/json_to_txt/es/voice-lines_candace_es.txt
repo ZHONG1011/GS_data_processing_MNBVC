@@ -1,0 +1,138 @@
+Hola...
+#Saludos, viajer{F#a}{M#o} de tierras lejanas. Las noches en el desierto son crueles. Pero puedes dormir tranquil{F#a}{M#o} sabiendo que velaré por ti.
+Charla - Lanza y escudo
+Un escudo no basta para proteger lo que más quieres. Es por eso que llevo una lanza conmigo.
+Charla - Vida
+Todos deben disfrutar de paz y salud. Si puedo garantizar una vida así para los demás, me doy por satisfecha.
+Charla - Anhelos
+Siempre trataré de proteger lo más preciado para mí, cueste lo que cueste... incluso si es inútil.
+Cuando llueve...
+Abrígate bien, o pescarás un resfriado.
+Cuando truena...
+El trueno ruge... ¿Qué pasa? ¿Te da miedo?
+Cuando nieva...
+Qué polvo tan extraño... Parece arena, pero es blanco como las nubes y frío como el hielo...
+Hace mucho viento...
+En el desierto, un vendaval así crearía una tormenta de arena, así que no está de más mantenerse alerta.
+En el desierto...
+#Estoy a tu lado. Si te sientes nervios{F#a}{M#o}, tómame de la mano.
+Buenos días...
+#Buenos días, viajer{F#a}{M#o}. ¿Dormiste bien anoche?
+Buenas tardes...
+Ya es mediodía. La mirada del ojo dorado celeste es ardiente a esta hora. Jeje, deberías buscar un lugar con sombra y resguardarte de su ira.
+Buenas noches... (I)
+El cielo nocturno, ese gran dosel que desciende cuando la luz del día se desvanece... Quién sabe cuántos secretos resguarda.
+Buenas noches... (II)
+Es hora de descansar. Deberías dormir. ¿Yo? Aún es temprano para mí. La noche es bellísima, pero está llena de peligros. Por tu bien, debo mantenerme alerta.
+Sobre Candace - Color de ojos
+¿Extraño? ¿Qué tiene de extraño? Ámbar y azul son dos colores muy comunes... O eso creo.
+Sobre Candace - La Aldea Aaru
+Nací y crecí en la Aldea Aaru. A pesar de que era muy pequeña como para entender los asuntos de este mundo, sabía que un día tomaría el lugar de mi abuelo y asumiría la protección de la aldea. Ahora estoy agradecida de tener este cargo. Nací para esto.
+Sobre Candace - Padres
+Mi padre fue un erudito de la Academia. Vino a la Aldea Aaru por un viaje de investigación, y aquí conoció a mi madre. Desafortunadamente, lo único que sé de ella es por las anécdotas de mi padre. El día en que nací, ella emprendió su viaje a la noche eterna...
+#Sobre nosotr{F#as}{M#os} - Recibir invitados
+#Siempre serás {F#una invitada}{M#un invitado} de honor en la Aldea Aaru. Si llegas a cansarte de tus viajes, quiero que sepas que aquí siempre encontrarás donde descansar. La Aldea Aaru te recibe con los brazos abiertos, al igual que yo.
+#Sobre nosotr{F#as}{M#os} - Un tesoro en el cofre
+Dicen que el corazón de cada persona es como un cofre en el que se depositan las cosas que más atesoras para poder resguardarlas por y para siempre. Mi corazón alberga muchos tesoros... ¿A que no adivinas cuáles son?
+Sobre la Visión...
+Cuando recibí la Visión, la gente de la aldea insistía en que era una bendición de al-Ahmar, pero no le presto mucha importancia. Juré proteger la aldea, y eso es lo que haré, con o sin Visión.
+¿Algo que decir?
+Me encanta pasar tiempo en la Aldea Aaru, pero cada día que paso es un recordatorio de que, si algún día bajo la guardia y ocurre una desgracia, nunca más volveré a tener esta vida.
+Una noticia interesante...
+¿Has encontrado dátiles en tus viajes? Son muy dulces, por lo que los aldeanos los usan para toda clase de caramelos deliciosos. Si te interesa, deberías probarlos.
+Sobre la Reina Menor Kusanali...
+El hecho de que yo, una descendiente de al-Ahmar, pueda vivir en paz y tranquilidad en estas tierras, es la prueba patente de la benevolencia de la Arconte Dendro. Pero a pesar de estar agradecida con ella, siempre seré una hija del desierto.
+Sobre Laila...
+DATA NOT FOUND
+Sobre Alhacén...
+Es un erudito muy peculiar. No he visto a nadie que se le parezca. Tiene una forma de ver las cosas y de pensar únicas. Solo espero que nunca utilice su astucia en contra de la Aldea Aaru.
+Sobre Cyno...
+Antes, era inusual ver al Gran Juez de la Academia de este lado del Muro de Samiel, pero recientemente ha estado apareciendo con mucha frecuencia. Creo que Los Eremitas tienen muchas historias aterradoras que contar acerca de él.
+Sobre Dehya...
+Siempre que Dehya viene a la Aldea Aaru con compañeros Eremitas, hace lo posible por que mantengan sus modales. Debo admitir que eso me facilita mucho las cosas. Ah, Dehya... A primera vista parece una tipa problemática, pero es realmente adorable.
+Más sobre Candace (I)
+¿Quieres saber más acerca de mí? No es una gran historia, pero ya que insistes... De acuerdo, esperemos a que anochezca. Podemos sentarnos frente a la fogata, y te contaré todo lo que quieras.
+Más sobre Candace (II)
+Somos un pueblo sin el amparo de su dios. No son las mentiras lo que nos atemorizan, sino la posibilidad de no tener un mañana. El camino que se postra ante nosotros está lleno de espinas. Cada paso que damos duele. Sí, avanzamos aferrándonos a una mentira, pero tal vez... Tal vez hay más mérito en eso que en aferrarse a la verdad y morir en ello.
+Más sobre Candace (III)
+Incluso hoy en día hay quienes se aferran a la creencia de que Deshret, el Rey Escarlata, volverá a la vida. Pero eso es imposible. El pasado no es más que un puñado de arena disperso en los cuatro vientos. Lo mejor que podemos hacer es dejar que el viento lleve esos granos a su último lecho.
+Más sobre Candace (IV)
+¿Mi escudo? De acuerdo a los forasteros, tiene la bendición de Bennu. Dicen que, al portar este escudo, los granos de arena se convierten en mis ojos y mis oídos, y el desierto actúa según mi voluntad. Los forasteros sí que echan a volar su imaginación. En fin, lo que importa es que funciona de maravilla.
+Más sobre Candace (V)
+Me encantaría leer tu futuro con mi ojo ámbar si pudiera... Algo me dice que está cubierto de oro de un color similar al de los rayos del sol o la miel. Un color auspicioso. Te espera un viaje sin contratiempos. Tienes mi bendición.
+Aficiones de Candace...
+Me encanta ir de paseo por la aldea. Ver que todo está bien me da la sensación de que, si hoy fuera como ayer, y ayer fuera como anteayer, la vida siempre ha sido buena aquí.
+Preocupaciones de Candace...
+De vez en cuando, algunos bandidos cometen el error de intentar irrumpir la paz y tranquilidad de la Aldea Aaru. Me pregunto si ahuyentarlos hasta un valle repleto de monstruos es muy bondadoso. ¿Qué piensas? ¿Tienes mejores ideas?
+Comida que más le gusta...
+Cuando se trata de comida, me importa más la cantidad que su sabor. La vida en el desierto requiere de más energía de la que crees. Después de un buen día de trabajo, no hay nada más satisfactorio que comer hasta reventar.
+Comida que menos le gusta...
+No es que me desagrade, pero comer pescado es un verdadero dolor de cabeza. Quizás es porque en el desierto no comemos pescado muy a menudo. En fin, sea la razón que sea, no soy buena para quitarles las espinas. Debe parecerte ridículo.
+Al recibir un regalo (I)
+¡Está delicioso! Debió tomarte mucho tiempo y dedicación.
+Al recibir un regalo (II)
+Para alguien que pasa mucho tiempo en el campo, tu comida tiene un sabor... casero.
+Al recibir un regalo (III)
+Quizás mi definición de “comida” es muy conservadora...
+Cumpleaños...
+¡Feliz cumpleaños! ¿No es increíble que nacieras este día, muchos años atrás? ¿Tienes algún deseo de cumpleaños? Si quieres ir a algún lugar lleno de peligro, cuenta conmigo, yo cuidaré de ti. O si buscas algún lugar en donde descansar y recuperar energías, ven a la Aldea Aaru y te prepararé la mejor comida y bebida que tenemos.
+El sentimiento de Ascensión - Introducción
+Siento una nueva fuerza en mí. Espero que me ayude a ser una mejor protectora.
+El sentimiento de Ascensión - Desarrollo
+Mi escudo se fortalece y mi lanza se vuelve más afilada. Una fuerza imparable y un objeto inamovible... No, nunca pondría uno en contra del otro.
+El sentimiento de Ascensión - Nudo
+Aprendí a empuñar la lanza y el escudo sabiendo que un día lo necesitaría. Hoy en día uso mi habilidad para proteger a la aldea. Es por eso que esta nueva fuerza es un obsequio para prepararme ante los nuevos desafíos que se avecinan.
+El sentimiento de Ascensión - Desenlace
+Ahora puedo ir delante de ti para protegerte de los peligros que se atraviesen. Si confías en mí, cierra los ojos y deja que yo me haga cargo de los enemigos.
+Habilidad Elemental (I)
+¡Ríndete!
+Habilidad Elemental (II)
+¡Atrás!
+Habilidad Elemental (III)
+¡Ven si te atreves!
+Habilidad Elemental (IV)
+¡Sométanlos!
+Habilidad Elemental (V)
+¡Eso no es nada!
+Habilidad Elemental (VI)
+¡Un hueco en la defensa!
+Habilidad Definitiva (I)
+¡Escucha mi plegaria!
+Habilidad Definitiva (II)
+¡Bendícenos!
+Habilidad Definitiva (III)
+¡Venceremos!
+Al abrir un cofre (I)
+Esto puede servirnos.
+Al abrir un cofre (II)
+¿Y bien? ¿Algo que llame tu atención?
+Al abrir un cofre (III)
+Espero que te sean de utilidad.
+Vida baja (I)
+No más piedad.
+Vida baja (II)
+¿Sigues sin arrepentirte?
+Vida baja (III)
+Váyanse... Ahora...
+Aliado con vida baja (I)
+Descansa...
+Aliado con vida baja (II)
+¡Ponte detrás de mí!
+Derrotada (I)
+Debo entrenar... más duro...
+Derrotada (II)
+Lo siento, no pude protegerte...
+Derrotada (III)
+El escudo, se ha roto...
+Recibiendo un ligero ataque (I)
+No es nada.
+Recibiendo un fuerte ataque (I)
+Impresionante.
+Recibiendo un fuerte ataque (II)
+No es más que un rasguño.
+Unirse al equipo (I)
+¿Qué pasa? ¿Estás en peligro?
+Unirse al equipo (II)
+Mantente cerca de mí.
+Unirse al equipo (III)
+Prometo protegerte.

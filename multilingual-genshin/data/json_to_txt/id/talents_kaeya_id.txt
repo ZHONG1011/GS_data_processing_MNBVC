@@ -1,0 +1,12 @@
+Ceremonial Bladework
+<color=#FFD780FF>Normal Attack</color> Melancarkan hingga 5 serangan berturut-turut.  <color=#FFD780FF>Charged Attack</color> Mengonsumsi sejumlah Stamina untuk melancarkan dua tebasan pedang.  <color=#FFD780FF>Plunging Attack</color> Menerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.
+Frostgnaw
+Mengerahkan sebuah ledakan dingin yang mengakibatkan <color=#99FFFFFF>Cryo DMG</color> ke musuh di depan Kaeya.  <i>Kaeya tampaknya ramah, tapi sifatnya seperti es tak dapat dicairkan.</i>
+Glacial Waltz
+Dengan menggabungkan es di udara, Kaeya membuat 3 pilar es di sekitar dia. Pilar-pilar ini akan mengikuti karakter dan mengakibatkan <color=#99FFFFFF>Cryo DMG</color> ke musuh di jalurnya.  <i>Senyum yang menawan, kata-kata ramah, dan embun beku tanpa ampun yang berada di balik itu semua... ini semua adalah senjata Kaeya.</i>
+Cold-Blooded Strike
+Setiap kali skill <color=#FFD780FF>Frostgnaw</color> mengenai satu musuh, memulihkan HP Kaeya sebesar 15% ATK.
+Glacial Heart
+Musuh yang terkena efek <color=#99FFFFFF>Frozen</color> dari skill <color=#FFD780FF>Frostgnaw</color> akan menjatuhkan Elemental Particle tambahan. Maksimum menjatuhkan 2 Elemental Particle tambahan setiap kalinya.
+Hidden Strength
+Mengurangi 20% konsumsi Stamina Karakter sendiri saat berlari. Efek tidak dapat ditumpuk dengan Talenta Pasif lain yang memiliki efek yang sama.

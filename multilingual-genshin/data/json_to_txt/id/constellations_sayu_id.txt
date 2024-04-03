@@ -1,0 +1,12 @@
+Multi-Task no Jutsu
+Muji-Muji Daruma yang diciptakan oleh <color=#FFD780FF>Yoohoo Art: Mujina Flurry</color> akan mengabaikan batas HP dan bisa menyerang musuh terdekat serta memulihkan HP Karakter secara bersamaan.
+Egress Prep
+<color=#FFD780FF>Yoohoo Art: Fuuin Dash</color> mendapatkan efek berikut: ·DMG dari Mode Tekan Fuufuu Whirlwind Kick meningkat 3,3%. ·Saat Mode Tahan dikerahkan, dan berada dalam status FuuFuu Windwheel, DMG dari Fuufuu Whirlwind Kick kali tersebut meningkat 3,3% setiap 0,5 detik. DMG tambahan maksimum yang bisa didapat dari metode ini adalah 66%.
+Eh, the Bunshin Can Handle It
+Meningkatkan 3 level <color=#FFD780FF>Yoohoo Art: Mujina Flurry</color>. Maksimum: Lv. 15.
+Skiving: New and Improved
+Setiap kali Sayu memicu reaksi Swirl, 1,2 Energy terpulihkan. Dapat terpicu setiap 2 detik.
+Speed Comes First
+Meningkatkan 3 level <color=#FFD780FF>Yoohoo Art: Fuuin Dash</color>. Maksimum: Lv. 15.
+Sleep O'Clock
+ATK dan Pemulihan HP dari Muji-Muji Daruma yang diciptakan dengan <color=#FFD780FF>Yoohoo Art: Mujina Flurry</color> milik Sayu juga akan bertambah sesuai Elemental Mastery Sayu. Setiap poin Elemental Mastery yang dimiliki Sayu akan memberikan efek berikut: ·Muji-Muji Daruma mengakibatkan DMG tambahan sebesar 0,2% ATK. DMG tambahan maksimum yang dapat diperoleh dari metode ini adalah 400% ATK. ·Meningkatkan jumlah HP yang dipulihkan oleh Muji-Muji Daruma sebanyak 3 HP. Efek pemulihan tambahan yang dapat diperoleh dari metode ini adalah 6.000 HP.

@@ -1,0 +1,13 @@
+Catalizador de Ámbar
+Un catalizador mágico tallado en ámbar con un radiante brillo al reflejar los rayos del sol.
+ Si bien el ámbar no es un mineral, es brillante y sólido, y tiene una calidez de la que carecen las gemas. Su aura color miel y su suavidad al tacto son muy reconfortantes. Se dice que el Catalizador de Ámbar fue la primera gema que el Rey Geo otorgó a los habitantes de Liyue. Parece como si este sencillo objeto conservara la calidez del Arconte Geo. 
+Maestría Elemental
+Al atacar con un Ataque Normal, aumenta todo el Daño Elemental en un <color=#99FFFFFF>6%</color> durante 6 s. Puede acumularse hasta un máximo de 2 veces.
+Maestría Elemental
+Al atacar con un Ataque Normal, aumenta todo el Daño Elemental en un <color=#99FFFFFF>7.5%</color> durante 6 s. Puede acumularse hasta un máximo de 2 veces.
+Maestría Elemental
+Al atacar con un Ataque Normal, aumenta todo el Daño Elemental en un <color=#99FFFFFF>9%</color> durante 6 s. Puede acumularse hasta un máximo de 2 veces.
+Maestría Elemental
+Al atacar con un Ataque Normal, aumenta todo el Daño Elemental en un <color=#99FFFFFF>10.5%</color> durante 6 s. Puede acumularse hasta un máximo de 2 veces.
+Maestría Elemental
+Al atacar con un Ataque Normal, aumenta todo el Daño Elemental en un <color=#99FFFFFF>12%</color> durante 6 s. Puede acumularse hasta un máximo de 2 veces.

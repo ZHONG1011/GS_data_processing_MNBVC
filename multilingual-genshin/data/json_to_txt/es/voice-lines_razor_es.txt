@@ -1,0 +1,132 @@
+Hola...
+Tú... oler bien. ¡Nosotros cazar juntos!
+Charla - Olor
+Humm... Oler a conejo.
+Charla - Hambre
+¿Vamos? Tener hambre.
+Charla - Contemplación de tormentas
+Yo vigilar. Si tú irte, avísame.
+Cuando truena - Aviso
+Si tener miedo, escóndete.
+Cuando truena - Guía
+Cuidado con árboles. ¡Sígueme!
+Cuando hace viento...
+Viento... Humm... Qué gusto.
+Hace mucho viento...
+Mucho viento... Duele.
+Buenos días...
+Sol salió. ¿Quieres cazar?
+Buenas tardes...
+Hoy comer mucho. ¡Me gusta carne! ¡Qué feliz!
+Buenas noches... (I)
+Tú dormir, yo mirar la luna.
+Buenas noches... (II)
+Tú dormir, yo vigilar. Mañana nosotros cazar.
+Sobre Razor...
+Soy un lobo. No tengo papá humano o mamá humana.
+Sobre nosotros - Amigos
+#Tú ser mi amig{F#a}{M#o}. Yo cazar contigo.
+Sobre nosotros - Armas
+Mis garras ser de hierro y mis colmillos, de trueno. Yo te protejo.
+Sobre la Visión...
+Visión me ayuda y me da colmillos de trueno para proteger lupical.
+¿Algo que decir?
+Estrellas muy hermosas por la noche. Se ven en cielo y lagos, y también en ciudad.
+Una noticia interesante...
+Los lobos ser mi lupical, mi familia.
+Sobre Lisa...
+Sus rayos hacen oscuro el cielo. Es fuerte, pero dar miedo.
+Sobre Bárbara...
+Bárbara ser buena chica. Muy buena.
+Sobre Diluc...
+Diluc ser rojo y negro, frío y caliente.
+Sobre Venti...
+No entiendo poemas, pero a lupical le gusta.
+Sobre Bennett...
+Bennett... hablar mucho. Cuando comer con él, nunca me lleno.
+Sobre Klee...
+¡Klee, mi amiga! Ella mi amiga, pero meterse mucho en líos.
+Sobre Varka - Desconocido
+¿Varka? ¿Qué es?
+Sobre Varka - Recuerdos
+Ah, Varka es... nombre. Ese hombre alto me da mi nombre y “garra de hierro”. Quiero verlo.
+Más sobre Razor (I)
+Hueles a... persona buena. ¿Te gusta carne?
+Más sobre Razor (II)
+Tú muy fuerte, como lobos. Me gusta cazar con tú. Cazamos mucho.
+Más sobre Razor (III)
+Lupical es “casa de los lobos”. No, es “familia de lobos”. Mi lupical está en bosque. Ellos protegerme, por eso yo ser su lupical.
+Más sobre Razor (IV)
+Lupical, mi única familia. Yo ser lupical, pero no tengo cuatro patas. No soy lobo de verdad. Por eso, a veces yo triste.
+Más sobre Razor (V)
+#Yo muy contento cuando correr y cazar con tú. No soy lobo, no soy humano, soy yo.  Tú mi amig{F#a}{M#o}, tú también mi lupical. Quiero que tú feliz, ¿sí?
+Aficiones de Razor...
+#Me gusta lupical. Me gusta bosque. Me gusta mi amig{F#a}{M#o}. Me gusta correr.
+Preocupaciones de Razor...
+Hablar es cansado y difícil, pero hablar es necesario.
+Comida que más le gusta...
+Me gusta carne y papas.
+Comida que menos le gusta...
+Verdura sabe mal. Yo comer animal que come verdura.
+Al recibir un regalo (I)
+Oler bien y saber bien. Me gusta.
+Al recibir un regalo (II)
+Comerlo darme fuerzas y estar feliz.
+Al recibir un regalo (III)
+Comer, no bueno. No comer, no bueno. Razor triste...
+Cumpleaños...
+Hoy ser tu... día que naciste hace muchos, muchos meses. Hoy yo hacerte feliz. ¿Comemos carne?
+El sentimiento de Ascensión - Introducción
+Mis brazos... más grandes ahora.
+El sentimiento de Ascensión - Desarrollo
+Garras y colmillos más afilados. ¡Yo más fuerte!
+El sentimiento de Ascensión - Nudo
+Correr... Cazar... ¡No! ¡Yo quiero más fuerte!
+El sentimiento de Ascensión - Desenlace
+Colmillos, garras y piernas más fuertes ahora. ¡Yo protejo a ti!
+Habilidad Elemental (I)
+¡Atrás!
+Habilidad Elemental (II)
+¡Ah!
+Habilidad Elemental (III)
+¡Ji... Ah!
+Habilidad Elemental (IV)
+¡No acercar!
+Habilidad Definitiva (I)
+¡Grrrr!
+Habilidad Definitiva (II)
+¡Auuuuu!
+Habilidad Definitiva (III)
+*Ruge*
+Habilidad Definitiva (IV)
+¡Grrr!
+Al abrir un cofre (I)
+¿Estas cosas... útiles?
+Al abrir un cofre (II)
+Cofre vacío... bueno para guardar cosas.
+Al abrir un cofre (III)
+Olor de tesoro... extraño.
+Vida baja (I)
+¡Ah!
+Vida baja (II)
+¡Auuu!
+Vida baja (III)
+¡Yo matar a ti!
+Aliado con vida baja (I)
+¡No!
+Aliado con vida baja (II)
+¡Tú, despertar!
+Derrotado (I)
+No poder... respirar...
+Derrotado (II)
+Llevarme... de aquí...
+Derrotado (III)
+Lupical... mi lupical...
+Recibiendo un fuerte ataque (I)
+Saborear sangre.
+Unirse al equipo (I)
+Yo explorar primero.
+Unirse al equipo (II)
+¡Ir de caza!
+Unirse al equipo (III)
+Yo proteger a ti.

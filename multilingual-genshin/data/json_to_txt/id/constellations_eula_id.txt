@@ -1,0 +1,12 @@
+Tidal Illusion
+Setiap kali lapisan Grimheart dari <color=#FFD780FF>Icetide Vortex</color> dikonsumsi, Physical DMG Eula akan meningkat 30% selama 6 detik. Setiap lapis yang terkonsumsi akan meningkatkan durasi efek ini sebanyak 6 detik, hingga maksimum 18 detik.
+Lady of Seafoam
+Mengurangi CD dari Mode Tahan <color=#FFD780FF>Icetide Vortex</color>, membuatnya sama dengan CD Mode Tekan.
+Lawrence Pedigree
+Meningkatkan 3 level <color=#FFD780FF>Glacial Illumination</color>. Maksimum: Lv. 15.
+The Obstinacy of One's Inferiors
+Meningkatkan 25% DMG Lightfall Sword terhadap musuh dengan HP kurang dari 50%.
+Chivalric Quality
+Meningkatkan 3 level <color=#FFD780FF>Icetide Vortex</color>. Maksimum: Lv. 15.
+Noble Obligation
+Lightfall Sword yang tercipta dari <color=#FFD780FF>Glacial Illumination</color> langsung memperoleh 5 lapis energi. Saat DMG yang diakibatkan Normal Attack, Elemental Skill, dan Elemental Burst mengakumulasi lapisan energi, Lightfall Sword memiliki 50% kemungkinan untuk memperoleh 1 lapis energi tambahan.

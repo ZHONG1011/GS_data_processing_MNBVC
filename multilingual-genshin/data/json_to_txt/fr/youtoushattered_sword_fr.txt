@@ -1,0 +1,4 @@
+Chef d'œuvre Isshin
+Cette lame maudite aguerrie affiche sa véritable forme. Pourtant, tout talent inné qu'elle aurait pu posséder a été réduit en poussières au cours de son périple.
+Épéiste errant
+Lorsqu'une attaque normale, chargée ou plongeante touche un ennemi, elle libère un esprit maudit, infligeant des DGT de zone équivalant à 180 % de l'ATQ. Cet effet peut être déclenché une fois toutes les 8 s. Les DGT infligés par le personnage équipé de l'arme sont réduits de 50 %.

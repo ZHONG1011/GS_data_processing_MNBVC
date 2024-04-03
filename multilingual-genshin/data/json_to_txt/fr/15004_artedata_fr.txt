@@ -1,0 +1,18 @@
+Neige et glace
+Confère un bonus de DGT Cryo de 15 %.
+Augmente les DGT infligés par Supraconduction de 100 % et ceux de Fonte de 15 %. Le déchaînement élémentaire augmente le bonus de DGT Cryo de 30 % pendant 10 s.
+Cœur givreux de l'hiver
+Une fleur de glace qui a gelé dans le temps lorsqu'elle a été cueillie. Elle était portée comme un rappel par son ancien propriétaire.
+ 
+Plume de neige
+Une plume d'oiseau trouvée dans la neige par le chevalier qui marcha avec le vent du nord. Elle attend toujours le dégel.
+ 
+Sable glacé
+Un sablier ayant servi autrefois à celui qui marcha avec le vent du nord. Une tempête de neige s'y déchaîne sans fin.
+
+Coupe aquilon
+Une coupe d'éonothème ayant appartenu au chevalier qui voyagea avec le vent du nord. On y ressent encore la prise glacée de l'hiver.
+
+Diadème de glacier
+Un diadème porté autrefois par le chevalier qui marcha avec le vent du nord. Glace éternelle et argent en sont les principaux composants.
+

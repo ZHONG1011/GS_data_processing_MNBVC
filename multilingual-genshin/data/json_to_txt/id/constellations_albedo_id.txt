@@ -1,0 +1,12 @@
+Flower of Eden
+Transient Blossom yang muncul dari skill <color=#FFD780FF>Abiogenesis: Solar Isotoma</color> akan memulihkan 1,2 Energy Albedo.
+Opening of Phanerozoic
+Transient Blossom yang dihasilkan oleh <color=#FFD780FF>Abiogenesis: Solar Isotoma</color> memberikan Albedo Fatal Reckoning selama 30 detik: ·Melancarkan skill <color=#FFD780FF>Rite of Progeniture: Tectonic Tide</color> akan mengonsumsi seluruh lapisan Fatal Reckoning, meningkatkan DMG yang diakibatkan oleh Tectonic Tide dan Fatal Blossom berdasarkan jumlah lapisan yang dikonsumsi. ·Setiap lapis Fatal Reckoning akan meningkatkan DMG sebesar 30% DEF Albedo. Efek ini dapat ditumpuk hingga 4 kali.
+Grace of Helios
+Meningkatkan 3 level <color=#FFD780FF>Abiogenesis: Solar Isotoma</color>. Maksimum: Lv. 15.
+Descent of Divinity
+Solar Isotoma meningkatkan 30% DMG Plunging Attack untuk Karakter yang berada di dalam area Solar Isotoma.
+Tide of Hadean
+Meningkatkan 3 level <color=#FFD780FF>Rite of Progeniture: Tectonic Tide</color>. Maksimum: Lv. 15.
+Dust of Purification
+Solar Isotoma akan meningkatkan 17% DMG Karakter aktif yang berada dalam lingkup areanya dan dilindungi oleh perisai yang terbuat dari Crystallize.

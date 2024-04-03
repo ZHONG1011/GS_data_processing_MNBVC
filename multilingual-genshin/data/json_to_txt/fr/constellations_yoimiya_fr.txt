@@ -1,0 +1,12 @@
+Agate Ryuukin
+Prolonge la durée de la Flamme Ryuukin générée par <color=#FFD780FF>Saxifrage Ryuukin</color> de 4 s. De plus, lorsqu'un ennemi affecté par Flamme Ryuukin est vaincu pendant la durée de l'effet, l'ATQ de Yoimiya augmente de 20 % pendant 20 s.
+Procession de feux de joie
+Lorsque les <color=#FF9999FF>DGT Pyro</color> infligés par Yoimiya résultent en un coup CRIT, cette dernière obtient pendant 6 s un <color=#FF9999FF>bonus de DGT Pyro</color> de 25 %. Cet effet s'applique également lorsque Yoimiya fait partie de l'équipe mais n'est pas déployée.
+Flammes ingénieuses
+Niveau d'aptitude <color=#FFD780FF>Danse du feu « Niwabi »</color> +3. Niveau max : 15
+Pro de la pyrotechnie
+Réduit le TdR de <color=#FFD780FF>Danse du feu « Niwabi »</color> de 1,2 s lorsque Flamme Ryuukin de Yoimiya déclenche une explosion.
+Nuit d'un festival d'été
+Niveau d'aptitude <color=#FFD780FF>Saxifrage Ryuukin</color> +3. Niveau max : 15
+Pluie de météores de Naganohara
+#Tant que <color=#FFD780FF>Danse du feu «{NON_BREAK_SPACE}Niwabi »</color> est active, les attaques normales de Yoimiya ont 50 % de chances de libérer une flèche enflammée supplémentaire qui inflige 60 % des DGT d'origine. Ces DGT sont considérés comme des DGT d'attaque normale.

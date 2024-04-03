@@ -1,0 +1,13 @@
+Néphrite jumelle
+Un pendentif exquis composé de deux pièces de jade assemblées.
+ Une pièce en jade qui, en dépit de sa présentation exquise, semble avoir été abandonnée au hasard sur les étals. Sa boîte ouvragée contient également un certificat à l'air officiel, provenant d'une organisation dont personne n'a jamais entendu parler. Le néophyte se laisserait facilement tenter par la présentation luxueuse ; mais le jade qu'il contient reste un investissement raisonnable pour celui qui connaît les dessous de l'industrie. 
+Au galop
+Augmente la VIT de déplacement et l'ATQ de <color=#99FFFFFF>12 %</color> pendant 15 s après la défaite d'un ennemi.
+Au galop
+Augmente la VIT de déplacement et l'ATQ de <color=#99FFFFFF>14 %</color> pendant 15 s après la défaite d'un ennemi.
+Au galop
+Augmente la VIT de déplacement et l'ATQ de <color=#99FFFFFF>16 %</color> pendant 15 s après la défaite d'un ennemi.
+Au galop
+Augmente la VIT de déplacement et l'ATQ de <color=#99FFFFFF>18 %</color> pendant 15 s après la défaite d'un ennemi.
+Au galop
+Augmente la VIT de déplacement et l'ATQ de <color=#99FFFFFF>20 %</color> pendant 15 s après la défaite d'un ennemi.

@@ -1,0 +1,12 @@
+Crow's Eye
+Saat Tengu Juurai memberikan Bonus ATK pada Karakter atau mengenai musuh, maka CD <color=#FFD780FF>Tengu Stormcall</color> akan berkurang 1 detik. Efek ini dapat terpicu setiap 3 detik.
+Dark Wings
+Melancarkan <color=#FFD780FF>Tengu Stormcall</color> akan menciptakan Crowfeather yang lebih lemah di posisi awal Kujou Sara dan mengakibatkan 30% dari DMG aslinya.
+The War Within
+Meningkatkan 3 level <color=#FFD780FF>Subjugation: Koukou Sendou</color>. Maksimum: Lv. 15.
+Conclusive Proof
+Jumlah Tengu Juurai: Stormcluster yang tercipta dari skill <color=#FFD780FF>Subjugation: Koukou Sendou</color> bertambah menjadi 6.
+Spellsinger
+Meningkatkan 3 level <color=#FFD780FF>Tengu Stormcall</color>. Maksimum: Lv. 15.
+Sin of Pride
+Saat Karakter mendapatkan Bonus ATK dari Tengu Juurai, maka CRIT DMG untuk <color=#FFACFFFF>Electro DMG</color> milik Karakter tersebut akan meningkat 60%.

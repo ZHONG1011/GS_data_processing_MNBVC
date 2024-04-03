@@ -1,0 +1,12 @@
+Scarlet Hills
+Mengurangi 10% CD <color=#FFD780FF>Chihayaburu</color>. Menggunakan <color=#FFD780FF>Kazuha Slash</color> akan langsung menyelesaikan CD <color=#FFD780FF>Chihayaburu</color>.
+Yamaarashi Tailwind
+Area Autumn Whirlwind yang dibuat oleh <color=#FFD780FF>Kazuha Slash</color> memiliki efek berikut: · Meningkatkan 200 Elemental Mastery Kaedehara Kazuha. · Meningkatkan 200 Elemental Mastery Karakter di dalam area.  Efek peningkatan Elemental Mastery dari Konstelasi ini tidak bisa ditumpuk.
+Maple Monogatari
+Meningkatkan 3 level <color=#FFD780FF>Chihayaburu</color>. Maksimum: Lv. 15.
+Oozora Genpou
+Saat Energy Kaedehara Kazuha kurang dari 45, Kazuha akan mendapatkan efek berikut: ·Menekan atau Menahan skill <color=#FFD780FF>Chihayaburu</color> akan memulihkan 3 atau 4 Energy Kaedehara Kazuha; ·Memulihkan 2 Energy Kaedehara Kazuha setiap detik saat sedang meluncur.
+Wisdom of Bansei
+Meningkatkan 3 level <color=#FFD780FF>Kazuha Slash</color>. Maksimum: Lv. 15.
+Crimson Momiji
+Kaedehara Kazuha akan mendapatkan <color=#80FFD7FF>Anemo Infusion</color> selama 5 detik setelah menggunakan <color=#FFD780FF>Chihayaburu</color> atau <color=#FFD780FF>Kazuha Slash</color>. Sebagai tambahan, setiap poin Elemental Mastery Kaedehara Kazuha akan meningkatkan 0,2% DMG Normal, Charged, dan Plunging Attack Kaedehara Kazuha.

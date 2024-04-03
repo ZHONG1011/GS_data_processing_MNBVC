@@ -1,0 +1,152 @@
+Première rencontre...
+Oui ? Maintenant, pourquoi seriez-vous à ma recherche, hmm ? Oh, vous ne saviez pas ? Je suis la 77e directrice du Funérarium Wangsheng, Hu Tao. Mais vu votre allure... Une peau radieuse, une posture verticale... Oui, vous n'êtes définitivement pas ici pour quelque chose en rapport avec mon domaine d'activité, je me trompe ?
+Bavardage - Funérarium Wangsheng
+Vous voulez passer prendre un thé ?
+Bavardage - Clients
+Un client, deux clients, trois clients...
+Bavardage - Flemme
+Ahem... Le soleil est là, je bronze au soleil... La lune le remplace, je bronze à la lune... ♪
+Quand il pleut...
+*soupir* Quelle poisse...
+Quand le tonnerre gronde...
+Le tonnerre gronde, il est temps de passer à l'action.
+Quand il neige...
+Waouh, de la neige !
+Quand le vent souffle...
+Ahhhh... Quelle brise agréable...
+Le vent souffle fort...
+Mon chapeau va s'envoler !
+Au réveil...
+♪ Ceux qui se lèvent tôt ont la santé, tandis que ceux qui se couchent tard sont fatigués. ♪
+À l'heure du déjeuner...
+Yo ! C'est l'après-midi, vous avez mangé ?
+Le soir...
+Hihi, la lune apparaît et moi avec elle !
+La nuit...
+#Oh, vous êtes {M#fatigué}{F#fatiguée} ? Reposez-vous, je vais faire un petit tour.
+À propos de Hu Tao - Nom
+« Hu » comme « Hu suis-je ? », et « Tao » comme « Prends garde à Tao », euh... Quoi, ce n'est pas drôle ?
+À propos de Hu Tao - Tour de magie
+Laissez-moi vous montrer un petit tour de magie. Tout d'abord... Du feu ! Et ensuite... Wouuush ! Papillon de feu ! Envole-toi !
+À propos de nous – Curiosité
+Vous devez en avoir appris des choses en voyageant. Racontez-moi votre histoire quand vous aurez un moment de libre.
+À propos de nous - La nuit
+Je vous vois courir à gauche et à droite toute la journée, mais vous devriez faire attention la nuit. Quand je ne suis pas là, faites attention à vous.
+À propos de nous - Aide
+Besoin d'un coup de main ? Je suis là ! Si vous avez besoin d'aide, vous pouvez compter sur moi pour tout donner.
+À propos de nous - Combat
+#Je n'ai jamais aimé me battre. Pour moi, il s'agit davantage d'un moyen de parvenir à son objectif plutôt qu'une fin en soi. Me battre pour protéger ce qui m'est cher... Nous ne sommes pas si {M#différents l'un de l'autre}{F#différentes l'une de l'autre}.
+À propos de l'œil divin...
+Œil divin... œil divin... Oh, ce truc ? Oui, ce n'est pas bien important...
+Quelque chose à partager ?
+Nous avons la confiance de nos clients d'exécuter leurs volontés. Le Funérarium Wangsheng a une position spéciale, du fait de sa double responsabilité : envers les vivants et les morts.
+Détails intéressants...
+Certaines plantes ne poussent que dans les endroits les plus sombres à la lumière de la lune. Vous en avez déjà vu ? Oh, non ? Je vous en montrerai la prochaine fois.
+À propos de Zhongli...
+Zhongli a l'air jeune, mais il se comporte un peu comme un vieux. Il sait tout et ne se préoccupe de rien. Hmm... Se pourrait-il qu'il soit un...  Héhé, oubliez ça, ce n'est rien.
+À propos de Qiqi...
+Auriez-vous vu Qiqi ? Dites-moi où elle se trouve. Je dois l'enterrer au plus vite, héhé !
+À propos de Baizhu...
+Baizhu ? Ugh, une vraie tête à claques, celui-là...
+À propos de Ningguang...
+Ningguang la Megrez... Fortunée, au regard radieux, un visage parfait, au courant de tout et capable de toutes les prouesses !
+À propos de Beidou...
+Beidou est une célébrité à Liyue. Elle ne sait pas que j'existe, mais c'est pas grave. Ah, j'aimerais vraiment être amie avec elle...
+À propos de Xingqiu...
+J'ai entendu dire que maître Xingqiu écrivait un livre ? Est-ce une nouvelle classique, ou une histoire de fantômes ? Je devrais aller lui raconter toutes mes aventures, je suis sûre que ça donnerait une histoire passionnante !
+À propos de Chongyun...
+Énergie positive et unité entre le yin et le yang... Je ne savais pas qu'il existait ce genre de personnes en ce monde.
+À propos de Xiao...
+Comment pourrais-je vous dire quoi que ce soit à propos d'un Adepte ? Aïe-yaïe-yaï, ce genre de chose est top secrète ! Ne me demandez plus rien à ce propos !
+À propos de Keqing...
+Keqing l'Alioth... C'est assez difficile de lui parler. Elle est tellement tendue, héhé... Ça me donne vraiment envie de l'embêter. Elle ne me frapperait pas avec son épée dans la tête quand même ? Si...?
+À propos de Xiangling...
+Xiangling est géniale ! Juste un petit « Bouh » et elle saute au plafond, c'est tellement facile de lui faire peur ! Avec le métier que j'ai, c'est ce genre de personnes que je préfère. Par contre, il va falloir que je fasse attention, je n'ai pas envie de me faire griller par Gooba.
+À propos de Yun Jin...
+#Yun Jin semble toujours si gracieuse lors d'occasions formelles, mais vous seriez {M#surpris}{F#surprise} de voir à quel point elle est amicale en privé ! J'ai fait un pari avec elle une fois, et le perdant devait chanter les paroles d'une chanson choisie par le gagnant dans son propre style de chant. Ah là, comme j'aurais aimé que vous soyez là pour entendre sa version lyrique de la ballade des Brutocollinus !
+À propos de Shenhe...
+C'est une personne assez fascinante, totalement différente de tous ceux que j'ai rencontrés avant. Pensez-vous que si je commençais à manger des herbes divines et à boire la rosée des montagnes tous les jours, je serais capable d'avoir l'air aussi pure et immaculée qu'elle ? Héhé...
+Connaître Hu Tao (1)
+♪ Un Brutocollinus malade, deux Brutocollinus regardent, trois Brutocollinus discutent, quatre Brutocollinus disent « flûte », cinq Brutocollinus vomissent, six Brutocollinus y glissent... ♪  Héhéhé...
+Connaître Hu Tao (2)
+La poétesse des ruelles, c'est moi !
+Connaître Hu Tao (3)
+Selon moi, il n'y a rien de difficile ou d'effrayant à travailler au Funérarium Wangsheng, c'est seulement embêtant, c'est tout. C'est dommage que les autres nous voient partir au travail la nuit et ne comprennent pas, et c'est ça qui leur fait peur. *soupir* Personne ne comprend !
+Connaître Hu Tao (4)
+Je suis la 77e directrice du Funérarium Wangsheng ; mon grand-père était le 75e. La première chose que j'ai dû prendre en charge ont été les funérailles. Haha, surprenant, hein ? Et ça fait maintenant plusieurs années que je fais ça... Le temps passe tellement vite.
+Connaître Hu Tao (5)
+L'équilibre doit être maintenu, et pourtant les destinées changent. La mort obéit à ses propres règles, et pourtant demeure imprévisible. Rappelez-vous bien de cela : ne jouez pas avec la mort – en aucune circonstance. Ce n'est qu'en comprenant et en respectant la mort que l'on comprend la vraie valeur de la vie.
+Les loisirs de Hu Tao...
+Une lune brillante au milieu d'un ciel dégagé... C'est le moment parfait pour composer quelques vers.
+Les problèmes de Hu Tao...
+*soupir* Il faut que je trouve quelque chose de rigolo à faire... Rester là à ne rien faire, c'est pire que la mort.
+Plats préférés...
+♪ Lalalala ~ Du poisson à la vapeur avec une portion de raviolis ~
+Plats détestés...
+De la bave de Blob aux fleurs de Qingxin... Beurk... C'est sûrement Xiangling qui se venge de moi, non ?
+Cadeau reçu (1)
+Délicieux. Je vais composer un poème pour ce plat dès cet instant !
+Cadeau reçu (2)
+Vous n'avez vraiment pas besoin de mon aide ? Un plat offert pour un plat cuisiné !
+Cadeau reçu (3)
+Hé... C'est quoi ce truc ?
+Anniversaire...
+Les étoiles brillent et la lune est magnifique ce soir, sûrement un jour spécial... Mais quel jour... Haha, je sais, je sais ! Joyeux anniversaire ! Un jour spécial s'il en est.
+Affinité faible
+O-ya ? O-ya-ya-ya ?
+Affinité moyenne
+Oui. C'est bien, merci !
+Affinité élevée
+Je n'aurais jamais imaginé que moi, Hu Tao, je pourrais un jour me sentir comme ça. De l'énergie coulant à flots, un cœur léger tel un aigle s'élevant dans les cieux ! Je me sens tellement bien !
+Affinité max
+Si j'atteins mon plein potentiel physique, le test suivant est celui du cœur. C'est en grande partie grâce à vous que j'ai découvert ce territoire jusqu'ici inconnu. C'est ici que le cœur et l'esprit se rejoignent, tels des nuages. La mort est une constante pour tous parmi les multitudes qui siègent sous les cieux.
+Compétence élémentaire (1)
+Hu !
+Compétence élémentaire (2)
+Chi !
+Compétence élémentaire (3)
+Suh !
+Déchaînement élémentaire (1)
+L'heure est venue de s'en aller !
+Déchaînement élémentaire (2)
+C'est fini !
+Déchaînement élémentaire (3)
+Que le feu emporte tout !
+Début de sprint (1)
+Ho !
+Début de sprint (2)
+C'est parti ~
+Début de sprint (3)
+Oh...
+Utilisation de planeur (1)
+Il fait beau ~
+Ouverture de coffre (1)
+Jackpot !
+Ouverture de coffre (2)
+Comme ce cercueil à trésor est mignon !
+Ouverture de coffre (3)
+Si on l'enterre, peut-être qu'il reprendra vie !
+PV faibles (1)
+Aïe ! Aïe !
+PV faibles (2)
+Hé !
+PV faibles (3)
+Bon sang !
+Compagnon avec PV faibles (1)
+Allez-y doucement !
+Compagnon avec PV faibles (2)
+Laissez-moi essayer !
+K.O. (1)
+Est-ce mon tour...
+K.O. (2)
+Je m'en... souviendrai...
+K.O. (3)
+Urgh...
+Attaque puissante subie (1)
+Qu'est-ce que vous faites ?!
+Ajout dans l'équipe (1)
+Oh ? C'est à mon tour ?
+Ajout dans l'équipe (2)
+Vous avez bon œil !
+Ajout dans l'équipe (3)
+À la revoyure, les uns après les autres !

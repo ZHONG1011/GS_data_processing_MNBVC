@@ -1,0 +1,12 @@
+At Water's Edge
+Saat mengenakan Ceremonial Garment dari skill <color=#FFD780FF>Nereid's Ascension</color>, serangan terakhir dari kombo Normal Attack Sangonomiya Kokomi akan memunculkan seekor ikan yang berenang dan mengakibatkan <color=#80C0FFFF>Hydro DMG</color> sebesar 30% dari Max HP Kokomi. DMG ini tidak dianggap sebagai DMG Normal Attack.
+The Clouds Like Waves Rippling
+Saat memulihkan Karakter dengan HP kurang dari 50% dengan cara-cara di bawah, Sangonomiya Kokomi akan mendapatkan bonus pemulihan berdasarkan Max HP dirinya: ·Bake-Kurage dari <color=#FFD780FF>Kurage's Oath</color>: 4,5% dari Max HP Kokomi. ·Normal dan Charged Attack <color=#FFD780FF>Nereid's Ascension</color>: 0,6% dari Max HP Kokomi.
+The Moon, A Ship O'er the Seas
+Meningkatkan 3 level <color=#FFD780FF>Nereid's Ascension</color>. Maksimum: Lv. 15.
+The Moon Overlooks the Waters
+Saat mengenakan Ceremonial Garment dari skill <color=#FFD780FF>Nereid's Ascension</color>, Normal Attack SPD Sangonomiya Kokomi meningkat 10% dan Normal Attack yang mengenai musuh akan memulihkan 0,8 Energy. Efek ini dapat terpicu setiap 0,2 detik.
+All Streams Flow to the Sea
+Meningkatkan 3 level <color=#FFD780FF>Kurage's Oath</color>. Maksimum: Lv. 15.
+Sango Isshin
+Saat mengenakan Ceremonial Garment dari skill <color=#FFD780FF>Nereid's Ascension</color>, dan ketika Normal atau Charged Attack Sangonomiya Kokomi melakukan pemulihan atau berusaha memulihkan HP Karakter di dalam party dengan HP 80% atau lebih, maka Sangonomiya Kokomi akan mendapatkan 40% <color=#80C0FFFF>Hydro DMG Bonus</color> selama 4 detik.

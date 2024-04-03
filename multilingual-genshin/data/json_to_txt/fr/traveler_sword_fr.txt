@@ -1,0 +1,13 @@
+Épée du voyageur
+Une épée en acier facile à manier. Une paire de ciseaux, une loupe et d'autres gadgets se trouvent dans son fourreau.
+ Une épée simple et fiable en acier de qualité.  Son seul inconvénient vient de l'allongement partiel de la soie, qui réduit considérablement sa durabilité. Cependant, ce design permet d'obtenir un espace dans la poignée évidée, idéal pour stocker petits couteaux, ciseaux, amadou, etc. ; d'où son nom d'« Épée du voyageur ». 
+Voyage
+Chaque orbe ou particule élémentaire obtenu(e) restaure <color=#99FFFFFF>1 %</color> des PV.
+Voyage
+Chaque orbe ou particule élémentaire obtenu(e) restaure <color=#99FFFFFF>1,25 %</color> des PV.
+Voyage
+Chaque orbe ou particule élémentaire obtenu(e) restaure <color=#99FFFFFF>1,5 %</color> des PV.
+Voyage
+Chaque orbe ou particule élémentaire obtenu(e) restaure <color=#99FFFFFF>1,75 %</color> des PV.
+Voyage
+Chaque orbe ou particule élémentaire obtenu(e) restaure <color=#99FFFFFF>2 %</color> des PV.

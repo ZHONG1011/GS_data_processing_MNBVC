@@ -1,0 +1,12 @@
+Normal Attack: Demonbane
+<color=#FFD780FF>Normal Attack</color> Melancarkan hingga 4 tebasan berturut-turut.  <color=#FFD780FF>Charged Attack</color> Terus menguras Stamina untuk melancarkan serangan berputar yang mengakibatkan DMG ke musuh di sekitar. Diakhiri dengan sebuah tebasan yang kuat.  <color=#FFD780FF>Plunging Attack</color> Menerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.
+Spirit Blade: Chonghua's Layered Frost
+Chongyun menghantam tanah dengan pedangnya dan mengakibatkan ledakan Cryo dalam area melingkar di depannya, mengakibatkan <color=#99FFFFFF>Cryo DMG</color>. Setelah jeda singkat, udara dingin yang diciptakan oleh ledakan Cryo akan bersatu menjadi sebuah Chonghua Frost Field, dan karakter lain yang menggunakan Sword, Claymore, dan Polearm akan menerima <color=#99FFFFFF>Cryo Infusion</color>.  <i>"Dengan bunyi sejernih kristal, dan semua menjadi sunyi. Sungai tidak bergerak, dan awan-awan penuh dengan es. Gerbang altar terbuka, dan kejahatan dimusnahkan."</i>
+Spirit Blade: Cloud-parting Star
+Melepas segel, Chongyun memanggil 3 pedang raksasa di tengah udara yang jatuh ke tanah dan meledak satu per satu setelah jeda pendek. Pedangnya mengakibatkan <color=#99FFFFFF>Cryo DMG area</color> dan menghempas musuh saat meledak.  <i>"Seiring dengan es yang melahirkan dingin membeku, pedangku menggetarkan langit dan bumi. Dengarkan panggilanku, wahai pedang jiwa!"</i>
+Steady Breathing
+Meningkatkan 8% Normal ATK SPD karakter yang bertarung menggunakan Sword, Claymore, atau Polearm di dalam area <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color>.
+Rimechaser Blade
+Setelah area dari <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color> menghilang, sebilah Spirit Blade baru akan muncul dan menyerang musuh di dekatnya, mengakibatkan <color=#99FFFFFF>Cryo DMG area</color> sebesar 100% DMG Skill Chonghua's Layered Frost. Serangan ini juga akan mengurangi 10% <color=#99FFFFFF>Cryo RES</color> musuh selama 8 detik.
+Gallant Journey
+Ketika dikirim untuk melakukan ekspedisi di Liyue, waktu yang dibutuhkan berkurang 25%.

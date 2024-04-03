@@ -1,0 +1,138 @@
+Hola...
+Mi nombre es Noelle y soy la criada de los Caballeros de Favonius. Es un placer para mí ir de aventuras con usted. Si durante su viaje se encuentra con algún problema, no dude en avisarme y estaré encantada de ofrecerle mi ayuda. Sí, comenzando desde ya mismo. ¿Qué necesita?
+Charla - Ayuda
+¡Déjemelo a mí! ¡Puede contar conmigo para lo que sea! Espere, ¿qué era lo que me quería pedir? No le dio tiempo a decírmelo...
+Charla - Descanso
+#¿Está cansad{F#a}{M#o}? Bien, quédese aquí a descansar, yo iré a prepararle un té. ¿Cómo lo quiere, con mucho azúcar, un poco o nada?
+Charla - Confiable
+Siempre que me necesite, allí estaré.
+Cuando llueve...
+¡Por Los Siete! ¡La ropa de todo el mundo está tendida afuera! ¿Me permite un minuto para recogerla?
+Cuando truena...
+Cuando truena, es mejor quedarse en casa. Si hay algo que necesite hacer sí o sí, déjemelo a mí.
+Qué sol hace...
+Qué buen tiempo hace. ¿Por qué no aprovechamos este sol para hacer algo? ¿Como qué, dice? Bueno... algo que le haga sentir bien, como este reconfortante sol.
+Cuando hace viento...
+¿Lo escuchó? Es la voz del Arconte Anemo. El sonido del viento me ayuda a calmarme cuando me siento frustrada o molesta por algo.
+Buenos días...
+¡Buenos días! El desayuno está servido. Estaré a su lado todo el tiempo, así que, si hay algo que no sea de su agrado, no dude en decírmelo.
+Buenas tardes...
+¿Quiere un poco de té? Por favor, espere aquí mientras lo preparo. Ah, también hice panqueques esponjosos. Pruébelos, son mi especialidad.
+Buenas noches... (I)
+Aunque por la noche es cuando todo el mundo descansa, es el momento en que más ocupada estoy... ¿Dónde han puesto las bandanas limpias de Amber? ¿Cuántos parches del ojo nuevos compró Kaeya? Recordar todo eso es mi responsabilidad como criada.
+Buenas noches... (II)
+Hoy se esforzó mucho en sus aventuras. Descanse un poco. Yo volveré a la Sede de los Caballeros de Favonius para... ¿Eh? ¿Quiere que espere hasta que se duerma? Humm... Bueno, no hay problema, pero... no estará tramando nada raro, ¿cierto?
+Sobre Noelle - Autodisciplina
+Mi trabajo es igual todos los días. Aún me queda mucho para ser una Caballera, pero todo esto es parte de mi entrenamiento, y en el entrenamiento valen más los hechos que las palabras.
+Sobre Noelle - Desacuerdo
+No se me da bien discutir porque nunca sé explicar bien mis opiniones. A veces, incluso hago que la gente se enoje, así que prefiero hacer lo que creo correcto, aunque luego algunas personas digan que soy muy terca... Solo lo hago porque quiero convencerles de mi opinión con mis resultados. ¿Acaso eso es ser terca?
+#Sobre nosotr{F#as}{M#os} - Identidad
+Me dedico a trabajar de criada porque es algo que yo misma he elegido. No lo veo como una coartación de mi libertad. Soy chef, jardinera, guerrera, guía... ¡Puedo ser lo que necesite que sea!
+#Sobre nosotr{F#as}{M#os} - Urgencia
+#Por muy ocupad{F#a}{M#o} que esté, nunca se salte las tres comidas del día, nunca coma algo que no sepa de dónde procede y mantenga siempre un equilibrio entre la carne y la verdura que coma. Ah, y tampoco beba agua muy fría porque, según la gente de Liyue, es malo para el estómago. No estará pensando “¡Oh! Esta tarea es muy complicada. Le diré a Noelle si puede hacerla por mí”, ¿no? Porque si es así... Está bien, déjemelo a mí.
+#Sobre nosotr{F#as}{M#os} - Fiesta de bienvenida
+#Escuché que es usted {F#la Caballera Honoraria}{M#el Caballero Honorario} de los Caballeros de Favonius. ¡Cuánto {F#la}{M#lo} envidio! Supongo que eso le hace mi superior... Bueno, ya es hora de que alguien le haga una fiesta de bienvenida, ¿no cree? ¡Déjemelo a mí!
+Sobre la Visión...
+La verdad es que estoy un poco decepcionada. Tengo una Visión, lo que demuestra que los Arcontes piensan que la merezco, pero ¿por qué una Visión Geo? Es decir, Geo es lo más alejado de Anemo, y para un Caballero de Favonius...
+¿Algo que decir?
+Me gusta mucho el olor a vino, pero todavía no tengo edad para beber. Hay ocasiones en las que podría haber probado un poco si hubiera querido, y nadie se habría enterado... pero resistí la tentación. Creo que la primera vez que lo haga será un momento mágico, así que prefiero reservarlo para cuando sea mayor.
+Una noticia interesante...
+Una buena criada siempre guarda los secretos de otros. En Mondstadt, tenemos un dicho que dice “mis labios están sellados como una botella en la que se guarda una rosa”. Por eso, mi flor favorita es la rosa, ya que siempre me recuerda que... ¿Qué? ¿Que las rosas representan el amor en su hogar natal? No tenía idea de que la rosa tenía un significado tan... apasionado.
+Sobre Amber...
+Admiro mucho a Amber. No solo es muy fuerte, sino también amable. Ella me enseñó a hacer mi propio Barón Bunny. Mire, lo suelo tener conmigo como amuleto protector. Está bien hecho, ¿no cree?
+Sobre Klee...
+Siempre he tenido curiosidad por saber cómo se las arregló para convertirse en una Caballera siendo tan pequeña. En realidad, fui a pedirle consejo una vez, pero, apenas comencé a hablar con ella, me agarró de la mano y me llevó a la Sede de los Caballeros para jugar con bombas. Al principio, pensé que era una especie de ejercicio de entrenamiento, pero Jean nos descubrió y ambas acabamos encerradas.
+Sobre Jean...
+La Maestra Jean siempre ha sido mi modelo a seguir, tanto por su habilidad como por su dedicación. Tiene las mismas exigencias tanto para sí misma como para los demás, por lo que, si alguna vez reconoce mi valía, todo lo que me esforcé habrá merecido la pena. Hasta entonces, ¡debo seguir esforzándome!
+Sobre Varka...
+Al principio, quería unirme a su expedición como criada. Pero el Gran Maestro dijo que no, que estaría más tranquilo si me quedaba en Mondstadt. ¡Me hizo muy feliz escuchar lo mucho que me valora! Más tarde, descubrí que le dijo lo mismo a muchas otras personas, ¡pero eso no cambia el hecho de que a mí también me valora!
+Sobre Kaeya...
+¡Es una persona muy misteriosa! Viene y va como el viento, y siempre está ocupado con sus cosas. Me gusta que a veces delegue en mí algún que otro trabajito. Es agradable sentir que formo parte de su equipo, ¿sabe? ... ¿Qué quiere decir con “chica de los mandados”? ¡Yo en absoluto lo veo así! De acuerdo, bueno. Técnicamente, sí son mandados, pero, aun así, ¡es algo que aprecio mucho!
+Sobre Bennett...
+Me pidió que me uniera al Gremio de Aventureros en más de una ocasión, y me dijo que mi vida sería mucho mejor que con los Caballeros de Favonius. Podría ayudarlo a cuidar a sus “papás”, como hacen otros aventureros, pero... los Caballeros significan mucho para mí, y aún no estoy lista para renunciar a ser una de ellos. No, no puedo aceptar su oferta.
+Sobre Fischl - Refrigerios
+Creo que es de otro mundo, pero no conozco los detalles. Sin embargo, una cosa que sí sé es que le encanta la Biblioteca de los Caballeros de Favonius. Siempre se la puede encontrar allí leyendo un libro. Cada vez que voy a limpiar, le llevo algo de comida y bebida. Ella siempre me lo agradece con frases que no llego a entender muy bien. Su manera de hablar es un poco extraña.
+Sobre Fischl - Experiencia
+Una vez que estaba limpiando la biblioteca, me fijé en un libro que había en un estante, llamado «Flores para la princesa Fischl». En ese momento, supuse que era solo una novela de fantasía... Me sorprendió mucho descubrir que el personaje principal es una persona que existe de verdad. ¡No me lo podía creer! Debe ser alguien increíble para tener un libro entero dedicado a ella misma.
+Sobre Bárbara...
+Cuando tomamos el té juntas, a veces comienza a tararear una melodía. Dice que es porque le ha llegado la inspiración. Aunque no puedo darle ningún consejo musical, me encanta pasar tiempo con Bárbara.
+Más sobre Noelle (I)
+#¿Necesita ayuda? Ah, ¿solo quiere charlar? Bueno, si así puedo ayudarl{F#a}{M#o}, entonces hable todo lo que quiera.
+Más sobre Noelle (II)
+No pasa nada, puede contar conmigo para lo que sea. No se preocupe por mí. ¿Eh? ¿Que parezco más una herramienta que una criada? ¡No estoy de acuerdo! Una herramienta puede servir para hacer tareas, pero no siente nada. Yo, en cambio, me siento realizada cada vez que hago algo por usted.
+Más sobre Noelle (III)
+¿Esta comida es para mí? Oh, no hace falta, no puedo aceptarlo. Bueno... Entonces, ¡haré algo de comida para usted! ¡Voy ahora mismo! En media hora... o, como mucho, en una hora habré terminado. Puede hacer otras cosas mientras tanto. ¡Yo le traeré la comida bien caliente!
+Más sobre Noelle (IV)
+Me paso el día haciendo tareas triviales, pero mientras le sirva en sus aventuras o le facilite las cosas de alguna manera, yo estaré contenta. Cada vez que usted me da las gracias, siento que lo que hago tiene sentido, por insignificante que parezca.
+Más sobre Noelle (V)
+Aunque trabajo principalmente para los Caballeros de Favonius, también me gusta ayudar a otras personas. Sin embargo, últimamente, parece que paso más tiempo con usted. Tal vez esté siendo un poco egoísta... ¿Usted qué piensa?
+Aficiones de Noelle...
+¿Mis aficiones? Me gusta limpiar todo tipo de cosas: ropa, suelos, ventanas... ¡Lo que sea! Cada vez que veo algo sucio, ¡me entran ganas de limpiarlo! Hacerlo me hace sentir realizada, ¿sabe? Ah, ¿se refieres a las cosas que hago en mi tiempo libre? Humm... pues eso: ¡limpiar!
+Preocupaciones de Noelle...
+Cómo comprar muchas cosas y de buena calidad con pocos Moras. La última vez que fui a Liyue, visité todas las tiendas para comparar precios, y luego traje todo de vuelta yo misma... No creo que vuelva a hacerlo. ¡Tardé tanto tiempo en volver que Jean pensó que Stormterror me había engullido!
+Comida que más le gusta...
+¡La ensalada saludable, por supuesto! Tiene lo mejor de todos los productos naturales de Mondstadt: es muy nutritiva y baja en calorías. Nunca me canso de comerla, ¡está deliciosa! Llevo diez años comiéndola.
+Comida que menos le gusta...
+No soy muy quisquillosa con la comida, pero no me gustan los banquetes... La razón es que, como criada, mi obligación es probar todos y cada uno de los platos para garantizar su calidad. Solo pruebo un bocado de cada uno, claro, pero, aun así, va directo a mi estómago... Me siento tan culpable después de comer tanto...
+Al recibir un regalo (I)
+#Ha llevado un plato tan común como este a otro nivel. ¡Ahora {F#la}{M#lo} admiro todavía más!
+Al recibir un regalo (II)
+Está muy rico. ¡Quiero que me enseñe a cocinarlo! Al fin y al cabo, es mi deber como criada.
+Al recibir un regalo (III)
+Humm... Esto es más de lo que suelo comer en un día entero...
+Cumpleaños...
+#Ya que siempre está tan ocupad{F#a}{M#o} con sus aventuras, seguro que hay cosas que no le da tiempo a hacer. Bueno, pues no se preocupe porque hoy soy toda suya. ¡Seré su criada exclusiva durante todo el día! ¡Déjamelo todo a mí! Ah, casi me olvido: ¡feliz cumpleaños!
+El sentimiento de Ascensión - Introducción
+Ahora soy aún más fuerte. Gracias, así podré ayudar a más gente todavía.
+El sentimiento de Ascensión - Desarrollo
+No puedo dormirme en los laureles. Debo seguir trabajando aún más duro para convertirme oficialmente en una Caballera.
+El sentimiento de Ascensión - Nudo
+#Gracias por darme la oportunidad de acompañarl{F#a}{M#o} en sus aventuras. He aprendido y mejorado mucho. Como criada, yo debería ser la que le sirve, pero, al final, usted hizo muchas cosas por mí...
+El sentimiento de Ascensión - Desenlace
+Ahora, todo el mundo en Mondstadt dice que soy mucho más de fiar que antes. Algunos dicen incluso que pronto me convertiré en una verdadera caballera, pero no creo... ¿Qué? ¿Usted también lo cree? Ohhh, ¡gracias! Que usted también lo diga es la mejor recompensa que podría pedir.
+Habilidad Elemental (I)
+Firme como una piedra.
+Habilidad Elemental (II)
+Seré pulcra y eficaz.
+Habilidad Elemental (III)
+Déjamelo a mí.
+Habilidad Definitiva (I)
+Hora de limpiar.
+Habilidad Definitiva (II)
+Tal como haría un buen Caballero.
+Habilidad Definitiva (III)
+Tal como haría un buena criada.
+Al esprintar (I)
+Te seguiré el ritmo.
+Al esprintar (II)
+Alguien necesita ayuda.
+Al abrir un cofre (I)
+¡Todo en un día de trabajo!
+Al abrir un cofre (II)
+Maravilloso.
+Al abrir un cofre (III)
+Está un poco polvoriento... ¡Será mejor que lo limpie a fondo!
+Vida baja (I)
+Puedo curarme yo misma.
+Vida baja (II)
+Oh, tendré que lavar esta ropa...
+Vida baja (III)
+Si no lo consigues a la primera...
+Aliado con vida baja (I)
+Ejerce una presión continua sobre la herida.
+Aliado con vida baja (II)
+¡Déjamelo a mí! ¡Necesitas atención médica!
+Derrotada (I)
+Soy una vergüenza... para los Caballeros...
+Derrotada (II)
+Todavía hay gente que me necesita...
+Derrotada (III)
+Fue un honor servirle...
+Recibiendo un fuerte ataque (I)
+Oh... me faltó una cosa.
+Unirse al equipo (I)
+Oh, ¡qué emoción! *Ejem*
+Unirse al equipo (II)
+#L{F#a}{M#o} protegeré.
+Unirse al equipo (III)
+Como desee.

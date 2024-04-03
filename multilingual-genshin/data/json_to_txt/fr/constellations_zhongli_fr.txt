@@ -1,0 +1,12 @@
+Roche, le squelette de la terre
+2 Dorsales de <color=#FFD780FF>Dominus Lapidis</color> peuvent exister en même temps.
+Pierre, le berceau du jade
+Les personnages déployés à proximité sont protégés par un bouclier de jade lors de <color=#FFD780FF>Chute de météore</color>.
+Jade, brillant à travers les ténèbres
+Niveau d'aptitude <color=#FFD780FF>Dominus Lapidis</color> +3. Niveau max : 15
+Topaze, incassable et intrépide
+Augmente la zone d'effet de <color=#FFD780FF>Chute de météore</color> de 20 %. Prolonge de plus la durée de la pétrification de 2 s.
+Lazulite, le héraut de l'ordre divin
+Niveau d'aptitude <color=#FFD780FF>Chute de météore</color> +3. Niveau max : 15
+Or, la générosité du dominateur
+40 % des DGT subis par le bouclier de jade sont convertis en PV pour le personnage déployé. La quantité de PV restaurés en une fois ne peut pas dépasser 8 % des PV max du personnage.

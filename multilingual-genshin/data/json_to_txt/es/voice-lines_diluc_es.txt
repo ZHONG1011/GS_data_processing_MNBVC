@@ -1,0 +1,146 @@
+Hola...
+Soy Diluc, de Mondstadt. No me gusta estar de cháchara, así que, si necesitas algo, dímelo.
+Charla - Relajarse
+Supongo que descansar de vez en cuando no tiene nada de malo.
+Charla - Caballeros de Favonius
+La próxima vez, que sean los Caballeros quienes te acompañen.
+Charla - Gremio
+Todavía tengo muchas cosas que hacer en el gremio. Si quieres descansar, iré a ver cómo está.
+Charla - Preparación
+Preparémonos mientras podamos y lancemos una ofensiva anticipada contra el enemigo.
+Charla - Planificación
+Tomémonos un momento para descansar y planear nuestro próximo movimiento.
+Charla - Aviso
+Toda acción conlleva un riesgo. Ten cuidado.
+Cuando llueve - Paraguas
+No necesito un paraguas, pero, si lo necesitas, tú sí puedes usar uno.
+Cuando llueve - Limpieza
+La lluvia... Ojalá pudiera limpiar las almas corruptas de este mundo.
+Qué sol hace...
+No importa si llueve o hace sol, siempre y cuando sigas tu propio camino.
+Hace mucho viento...
+Algunos usan los silbidos del viento para ahogar el sonido de sus crímenes.
+Buenos días...
+Puedes ahorrarte las pleitesías. Me alegro de que hayas dormido bien.
+Buenas tardes...
+¿Te gustaría probar nuestro menú secreto?
+Buenas noches... (I)
+Ya es de noche.
+Buenas noches... (II)
+#Nos vemos. Me aseguraré de que salgas segur{F#a}{M#o}.
+Sobre Diluc
+¿La leyenda del “Héroe Oscuro”? Qué rumor tan interesante...
+Sobre nosotros - Necesidades
+Si necesitas algo, dilo directamente. Para reembolsos, habla con Elzer.
+Sobre nosotros - Testimonio
+Ya demostraste tu determinación. Ahora déjame a mí demostrar mi resolución.
+Sobre la Visión...
+Las Visiones son como una luz que rodea a los que se han perdido en el mar de la oscuridad. Pero, para aquellos que tienen fe, no son más que una medalla sin significado.
+¿Algo que decir?
+De vez en cuando trabajo en la taberna El Obsequio del Ángel. Es conocida por ser el centro de información de Mondstadt.
+Una noticia interesante...
+El búho... observa en silencio a su presa desde la oscuridad, esperando el momento perfecto para atacar... Es una criatura sin defectos.
+Sobre Kaeya...
+¿Kaeya? De todo lo que dice, solo créete la mitad.
+Sobre Lisa...
+Lisa es quien más posibilidades tiene de ser la caballera más fiable. Si es que está dispuesta, claro...
+Sobre Jean - Enemigos
+Las cuestiones más triviales pueden ser el mayor enemigo de Jean.
+Sobre Jean - Responsabilidades
+Su incomparable sentido de la responsabilidad es la única razón por la que todavía no ha encontrado su verdadera vocación.
+Sobre Mona...
+La gracia del Arconte Anemo fluye por la tierra de Mondstadt. No veo la necesidad de que los astrólogos tengan que hacer predicciones sobre las cosechas.
+Sobre Diona...
+Diona es un poco dura conmigo. Todavía tengo que encontrar la oportunidad de hablar con ella. No estoy seguro de si tiene un problema con mis ancestros o... ¿Eh? ¿No es eso? ¿Dices que simplemente desprecia el alcohol? Humm... Nunca pensé que me encontraría con otro cantinero como yo en Mondstadt.
+Sobre Varka...
+El Gran Maestro Varka... Entiendo su posición, pero no su manera de actuar. Bueno, ya he dicho demasiado. Hace mucho que dejé los Caballeros de Favonius. Olvida lo que dije.
+Sobre Eula...
+He oído hablar de ella. Tiene sus propias ideas. Su determinación por liberar a su familia de las cadenas que la aprisionan es muy loable. Y, sin embargo... se unió a los Caballeros de Favonius.
+Más sobre Diluc (I)
+¿En qué puedo servirte?
+Más sobre Diluc (II)
+¿Eh? ¿Los Caballeros de Favonius? Nuestra visión de las cosas es muy distinta, pero no tengo mucho más que decir.
+Más sobre Diluc (III)
+Ha pasado mucho tiempo desde que jugué al ajedrez con alguien que no sea mi mayordomo. Da la casualidad de que tengo tiempo libre ahora. ¿Querrías jugar una partida conmigo?
+Más sobre Diluc (IV)
+¡Jaque mate! Aun así, hace mucho que alguien me lo pone tan difícil en el ajedrez.
+Más sobre Diluc (V)
+#No está nada mal. Tú siempre me sorprendes, ya sea en el ajedrez o en el combate. Humm... Trabajar contigo es toda una novedad. Espero que sigamos trabajando juntos, soci{F#a}{M#o}.
+Aficiones de Diluc...
+¿Las obras de arte de la mansión? No son mías. Es una colección que perteneció a mi difunto padre.
+Preocupaciones de Diluc...
+La oscuridad está llena de maldad, de demonios que deben ser vencidos... Se necesitará más que una espada para derrotarla.
+Comida que más le gusta...
+¿Quieres saber qué hay en mi vaso? Es... jugo de uva, mi bebida predilecta.
+Comida que menos le gusta...
+No me gusta el alcohol. No es por nada, es solo que no me gusta la sensación al tomarlo.
+Al recibir un regalo (I)
+Excelente. Tiene un sabor inolvidable.
+Al recibir un regalo (II)
+Se nota la dedicación con la que lo preparaste. Un plato muy bueno.
+Al recibir un regalo (III)
+Gracias.
+Cumpleaños...
+Feliz cumpleaños. Este es un día importante para ti. Dime, ¿qué es lo que deseas? Te lo daré si está dentro de mi alcance.
+El sentimiento de Ascensión - Introducción
+La fuerza es necesaria para alcanzar nuestros objetivos.
+El sentimiento de Ascensión - Desarrollo
+¿Qué nos deparará el futuro? Rara vez me detengo a pensarlo. Sin embargo, debo seguir adelante, sea lo que sea lo que se interponga en mi camino.
+El sentimiento de Ascensión - Nudo
+Me he vuelto más fuerte... Aunque aún no es suficiente, siempre seguiré hacia adelante.  Para que amanezca, debe haber personas que se atrevan a iluminar la oscuridad.
+El sentimiento de Ascensión - Desenlace
+#Antes, creía que para acabar con el mal, tendría que caminar yo solo en la oscuridad. Sin embargo, al ver tu perseverancia, sé que estaba equivocado. Amig{F#a}{M#o}, te doy mi más sincero agradecimiento.
+Habilidad Elemental (I)
+¡Hum!
+Habilidad Elemental (II)
+¡Ja!
+Habilidad Elemental (III)
+¡¡Ja!!
+Habilidad Elemental (I)
+¡Hum!
+Habilidad Elemental (II)
+¡Ja!
+Habilidad Elemental (III)
+¡¡Ja!!
+Habilidad Definitiva (I)
+El veredicto es...
+Habilidad Definitiva (II)
+¡Arde!
+Habilidad Definitiva (III)
+¡Hora del... castigo!
+Habilidad Definitiva (I)
+¡Fuego purgador!
+Habilidad Definitiva (II)
+¡Asolaré el mal!
+Habilidad Definitiva (III)
+¡Aquí llega el amanecer!
+Al abrir un cofre (I)
+¡Hum! Menos da una piedra.
+Al abrir un cofre (II)
+Supongo que esto me servirá.
+Al abrir un cofre (III)
+Necesitaremos más de eso.
+Vida baja (I)
+¿Eso es todo lo que puedes hacer?
+Vida baja (II)
+Maldición...
+Vida baja (III)
+¡Pagarás por eso!
+Aliado con vida baja (I)
+¡Cuidado!
+Aliado con vida baja (II)
+¡No te agotes! ¡Retírate!
+Derrotado (I)
+¿En qué me equivoqué?...
+Derrotado (II)
+No hay excusas... para la derrota.
+Derrotado (III)
+Mis llamas... se han extinguido...
+Recibiendo un fuerte ataque (I)
+¡Ah!
+Unirse al equipo (I)
+Vamos.
+Unirse al equipo (II)
+¿Cuál es nuestro objetivo?
+Unirse al equipo (III)
+Acabemos con esto rápidamente.

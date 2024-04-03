@@ -1,0 +1,12 @@
+Ataque Normal: Kung-Fu pasta
+<color=#FFD780FF>Ataque Normal</color> Realiza hasta 5 ataques rápidos con lanza.  <color=#FFD780FF>Ataque Cargado</color> Consume una cierta cantidad de Aguante para lanzarse al frente, infligiendo daño a los enemigos en el camino.  <color=#FFD780FF>Ataque Descendente</color> Se lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.
+Ataque de Guoba
+Invoca al panda Guoba. Guoba escupe fuego continuamente contra los enemigos, infligiendo <color=#FF9999FF>Daño Pyro en el AdE</color>.  <i>A Guoba le encanta el picante. El problema es que su estómago no aguanta la comida tan picante.</i>
+Pyronado
+Haciendo muestra de su dominio del fuego y las lanzas, Xiangling provoca un tornado de llamas a su alrededor. Mientras dure la habilidad, el tornado se moverá junto a tu personaje, infligiendo <color=#FF9999FF>Daño Pyro</color> a todos los enemigos en su camino.  <i>Nunca hay suficiente fuego. Nunca.</i>
+Fuego cruzado
+El alcance del lanzallamas de Guoba aumenta en un 20%.
+¡Cuidado, que pica!
+Cuando termina el <color=#FFD780FF>Ataque de Guoba</color>, Guoba deja chiles en el lugar donde desaparece. Obtén los chiles para aumentar el ATQ en un 10% durante 10 s.
+Chef de cocina
+Al lograr un “Perfecto” en un plato con efectos de ataque, hay una probabilidad del 12% de obtener el doble.

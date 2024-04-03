@@ -1,0 +1,12 @@
+Grand Expectation
+Efek peningkatan ATK dari <color=#FFD780FF>Fantastic Voyage</color> tidak lagi dibatasi HP, dan memiliki 20% ATK lebih besar.
+Impasse Conqueror
+Saat HP Bennett kurang dari 70%, meningkatkan 30% Energy Recharge.
+Unstoppable Fervor
+Meningkatkan 3 level <color=#FFD780FF>Passion Overload</color>. Maksimum: Lv. 15.
+Unexpected Odyssey
+Mendapatkan serangan tambahan dengan menggunakan Normal Attack saat Bennett melakukan serangan kedua dari skill <color=#FFD780FF>Passion Overload</color> Charge Level 1. Serangan tambahan menghasilkan 135% dari DMG serangan kedua.
+True Explorer
+Meningkatkan 3 level <color=#FFD780FF>Fantastic Voyage</color>. Maksimum: Lv. 15.
+Fire Ventures with Me
+Memberikan 15% <color=#FF9999FF>Pyro DMG Bonus</color> dan <color=#FF9999FF>Pyro Infusion</color> pada karakter yang menggunakan Sword, Claymore dan Polearm di dalam radius <color=#FFD780FF>Fantastic Voyage</color>.

@@ -1,0 +1,12 @@
+Attaque normale : Escrime de Favonius
+<color=#FFD780FF>Attaque normale</color> Enchaîne jusqu'à 5 coups d'épée.  <color=#FFD780FF>Attaque chargée</color> Consomme de l'endurance pour libérer une puissante attaque ascendante portée par les vents. Les ennemis projetés en l'air retombent lentement au sol.  <color=#FFD780FF>Attaque plongeante</color> Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.
+Épée de tourbillon
+Concentrant l'énergie des vents dans son épée, Jean libère une tornade qui projette les ennemis dans la direction ciblée, infligeant d'importants <color=#80FFD7FF>DGT Anémo</color>.  <color=#FFD780FF>Appui long</color> Consomme de l'endurance de façon continue pour générer une tornade qui attire ennemis et objets proches. La tornade peut être dirigée. Jean ne peut pas se déplacer tant que l'attaque dure.  <i>Idéale pour protéger ses alliés, cette technique accompagne Jean depuis longtemps.</i>
+Brise de pissenlit
+Jean invoque la protection des vents pour générer un champ de pissenlits tournoyant qui repousse les ennemis proches, tout en leur infligeant des <color=#80FFD7FF>DGT Anémo</color>. En même temps, tous les personnages sont soignés considérablement, la quantité de PV restaurés étant proportionnelle à l'ATQ de Jean.  <color=#FFD780FF>Champ de pissenlits</color> · Le champ de pissenlits restaure les PV des personnages dans la zone de façon continue. · Le champ leur applique également l'<color=#80FFD7FF>élément Anémo</color>. · Les ennemis qui rentrent ou sortent de la zone subissent des <color=#80FFD7FF>DGT Anémo</color>.  <i>Semblable aux pissenlits bercés par le vent, la magnanimité de Jean n'a que l'horizon pour limite.</i>
+Charge critique
+Les attaques normales de Jean ont 50 % de chances de restaurer une quantité de PV équivalant à 15 % de l'ATQ de Jean à tous les personnages de l'équipe lorsqu'elles touchent.
+Que le vent vous guide
+<color=#FFD780FF>Brise de pissenlit</color> restaure 20 % d'énergie élémentaire lorsqu'elle prend fin.
+Vent directeur
+12 % de chances d'obtenir un plat supplémentaire lorsque vous cuisinez un plat de soins parfait.

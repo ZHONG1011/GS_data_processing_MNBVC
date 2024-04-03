@@ -1,0 +1,12 @@
+Yakan Offering
+Setiap kali <color=#FFD780FF>Great Secret Art: Tenko Kenshin</color> mengaktifkan Tenko Thunderbolt, Yae Miko akan memulihkan 8 Energy untuk dirinya sendiri.
+Fox's Mooncall
+Level awal <color=#FFD780FF>Sesshou Sakura</color> yang tercipta meningkat menjadi level 2. Level tertinggi yang bisa dicapai menjadi level 4 dan jangkauan serangan meningkat 60%.
+The Seven Glamours
+Meningkatkan 3 level <color=#FFD780FF>Yakan Evocation: Sesshou Sakura</color>. Maksimum: Lv. 15.
+Sakura Channeling
+Setelah sambaran petir <color=#FFD780FF>Sesshou Sakura</color> mengenai musuh, <color=#FFACFFFF>Electro DMG Bonus</color> seluruh anggota party di sekitar meningkat 20% selama 5 detik.
+Mischievous Teasing
+Meningkatkan 3 level <color=#FFD780FF>Great Secret Art: Tenko Kenshin</color>. Maksimum: Lv. 15.
+Forbidden Art: Daisesshou
+Serangan <color=#FFD780FF>Sesshou Sakura</color> mengabaikan 60% DEF musuh.

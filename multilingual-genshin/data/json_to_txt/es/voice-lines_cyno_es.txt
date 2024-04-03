@@ -1,0 +1,150 @@
+Hola - Pasado
+Soy Cyno, el antiguo Gran Juez. Ahora uso mis habilidades para castigar el mal cuando lo veo necesario. Si compartes mi devoción por las reglas y la justicia, puedo ayudarte con mi poder.
+Hola - Presente
+DATA NOT FOUND
+Charla - Balanza
+La bondad y la maldad... Al final, todo será pesado en una balanza.
+Charla - Suerte
+La suerte puede cambiar el resultado de una partida, pero es algo que tarde o temprano se agota.
+Charla - Duda
+A veces intento romper el hielo, pero... no soy el mejor juzgando el sentido del humor de los demás.
+Cuando llueve...
+Hum, llueve otra vez...
+Cuando truena...
+En algunas leyendas, los rayos son una forma de juicio para los dioses del cielo.
+Cuando nieva...
+Me encanta verlo todo cubierto por una fría capa de nieve. Transmite una tranquilidad que para nada es inerte, sino más bien serena y apacible.
+Qué sol hace...
+Al final, la luz del sol ilumina hasta los rincones más recónditos.
+Hace mucho viento...
+Cuidado, empieza a hacer viento.
+En el desierto...
+Este paisaje me es familiar.
+Buenos días...
+Prepárate, es hora de irse.
+Buenas tardes...
+¿Quieres que prepare la comida? Está bien, pero te aviso: no te prometo que vaya a quedarme bien.
+Buenas noches... (I)
+¿Recuerdas lo que te dije? Siempre hay algún peligro acechando en la noche, así que, hagas lo que hagas, no bajes la guardia.
+Buenas noches... (II)
+Buenas noches. Hay algún criminal haciendo de las suyas por aquí cerca y debo ocuparme de él.
+Sobre Cyno - Chiste malo
+Humm... ¿Un chiste? Ah, ya sé. *Ejem*, este es un viajero perdido en el desierto y muerto de sed. Desesperado, rezó para que un Slime Hydro apareciera ante él. Sin embargo, el viajero no sabía que, justo en ese momento, un Slime Hydro hambriento también estaba rezando para encontrarse con un viajero perdido y solitario. ¿Eh? ¿No te hace gracia? *Tch*, pues yo creo que es supergracioso.
+Sobre Cyno - Paseos
+A veces me doy un paseo por el desierto por la noche. El viento frío y seco me ayuda a aclarar la mente.
+Sobre Cyno - Duelo
+¿Quieres jugar una partida de Invocación de los Sabios? Te enseñaré mi nueva baraja.
+Sobre nosotros - Presente
+No podemos cambiar el pasado ni predecir el futuro. Por eso, siempre me aseguro de apreciar el presente.
+Sobre la Visión...
+Se podría decir que he sido agraciado enormemente por los dioses, pues cuento con un espíritu que vive en mí y una deidad que se fijó en mi ambición. Pero no pienso dejar que eso afecte a mi concepción de la justicia. Seguiré haciendo lo que tenga que hacer para cumplir con mi deber.
+¿Algo que decir? - Ansia de conocimiento
+Creo que la mayoría de las personas sabe que un afán demasiado ambicioso conduce al desastre, pero la gente no suele admitir que solo ve el lado positivo en lo que se refiere a la búsqueda del conocimiento. En mi opinión, perseguir el conocimiento sigue siendo una forma de ansiar que debe ser controlada.
+¿Algo que decir? - Respeto solemne
+Cualquier decisión que tomo durante una misión puede tener un gran impacto sobre el destino de otras personas. Por eso siempre debo respetar solemnemente mi posición como matra, igual que también respeto el conocimiento y el poder.
+Una noticia interesante...
+Me gustan los arbustos que crecen en el desierto. Este es un símbolo de quietud y soledad, y al final todas las civilizaciones serán enterradas por una tormenta de arena. Pero a pesar de esta desolación, aún hay señales de vida. A veces esa tenacidad me sorprende sobremanera.
+Sobre Tignari - Conocimiento
+Tignari es distinto a otros eruditos que conozco. Tiene la misma dedicación por el conocimiento, pero nunca cruza los límites de mayor importancia. Algunos eruditos se creen dioses cuando están en sus laboratorios, pero Tignari no. Él siempre ha mostrado el mismo respeto por todos los seres vivos. Escuché que hasta rechazó un puesto en la Academia, y apoyo su decisión.
+Sobre Tignari - Chistes
+Una vez, Tignari me dijo que no contara chistes durante las comidas e insistió en que mis chistes no son nada graciosos. No estaba de acuerdo, así que conté tres de mis mejores chistes, uno tras otro, y expliqué la gracia de cada uno con lujo de detalle. Cuando terminé de hablar, mi comida ya estaba fría.
+Sobre Collei...
+Una vez, ayudé a Collei a sellar los restos del dios que había en su cuerpo, pero eso conllevó mucho dolor para ella. Muchas personas pensarían que aguantar ese dolor es incluso más aterrador que la propia muerte, así que fue admirable que ella perseverara a lo largo de ese proceso.
+Sobre Alhacén...
+No me termina de gustar la gente demasiado lista. Piensan que lo pueden controlar todo y siempre están tentando al peligro. De entre ellos, Alhacén es uno de los más confiables. En la mayoría de las ocasiones, de verdad tiene el control de las cosas y la habilidad de evitar posibles desastres.
+Sobre Kaveh...
+Tignari y Collei nunca me lo han dicho a la cara, pero las anécdotas personales de Kaveh les parecieron más entretenidas que los chistes que yo había preparado. Se les veía en la cara. ¿Eh? ¿Que qué pienso yo de eso? Pues que me hace gracia que se rieran de algo como eso.
+Sobre Nahida...
+DATA NOT FOUND
+Sobre Nilou...
+DATA NOT FOUND
+Sobre Faruzán...
+Hace tiempo, leí detalladamente los documentos sobre el caso de desaparición de Faruzán. En ese entonces, pensaba que tal vez había estado llevando a cabo alguna investigación peligrosa, pero descarté la idea en cuanto la conocí en persona. Aunque me cuesta llevarme bien con ella, me recuerda a un padre o una madre amable y hablador. Se preocupa por los demás y nunca haría algo imprudente.
+Sobre Lisa...
+Claro que conozco a Lisa. Una vez, estudiamos bajo la tutela del mismo sabio. Como Gran Juez, he visto como las tragedias caían sobre aquellos que buscan el conocimiento con demasiada asiduidad, así que no me cuesta comprender la decisión que tomó.
+Más sobre Cyno (I)
+¿Eh? ¿Quieres saber más sobre mí? Humm, supongo que muchas personas me ven como una molestia... Pero no te preocupes, mientras no hagas nada peligroso, no te meterás en problemas conmigo.
+Más sobre Cyno (II)
+Con mi cuerpo como recipiente, puedo controlar el poder del espíritu que reside en mí. En parte, es posible gracias a mi constitución, pero también gracias al trato que estuve dispuesto a hacer en el pasado. No tengo ningún motivo por el que avergonzarme de ello. Si debo cargar con las almas de otras personas como matra, también debo poner mi propia alma sobre la balanza para que sea juzgada por igual.
+Más sobre Cyno (III)
+En vez de pensar en el porqué de las cosas, prefiero concentrarme en qué es lo que se ha hecho. En este mundo, hay incontables motivos por los que la gente hace lo que hace y, al saberlos, no puedes evitar sentir que el presunto malhechor tenía razón en algo, o que el público está siendo demasiado duro con él. Quien esté en desventaja siempre se ganará la simpatía de la gente, pero un juez no se puede permitir esos sentimientos. Podemos empatizar con el dolor y la motivación del acusado, pero una vez que se comete un crimen, debe ser castigado.
+Más sobre Cyno (IV)
+En el oscuro mar de la ignorancia, a veces aparece un tenue rayo de luz que atrae a quienes no entienden la verdad. A menudo, la gente ve ese rayo como un faro que la guía con su luz, pero al hacerlo, ignoran los grandes peligros que acechan en las oscuras aguas. Alejar de la luz a quienes llevan mucho tiempo viviendo en la oscuridad es cruel, pero debo seguir haciéndolo hasta que por fin podamos derrotar a los enemigos que se esconden bajo la superficie del agua.
+Más sobre Cyno (V)
+Ya te he contado todo lo que consideraba valioso de contar. ¿Qué más quieres que te cuente? Jeje, tu curiosidad es increíble... Bien, entonces pregunta. Para alguien como yo, acostumbrado a interrogar a otros, ser la persona interrogada es... interesante.
+Aficiones de Cyno...
+Me gusta jugar a Invocación de los Sabios con otras personas en mi tiempo libre. Tener tanta creatividad y versatilidad incluso dependiendo de un conjunto de reglas lo hace más que un juego: es un arte.
+Preocupaciones de Cyno...
+Hace poco vi una novela ligera de Inazuma basada en Invocación de los Sabios. Cada vez que el protagonista estaba en un callejón sin salida, de repente sacaba una carta que ni siquiera existe. Eso me dejó perplejo y me planteó un gran enigma. Al manipular directamente la baraja, consiguió un milagro que nadie esperaba. La pregunta es... ¿Eso se debería considerar una violación de las reglas o también forma parte de las normas del juego?
+Comida que más le gusta...
+El arroz, la carne y los frutos secos mezclados con yogur y horneados en conjunto. Qué maravillosa combinación de sabores. Puedes ver el aroma humear al cortar la crujiente capa exterior, y tampoco se tarda mucho en hacer. Definitivamente, mi plato favorito.
+Comida que menos le gusta...
+Las raciones que me llevo para viajar por el desierto no suelen saber a nada. Una vez que has comido muchas, agradecerás cualquier cosa que tenga un mínimo de sabor. Pero si tuviera que escoger algo... No disfruto comiendo insectos u otras cosas que tengan que ver con ellos.
+Al recibir un regalo (I)
+Sabe muy bien. Te lo agradezco.
+Al recibir un regalo (II)
+Lo acepto. Gracias.
+Al recibir un regalo (III)
+#Ah... ¿Es para mí? ¿Estás segur{F#a}{M#o}?
+Cumpleaños...
+*Ejem*, me gustaría desearte un cumpleaños feliz. Aunque no tengo mucha experiencia en celebraciones, cuando supe que se acercaba tu cumpleaños, decidí preparar algunas cosas. Primero, tengo esta baraja para ti. He trabajado en ella durante unos días, creo que va muy acorde con tu estilo. También he ajustado mi agenda para tener más tiempo, así que ¿a dónde te gustaría ir? Estaré encantado de ir contigo. Los cumpleaños solo duran un día, por lo que hay que aprovechar para disfrutarlo. Solo asegúrate de que podamos volver en tres días.
+El sentimiento de Ascensión - Introducción
+Siento un nuevo poder surgiendo en mí. Es la prueba de mi fortalecimiento.
+El sentimiento de Ascensión - Desarrollo
+Juro defender las leyes y castigar el mal.
+El sentimiento de Ascensión - Nudo
+Buena mejora. Muchas gracias.
+El sentimiento de Ascensión - Desenlace
+Mi fuerza ha alcanzado su cénit, pero aún hay muchas cosas que nunca podré conseguir si solo dependo de mi poder de combate. Habrá muchas veces en las que haya un conflicto entre las emociones y las reglas, pero creo que, en mis futuros viajes, encontraré la clave para hallar el equilibrio.
+Habilidad Elemental (I)
+¡Ríndete!
+Habilidad Elemental (II)
+Es inútil.
+Habilidad Elemental (III)
+¡No tienes escapatoria!
+Habilidad Elemental (IV)
+He aquí tu condena.
+Habilidad Elemental (V)
+¡Culpable!
+Habilidad Elemental (VI)
+¡Esta será tu penitencia!
+Habilidad Definitiva (I)
+¡La justicia se hará gracias a mí!
+Habilidad Definitiva (II)
+Tu juicio ha llegado.
+Habilidad Definitiva (III)
+Tus pecados pesan sobre tu alma.
+Al abrir un cofre (I)
+Un hallazgo bien merecido.
+Al abrir un cofre (II)
+Nuestra perseverancia valió la pena.
+Al abrir un cofre (III)
+La riqueza es la base sobre la que se construye la civilización.
+Vida baja (I)
+Eres más fuerte de lo que anticipaba...
+Vida baja (II)
+Estoy acostumbrado a esto.
+Vida baja (III)
+Arg... ¡Vuelve si te atreves!
+Aliado con vida baja (I)
+Retírate. No te fuerces.
+Aliado con vida baja (II)
+Te tomo el relevo.
+Derrotado (I)
+¿Mi hora... ha llegado?
+Derrotado (II)
+La muerte... marca un nuevo ciclo.
+Derrotado (III)
+Mi juicio... fracasó...
+Recibiendo un ligero ataque (I)
+Es inútil.
+Recibiendo un fuerte ataque (I)
+Un público complicado.
+Recibiendo un fuerte ataque (II)
+Bien jugado.
+Unirse al equipo (I)
+Listo para darlo todo.
+Unirse al equipo (II)
+Nuestra misión comienza ahora.
+Unirse al equipo (III)
+¿Cuál es nuestro siguiente objetivo?

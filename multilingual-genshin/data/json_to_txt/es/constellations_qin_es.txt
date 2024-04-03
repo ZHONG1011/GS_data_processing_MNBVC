@@ -1,0 +1,12 @@
+Espiral de tempestad
+Aumenta la velocidad de atracción de <color=#FFD780FF>Filo de ventisca</color> al mantener pulsado durante más de 1 s, y aumenta el daño que inflige en un 40%.
+Escudo del pueblo
+Cuando Jean recoge un orbe o partícula elemental, aumenta la Vel. de Ataque y la Vel. Movimiento de todos los miembros del equipo en un 15% durante 15 s.
+Cuando sopla el viento del oeste
+Aumenta el nivel de habilidad de <color=#FFD780FF>Brisa de Dandelion</color> +3. Puede ser aumentado hasta Niv. 15.
+Reino de Dandelion
+La <color=#80FFD7FF>RES Anemo</color> de todos los enemigos dentro del área de <color=#FFD780FF>Brisa de Dandelion</color> disminuye en un 40%.
+Ráfaga explosiva
+Aumenta el nivel de habilidad de <color=#FFD780FF>Filo de ventisca</color> +3. Puede ser aumentado hasta Niv. 15.
+Diente de León, fiel protectora de Mondstadt
+Dentro del campo de <color=#FFD780FF>Brisa de Dandelion</color>, el daño recibido disminuye en un 35%. Al salir de él, el efecto dura 3 ataques más o 10 s.

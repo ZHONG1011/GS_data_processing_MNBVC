@@ -1,0 +1,12 @@
+Vendaval feroz
+Dispara 2 flechas adicionales por cada <color=#FFD780FF>Disparo Preciso</color>. Cada una inflige un 33% del daño de la flecha original.
+Brisa de reminiscencia
+<color=#FFD780FF>Sonata celestial</color> reduce la <color=#80FFD7FF>RES Anemo</color> y la RES Física del enemigo en un 12% durante 10 s. Los enemigos lanzados al aire por <color=#FFD780FF>Sonata celestial</color> sufren una reducción adicional del 12% de <color=#80FFD7FF>RES Anemo</color> y de RES física.
+Oda a los Mil Vientos
+Aumenta el nivel de habilidad de <color=#FFD780FF>Gran Oda del Viento</color> +3. Puede ser aumentado hasta Niv. 15.
+Huracán de la libertad
+Venti obtiene un 25% de <color=#80FFD7FF>Bono de Daño Anemo</color> durante 10 s tras recoger un orbe o una partícula elemental.
+Concierto celestial
+Aumenta el nivel de habilidad de <color=#FFD780FF>Sonata celestial</color> +3. Puede ser aumentado hasta Niv. 15.
+Tormenta de la rebelión
+La RES Anemo de los enemigos se reduce en un 20% cuando reciben daño de <color=#FFD780FF>Gran Oda del Viento</color>. Si ocurre un cambio elemental durante <color=#80FFD7FF>Gran Oda del Viento</color>, su RES Elemental al nuevo elemento se reducirá en un 20%.

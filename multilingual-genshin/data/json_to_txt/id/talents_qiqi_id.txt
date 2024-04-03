@@ -1,0 +1,12 @@
+Normal Attack: Ancient Sword Art
+<color=#FFD780FF>Normal Attack</color> Melancarkan hingga 5 serangan berturut-turut.  <color=#FFD780FF>Charged Attack</color> Mengonsumsi sejumlah Stamina untuk melancarkan dua tebasan pedang.  <color=#FFD780FF>Plunging Attack</color> Menerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.
+Adeptus Art: Herald of Frost
+Qiqi memanggil Herald of Frost dengan menggunakan Icevein Talisman dan mengakibatkan <color=#99FFFFFF>Cryo DMG</color> ke musuh di sekitarnya.  <color=#FFD780FF>Herald of Frost</color> ·Saat Normal Attack atau Charged Attack Qiqi mengenai musuh, Qiqi akan memulihkan HP anggota party dan karakter teman lainnya. Jumlah HP yang disembuhkan ditentukan berdasarkan ATK Qiqi; ·Setiap beberapa saat, Herald of Frost juga akan memulihkan HP karakter yang sedang digunakan; ·Mengikuti gerakan karakter dan mengakibatkan <color=#99FFFFFF>Cryo DMG</color> kepada musuh yang dilewati.  <i>Aku menggunakan ini supaya tidak busuk... Eh, aku sedang bicara soal bahan-bahan Dr. Bai.</i>
+Adeptus Art: Preserver of Fortune
+Qiqi mengerahkan kekuatan Adeptus yang disegel di dalam tubuhnya dan menandai musuh di sekitar dengan jimat keberuntungan yang mengakibatkan <color=#99FFFFFF>Cryo DMG</color>.  <color=#FFD780FF>Fortune-Preserving Talisman</color> Saat musuh yang telah ditandai menerima DMG, maka karakter yang mengakibatkan DMG tersebut akan menerima pemulihan HP.  <i>"Aku adalah Penjaga Keberuntungan, sang Gadis Kebangkitan."</i> <i>—Qiqi tidak ingat kata-kata ini.</i>
+Life-Prolonging Methods
+Meningkatkan 20% Bonus Pemulihan karakter selama 8 detik saat karakter dalam efek <color=#FFD780FF>Adeptus Art: Herald of Frost</color> memicu reaksi elemental.
+A Glimpse Into Arcanum
+Saat Qiqi menyerang musuh dengan Normal dan Charged Attack, Qiqi memiliki 50% kemungkinan untuk memberikan Fortune-Preserving Talisman kepada musuh selama 6 detik. Efek ini dapat terpicu setiap 30 detik.
+Former Life Memories
+Memperlihatkan lokasi <color=#FFD780FF>produk khas Liyue</color> di sekitar pada mini-map.

@@ -1,0 +1,12 @@
+Ataque Normal: Lanza eclesiástica
+<color=#FFD780FF>Ataque Normal</color> Realiza hasta 5 ataques rápidos con lanza.  <color=#FFD780FF>Ataque Cargado</color> Consume una cierta cantidad de Aguante para lanzarse al frente, infligiendo daño a los enemigos en el camino.  <color=#FFD780FF>Ataque Descendente</color> Se lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.
+Confesión impronunciable
+Rosaria se desplaza rápidamente hasta detrás de su objetivo, clavándole su lanza y realizando un tajo que inflige <color=#99FFFFFF>Daño Cryo</color>. No es posible desplazarse hasta detrás de enemigos de gran tamaño con este movimiento.  <i>Rosaria no perdona los pecados de aquellos que se confiesan ante ella. Al contrario, cuanto más grave sea el pecado, más penetrante es el frío con el que los castiga.</i>
+Extremaunción
+Esta es la ceremonia de rezo dirigida exclusivamente por Rosaria. Tras empujar con su arma a los enemigos a su alrededor, concentra un frío extremo en su lanza helada para golpear el suelo, infligiendo <color=#99FFFFFF>Daño Cryo</color>. Mientras esté activa, la lanza helada emitirá intermitentemente un aire helado que inflige <color=#99FFFFFF>Daño Cryo</color> a los enemigos cercanos.  <i>Juzgar es algo muy fastidioso, así que ¿por qué no saltarse ese paso y celebrar directamente la última ceremonia de rezo? Debido a la poca devoción de Rosaria hacia el Arconte Anemo, esto no le resulta nada complicado.</i>
+Regina probatorum
+Cuando Rosaria ataca por la espalda a un objetivo con <color=#FFD780FF>Confesión impronunciable</color>, su Prob. CRIT aumenta en un 12% durante 5 s.
+Oscuridad expiatoria
+Al usar <color=#FFD780FF>Extremaunción</color>, la Prob. CRIT de todos los miembros del equipo (a excepción de Rosaria) aumenta durante 10 s en un 15% de la Prob. CRIT de Rosaria. El aumento de Prob. CRIT conseguido de esta manera no podrá ser superior al 15%.
+Travesía nocturna
+La Vel. Movimiento de todos los miembros de tu equipo aumenta en un 10% por la noche (18-06 h). Este efecto no se activará en dominios, Dominios de la cruzada y la Espiral del Abismo, y no se puede acumular con otros talentos pasivos que tengan los mismos efectos.

@@ -1,0 +1,12 @@
+Lighting Touch
+<color=#FFD780FF>Normal Attack</color> Melancarkan hingga 4 serangan listrik yang mengakibatkan <color=#FFACFFFF>Electro DMG</color>.  <color=#FFD780FF>Charged Attack</color> Mengonsumsi sejumlah Stamina dan mengakibatkan <color=#FFACFFFF>Electro DMG area</color> setelah jeda singkat.  <color=#FFD780FF>Plunging Attack</color> Mengumpulkan kekuatan Electro dan menerjang tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan <color=#FFACFFFF>Electro DMG area</color> saat mendarat.
+Violet Arc
+Menyalurkan kekuatan petir untuk menyapu bersih masalah yang merepotkan.  <color=#FFD780FF>Tekan</color> Melancarkan sebuah bola listrik yang mengejar musuh. Saat mengenai musuh, mengakibatkan <color=#FFACFFFF>Electro DMG</color> dan memberikan satu lapis efek Conductive (hingga 3 lapis) ke musuh di dalam area kecil.  <color=#FFD780FF>Tahan</color> Setelah waktu casting yang diperpanjang, memanggil petir dari langit untuk mengakibatkan <color=#FFACFFFF>Electro DMG</color> yang besar ke semua musuh di sekitar. Mengakibatkan tambahan DMG yang besar ke musuh berdasarkan jumlah lapisan Conductive yang mereka miliki dan menghapusnya.  <i>Warna Electro Purple adalah warna sang Rose Witch.</i>
+Lightning Rose
+Memanggil Lightning Rose yang mengerahkan sambaran petir dan menghempas musuh di sekitar untuk mengakibatkan <color=#FFACFFFF>Electro DMG</color>. Lightning Rose akan terus memanggil petir untuk menghempas musuh dan mengakibatkan <color=#FFACFFFF>Electro DMG</color> selama ia tetap ada.  <i>Hati-hati dengan duri mematikan dari mawar yang cantik.</i>
+Induced Aftershock
+Charged Attack yang mengenai musuh akan menyebabkan status Conductive dari <color=#FFD780FF>Violet Arc</color> pada musuh.
+Static Electricity Field
+Saat mengenai musuh, <color=#FFD780FF>Lightning Rose</color> akan mengurangi 15% DEF musuh selama 10 detik.
+General Pharmaceutics
+Lisa memiliki 20% kemungkinan mendapatkan kembali material yang digunakan saat membuat potion.

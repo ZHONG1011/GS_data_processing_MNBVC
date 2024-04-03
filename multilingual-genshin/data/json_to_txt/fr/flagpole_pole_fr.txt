@@ -1,0 +1,12 @@
+La hampe
+Réserve
+En attente
+Restaure <color=#99FFFFFF>8 %</color> des PV après la défaite d'un ennemi.
+En attente
+Restaure <color=#99FFFFFF>10 %</color> des PV après la défaite d'un ennemi.
+En attente
+Restaure <color=#99FFFFFF>12 %</color> des PV après la défaite d'un ennemi.
+En attente
+Restaure <color=#99FFFFFF>14 %</color> des PV après la défaite d'un ennemi.
+En attente
+Restaure <color=#99FFFFFF>16 %</color> des PV après la défaite d'un ennemi.

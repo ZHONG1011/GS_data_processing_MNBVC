@@ -1,0 +1,14 @@
+Attaque normale : École Kamisato - Sveltesse
+<color=#FFD780FF>Attaque normale</color> Enchaîne jusqu'à 5 coups d'épée.  <color=#FFD780FF>Attaque chargée</color> Consomme de l'endurance pour déclencher deux lames du vent rapides.  <color=#FFD780FF>Attaque descendante</color> Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT de zone à l'impact.
+École Kamisato : Fleur de glace
+Ayaka invoque une fleur glacée qui projette les ennemis proches, leur infligeant des <color=#99FFFFFF>DGT Cryo de zone</color>.  <i>« Les nuages enveloppent la lune, le désir descend tel un brouillard, emplissant le cœur du voyageur. »</i>
+École Kamisato : Sentier de givre
+<color=#FFD780FF>Sprint alternatif</color> Ayaka consomme de l'endurance pour se déplacer rapidement au milieu d'un brouillard de glace.  Sous Sentier de givre, Ayaka peut se déplacer rapidement sur l'eau. À la fin de l'état, elle réapparaît ; deux choses se produisent alors simultanément : · Elle libère une énergie glacée qui applique aux ennemis proches l'élément <color=#99FFFFFF>Cryo</color>. · Le froid se concentre sur son épée : les DGT qu'inflige cette dernière sont momentanément convertis en <color=#99FFFFFF>DGT Cryo</color>.  <i>« Volent les ailes mouillées / Le héron blanc marche sur l'eau / D'une vision parfaite »</i>
+École Kamisato : Givre mortel
+Ayaka adopte une posture magnifique pour libérer un tourbillon givré qui avance sans s'arrêter.  <color=#FFD780FF>Tourbillon givré</color> · Le tourbillon givré lacère de façon continue les ennemis qui se trouvent sur sa route, infligeant des <color=#99FFFFFF>DGT Cryo</color>. · Le tourbillon finit par exploser, infligeant des <color=#99FFFFFF>DGT Cryo de zone</color>.  <i>« Le blizzard dissimule les pensées du héron, au cœur rempli de pitié. »</i>
+Sanctification de l'impur
+Confère aux attaques normales et chargées d'Ayaka suivant dans les 6 s le lancement d'<color=#FFD780FF>École Kamisato : Fleur de glace</color> un bonus de 30 % de DGT.
+Bénédiction de Kanten Senmyou
+L'énergie glacée libérée à la fin du Sentier de givre d'<color=#FFD780FF>École Kamisato : Sentier de givre</color> confère à Ayaka les effets suivants lorsqu'elle touche l'ennemi : Régénération de 10 pts d'endurance ; <color=#99FFFFFF>Bonus de DGT Cryo</color> de 18 % pendant 10 s.
+Fruits de Shinsa
+10 % de chances d'obtenir le double de produits lors de la synthèse de matériaux d'élévation d'arme.

@@ -1,0 +1,12 @@
+Inscription menaçante
+<color=#FFD780FF>Chakra Desiderata</color> accumule de la résolution encore plus rapidement. Quand un personnage <color=#FFACFFFF>Électro</color> utilise un déchaînement élémentaire, le gain de résolution augmente de 80 % ; quand un personnage d'un autre type élémentaire utilise un déchaînement élémentaire, le gain de résolution augmente de 20 %.
+Brise-acier
+Lorsqu'elles bénéficient de l'état d'Harmonie d'idéal accordé par <color=#FFD780FF>Art secret : Dogme d'idéal</color>, les attaques de la Shogun Raiden ignorent 60 % de la DÉF des ennemis.
+Shinkage du passé
+Niveau d'aptitude <color=#FFD780FF>Art secret : Dogme d'idéal</color> +3. Niveau max : 15
+Serment de droiture
+Lorsque l'état d'<color=#FFD780FF>Harmonie d'idéal</color> accordé par <color=#FFD780FF>Art secret : Dogme d'idéal</color> prend fin, l'ATQ de tous les membres de l'équipe à proximité (hormis la Shogun Raiden) augmente de 30 % pendant 10 s.
+Apparition de la Shogun
+Niveau d'aptitude <color=#FFD780FF>Transcendance : Présage funeste</color> +3. Niveau max : 15
+Porteur de souhaits
+Lorsqu'elles bénéficient de l'état d'<color=#FFD780FF>Harmonie d'idéal</color> accordé par <color=#FFD780FF>Art secret : Dogme d'idéal</color>, les attaques de la Shogun Raiden qui sont considérées comme faisant partie de son déchaînement élémentaire diminuent le TdR des déchaînements élémentaires de tous les membres de l'équipe à proximité (hormis la Shogun Raiden) de 1 s. Cet effet peut être déclenché une fois toutes les secondes, et un maximum de 5 fois pendant la durée de cet état.

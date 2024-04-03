@@ -1,0 +1,12 @@
+Ataque Normal: Técnica de espada Favonius - Criada
+<color=#FFD780FF>Ataque Normal</color> Realiza hasta 4 tajos de espada consecutivos.  <color=#FFD780FF>Ataque Cargado</color> Consume Aguante de manera constante para realizar golpes de espada giratorios contra los enemigos cercanos. Al final del Ataque Cargado, realizará un golpe de espada más poderoso.  <color=#FFD780FF>Ataque Descendente</color> Se lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.
+Guardiana del corazón
+Invoca un recubrimiento Geo que inflige <color=#FFE699FF>Daño Geo</color> a los enemigos cercanos y absorbe daño en proporción a la DEF de Noelle. El escudo tiene los siguientes efectos: ·Cuando los Ataques Normales y Ataques Cargados de Noelle golpean un objetivo, hay una probabilidad de regenerar Vida para todos los miembros del equipo. ·Posee un 150% de eficiencia de absorción contra todo el Daño Elemental y el Daño Físico.  La cantidad de Vida curada es proporcional a la DEF de Noelle.  <i>Noelle es una fiel criada y, al mismo tiempo, una valiente caballera.</i>
+Hora de limpiar
+Al reunir el poder de la roca alrededor de su arma, Noelle golpea a los enemigos que la rodean dentro de una gran AdE, infligiendo <color=#FFE699FF>Daño Geo</color>. Después, Noelle obtiene los siguientes efectos: ·Aumenta el alcance de su ataque. ·Convierte el daño de ATQ en <color=#FFE699FF>Daño Geo</color>. Este cambio elemental no puede ser sustituido imbuyéndolo de otro elemento. ·Aumenta el ATQ en proporción a la DEF de Noelle.  <i>Lo que debe limpiarse a veces no es solo el polvo...</i>
+De todo corazón
+Si la Vida de tu personaje en uso es inferior al 30% cuando Noelle está en tu equipo pero no en combate: ·Dicho personaje en uso recibirá inmediatamente un escudo de una duración de 20 s que absorbe un daño equivalente al 400% de la DEF de Noelle. ·El escudo tiene un 150% de efectividad de absorción contra todo el Daño Elemental y el Daño Físico. ·Este efecto solo puede ocurrir una vez cada 60 s.
+Pulcra y eficaz
+Por cada 4 veces consecutivas que Noelle golpee a un enemigo con sus Ataques Normales o Cargados, el TdE de <color=#FFD780FF>Guardiana del corazón</color> se reduce en 1 s. Como máximo, cada golpe solo puede ocurrir una vez cada 0.1 s.
+Dedicación de la criada
+Al lograr un “Perfecto” en un plato con efectos de defensa, hay una probabilidad del 12% de obtener el doble.

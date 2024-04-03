@@ -1,0 +1,12 @@
+Ominous Inscription
+<color=#FFD780FF>Chakra Desiderata</color> dapat mengumpulkan Resolve dengan lebih cepat. Setelah Karakter dengan elemen <color=#FFACFFFF>Electro</color> melancarkan Elemental Burst, jumlah Resolve yang didapatkan akan meningkat 80%. Setelah Karakter dengan elemen lain melancarkan Elemental Burst, jumlah Resolve yang didapatkan akan meningkat 20%.
+Steelbreaker
+Saat menggunakan Musou no Hitotachi dan berada dalam status Musou Isshin yang diperoleh dari skill <color=#FFD780FF>Secret Art: Musou Shinsetsu</color>, serangan Raiden Shogun akan mengabaikan 60% DEF musuh.
+Shinkage Bygones
+Meningkatkan 3 level <color=#FFD780FF>Secret Art: Musou Shinsetsu</color>. Maksimum: Lv. 15.
+Pledge of Propriety
+Setelah status <color=#FFD780FF>Musou Isshin</color> yang diperoleh dari <color=#FFD780FF>Secret Art: Musou Shinsetsu</color> berakhir, seluruh anggota party di sekitar (kecuali Raiden Shogun sendiri) mendapatkan 30% bonus ATK selama 10 detik.
+Shogun's Descent
+Meningkatkan 3 level <color=#FFD780FF>Transcendence: Baleful Omen</color>. Maksimum: Lv. 15.
+Wishbearer
+Saat berada dalam status <color=#FFD780FF>Musou Isshin</color> yang diperoleh dari <color=#FFD780FF>Secret Art: Musou Shinsetsu</color>, DMG Elemental Burst Raiden Shogun yang mengenai musuh akan mengurangi 1 detik CD Elemental Burst seluruh anggota party di sekitar (kecuali Raiden Shogun sendiri). Efek ini dapat terpicu setiap 1 detik, dan dapat terpicu maksimum 5 kali selama durasi status.

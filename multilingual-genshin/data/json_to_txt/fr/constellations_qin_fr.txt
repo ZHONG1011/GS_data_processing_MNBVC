@@ -1,0 +1,12 @@
+Tourmente tranchante
+La VIT d'attraction et les DGT infligés par <color=#FFD780FF>Épée de tourbillon</color> augmentent de 40 % lorsque la compétence reste activée plus d'une seconde.
+Égide du peuple
+La VIT de déplacement et d'attaque de tous les personnages de l'équipe augmente de 15 % pendant 15 s lorsque Jean obtient un orbe ou une particule élémentaire.
+Lorsque le vent d'ouest souffle
+Niveau d'aptitude <color=#FFD780FF>Brise de pissenlit</color> +3. Niveau max : 15
+Territoire des pissenlits
+La <color=#80FFD7FF>RÉS Anémo</color> des ennemis à l'intérieur du champ de <color=#FFD780FF>Brise de pissenlit</color> est réduite de 40 %.
+Le moment du vent violent
+Niveau d'aptitude <color=#FFD780FF>Épée de tourbillon</color> +3. Niveau max : 15
+Croc de Lion, le protecteur de Mondstadt
+Les DGT subis par les personnages dans le champ de <color=#FFD780FF>Brise de pissenlit</color> sont réduits de 35 %. Après avoir quitté le champ, cet effet disparaît après avoir subi 3 attaques ou après 10 s.

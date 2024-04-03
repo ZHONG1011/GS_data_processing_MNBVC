@@ -1,0 +1,13 @@
+Quartz
+Pedang besar yang sederhana, tapi sangat berat. Terbuat dari kuart yang diasah dan memiliki ukiran emas yang indah. Meningkatkan karisma dan keanggunan saat digenggam.
+ Legenda mengatakan saat Perang Archon berkecamuk, Batu adalah pedang dan juga tombaknya. Archon Geo membasmi kejahatan, Melawan monster dengan pedang batunya. Untuk memperingati jasanya, Blackcliff Forge menempa senjata baru, Sebuah pedang besar yang terbuat dari batu kuarsa hitam. 
+Residual Heat
+Saat memicu Overloaded, Melt, Burning, Vaporize, Burgeon, atau reaksi Swirl dengan elemen Pyro, meningkatkan <color=#99FFFFFF>20%</color> ATK selama 12 detik.
+Residual Heat
+Saat memicu Overloaded, Melt, Burning, Vaporize, Burgeon, atau reaksi Swirl dengan elemen Pyro, meningkatkan <color=#99FFFFFF>25%</color> ATK selama 12 detik.
+Residual Heat
+Saat memicu Overloaded, Melt, Burning, Vaporize, Burgeon, atau reaksi Swirl dengan elemen Pyro, meningkatkan <color=#99FFFFFF>30%</color> ATK selama 12 detik.
+Residual Heat
+Saat memicu Overloaded, Melt, Burning, Vaporize, Burgeon, atau reaksi Swirl dengan elemen Pyro, meningkatkan <color=#99FFFFFF>35%</color> ATK selama 12 detik.
+Residual Heat
+Saat memicu Overloaded, Melt, Burning, Vaporize, Burgeon, atau reaksi Swirl dengan elemen Pyro, meningkatkan <color=#99FFFFFF>40%</color> ATK selama 12 detik.

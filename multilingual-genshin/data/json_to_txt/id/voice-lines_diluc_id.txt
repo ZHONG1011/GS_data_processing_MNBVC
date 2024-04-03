@@ -1,0 +1,146 @@
+Halo
+Aku Diluc dari Mondstadt. Tidak suka basa-basi. Kalau ada urusan yang harus diselesaikan, beri tahu saja aku.
+Berbincang: Santai
+Istirahatlah sebentar.
+Berbincang: Knights of Favonius
+Seharusnya kamu ajak mereka Knights of Favonius itu bepergian denganmu lain kali.
+Berbincang: Karavan
+Masih ada banyak urusan di guild, kamu istirahat dulu saja di sini, biar aku pergi dulu.
+Berbincang: Persiapan
+Kita harus bersiap dahulu selama kita bisa, lalu menyerang musuh duluan.
+Berbincang: Rencana
+Ayo kita istirahat dulu sambil merencanakan langkah kita berikutnya.
+Berbincang: Peringatan
+Walaupun memang setiap perbuatan ada risikonya, kita harus tetap berhati-hati.
+Saat Hujan: Payung
+Aku tidak perlu payung, kamu pakai saja kalau kamu butuh.
+Saat Hujan: Bersih-bersih
+Hujan? Sayang sekali hujan tidak bisa membasuh hati yang kotor itu.
+Waktu Matahari Bersinar
+Selama kamu benar-benar yakin dengan jalanmu sendiri, kamu tidak perlu khawatir dengan rintangan apa pun.
+Saat Angin Berembus
+Suara angin yang memekakkan telinga ini bisa digunakan untuk menutupi jejak kejahatan.
+Selamat Pagi
+Tidak perlu saling menyapa, yang penting semuanya aman-aman saja tadi malam.
+Selamat Siang
+Apakah mau mencoba menu rahasia?
+Selamat Malam
+Malam telah tiba.
+Selamat Tidur
+Ya, sampai jumpa. Biar kuantarkan ke depan.
+Tentang Diluc sendiri
+Legenda "Darknight Hero"? Rumor menarik.
+Tentang Kita: Keperluan
+Katakan saja apa yang kamu butuhkan. Urusan penggantian biaya biar Elzer yang urus.
+Tentang kami: Bukti
+Kamu sudah menyampaikan apa yang menjadi tekadmu. Sekarang, giliran kamu yang menyaksikan tekad yang akan kuucapkan ini.
+Tentang Vision
+Bagi mereka yang tidak dapat melihat jalan di depan, "Vision" bisa menjadi sebuah pelita yang menerangi. Tetapi, bagi mereka yang memiliki keyakinan, vision tidak lebih dari sebuah medali keyakinan saja.
+Berbagi Cerita
+Aku kadang-kadang pergi ke "Angel's Share" untuk meracik anggur sendiri, karena Tavern adalah tempat berkumpulnya informasi di Mondstadt.
+Rumor yang menarik
+Hah? Kenapa kamu bertanya begitu? Jawabanku tentu burung hantu. Dia akan diam-diam mengawasi mangsanya dari kegelapan, lalu menunggu waktu yang pas untuk menyergapnya ... Sempurna.
+Tentang Kaeya
+Kaeya? Kamu paling bisa percaya setengah saja apa ucapannya ... itu pun maksimal.
+Tentang Lisa
+Lisa, bisa menjadi salah satu orang paling dapat diandalkan di Knights of Favonius. Kalau dia bersedia.
+Tentang Jean: Musuh
+Masalah sepele bisa jadi musuh terbesar Jean.
+Tentang Jean: Tanggung Jawab
+Rasa tanggung jawab Jean yang berlebihan adalah satu-satunya alasan mengapa dia masih belum menemukan panggilan sejatinya.
+Tentang Mona
+Tanah Mondstadt subur berkat anugerah dari Archon Anemo. Kurasa tidak perlu mengandalkan para peramal untuk memprediksi panen.
+Tentang Diona
+Sikap Diona kepadaku ... bagaimana aku harus menjelaskannya ya? Agak dingin. Aku pun tidak pernah menemukan kesempatan yang pas untuk berkomunikasi dengannya. Aku tidak yakin apa itu ada hubungannya dengan garis keturunan keluarganya, atau ... Hmm? Maksudku ... Dia tidak suka anggur? Tidak diduga, ternyata di Mondstadt ada juga bartender yang tidak suka dengan anggur.
+Tentang Varka
+Grand Master Varka, aku paham posisinya, tapi aku tetap saja tidak bisa seirama dengan gayanya. Huh ... maafkan, mulutku ini memang terlalu comel. Aku bukan lagi seorang Knights of Favonius, lupakan saja apa yang barusan kukatakan.
+Tentang Eula
+Aku sudah dengar tentang dia. Dia punya masalahnya sendiri. Kegigihannya untuk membebaskan dirinya sendiri dari belenggu klannya layak untuk dipuji. Tapi, dia ... bergabung dengan Knights of Favonius.
+Mengenal Diluc: I
+Apa yang sedang kamu lakukan?
+Mengenal Diluc: II
+Hmm, kamu bertanya tentang Knights of Favonius? Umm ... tidak ada yang perlu dibicarakan, pandangan hidupku dengan mereka berbeda.
+Mengenal Diluc: III
+Sudah lama aku tidak bermain melawan orang lain selain kepala pelayan. Sulit sekali memiliki waktu senggang seperti ini, ayo kita mulai permainan caturnya.
+Mengenal Diluc: IV
+Skakmat! Huh, sudah lama aku tidak pernah terdesak oleh orang lain seperti ini.
+Mengenal Diluc: V
+Kamu boleh juga. Baik bermain catur maupun bertempur, kemampuanmu sangat mengesankan. Hmm, kerja sama semacam ini juga merupakan hal baru bagiku ... Kalau begitu, mulai dari sekarang, ayo pergi bersama-sama, partner.
+Hobi Diluc
+Karya seni di rumahku? Itu semua bukan milikku. Itu adalah koleksi milik mendiang ayahku.
+Kekhawatiran Diluc
+Musuh yang benar-benar harus dilenyapkan adalah "kegelapan" yang melahirkan dosa itu sendiri, perlu dikalahkan dengan cara lain selain menggunakan pedang...
+Makanan Favorit
+Kamu tanya aku apa anggur yang ada di gelas? Itu hanya jus anggur, aku biasanya minum ini.
+Makanan yang tidak kamu suka
+Aku tidak suka anggur. Bukan apa-apa ... aku tidak suka rasanya sewaktu ada di mulutku ....
+Menerima Hadiah: I
+Ah, enak sekali. Benar-benar rasa yang tak akan terlupakan.
+Menerima Hadiah: II
+Aku jamin kokinya memasak pakai hati. Makanan yang enak.
+Menerima Hadiah: III
+Terima kasih.
+Ulang Tahun
+Selamat ulang tahun! Ini adalah hari penting untukmu. Sebutkan saja harapanmu. Kalau sekiranya memungkinkan, aku akan membantumu meraihnya.
+Perasaan Tentang Ascension: Permulaan
+Untuk mencapai tujuan, kekuatan sangatlah diperlukan.
+Perasaan Tentang Ascension: Persiapan
+Apa yang akan terjadi selanjutnya? Aku jarang memikirkan masalah seperti ini.  Satu hal yang pasti, aku harus tetap maju, tidak peduli apa yang menghadang di depanku.
+Perasaan Tentang Ascension: Klimaks
+Kekuatan telah meningkat ... Meskipun masih belum cukup, tapi aku akan selalu menghadapi kegelapan.  Sebelum "fajar" menyingsing, harus ada seseorang yang menerangi sedikit "kegelapan" dengan sinarnya ....
+Perasaan Tentang Ascension: Konklusi
+Dulu aku sempat mengira ... untuk menghapus kejahatan, aku harus berjalan sendirian dalam kegelapan. Tapi kegigihanmu membuatku sadar kalau itu salah. "Teman", aku berterima kasih padamu.
+Elemental Skill: I
+Hmph!
+Elemental Skill: II
+Hah!
+Elemental Skill: III
+Haah!
+Elemental Skill: I
+Hah!
+Elemental Skill: II
+Hyah!
+Elemental Skill: III
+Haah!—
+Elemental Burst: I
+Demikianlah putusan akhirmu!
+Elemental Burst: II
+Berkobarlah!
+Elemental Burst: III
+Waktunya 'tuk penghakiman!
+Elemental Burst: I
+Api, bersihkanlah!
+Elemental Burst: II
+Yang jahat, binasalah!
+Elemental Burst: III
+Senja, datanglah!
+Membuka Peti Harta: I
+Hah, mending daripada tidak dapat apa-apa.
+Membuka Peti Harta: II
+Boleh juga.
+Membuka Peti Harta: III
+Kita perlu lebih banyak yang seperti ini.
+HP Rendah: I
+Segitu saja kemampuanmu?
+HP Rendah: II
+Urgh!
+HP Rendah: III
+Kamu akan membayarnya!
+HP Rekan Rendah: I
+Awas!
+HP Rekan Rendah: II
+Jangan memaksa! Mundur!
+Gugur: I
+Di mana letak kesalahanku ....
+Gugur: II
+Tidak ada alasan apa pun ... untuk kekalahan ....
+Gugur: III
+Kobaran apiku ... sudah ... padam ....
+Menerima Serangan Hebat: I
+Urgh!
+Bergabung ke Party: I
+Ayo berangkat.
+Bergabung ke Party: II
+Apa target kita?
+Bergabung ke Party: III
+Ayo kita bereskan ini dengan mulus.

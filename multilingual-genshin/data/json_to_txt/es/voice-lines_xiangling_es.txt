@@ -1,0 +1,142 @@
+Hola...
+Soy Xiangling, una chef de Liyue. ¡Se me da bien cocinar con toda clase de ingre...! ¡De ingredientes! ¡Ay, con todas las veces que practiqué y, aun así, se me olvida esa palabra!
+Charla - Tentempié
+¿Tenemos tiempo para comer algo? ¡Prepararé algo en un momentito!
+Charla - Slime Pyro
+¿Cómo sabrá mejor el Slime Pyro?... ¿Con pimienta o con ajo y hierbas aromáticas?
+Charla - Buscando comida
+Si no tienes nada que hacer, ¡ayúdame a buscar nuevos ingredientes!
+Cuando llueve - Actitud
+Hummm... No me gustan los días de lluvia.
+Cuando llueve - Negligencia
+No me acuerdo bien... ¿Puse mi delantal a secar fuera?
+Tras la lluvia...
+Vamos, ¡a buscar matsutake!
+Cuando hace viento...
+A los Slimes Anemo les gusta mucho salir con este tiempo. ¡Aprovechemos para cazar unos cuantos y te haré un batido de Slime!
+Buenos días...
+¡Llegas justo a tiempo! Vamos por unos pocos ingredientes.
+Buenas tardes...
+¡La comida está lista! Rápido, ¡ven! *Ñam, ñam*, si no vienes ya, no quedará nada.
+Buenas noches... (I)
+#¿Quieres un aperitivo? Justo estoy haciendo brochetas de lagarto a la parrilla. Vamos, no te quedes ahí {M#parado}{F#parada}, ¡come!
+Buenas noches... (II)
+¡Oye! No estarás pensando en ir a comer algo sin mí, ¿no? ¿Cómo dices? ¿Que es la hora de dormir? Oh, bueno... Entonces, ¡buenas noches!
+Sobre Xiangling...
+¿Has visto al dragón de Mondstadt? ¿Era muy grande? ¿¡Qué!? ¿En serio? ¡Imagina el filete que se podría hacer con un dragón tan grande!
+#Sobre nosotr{F#as}{M#os} - Puntos fuertes
+Se me da mucho mejor cocinar que orientarme... Pero no importa. Si sales a algún sitio, avísame.
+#Sobre nosotr{F#as}{M#os} - Nuevos conocimientos
+Conocerte me ha hecho ver otras cosas aparte de la cocina. ¿Como qué? Bueno, como... por ejemplo... ¡No se me ocurre nada si me lo preguntas tan de repente! Olvídalo, aparte de cocinar, prácticamente nada se me da bien. Mira, ¡tengo una nueva receta que podrías probar!
+Sobre la Visión...
+Siempre estoy dispuesta a cocinar lo que le gusta a la gente, no importa cuándo sea. Creo que los Arcontes reconocen mi pasión. Si no, no me habrían dado una Visión, algo que ni siquiera tiene mi maestro... ¡Sé que quieren que continúe!
+¿Algo que decir?
+Si te duele el estómago, ¡una taza de té hecho con flores de seda te curará el dolor en un santiamén! ¿Eh? ¡Por supuesto que puedes confiar en mí! De los chefs también se espera que tengamos conocimientos básicos de medicinas.
+Una noticia interesante...
+¡Me encanta la cebolla! He intentado cortarlas de decenas de maneras diferentes y, aun así, siguen haciéndome llorar... Pero no me importa, ¡porque me encantan!
+Sobre Baizhu...
+#¡Huele a flores neblinosas! ¡Debe ser el maestro Baizhu! ¿Qué esta haciendo él aquí? ¿Estás bien? ¿Te sientes débil? ¿Te duele el estómago? ¿O es un dolor de garganta? Ah, ya entiendo, ¡estás cansad{F#a}{M#o} de tantas aventuras! ¿No? ¿Estás bien? Uf, menos mal. Si no, te habría obligado a tomar una medicina de hierbas. ¡Ni te imaginas lo amarga que es!
+Sobre Ninguang...
+¡Oh! Esa que acaba de pasar era el Equilibrio Celestial. ¿La viste? Ven aquí... Más cerca... Ella sabe todo lo que sucede en Liyue, así que... mantén un perfil bajo, ¡y no llames su atención!
+Sobre Hu Tao...
+¿Hu Tao también te ha estado molestando? Uf, siempre espera a que yo esté desprevenida para acercarse a mí por detrás y... ¡Bu! Me asusta y se ríe de mí. ¡Hum! Pero bueno, no es para tanto, e incluso me trae flores de ciruelo fermentadas de vez en cuando para que le haga pasteles de flores y no me enfade con ella.
+Sobre Diona...
+¡Diona, de Aguaclara!... Ah, escuché que hace unas bebidas deliciosas, ¡así que vine específicamente a verla! Pensé que tal vez podría usar alguno de sus secretos en mi cocina para crear más sabores. Pero con los consejos que me dio, como remojar las colas de lagarto en cerveza o poner trozos de pescado ahumado en vino de diente de león, todo lo que hice me salió horrible. *Suspira* Supongo que, al final, solo puedo depender de mí misma.
+Sobre Beidou...
+Oh, ¡Beidou es la mejor! ¡Cada vez que navego con ella, siempre consigue pescar cosas muy frescas! Los tentáculos de pulpo son perfectos para poner en una sopa, y las algas saben muy bien si se sofríen con chile. No solo Beidou adora mi cocina, sino también toda la tripulación de la Flota Crux Meridianam, jijiji.
+Sobre Zhongli...
+Me he encontrado con muchos comensales quisquillosos, pero el Sr. Zhongli es uno de los más particulares. Siempre dice lo que piensa sin rodeos. La primera vez que le hice tofu con sal y pimienta, lo probó y dijo: “Podrías probar a usar sal de las profundidades del mar del Bosque de Piedra Guyun para darle al plato una textura y frescor especiales”. ¡Lo probé y el sabor era muy distinto! Es una persona increíble, ¿no te parece?
+Sobre Chongyun...
+¿Chongyun? Siempre lo veo yendo a comer al Restaurante Wanmin con Xingchiu... ¿O tal vez debería decir que lo veo siendo arrastrado hasta allí por Xingchiu? Chongyun no come comida caliente. Cada vez que les sirven comida caliente, Xingchiu se disculpa y procede a probar y valorar cada plato. Al verlo, ¡solo quiero comer junto a él! Mientras, la cara que pone Chongyun no tiene precio, jajaja. Esos dos son una pareja muy interesante.
+Sobre Ganyu...
+¿Ganyu? ¡Ah, sí! La recuerdo. Es vegetariana, ¿verdad? No suele venir al Restaurante Wanmin, pero cuando lo hace, se sienta sola en una esquina y come en silencio total. Pobrecita, parece estar muy sola... Siempre le doy una ración extragrande porque me da mucha pena. Lo más gracioso es que nunca deja nada de comida. Por su aspecto, nunca hubiera imaginado que tendría un apetito tan grande. ¡Las apariencias engañan!
+Sobre Yaoyao...
+Jiji. Para mí, ¡es un orgullo que ella sea mi compañera de estudios! Sin embargo, hace muchos años que no se pasa por el restaurante Wanmin. Tal vez nuestro maestro está tratando de protegerla de mí o algo... La última vez que salimos juntas, estuve a punto de comerme un pulpo crudo del Mar de Nubes. Entonces, ella no solo evitó que lo comiera, ¡sino que llamó a nuestro maestro para que me regañara! Hummm... Como soy la mayor de las dos, siempre me había visto a mí misma como la chef principal, pero ahora ya no estoy tan segura...
+Sobre Xinyan...
+¡Xinyan siempre viene al restaurante Wanmin por un aperitivo nocturno! Ella es la que pide todos los platos nuevos que Xingchiu y Chongyun no se atreven a probar... ¡Y casi siempre le gustan esos platos! Es genial.
+Sobre Yelan...
+¿Yelan? ¡Claro que la recuerdo! Cuando la conocí, tenía la certeza de que era el tipo de chica a la que le gustan los platos ligeros. Pues resulta que, de todos mis clientes, ¡es la que mejor aguanta el picante! Al parecer, mis platos no le parecieron lo suficientemente picantes, ¡porque empezó a comer chiles de Jueyun crudos! ¡Increíble!
+Más sobre Xiangling (I)
+¿Alguien quiere brochetas de carne de paloma asada? Vamos, es mi receta secreta, ¡les encantará!
+Más sobre Xiangling (II)
+Mi maestro me enseñó muy bien a luchar con lanzas, ¿no te parece? Si quieres, yo también podría enseñarte. Aunque... ¡prefiero enseñarte a cocinar! Si te interesa, claro. ¡Quiero que mis recetas se conozcan en todo Teyvat!
+Más sobre Xiangling (III)
+¿Mi mayor deseo? ¡Comenzar mi propia tradición culinaria! Las cocinas estilo Li y Yue son buenas, pero sus sabores son muy limitados. ¿El ingrediente que les falta? ¡Chile! ¡Mucho chile! Ven, deja que sofría unos chiles de Guoba para que los pruebes.
+Más sobre Xiangling (IV)
+Creo que te conquisté con mis habilidades culinarias, ¿cierto? Bien, es hora de presentarte mi última obra maestra: ¡lo llamo el “maravilloso superpanqueque multicolor”! Jamón de ardilla roja, zanahoria anaranjada, carne de rana amarilla, lirio cala verde y alas de mariposa azules cuidadosamente envueltas en un fino panqueque de huevo. ¿Eh? ¿De verdad no quieres comerlo? Bueno...
+Más sobre Xiangling (V)
+Tengo un dilema que me está quitando el sueño por las noches. ¡Y eso nunca suele pasarme! La cosa es que me gusta que pruebes mis recetas nuevas, pero... me preocupa que mi comida no le siente bien a tu estómago... Si eso sucediera, no podría perdonármelo. ¿Qué debería hacer?
+Aficiones de Xiangling...
+¡Mira atentamente! Calienta el aceite en una sartén, pon en ella cristalópteros después de quitarles las alas y... ¡listo! Deliciosos cristalópteros fritos. ¿Eh? ¿A dónde vas?
+Preocupaciones de Xiangling...
+Ha pasado un mes y todavía no he vendido ni un solo estofado de champiñones y Slime. *Suspira*, ¿es porque se ve viscoso y pegajoso? ¡Ellos se lo pierden!
+Comida que más le gusta...
+Mi comida favorita es... ¡cualquier ingrediente exótico que aún no haya probado! No, no estoy evitando tu pregunta, ¡esa es mi respuesta de verdad!
+Comida que menos le gusta...
+¡No tengo ningún prejuicio con la comida! Ninguna comida es mala, ¡sino que depende de cómo se cocine!
+Al recibir un regalo (I)
+¡Mmm! ¡Conozco este sabor! ¡Tiene “bum” y “kachá-kachá”!
+Al recibir un regalo (II)
+#He de admitir que eres muy {F#buena cocinera}{M#buen cocinero}. ¡La próxima vez me toca a mí mostrarte algún plato!
+Al recibir un regalo (III)
+¿Seguro que seguiste la receta? Hay algo extraño en este plato...
+Cumpleaños...
+#¡Ah, ahí estás! ¡Ven conmigo! He preparado una fiesta de cumpleaños para ti... No, en serio, ¡insisto! ¿Cuál de todos los platos que he preparado te gusta más? Tranquil{F#a}{M#o}, pruébalos todos y luego me dices.
+El sentimiento de Ascensión - Introducción
+¡Guau! ¡Increíble! ¡Me siento con mucha energía!
+El sentimiento de Ascensión - Desarrollo
+¡Ju! ¡Ja! ¡Yeehaaa! Puedo derrotar a estos animales de un golpe. Así, su frescura está garantizada.
+El sentimiento de Ascensión - Nudo
+Con esta fuerza, por fin podré cocinar... Oh, no, estoy salivando otra vez.
+El sentimiento de Ascensión - Desenlace
+Como dice mi padre: “Para hacer un plato de cinco estrellas, ¡necesitas una pasión de diez estrellas!”. ¡Lo sé, lo sé! Si conseguí llegar hasta aquí, es gracias a tu gran pasión por ayudarme a entrenar. Te lo devolveré con el doble... No, ¡el triple de pasión!
+Habilidad Elemental (I)
+¡A por ellos, Guoba!
+Habilidad Elemental (II)
+¡Delicioso y picante!
+Habilidad Elemental (III)
+¡De la sartén al fuego!
+Habilidad Definitiva (I)
+¡Eh! ¡Ja!
+Habilidad Definitiva (II)
+¡Chamúscate!
+Habilidad Definitiva (III)
+¡Prueba esto!
+Al esprintar (I)
+¡Una carrera!
+Después de esprintar (I)
+Ahora me duele el estómago...
+Al abrir un cofre (I)
+¡Ábrete, sésamo! Oh, ahora tengo hambre...
+Al abrir un cofre (II)
+¡Qué buena cosecha!
+Al abrir un cofre (III)
+¡No desperdiciaré nada de esto!
+Vida baja (I)
+Hoy me quedo sin ingredientes...
+Vida baja (II)
+¡Au! Oh...
+Vida baja (III)
+¡Ahora sí que estoy en un apuro!
+Aliado con vida baja (I)
+¡Tómate un respiro y ve a comer algo!
+Aliado con vida baja (II)
+¡Largo!
+Derrotada (I)
+La comida se quemó...
+Derrotada (II)
+Agua...
+Derrotada (III)
+No... ¿Lo arruiné todo?
+Recibiendo un ligero ataque (I)
+No me pegues...
+Recibiendo un fuerte ataque (I)
+¡Ayuda! ¡Mi comida me ataca!
+Recibiendo un fuerte ataque (II)
+¡Eso dolió!
+Unirse al equipo (I)
+¡Traeré los ingredientes!
+Unirse al equipo (II)
+¡Mi lanza está afilada!
+Unirse al equipo (III)
+¡No puedo esperar más!

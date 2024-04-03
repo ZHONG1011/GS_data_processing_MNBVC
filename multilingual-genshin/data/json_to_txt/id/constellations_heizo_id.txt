@@ -1,0 +1,12 @@
+Named Juvenile Casebook
+Setelah Shikanoin Heizou berada di medan tempur selama 5 detik, Normal Attack SPD-nya akan meningkat 15%. Lalu akan mendapatkan 1 lapis efek Declension dari <color=#FFD780FF>Heartstopper Strike</color>. Efek dapat terpicu setiap 10 detik.
+Investigative Collection
+Efek tarikan dari Arresting Windtunnel yang diciptakan oleh <color=#FFD780FF>Windmuster Kick</color> menjadi semakin kuat dan durasinya bertambah menjadi 1 detik.
+Esoteric Puzzle Book
+Meningkatkan 3 level <color=#FFD780FF>Heartstopper Strike</color>. Maksimum: Lv. 15.
+Tome of Lies
+Ledakan Windmuster Iris pertama di setiap <color=#FFD780FF>Windmuster Kick</color> akan memulihkan 9 Elemental Energy Shikanoin Heizou. Setiap ledakan berikutnya dalam Windmuster Kick tersebut masing-masing akan memulihkan 1,5 Energy tambahan untuk Heizou. Satu kali <color=#FFD780FF>Windmuster Kick</color> hanya dapat memulihkan maksimum hingga 13,5 Energy Heizou dengan cara ini.
+Secret Archive
+Meningkatkan 3 level <color=#FFD780FF>Windmuster Kick</color>. Maksimum: Lv. 15.
+Curious Casefiles
+Setiap lapis Declension akan meningkatkan CRIT Rate <color=#FFD780FF>Heartstopper Strike</color> yang dilancarkan sebesar 4%. Saat Heizou memiliki Conviction, maka akan meningkatkan 32% CRIT DMG dari Heartstoppper Strike.

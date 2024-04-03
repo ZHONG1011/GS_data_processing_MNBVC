@@ -1,0 +1,12 @@
+Trampa anticonspiradores
+Aumenta en 1 las cargas de <color=#FFD780FF>Atadura salvavidas</color>.
+Aprisionamiento masivo
+Cuando el <color=#FFD780FF>dado intrincado</color> activa un ataque coordinado, lanzará una flecha Hydro adicional que inflige Daño Hydro equivalente al 14% de la Vida Máx. de Yelan. Esto solo puede ocurrir una vez cada 1.8 s.
+Dado trucado
+Aumenta el nivel de habilidad de <color=#FFD780FF>Dado clarividente</color> +3. Puede ser aumentado hasta Niv. 15.
+Intercambio encubierto
+Por cada enemigo marcado con la <color=#FFD780FF>cuerda salvavidas</color>, la explosión de cada marca aumenta la Vida Máx. de todos los miembros del equipo en un 10% durante 25 s. La Vida Máx. solo podrá aumentar hasta un máximo del 40% de esta manera.
+Artificio de crupier
+Aumenta el nivel de habilidad de <color=#FFD780FF>Atadura salvavidas</color> +3. Puede ser aumentado hasta Niv. 15.
+Mano ganadora
+Tras usar <color=#FFD780FF>Dado clarividente</color>, Yelan entra en el estado de “planificación táctica”. En este estado, sus Ataques Normales se convierten en flechas irruptoras especiales con unas características similares a las de las flechas irruptoras normales y que infligen un 156% de su daño original. Este daño es considerado daño de Ataque Cargado.  El estado de planificación táctica dura un máximo de 20 s y se anulará después de que Yelan haya disparado 5 flechas.

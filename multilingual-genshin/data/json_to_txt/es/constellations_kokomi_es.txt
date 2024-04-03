@@ -1,0 +1,12 @@
+Los límites del agua
+Mientras está bajo los efectos del manto ceremonial de <color=#FFD780FF>Encarnación de las nereidas</color>, el último golpe del Ataque Normal de Sangonomiya Kokomi liberará un pez nadador adicional que inflige una cantidad de <color=#80C0FFFF>Daño Hydro</color> equivalente al 30% de la Vida Máx. de Kokomi. Este daño no se considera daño de Ataque Normal.
+Oleaje de nubes
+Sangonomiya Kokomi obtiene los siguientes aumentos de curación para los personajes con un 50% de Vida o menos a través de las siguientes formas: ·Aumenta la curación de la medusa de <color=#FFD780FF>Juramento de la medusa</color> en una cantidad adicional en proporción al 4.5% de la Vida Máx. de Kokomi. ·Aumenta la curación de los Ataques Normales y Cargados realizados bajo los efectos de <color=#FFD780FF>Encarnación de las nereidas</color> en una cantidad adicional en proporción al 0.6% de la Vida Máx. de Kokomi.
+Luna del océano
+Aumenta el nivel de habilidad de <color=#FFD780FF>Encarnación de las nereidas</color> +3. Puede ser aumentado hasta Niv. 15.
+Observadora de las aguas
+Mientras está bajo los efectos del manto ceremonial de <color=#FFD780FF>Encarnación de las nereidas</color>, la Vel. de Ataque Normal de Sangonomiya Kokomi aumenta en un 10% y recupera 0.8 pts. de Energía Elemental cada vez que golpea a un enemigo con un Ataque Normal. Este efecto solo puede ocurrir una vez cada 0.2 s.
+Convergencia hacia los mares
+Aumenta el nivel de habilidad de <color=#FFD780FF>Juramento de la medusa</color> +3. Puede ser aumentado hasta Niv. 15.
+Corazón del coral
+Mientras está bajo los efectos del manto ceremonial de <color=#FFD780FF>Encarnación de las nereidas</color>, cuando Sangonomiya Kokomi realiza un Ataque Normal o Cargado que tiene efectos curativos con el fin de curar a un personaje con un 80% o más de Vida, obtiene un 40% de <color=#80C0FFFF>Bono de Daño Hydro</color> durante 4 s.

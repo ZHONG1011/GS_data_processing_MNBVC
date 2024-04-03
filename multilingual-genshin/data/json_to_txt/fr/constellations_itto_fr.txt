@@ -1,0 +1,12 @@
+Du calme et on écoute !
+Après avoir utilisé <color=#FFD780FF>Roi oni maléfique : Avènement d'Itto</color>, Arataki Itto gagne 2 cumuls de Mégaforce superlative. Après 1 s, Itto gagne 1 cumul de Mégaforce superlative toutes les 0,5 s pendant 1,5 s.
+Baston générale !
+Après avoir utilisé <color=#FFD780FF>Roi oni maléfique : Avènement d'Itto</color>, chaque personnage de l'équipe de type <color=#FFE699FF>Géo</color> permet de diminuer le TdR de cette aptitude de 1,5 s et de restaurer l'énergie élémentaire d'Arataki Itto de 6 pts. Le TdR peut être diminué d'un maximum de 4,5 s et l'énergie élémentaire peut être restaurée d'un maximum de 18 pts de cette manière.
+#Le taureau par les cornes{NON_BREAK_SPACE}!
+Niveau d'aptitude <color=#FFD780FF>Zetsugi anti-démon : Catapultage d'akaushi</color> +3. Niveau max : 15
+Au pain sec et à l'eau !
+#Lorsque l'état de Roi oni courroucé accordé par <color=#FFD780FF>Roi oni maléfique : Avènement d'Itto</color> prend fin, la DÉF et l'ATQ de tous les personnages de l'équipe à proximité augmentent de 20{NON_BREAK_SPACE}% pendant 10{NON_BREAK_SPACE}s.
+Une décennie de renommée à Hanamizaka
+Niveau d'aptitude <color=#FFD780FF>Roi oni maléfique : Avènement d'Itto</color> +3. Niveau max : 15
+#Arataki Itto, présent{NON_BREAK_SPACE}!
+Les DGT CRIT des attaques chargées d'Arataki Itto augmentent de 70 %. De plus, lorsqu'il utilise une série de kesa giri d'Arataki, il a 50 % de chances de ne pas consommer de Mégaforce superlative.

@@ -1,0 +1,13 @@
+Guía Mágica
+12.ª edición de la «Guía Mágica». Una reimpresión con correcciones de la 11.ª edición y contenido nuevo basado en el desarrollo de los últimos años.
+ Esta edición de la «Guía Mágica» generó mucha controversia cuando fue publicada por primera vez. Contenía contradicciones evidentes entre lo explicado en el “Capítulo 7: Fundamentos sobre el uso del Elemento Anemo” y la realidad. Además, tenía errores en los principios más básicos sobre los elementos Hydro y Electro. Es evidente que el libro no fue revisado, y mucho menos se probó su contenido antes de publicarse. A pesar de todo, sigue siendo la guía de introducción a la magia de mayor legitimidad. 
+Perdición de la tormenta y la marea
+Aumenta en un <color=#99FFFFFF>12%</color> el daño contra los enemigos afectados por Hydro o Electro.
+Perdición de la tormenta y la marea
+Aumenta en un <color=#99FFFFFF>15%</color> el daño contra los enemigos afectados por Hydro o Electro.
+Perdición de la tormenta y la marea
+Aumenta en un <color=#99FFFFFF>18%</color> el daño contra los enemigos afectados por Hydro o Electro.
+Perdición de la tormenta y la marea
+Aumenta en un <color=#99FFFFFF>21%</color> el daño contra los enemigos afectados por Hydro o Electro.
+Perdición de la tormenta y la marea
+Aumenta en un <color=#99FFFFFF>24%</color> el daño contra los enemigos afectados por Hydro o Electro.

@@ -1,0 +1,12 @@
+A Comrade's Duty
+Saat Karakter yang dilindungi oleh <color=#FFD780FF>Blazing Barrier</color> milik Thoma (kecuali Thoma sendiri) terkena serangan, maka CD <color=#FFD780FF>Blazing Blessing</color> Thoma akan berkurang 3 detik, dan CD <color=#FFD780FF>Crimson Ooyoroi</color> Thoma juga berkurang 3 detik. Efek ini dapat terpicu setiap 20 detik.
+A Subordinate's Skills
+Durasi <color=#FFD780FF>Crimson Ooyoroi</color> bertambah 3 detik.
+Fortified Resolve
+Meningkatkan 3 level <color=#FFD780FF>Blazing Blessing</color>. Maksimum: Lv. 15.
+Long-Term Planning
+Memulihkan 15 Energy Thoma setelah menggunakan <color=#FFD780FF>Crimson Ooyoroi</color>.
+Raging Wildfire
+Meningkatkan 3 level <color=#FFD780FF>Crimson Ooyoroi</color>. Maksimum: Lv. 15.
+Burning Heart
+Saat mendapatkan atau memperbarui <color=#FFD780FF>Blazing Barrier</color>, DMG Normal, Charged, dan Plunging Attack yang diakibatkan semua anggota party akan meningkat 15% selama 6 detik.

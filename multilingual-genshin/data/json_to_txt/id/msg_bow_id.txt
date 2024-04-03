@@ -1,0 +1,13 @@
+Messenger
+Busur kayu yang sederhana. Konon busur ini biasanya digunakan hanya untuk mengirimkan pesan surat.
+ Dikatakan bahwa beberapa waktu yang lalu, Masyarakat Liyue mengirimkan pesan melalui busur dan panah. "Tapi apa tidak akan melukai orang yang lewat" "Karena itu, busur ini menjadi barang antik" Pemilik toko barang antik mengelus dagu dan tersenyum. 
+Message by Flying Arrow
+Saat Charged Attack mengenai titik kelemahan musuh, akan mengakibatkan tambahan DMG sebesar <color=#99FFFFFF>100%</color> ATK sebagai CRIT DMG. Dapat terpicu setiap 10 detik.
+Message by Flying Arrow
+Saat Charged Attack mengenai titik kelemahan musuh, akan mengakibatkan tambahan DMG sebesar <color=#99FFFFFF>125%</color> ATK sebagai CRIT DMG. Dapat terpicu setiap 10 detik.
+Message by Flying Arrow
+Saat Charged Attack mengenai titik kelemahan musuh, akan mengakibatkan tambahan DMG sebesar <color=#99FFFFFF>150%</color> ATK sebagai CRIT DMG. Dapat terpicu setiap 10 detik.
+Message by Flying Arrow
+Saat Charged Attack mengenai titik kelemahan musuh, akan mengakibatkan tambahan DMG sebesar <color=#99FFFFFF>175%</color> ATK sebagai CRIT DMG. Dapat terpicu setiap 10 detik.
+Message by Flying Arrow
+Saat Charged Attack mengenai titik kelemahan musuh, akan mengakibatkan tambahan DMG sebesar <color=#99FFFFFF>200%</color> ATK sebagai CRIT DMG. Dapat terpicu setiap 10 detik.

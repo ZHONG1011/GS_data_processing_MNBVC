@@ -1,0 +1,12 @@
+Excellent Blood
+CRIT Rate dari Normal dan Charged Attack milik Kaeya terhadap musuh yang terkena efek <color=#99FFFFFF>Cryo</color> meningkat sebesar 15%.
+Never-Ending Performance
+Setiap kali sebuah musuh dikalahkan dalam durasi <color=#FFD780FF>Glacial Waltz</color>, durasinya meningkat 2,5 detik, sampai maksimum 15 detik.
+Dance of Frost
+Meningkatkan 3 level <color=#FFD780FF>Frostgnaw</color>. Maksimum: Lv. 15.
+Frozen Kiss
+Terpicu secara otomatis saat HP Kaeya kurang dari 20%: Membuat perisai yang menahan DMG setara dengan 30% Max HP Kaeya. Berlangsung selama 20 detik. Perisai ini menahan <color=#99FFFFFF>Cryo DMG</color> dengan efisiensi 250%. Terpicu setiap 60 detik.
+Frostbiting Embrace
+Meningkatkan 3 level <color=#FFD780FF>Glacial Waltz</color>. Maksimum: Lv. 15.
+Glacial Whirlwind
+<color=#FFD780FF>Glacial Waltz</color> mengeluarkan 1 es tambahan, dan memulihkan 15 Energy saat skill digunakan.

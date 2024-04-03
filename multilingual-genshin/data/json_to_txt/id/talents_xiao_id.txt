@@ -1,0 +1,12 @@
+Normal Attack: Whirlwind Thrust
+<color=#FFD780FF>Normal Attack</color> Melancarkan hingga 6 serangan tombak berturut-turut.  <color=#FFD780FF>Charged Attack</color> Mengonsumsi sejumlah Stamina untuk melakukan serangan ke arah atas.  <color=#FFD780FF>Plunging Attack</color> Menerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat. Saat melakukan Plunging Attack, Xiao tidak akan terkena DMG karena terjatuh dari ketinggian.
+Lemniscatic Wind Cycling
+Xiao menerjang ke depan dan mengakibatkan <color=#80FFD7FF>Anemo DMG</color> pada musuh di jalurnya. Dapat digunakan di udara. Memiliki 2 kali penggunaan (charge) dari awal.  <i>Menurut legenda dari dataran lain, dunia ini suatu hari akan dihancurkan oleh dua roda angin raksasa. Keahlian Xiao dalam menggunakan tombak tiada duanya, dan dapat menebas musuh seperti dua roda angin raksasa di legenda tersebut.</i>
+Bane of All Evil
+Xiao mengenakan Yaksha Mask yang ditakuti oleh para iblis dan juga Archon pada ribuan tahun lalu.  <color=#FFD780FF>Yaksha Mask</color> ·Meningkatkan kekuatan melompat Xiao secara drastis. ·Meningkatkan DMG dan area serangan. ·Mengonversi DMG serangan menjadi <color=#80FFD7FF>Anemo DMG</color> yang tidak dapat ditimpa oleh Elemental Infusion lainnya.  Dalam status ini, Xiao akan terus kehilangan HP. Efek ini akan hilang saat Xiao keluar dari medan pertempuran.  <i>Saat mengenakan topeng Yaksha-nya, Xiao berubah wujud menjadi Vigilant Yaksha — sang penakluk iblis yang ditakuti. Kekuatan yang sangat besar harus dibayar dengan rasa sakit yang sama besarnya. Dia juga disebut sebagai "The Bane of All Evil."</i>
+Conqueror of Evil: Tamer of Demons
+Meningkatkan 5% DMG Xiao saat berada dalam status <color=#FFD780FF>Bane of All Evil</color>. Selama durasi skill, DMG Xiao akan terus meningkat sebesar 5% setiap 3 detik. Batas maksimum peningkatan DMG adalah 25%.
+Dissolution Eon: Heaven Fall
+Menggunakan <color=#FFD780FF>Lemniscatic Wind Cycling</color> akan meningkatkan 15% DMG Lemniscatic Wind Cycling selanjutnya selama 7 detik. Efek dapat ditumpuk hingga 3 lapis. Durasi akan diperbarui setiap mendapat tumpukan baru.
+Transcension: Gravity Defier
+Mengurangi 20% konsumsi Stamina saat memanjat untuk anggota party sendiri. Tidak dapat ditumpuk dengan Talenta Pasif dengan efek yang sama.

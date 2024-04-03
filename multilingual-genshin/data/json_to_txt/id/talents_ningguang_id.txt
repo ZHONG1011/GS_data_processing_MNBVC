@@ -1,0 +1,12 @@
+Sparkling Scatter
+<color=#FFD780FF>Normal Attack</color> Menembakkan batu mutiara yang mengakibatkan <color=#FFE699FF>Geo DMG</color>. Saat mengenai musuh, Ningguang mendapatkan 1 Star Jade.  <color=#FFD780FF>Charged Attack</color> Mengonsumsi sejumlah Stamina untuk menembakkan batu mutiara raksasa yang mengakibatkan <color=#FFE699FF>Geo DMG</color>. Jika Ningguang memiliki Star Jade, melancarkan Charged Attack juga akan menembakkan Star Jade ke musuh untuk mengakibatkan DMG tambahan.  <color=#FFD780FF>Plunging Attack</color> Mengumpulkan kekuatan Geo dan menerjang tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan <color=#FFE699FF>Geo DMG area</color> saat mendarat.
+Jade Screen
+Ningguang membentuk sebuah perisai Geo yang terbuat dari emas, obsidian, dan kekayaannya untuk mengakibatkan <color=#FFE699FF>Geo DMG area</color>.  <color=#FFD780FF>Jade Screen</color> ·Menghalangi proyektil musuh. ·HP Jade Screen mewarisi Max HP Ningguang berdasarkan persentase tertentu.  Jade Screen dianggap sebagai sebuah <color=#FFE699FF>Geo Construct</color> dan dapat digunakan untuk menghalang beberapa jenis serangan, tapi tidak dapat dipanjat. Ningguang hanya dapat memiliki satu Jade Screen di satu waktu.  <i>Kanvas bintang-bintang terukir di atas layar giok ini.</i>
+Starshatter
+Ningguang mengumpulkan batu mutiara di sekeliling dirinya dan menyebarkan semuanya sekaligus untuk dilontarkan ke musuh, mengakibatkan <color=#FFE699FF>Geo DMG</color> yang besar. Jika Starshatter digunakan saat Jade Screen berada di dekatnya, Jade Screen juga akan menembakkan tambahan batu mutiara pada saat bersamaan.  <i>Bintang-bintang terpecah, namun keheningan tidak terpecahkan.</i>
+Backup Plan
+Charged Attack Ningguang tidak mengonsumsi Stamina saat Ningguang memiliki Star Jade.
+Strategic Reserve
+Karakter yang melewati <color=#FFD780FF>Jade Screen</color> akan mendapatkan 12% <color=#FFE699FF>Geo DMG Bonus</color> selama 10 detik.
+Trove of Marvelous Treasures
+Memperlihatkan lokasi <color=#FFD780FF>tambang ore untuk Forge</color> di peta kecil.

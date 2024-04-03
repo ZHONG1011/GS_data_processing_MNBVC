@@ -1,0 +1,12 @@
+Investissement supplémentaire
+Le nombre d'obus de S.A.V. créés après un <color=#FFD780FF>tir pacificateur</color> augmente de 1.
+Franchise spéciale
+En combat, lorsque le <color=#FFD780FF>djinn</color> soigne le personnage auquel il est relié, un tir djinn est déclenché à l'emplacement du personnage, infligeant des DGT équivalant à 50 % de l'ATQ de Dori.
+Merveilles sans fin
+Niveau d'aptitude <color=#FFD780FF>Méticulosité d'Alcazarzaray</color> +3. Niveau max : 15
+Supplément discrétionnaire
+#Le personnage relié au <color=#FFD780FF>djinn</color> obtient les bonus suivants selon ses PV et son énergie élémentaire{NON_BREAK_SPACE}: · Bonus de soins reçus de 50 % si les PV sont inférieurs à 50 %. · Recharge d'énergie augmentée de 30 % si l'énergie élémentaire est inférieure à 50 %.
+Rapport qualité-mora
+Niveau d'aptitude <color=#FFD780FF>Lampe de protection : Canon pacificateur</color> +3. Niveau max : 15
+Poids léger
+Après avoir utilisé <color=#FFD780FF>Lampe de protection : Canon pacificateur</color>, Dori obtient les effets suivants pendant 3 s : · <color=#FFACFFFF>Enchantement Électro</color>. · Si une attaque normale touche un ennemi, tous les personnages de l'équipe à proximité récupèrent des PV pour une valeur équivalant à 4 % des PV max de Dori. Les PV peuvent être restaurés une fois toutes les 0,1 s de cette manière.

@@ -1,0 +1,12 @@
+Pastry Kung Fu
+<color=#FFD780FF>Normal Attack</color> Melancarkan hingga 5 serangan berturut-turut.  <color=#FFD780FF>Charged Attack</color> Mengonsumsi sejumlah Stamina untuk menerjang ke depan, mengakibatkan DMG pada musuh di jalurnya.  <color=#FFD780FF>Plunging Attack</color> Menerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.
+Guoba Attack
+Memanggil Guoba si Panda. Guoba terus menghembuskan api ke musuh, mengakibatkan <color=#FF9999FF>Pyro DMG area</color>.  <i>Guoba suka makan yang pedas-pedas. Masalahnya, perutnya tidak tahan.</i>
+Pyronado
+Xiangling menunjukkan keahilannya dengan api dan tombak, dia membuat Pyronado yang berputar di sekitarnya. Pyrnado akan bergerak mengikuti Karaktermu selama durasinya dan mengakibatkan <color=#FF9999FF>Pyro DMG</color> ke semua musuh di jalurnya.  <i>Tidak akan pernah ada panas yang cukup. Tidak pernah.</i>
+Crossfire
+Meningkatkan 20% jarak semburan api Guoba.
+Beware, It's Super Hot!
+Saat durasi skill <color=#FFD780FF>Guoba Attack</color> selesai, Guoba akan meninggalkan sebuah cabai di lantai. Mengambil cabai tersebut meningkatkan 10% ATK selama 10 detik.
+Chef de Cuisine
+Saat masakan jenis penyerangan dimasak dengan sempurna, terdapat 12% kemungkinan mendapatkan hasil 2 kali lipat.

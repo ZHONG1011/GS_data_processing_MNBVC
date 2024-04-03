@@ -1,0 +1,13 @@
+Gran Espada Sangrienta
+Una espada de acero que se dice que ha sido vestida con sangre de dragón, haciéndola invulnerable al daño. Sin embargo, este efecto no se extiende a su portador.
+ Tras derrotar al dragón venenoso, el famoso héroe se bañó en su sangre, buscando así volverse invulnerable. Esa era la particularidad de su sangre. Ya fueran espadas, lanzas o una lluvia de flechas, lo esquivaba todo mientras se reía. Pero sus enemigos pronto descubrieron que su espada tan preciada también estaba bañada en la sangre del dragón. Era tanto su mayor fortaleza como su mayor debilidad. 
+Perdición del fuego y el trueno
+Aumenta en un <color=#99FFFFFF>12%</color> el daño contra los enemigos afectados por Pyro o Electro.
+Perdición del fuego y el trueno
+Aumenta en un <color=#99FFFFFF>15%</color> el daño contra los enemigos afectados por Pyro o Electro.
+Perdición del fuego y el trueno
+Aumenta en un <color=#99FFFFFF>18%</color> el daño contra los enemigos afectados por Pyro o Electro.
+Perdición del fuego y el trueno
+Aumenta en un <color=#99FFFFFF>21%</color> el daño contra los enemigos afectados por Pyro o Electro.
+Perdición del fuego y el trueno
+Aumenta en un <color=#99FFFFFF>24%</color> el daño contra los enemigos afectados por Pyro o Electro.

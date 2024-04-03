@@ -1,0 +1,12 @@
+Ataque Normal: Técnica de espada Favonius
+<color=#FFD780FF>Ataque Normal</color> Realiza hasta 5 ataques rápidos.  <color=#FFD780FF>Ataque Cargado</color> Consume una cierta cantidad de Aguante para desatar un ataque que contiene fuerza Anemo. Poco después, los enemigos lanzados caerán lentamente al suelo.  <color=#FFD780FF>Ataque Descendente</color> Se lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.
+Filo de ventisca
+Concentrando el poder del viento en su espada, Jean canaliza una minitormenta, lanzando a los enemigos que se encuentran en la dirección que apunta e infligiendo una gran cantidad de <color=#80FFD7FF>Daño Anemo</color>.  <color=#FFD780FF>Mantener pulsado</color> Consume una cierta cantidad de Aguante para ordenar al torbellino que atraiga a los enemigos y objetos cercanos frente a ella. La dirección de atracción puede ajustarse. El personaje quedará inmóvil mientras dure la habilidad.  <i>Eso que sigue a Jean, la defensora incondicional, es el viento guardián que ahuyenta al peligro que acecha a sus compañeros</i>.
+Brisa de Dandelion
+Invoca la protección del viento para crear un campo de dientes de león, empujando a los enemigos cercanos e infligiendo <color=#80FFD7FF>Daño Anemo</color> contra ellos. Al mismo tiempo, cura de inmediato una gran cantidad de Vida a todos los miembros del equipo. La cantidad restaurada varía en proporción al ATQ de Jean.  <color=#FFD780FF>Campo de dientes de león</color> ·Regenera continuamente la Vida de los personajes dentro del campo y aplica el elemento <color=#80FFD7FF>Anemo</color> sobre ellos. ·Inflige <color=#80FFD7FF>Daño Anemo</color> a los enemigos que entran o salen del campo.  <i>La magnanimidad de Jean es vasta como los campos de dientes de león, así como la raíz de su deseo de proteger a los demás.</i>
+Compañera del viento
+Cuando Jean realiza Ataques Normales, tiene un 50% de probabilidad de curar una cantidad de Vida igual al 15% de su ATQ a todos los miembros del equipo.
+Que el viento nos guíe
+Tras usar <color=#FFD780FF>Brisa de Dandelion</color>, regenera un 20% de su Energía Elemental.
+Viento guía
+Al lograr un “Perfecto” en un plato con efectos reconstituyentes, hay una probabilidad del 12% de obtener el doble.

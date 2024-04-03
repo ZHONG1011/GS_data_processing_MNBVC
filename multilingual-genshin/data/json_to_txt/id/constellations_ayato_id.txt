@@ -1,0 +1,12 @@
+Kyouka Fuushi
+Meningkatkan 40% DMG <color=#FFD780FF>Shunsuiken</color> pada musuh dengan HP 50% atau kurang.
+World Source
+Tumpukan maksimum <color=#FFD780FF>Namisen</color> bertambah menjadi 5 lapis. Max HP Kamisato Ayato akan bertambah 50% saat memiliki setidaknya 3 lapis Namisen.
+To Admire the Flowers
+Meningkatkan 3 level <color=#FFD780FF>Kamisato Art: Kyouka</color>. Maksimum: Lv. 15.
+Endless Flow
+Setelah melancarkan <color=#FFD780FF>Kamisato Art: Suiyuu</color>, ATK SPD Normal Attack anggota party di sekitar akan meningkat 15% selama 15 detik.
+Bansui Ichiro
+Meningkatkan 3 level <color=#FFD780FF>Kamisato Art: Suiyuu</color>. Maksimum: Lv. 15.
+Boundless Origin
+Setelah menggunakan <color=#FFD780FF>Kamisato Art: Kyouka</color>, Serangan Shunsuiken milik Ayato selanjutnya akan membuat 2 serangan Shunsuiken tambahan saat mengenai musuh, setiap serangannya mengakibatkan DMG sebesar 450% ATK Ayato. Kedua serangan Shunsuiken ini tidak akan terpengaruh oleh Namisen.

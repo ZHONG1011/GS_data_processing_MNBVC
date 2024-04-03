@@ -1,0 +1,144 @@
+Halo
+"Dandelion Knight", Jean, mengajukan diri untuk bergabung ke tim ini. Mulai sekarang, kupersembahkan kehormatan dan kesetiaanku padamu!
+Berbincang: Operasi
+Ayo jalan, kita harus pergi dari sini.
+Berbincang: Knights of Favonius
+Para Knight... apakah kalian sudah bekerja dengan sungguh-sungguh?
+Berbincang: Target
+Ayo kita menuju tujuan selanjutnya!
+Waktu Hujan
+Hujan pun tidak akan bisa menghentikan langkahku.
+Setelah hujan
+Cuaca seperti ini cocok untuk beraksi.
+Waktu Turun Salju
+Salju telah turun, kamu harus memperhatikan perawatan sepatu botmu.
+Waktu Angin Bertiup
+Cuaca yang nyaman.
+Saat Angin Berembus
+Menurut legenda, pada hari itu juga bertiup angin badai yang jarang terjadi...
+Selamat Pagi
+"Awali rencanamu di pagi hari", semangat buat hari ini!
+Selamat Siang
+Oke, ayo kita selesaikan quest ini sekarang.
+Selamat Malam
+Sepertinya aku sudah kebal terhadap kopi. Aku harus meminta Lisa membuat sesuatu ... yang lebih kuat.
+Selamat Tidur
+Sampai di sini dulu latihan hari ini. Kamu hebat sekali, sekarang kamu boleh beristirahat.
+Tentang Jean sendiri
+Hari ini, untuk melindungi orang banyak, 5 buah Ruin Guard sudah terbuang. *huff* Aku masih harus terus mengasah diri sendiri ... Ini adalah warisan budaya yang sangat berharga, lain kali aku harus mencobanya dengan tangan kosong...
+Tentang Kita: Prinsip
+Aku akan semaksimal mungkin membantumu, dan ... tentu saja, kalau kamu melakukan penyimpangan ... aku akan menegurmu tanpa ragu-ragu.
+Tentang Kita: Sumpah
+Aku bersumpah dengan pedang ini bahwa aku akan membawakan kemenangan untukmu.
+Tentang Kita: Quest
+Quest tidak akan selesai secara otomatis, tetapi kalau mau bersantai sebentar saja juga boleh. Khusus hari ini ... istirahat boleh lebih lama sedikit.
+Tentang Vision
+"Untuk Mondstadt, selamanya" adalah moto Klan Gunnhildr. Setiap kali aku menggunakan "Vision" ini, aku selalu teringat akan ibu dan harapan orang-orang Mondstadt. Berjuang untuk Mondstadt, berjuang untuk kebebasan - aku ... tidak akan pernah menyerah.
+Berbagi Cerita
+Atas nama Knights of Favonius, aku ingin mengucapkan terima kasih atas semua yang telah kamu lakukan untuk Mondstadt. Aku juga berharap kamu bisa menjaga keseimbangan antara bekerja dan beristirahat, supaya ... Kenapa? Kok kamu tiba-tiba tertawa begitu, apakah ada yang aneh dengan perkataanku?
+Rumor yang menarik
+"Dandelion, dandelion, ikuti angin dan pergilah jauh." Dia terbang bersama angin, bahkan mungkin bisa sampai ke Celestia.
+Tentang Barbara
+Barbara bekerja dengan sangat keras, tetapi kadang-kadang dia terlalu memaksakan dirinya ... Hah? Kamu heran aku bisa setahu ini? Karena Church of Favonius juga berada di bawah kendali para Knight.
+Tentang Lisa
+Lisa, kalau ada dia, aku merasa sangat tenteram.
+Tentang Amber
+Selama ini, Amber memang sudah berkembang pesat. Semoga suatu hari nanti, pencapaiannya bisa dikumandangkan oleh para penyair.
+Tentang Kaeya
+Benarkah ... Ternyata Kaeya juga memberikan saran untukmu. Dia adalah seorang Knights of Favonius yang hebat, tidak ada yang perlu dikhawatirkan tentang hal ini.
+Tentang Klee
+Meskipun bermain dan bersenang-senang adalah naluri anak-anak, tapi mainan favorit Klee adalah barang-barang yang berbahaya. Ini membuat orang begitu khawatir.
+Tentang Albedo
+Mungkin istilah "jenius" adalah istilah yang layak disematkan untuk orang-orang seperti Albedo.
+Tentang Varka
+Grand Master Varka, dia adalah seorang legenda Knights of Favonius. Saat dia sudah kembali dengan kemenangannya nanti, kamu bicara saja langsung dengannya. Aku yakin kamu juga akan mendapatkan manfaat dari pembicaraan tersebut.
+Tentang Noelle
+Noelle, umm ... gadis yang sangat ingin menjadi Knights of Favonius. Dia masih memiliki kelemahan di dalam hatinya, karena itu pada saat ini ... mungkin dia masih belum cocok untuk berhadapan dengan kerasnya dunia luar.
+Tentang Rosaria
+Suster Rosaria selalu mengatakan "tidak mau merepotkanku", dia memang sangat kompeten. Terakhir kali aku bilang padanya, "Kalau kamu merasa sulit, minta tolong aku saja", tetapi dia menjawab, "Ini lebih merepotkan untukmu." Hmm ... aku ternyata tidak terlalu membantu untuknya.
+Tentang Diluc: Penyesalan
+Tuduhan Diluc terhadap para Knight bukan tanpa sebab, meskipun dia merasa bersalah di dalam hatinya, dia tetap tidak dapat mengubah hasil yang ditetapkan ... Aku hanya ingin melalui usahaku ... bisa membuatnya berubah pikiran terhadap Knights of Favonius. Ya, ini adalah tanggung jawabku.
+Tentang Diluc: Rasa hormat
+Diluc... adalah seorang senior yang sangat terhormat. Meskipun kami telah memilih jalan yang berbeda, tetapi aku tetap dapat merasakan getaran yang sama di antara kami berdua dalam kepentingan melindungi Mondstadt.
+Tentang Sucrose
+Sebagai seorang alkemis, Sucrose bisa dibilang sangat berbakat. Selain itu, ada pula Albedo yang membimbingnya. Jadi, dia tidak perlu khawatir tentang masa depannya. Hanya saja ... tidak, tidak apa-apa. Terlalu asyik dengan dunia sendiri sepertinya tidak seburuk yang dibayangkan, kan?
+Tentang Eula
+Eula? Um ... Tolong, jangan menilai dia dari sejarahnya. Knights of Favonius menilai semua orang secara adil. Eula bisa menilai mana yang benar dan salah, dia juga sangat berbakat. Kata-kata kontroversial yang dia katakan itu memang sudah dari sifatnya saja. Contohnya, dia selalu berkata ingin menantangku, tapi aku tidak pernah keberatan.
+Tentang Mika
+Grand Master menempatkan Mika di garis depan tim ekspedisi bukan hanya karena dia memenuhi persyaratan misi — yang lebih penting, dia kagum dengan sifat Mika yang selalu bekerja keras dan rendah hati. Dari sudut pandangku sendiri, aku merasa sangat terhormat untuk bekerja dengan orang seperti dia.
+Mengenal Jean: I
+Aku memikul kepercayaan dari Knights of Favonius dan harapan rakyat Mondstadt. Karena itu, aku tidak bisa bersantai-santai.
+Mengenal Jean: II
+Nama "Dandelion Knight" Vennessa terus diwariskan sampai hari ini, sudah banyak Knight besar yang telah menerima kehormatan ini. Aku tidak boleh mempermalukan nama ini. Karena itu, aku tidak bisa berleha-leha. Aku harus menjadi perisai dan pedang yang tangguh untuk melindungi semua orang.
+Mengenal Jean: III
+Entah itu cerita legenda atau buku sejarah, keduanya hanya mencatat prestasi para Knightnya. Memangnya mereka tidak pernah melakukan kesalahan ya?  Wahai angin, tolong tunjukkan jalannya padaku.
+Mengenal Jean: IV
+Ketika kita memfokuskan diri dalam pekerjaan, kita akan melupakan kekhawatiran dan waktu. "Kamu adalah orang terbaik untuk melakukan hal semacam ini." Begitulah kata Grand Master Varka kepadaku saat itu.
+Mengenal Jean: V
+Saat berjalan denganmu, melangkah ke depan menjadi lebih jelas. Seolah-olah aku akhirnya sudah berhasil menemukan seseorang yang bisa diandalkan. Apakah ini ....  Tidak, pasti usahaku belum cukup. Aku tidak boleh bersantai-santai, tidak boleh mengecewakan Knights of Favonius dan Mondstadt ... tapi, terima kasih ya.
+Hobi Jean
+Barangkali kita bisa mengobrol tentang biografi para pahlawan yang ada di dalam buku itu. Hmm, pernahkah kamu mendengar kisah "Pahlawan Besar Khaenri'ah"?
+Kekhawatiran Jean
+Seandainya saja ada ramuan ajaib, di mana setelah meminumnya kita bisa terbangun selamanya ... Oh ya, mengapa tidak kita tanyakan saja pada Lisa besok?
+Makanan Favorit
+Pizza di Cat's Tail ... Aku sudah lama tidak makan itu. Alangkah bagusnya kalau bisa dikirim ke kantor.
+Makanan yang tidak kamu suka
+Seorang Knight hebat tidak boleh pilih-pilih makanan.
+Menerima Hadiah: I
+Bukan hanya rasanya saja yang enak sekali, tapi kamu juga sudah memastikan kalau makanan ini menyehatkan. Terima kasih.
+Menerima Hadiah: II
+Hmm ya, sekarang aku jadi merasa tambah semangat. Terima kasih ya.
+Menerima Hadiah: III
+Ehem, pokoknya, aku hargai usahamu.
+Ulang Tahun
+Hari ini adalah hari yang patut dirayakan. Alasannya adalah karena hari ini adalah hari kelahiranmu yang diberkati oleh angin. Karena ini hari istimewa, mari kita beristirahat sejenak.  Hehehe ... selamat ulang tahun untukmu ya ....  Ah, maafkan aku kalau kamu tidak terlalu suka dengan hadiah ini.
+Perasaan Tentang Ascension: Permulaan
+Oke, mari kita lanjutkan ke tujuan berikutnya.
+Perasaan Tentang Ascension: Persiapan
+Selama angin tidak berhenti, aku pun tidak akan berhenti.
+Perasaan Tentang Ascension: Klimaks
+Bahkan kalau keadaan cukup baik untuk sementara waktu, sebagai seorang Grand Master aku tetap saja tidak boleh bersikap menyepelekan. Aku harus sedia payung sebelum hujan.
+Perasaan Tentang Ascension: Konklusi
+Aku rasa apa yang aku lakukan masih belum cukup. Sejak bertemu denganmu, kamu sudah selalu menjagaku. Rasa terima kasih ini ....  Wahai angin, kabulkanlah tekadku ini. Bukan sebagai Grand Master, tetapi sebagai "Jean", aku dengan ini bersumpah bahwa-pedangku akan bersamamu.
+Elemental Skill: I
+Keputusan penentu kemenangan!
+Elemental Skill: II
+Hah!
+Elemental Skill: III
+Huh!
+Elemental Burst: I
+Angin, dengarkanlah aku!
+Elemental Burst: II
+Aku bersumpah atas nama pedang!
+Elemental Burst: III
+Barbatos, bimbing kami.
+Membuka Peti Harta: I
+Sungguh kejutan yang menyenangkan.
+Membuka Peti Harta: II
+Ah, hari ini sungguh lancar ....
+Membuka Peti Harta: III
+Kuharap orang lain juga menemukan sesuatu.
+HP Rendah: I
+Aku ... *hosh, hosh* aku baik-baik saja ....
+HP Rendah: II
+Rekanku ... membutuhkanku ....
+HP Rendah: III
+Aku tidak boleh menyerah ....
+HP Rekan Rendah: I
+Kamu terluka ... cepat, cari tempat aman!
+HP Rekan Rendah: II
+Biar kuurus.
+Gugur: I
+Mondstadt ....
+Gugur: II
+Kekuatan setiap orang ada batasnya ....
+Gugur: III
+Aku gagal ....
+Menerima Serangan Hebat: I
+Ugh! Hanya luka lecet saja!
+Bergabung ke Party: I
+Kita bisa berangkat kapan pun.
+Bergabung ke Party: II
+Semuanya sudah siap.
+Bergabung ke Party: III
+Biarlah angin menuntun.

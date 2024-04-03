@@ -1,0 +1,12 @@
+Crimson Bouquet
+Saat kondisi <color=#FFD780FF>Paramita Papilio</color> diaktifkan oleh <color=#FFD780FF>Guide to Afterlife</color>, Charge Attack Hu Tao tidak akan mengonsumsi Stamina.
+Ominous Rainfall
+Meningkatkan DMG <color=#FFD780FF>Blood Blossom</color> sebesar 10% Max HP Hu Tao ketika efek diterapkan. Selain itu, <color=#FFD780FF>Spirit Soother</color> juga menyebabkan efek <color=#FFD780FF>Blood Blossom</color> saat mengenai musuh.
+Lingering Carmine
+Meningkatkan 3 level <color=#FFD780FF>Guide to Afterlife</color>. Maksimum: Lv. 15.
+Garden of Eternal Rest
+Saat musuh yang terkena efek <color=#FFD780FF>Blood Blossom</color> yang disebabkan oleh Hu Tao sendiri dikalahkan, akan meningkatkan 12% CRIT Rate seluruh anggota party yang ada di sekitar (tidak termasuk Hu Tao sendiri) selama 15 detik.
+Floral Incense
+Meningkatkan 3 level <color=#FFD780FF>Spirit Soother</color>. Maksimum: Lv. 15.
+Butterfly's Embrace
+Efek ini akan terpicu saat HP Hu Tao berada di bawah 25% atau terkena serangan mematikan: Hu Tao tidak akan gugur saat terkena serangan tersebut. Selama 10 detik ke depan, meningkatkan 200% Elemental dan Physical RES, meningkatkan 100% CRIT Rate dan meningkatkan ketahanan Hu Tao terhadap interupsi secara signifikan. Efek ini akan terpicu otomatis saat HP Hu Tao tersisa 1. Hanya dapat terpicu setiap 60 detik.

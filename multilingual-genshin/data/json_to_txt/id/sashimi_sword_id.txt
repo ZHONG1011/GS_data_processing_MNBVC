@@ -1,0 +1,13 @@
+Fillet Blade
+Pedang tajam yang digunakan untuk memotong ikan, mata pedangnya panjang dan sangat tajam.
+ Legenda mengatakan bahwa ikan Ticker merupakan ikan favorit warga Liyue. Namun setelah sekian lama, entah mengapa Ticker menjadi Tiger. Sekarang, ikan Ticker yang sebenarnya menjadi langka, Tapi ikan filet Tiger menjadi identik dengan daging ikan di Liyue. 
+Gash
+Saat mengenai target, memiliki 50% persentase untuk mengakibatkan <color=#99FFFFFF>240%</color> ATK DMG ke suatu target. Dapat terpicu setiap <color=#99FFFFFF>15 detik</color>.
+Gash
+Saat mengenai target, memiliki 50% persentase untuk mengakibatkan <color=#99FFFFFF>280%</color> ATK DMG ke suatu target. Dapat terpicu setiap <color=#99FFFFFF>14 detik</color>.
+Gash
+Saat mengenai target, memiliki 50% persentase untuk mengakibatkan <color=#99FFFFFF>320%</color> ATK DMG ke suatu target. Dapat terpicu setiap <color=#99FFFFFF>13 detik</color>.
+Gash
+Saat mengenai target, memiliki 50% persentase untuk mengakibatkan <color=#99FFFFFF>360%</color> ATK DMG ke suatu target. Dapat terpicu setiap <color=#99FFFFFF>12 detik</color>.
+Gash
+Saat mengenai target, memiliki 50% persentase untuk mengakibatkan <color=#99FFFFFF>400%</color> ATK DMG ke suatu target. Dapat terpicu setiap <color=#99FFFFFF>11 detik</color>.

@@ -1,0 +1,114 @@
+Première rencontre...
+Je suis Aloy. Même si je ne connais pas ce monde, mon arc et mes flèches sont prêtes. Si ton équipe a besoin d'assistance, tu peux compter sur moi.
+Bavardage - Départ
+#Ne reste pas plant{F#ée}{M#é} là, hâtons-nous.
+Bavardage - Aide
+Nous ne pouvons pas nous arrêter maintenant, il y a encore des gens qui ont besoin de notre aide.
+Quand il pleut...
+La pluie. Elle élimine la saleté.
+Après la pluie...
+La pluie s'est arrêtée, nous ferions mieux de nous sécher.
+Quand il neige...
+Le monde semble plus calme quand il neige.
+Quand le vent souffle...
+Le vent se lève, cette bouffée d'air frais est agréable.
+Le vent souffle fort...
+Le vent est violent, il souffle à vif sur mon visage.
+Au réveil...
+Bonjour. Le monde est plein de vigueur, tout comme moi.
+À l'heure du déjeuner...
+La journée est à moitié terminée, nous avons encore beaucoup à faire.
+Le soir...
+Le soleil se couche. Nous verrons bientôt les étoiles.
+La nuit...
+Bonsoir. Nous devrions nous reposer, à moins que tu ne veuilles continuer à avancer à la lumière des étoiles.
+À propos d'Aloy...
+J'ai grandi telle une paria, ce fut une période très difficile. Mais ici, même si je suis étrangère, tout le monde est si amical envers moi, bien plus que la tribu dans laquelle je suis née. C'est... agréable.
+À propos de nous - Actions
+Toutes mes actions sont au service de la vie, pas de la mort. C'est la raison pour laquelle je me bats à tes côtés.
+À propos de nous - Serment
+Un serment me semble un peu trop formel. Mais si tu veux le mien, sache que je fais le serment d'avancer à tes côtés.
+À propos de nous - Aller de l'avant
+Je ferai tout ce qui est nécessaire pour aller de l'avant avec toi, et ce jusqu'au bout. Je n'hésiterai pas. Je n'échouerai pas.
+Quelque chose à partager ?
+Si je devais partager quelque chose, ce serait mon arc. Au service de ceux qui en ont besoin.
+Détails intéressants...
+Le passé de ces terres est plein de mystères, tout comme le monde d'où je viens. Si le temps me le permets, je les découvrirai tous.
+Connaître Aloy (1)
+Je ne suis pas très douée pour parler de moi-même. La mission est ce qui est important.
+Connaître Aloy (2)
+Je n'ai pas de parents. C'est un homme appelé Rost qui m'a élevée. C'était un homme strict, mais il était généreux et avait bon cœur. Il m'a beaucoup appris... Il me manque.
+Connaître Aloy (3)
+J'ai par le passé consacré beaucoup de temps à la recherche de ma mère biologique, sans la trouver. Au lieu de cela, j'ai trouvé des messages anciens laissés par la femme... depuis laquelle je fus clonée. J'ai eu l'impression qu'elle me connaissait, qu'elle savait comment m'encourager.
+Connaître Aloy (4)
+En grandissant, je n'avais pas d'amis. Bien que j'ai eu l'occasion de rencontrer quelques personnes durant mon périple, j'ai quitté ce monde avant que nous ne puissions devenir proches. C'est pourquoi je suis heureuse de pouvoir passer du temps avec toi et d'être devenue ton amie.
+Connaître Aloy (5)
+#Je n'accorde pas facilement ma confiance, mais je sais qu'avec toi, c'est différent. Tu es mon am{F#ie}{M#i}. Il m'est rare d'estimer quelqu'un à ce point.
+Les loisirs d'Aloy...
+Je ne suis pas certaine d'avoir des loisirs, à part peut-être la lecture des choses du passé. Donc heu, l'histoire, j'imagine ?
+Les problèmes d'Aloy...
+Outre le monde d'où je viens, un autre monde doit être sauvé. Pas le temps de se reposer.
+Plats préférés...
+Je ne suis pas difficile. Tant que je ne voyage pas le ventre vide, tout me va.
+Plats détestés...
+J'ai un jour mangé un ragoût oseram si épais qu'on aurait pu s'en servir pour paver une route. Dégoûtant.
+Anniversaire...
+Je n'ai jamais vraiment porté attention aux anniversaires. Dans le monde où je suis née, c'était une occasion de célébrer la mère et non la personne concernée. Mais ne nous préoccupons pas de cela. Je te souhaite un joyeux anniversaire.
+Affinité faible
+Très bien, nous avançons bien. Mais nous ne pouvons pas nous arrêter ici.
+Affinité moyenne
+Grandir, devenir plus fort. C'est une bonne chose.
+Affinité élevée
+Peu importe sa qualité de chasseur, il est toujours possible de s'améliorer. N'arrête jamais, continue d'apprendre.
+Affinité max
+Lorsque nous avons commencé à voyager ensemble, tu étais pour moi quelqu'un d'inconnu dans un monde qui l'était tout autant. Après tout ce que nous avons traversé, je peux te dire avec certitude que mon arc t'accompagnera pour toujours.
+Compétence élémentaire (1)
+Ça va dégager.
+Compétence élémentaire (2)
+J'ai quelque chose pour toi.
+Compétence élémentaire (3)
+Tu as vu ça ?
+Déchaînement élémentaire (1)
+T'es coincé maintenant !
+Déchaînement élémentaire (2)
+C'est nouveau, ça.
+Déchaînement élémentaire (3)
+La chasse est ouverte !
+Utilisation de planeur (1)
+C'est amusant.
+Ouverture de coffre (1)
+Ces choses semblent pouvoir être utiles.
+Ouverture de coffre (2)
+Ceux-ci sont comestibles... Ceux-là sont utiles...
+Ouverture de coffre (3)
+Qui a mis toutes ces choses ici ?
+PV faibles (1)
+Celui-là est récalcitrant...
+PV faibles (2)
+Allez, il faut que je trouve son point faible...
+PV faibles (3)
+Je ne suis pas dans mon élément...
+Compagnon avec PV faibles (1)
+Prudence !
+Compagnon avec PV faibles (2)
+Fais attention à toi !
+K.O. (1)
+J'ai échoué...
+K.O. (2)
+Je suis désolée...
+K.O. (3)
+Je ne peux plus me relever... C'est terminé...
+Attaque légère subie (1)
+Argh...
+Attaque légère subie (2)
+Ce n'est rien...
+Attaque puissante subie (1)
+Ah !
+Attaque puissante subie (2)
+J'aurais dû savoir que ce ne serait pas facile...
+Ajout dans l'équipe (1)
+Où allons-nous cette fois ?
+Ajout dans l'équipe (2)
+Je suis Aloy, prête pour la chasse.
+Ajout dans l'équipe (3)
+Besoin d'aide ? Je suis là.

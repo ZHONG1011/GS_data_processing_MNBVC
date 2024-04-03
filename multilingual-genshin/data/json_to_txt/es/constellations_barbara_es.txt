@@ -1,0 +1,12 @@
+Canción de júbilo
+Bárbara regenera 1 pt. de Energía Elemental cada 10 s.
+Explosión de vitalidad
+Reduce en un 15% el TdE de <color=#FFD780FF>Que empiece el concierto ♪</color>. Mientras esté activa la habilidad, el personaje en uso obtiene un 15% de <color=#80C0FFFF>Bono de Daño Hydro</color>.
+Estrella del mañana
+Aumenta el nivel de habilidad de <color=#FFD780FF>Milagro brillante ♪</color> +3. Puede ser aumentado hasta Niv. 15.
+El esfuerzo será mi magia
+Bárbara regenera 1 pt. de Energía Elemental por cada enemigo que golpee con su Ataque Cargado. Solo se puede regenerar un máximo de 5 pts. de Energía por Ataque Cargado.
+Vínculo de inocencia
+Aumenta el nivel de habilidad de <color=#FFD780FF>Que empiece el concierto ♪</color> +3. Puede ser aumentado hasta Niv. 15.
+Dedicándotelo todo
+Si un miembro de tu equipo ha sido derrotado cuando Bárbara está en tu equipo pero no en combate: ·El personaje revive automáticamente. ·Su vida se restaura en un 100%. Este efecto solo puede ocurrir una vez cada 15 min.

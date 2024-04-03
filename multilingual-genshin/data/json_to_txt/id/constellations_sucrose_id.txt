@@ -1,0 +1,12 @@
+Clustered Vacuum Field
+Meningkatkan 1 charge <color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color>.
+Beth: Unbound Form
+Durasi <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color> bertambah 2 detik.
+Flawless Alchemistress
+Meningkatkan 3 level <color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color>. Maksimum: Lv. 15.
+Alchemania
+Saat Normal Attack atau Charged Attack Sucrose mengenai musuh 7 kali, maka CD skill <color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color> akan berkurang 1-7 detik secara acak. Serangan Sucrose dapat dihitung sebagai 1 kali setiap 0,1 detik.
+Caution: Standard Flask
+Meningkatkan 3 level <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color>. Maksimum: Lv. 15.
+Chaotic Entropy
+Jika <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color> memicu Elemental Absorption, seluruh anggota party mendapatkan 20% Elemental DMG Bonus untuk elemen sesuai yang diserap selama durasinya.

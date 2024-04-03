@@ -1,0 +1,13 @@
+Guide de magie
+12e édition. Comprend les corrections apportées à la 11e édition, ainsi que des ajouts justifiés par les récents progrès dans le domaine.
+ Cette édition du « Guide de magie » a été à sa parution la source de quelques controverses. Il est certain que l'insulte au sens commun qu'est le chapitre VII (« Principes d'application de l'élément Anémo »), combinée aux nombreuses erreurs observées sur le sujet des éléments Hydro et Électro, en font un ouvrage contesté. Ce livre n'a bien sûr pas bénéficié de relecture avant sa publication. Il n'en demeure pas moins à l'heure actuelle l'une des références en matière de magie. 
+Fléau d'eau et de foudre
+Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Électro de <color=#99FFFFFF>12 %</color>.
+Fléau d'eau et de foudre
+Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Électro de <color=#99FFFFFF>15 %</color>.
+Fléau d'eau et de foudre
+Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Électro de <color=#99FFFFFF>18 %</color>.
+Fléau d'eau et de foudre
+Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Électro de <color=#99FFFFFF>21 %</color>.
+Fléau d'eau et de foudre
+Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Électro de <color=#99FFFFFF>24 %</color>.

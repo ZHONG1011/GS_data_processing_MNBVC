@@ -1,0 +1,12 @@
+Ascèse du givre
+Qiqi récupère 2 pts d'énergie élémentaire à chaque fois que son Héraut de givre touche un ennemi marqué par un talisman.
+Gelé jusqu'à l'os
+Les attaques normales et chargées de Qiqi infligent 15 % de DGT supplémentaires contre les ennemis affectés par <color=#99FFFFFF>Cryo</color>.
+Louange vers le ciel
+Niveau d'aptitude <color=#FFD780FF>Arcane d'Adepte : Talisman sacré</color> +3. Niveau max : 15
+Répression divine
+L'ATQ des cibles marquées par un talisman est réduite de 20 %.
+Éclosion du lotus rouge
+Niveau d'aptitude <color=#FFD780FF>Arcane d'Adepte : Héraut de givre</color> +3. Niveau max : 15
+Symbole de la renaissance
+L'activation d'<color=#FFD780FF>Arcane d'Adepte : Talisman sacré</color> réanime tous les personnages de l'équipe à proximité et restaure 50 % de leurs PV. Cet effet peut être déclenché une fois toutes les 15 min.

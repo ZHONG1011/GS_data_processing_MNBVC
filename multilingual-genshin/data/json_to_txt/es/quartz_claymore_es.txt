@@ -1,0 +1,13 @@
+Espada de Cuarzo
+Una espada simple pero pesada, hecha de cuarzo negro pulido con oro. Demuestra un sentido de elegancia y dignidad.
+ Cuenta la leyenda que, en la Guerra de los Arcontes, de la tierra extrajo su espada de piedra, y de la roca moldeó su lanza. Con la espada de piedra, el Arconte Geo decapitó al mal, y con la lanza de roca reprimió a los monstruos. En su honor, la Forja Peñasco Oscuro fabricó una nueva arma: una gran espada de cuarzo negro. 
+Calor residual
+Tras causar una reacción de Sobrecarga, Derretido, Quemadura, Vaporización, Crepitar o Torbellino Pyro, el ATQ aumenta en un <color=#99FFFFFF>20%</color> durante 12 s.
+Calor residual
+Tras causar una reacción de Sobrecarga, Derretido, Quemadura, Vaporización, Crepitar o Torbellino Pyro, el ATQ aumenta en un <color=#99FFFFFF>25%</color> durante 12 s.
+Calor residual
+Tras causar una reacción de Sobrecarga, Derretido, Quemadura, Vaporización, Crepitar o Torbellino Pyro, el ATQ aumenta en un <color=#99FFFFFF>30%</color> durante 12 s.
+Calor residual
+Tras causar una reacción de Sobrecarga, Derretido, Quemadura, Vaporización, Crepitar o Torbellino Pyro, el ATQ aumenta en un <color=#99FFFFFF>35%</color> durante 12 s.
+Calor residual
+Tras causar una reacción de Sobrecarga, Derretido, Quemadura, Vaporización, Crepitar o Torbellino Pyro, el ATQ aumenta en un <color=#99FFFFFF>40%</color> durante 12 s.

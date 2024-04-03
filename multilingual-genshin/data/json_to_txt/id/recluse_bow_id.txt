@@ -1,0 +1,13 @@
+Rust
+Busur besar yang terbuat dari perak, tetapi kini telah tertutup penuh oleh karat. Orang biasa jangankan menembakkan panah, mengangkatnya pun tidak sanggup.
+ Sebuah busur kuno yang sekeras baja, dulunya dimiliki oleh pemanah terkenal. Dulu dia membunuh monster dan bandit seperti angin yang menyapu ilalang. Dikatakan bahwa di masa lalu, ketika orang ini masih terobsesi dengan menemukan cara untuk menembak, suara saat senarnya dilepaskan seperti badai yang tak ada habisnya, dan anak panahnya bersinar seperti hujan besi.  Di tahun-tahun berikutnya dia menyadari: "Makna yang dalam tidak dijelaskan oleh kata-kata, sama seperti pemanah hebat tidak perlu menggunakan panah."  Setelah itu, dia tidak pernah berbicara lagi tentang panah yang ditembakkan dari langit. Dia juga tidak pernah berbicara lagi mengenai monster yang dibunuh oleh anak panah besinya.  Dia mengubur busurnya di tanah dan tinggal sebagai pertapa di pegunungan luar kota.  Mengenai kematiannya, ada sebuah legenda: Setiap malam, saat bunyi senar yang dipetik terdengar dari rumahnya, seberkas cahaya ungu cemerlang melesat maju, dan monster tidak berani mendekat. Di malam kematiannya terjadilah badai. Di antara angin melolong dan hujan, ada pula sebuah petir yang menggelegar. Melesat ke langit, menyala terang bagai bintang di galaksi. 
+Rapid Firing
+Meningkatkan DMG Normal Attack sebesar <color=#99FFFFFF>40%</color> tapi menurunkan DMG Charged Attack sebesar 10%.
+Rapid Firing
+Meningkatkan DMG Normal Attack sebesar <color=#99FFFFFF>50%</color> tapi menurunkan DMG Charged Attack sebesar 10%.
+Rapid Firing
+Meningkatkan DMG Normal Attack sebesar <color=#99FFFFFF>60%</color> tapi menurunkan DMG Charged Attack sebesar 10%.
+Rapid Firing
+Meningkatkan DMG Normal Attack sebesar <color=#99FFFFFF>70%</color> tapi menurunkan DMG Charged Attack sebesar 10%.
+Rapid Firing
+Meningkatkan DMG Normal Attack sebesar <color=#99FFFFFF>80%</color> tapi menurunkan DMG Charged Attack sebesar 10%.

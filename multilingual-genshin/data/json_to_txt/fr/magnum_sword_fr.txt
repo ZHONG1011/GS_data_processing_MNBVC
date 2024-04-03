@@ -1,0 +1,13 @@
+Croc suppurant
+Une épée droite maléfique qui a soif de vie. Elle renferme un poison qui aurait le pouvoir de neutraliser un dragon.
+ Une histoire qui remonte aux temps anciens...  Vies destinées à ne pas être, souhaits non réalisés, rêves tragiques à la lisière des ténèbres qui jamais ne seront, par moi descendez en ce monde.  Ensuite, mes bien-aimés enfants, faites comme l'eau de pluie qui forme les ruisseaux, ou la flore qui verdoie sous le soleil. Trouvez-vous quelque endroit à votre goût, et portez haut votre beauté.  Rien de plus qu'un souvenir, le souvenir qu'un enfant prénommé « Durin » porte de sa mère...  « Merci, mère. Merci. » « Tu m'as donné des ailes pour voler, et un corps capable et puissant. » « Mère, je veux aller dans un endroit bercé de chansons. » « Et je leur raconterai le monde, et toi, mère. » « Je leur décrirai la beauté de mon lieu de naissance. » 
+Soif insatiable
+Augmente les DGT de la compétence élémentaire de <color=#99FFFFFF>16 %</color> et son taux CRIT de <color=#99FFFFFF>6 %</color>.
+Soif insatiable
+Augmente les DGT de la compétence élémentaire de <color=#99FFFFFF>20 %</color> et son taux CRIT de <color=#99FFFFFF>7,5 %</color>.
+Soif insatiable
+Augmente les DGT de la compétence élémentaire de <color=#99FFFFFF>24 %</color> et son taux CRIT de <color=#99FFFFFF>9 %</color>.
+Soif insatiable
+Augmente les DGT de la compétence élémentaire de <color=#99FFFFFF>28 %</color> et son taux CRIT de <color=#99FFFFFF>10,5 %</color>.
+Soif insatiable
+Augmente les DGT de la compétence élémentaire de <color=#99FFFFFF>32 %</color> et son taux CRIT de <color=#99FFFFFF>12 %</color>.

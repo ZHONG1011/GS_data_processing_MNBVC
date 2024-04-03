@@ -1,0 +1,150 @@
+Habilidad Elemental (I)
+¡Adióóós!
+Habilidad Elemental (II)
+¡A rodar!
+Habilidad Elemental (III)
+¡Puf!
+Habilidad Elemental (IV)
+¡Me largo!
+Habilidad Elemental (V)
+¡No me atraparás!
+Habilidad Elemental (VI)
+Y... ¡adiós!
+Habilidad Definitiva (I)
+¡Técnica del clon!
+Habilidad Definitiva (II)
+¡Sal!
+Habilidad Definitiva (III)
+Uff...
+Al esprintar (I)
+¡A escapar!
+Al abrir un cofre (I)
+Parece bastante cómodo... ¡Hora de dormir!
+Al abrir un cofre (II)
+¡Misión cumplida! ¿Puedo ir ya a dormir?
+Al abrir un cofre (III)
+Oh, ¿qué habrá aquí? ¿Un elixir de crecimiento?
+Vida baja (I)
+¿Qué técnica de escapada tenía que usar?...
+Vida baja (II)
+Estoy un poco mareada...
+Vida baja (III)
+Uff, qué cansancio.
+Aliado con vida baja (I)
+Yo te protegeré.
+Aliado con vida baja (II)
+Descansa cinco minutos... o diez.
+Derrotada (I)
+Casi... logro escapar...
+Derrotada (II)
+B-buenas n-noches...
+Derrotada (III)
+Es mi culpa por holgazanear...
+Recibiendo un ligero ataque (I)
+¡Au!
+Recibiendo un fuerte ataque (I)
+¡Casi lo esquivo!
+Recibiendo un fuerte ataque (II)
+Estoy a punto de desmayarme...
+Unirse al equipo (I)
+Qué sueño...
+Unirse al equipo (II)
+¿Puedo dormir un poco?
+Unirse al equipo (III)
+Oh, me atrapaste.
+Hola...
+¡Sayu, de Los Ocelos, a tu disposición!  *Uf*, bueno, si no me necesitas ahora, voy a echarme una siesta. Ah, ¡no puedes acariciarme la cabeza mientras duermo!
+Charla - Dormir
+Uaaah... Zzzz...
+Charla - Trabajo
+Hoy podría haberme quedado en la cama...
+Charla - Altura
+Pronto debería dar el estirón, ¿no?
+Cuando llueve...
+¡Rápido, refugiémonos! El agua les sirve a las plantas para crecer, no a la gente...
+Cuando truena...
+Uf, ¡qué tiempo tan loco! Lo mejor que podemos hacer es meternos bajo las mantas para dormir a gusto.
+Cuando nieva...
+Es muy fácil esconderse con este tiempo. Hay una técnica ninja llamada “manto níveo” con la que te puedes hacer invisible, y lo único que verán los demás son unos copos de nieve flotando. Espera, eso era confidencial. No le digas nada a la miko...
+Qué sol hace...
+Me encanta este tiempo. Hace que solo tenga ganas de... bostezar y dormir durante un rato.
+Cuando hace viento...
+Los días con viento son perfectos para una escapada.
+Hace mucho viento...
+Sé que es hora de dormir cuando hace tanto viento que ni siquiera puedo abrir los ojos.
+Buenos días...
+¿Ya es por la mañana? ¿En serio? Está bien, dormiré diez minutos más... Por favor, solo diez minutos... ¿No? Bueno, ¿y cinco? *Zzz*...
+Buenas tardes...
+¿Ya es por la tarde? Por fin, estoy lista para una siesta.
+Buenas noches... (I)
+Te confirmo que no hay miko en la costa en un radio de cinco kilómetros. Pasamos a la siguiente fase: ¡hora de dormir!
+Buenas noches... (II)
+Por fin... hora de acostarse... Buenas noches...
+Sobre Sayu - Los Ocelos
+Sí, soy miembro de Los Ocelos, pero ellos solo me mandan recopilar información y robar. Así que... tampoco pasa nada si no hago lo que me dicen.
+Sobre Sayu - Escaparse del trabajo
+No hago nada importante en Los Ocelos, y el trabajo que se pospone lo acaba haciendo la persona más apta para ello. En cambio, dormir es de máxima importancia. Necesito dormir suficiente para dar el estirón.
+#Sobre nosotr{F#as}{M#os} - Ayuda
+Oye, ¿podrías avisarme si ves venir a la miko? Voy a... descansar un poco la vista.
+#Sobre nosotr{F#as}{M#os} - Acariciar la cabeza
+¡Oye, no soy una mascota! Humm, pero como eres tú... Está bien, te prometo que no te morderé si me acaricias la cabeza. ¡Pero solo un poco! Si tocas demasiado la cabeza de una persona, frenas su crecimiento.
+Sobre la Visión...
+Mi espada pesa muchísimo. Aunque estoy entrenada en las técnicas ninja, no podría levantarla si no fuera por mi Visión. Así que sí, tener una Visión me es de gran ayuda.
+¿Algo que decir?
+Mi maestro dice que yo seré la última ninja de nuestra escuela. Supongo que era inevitable, ya que nuestras técnicas no sirven de mucho en combate. Lo único que enseñan es a huir y a ocultar el rastro.
+Una noticia interesante...
+¿Sabes lo que es un tejón mujina? Se parece a un tanuki, pero es mucho más adorable. Te llevaré a ver uno en otra ocasión.
+Sobre Kamisato Ayaka...
+Como hija mayor del clan Kamisato, siempre parece muy grácil y elegante. Pero le ordenó a una miko que me vigilara y se asegurara de que no estoy holgazaneando... ¿Por qué lo hace?
+Sobre Kamisato Ayato...
+A veces, cuando estoy descansando en un árbol, oigo a las miko hablar de él. Parece que es una persona muy importante y siempre está ocupado. No lo entiendo, solo es trabajo, ¿por qué lo hace?
+Sobre Thoma...
+Aunque tiene una Visión, cada vez que me encuentro con él, no deja de insistir en que quiere aprender técnicas ninja. No lo entiendo muy bien. Además, yo no duermo lo suficiente, ¿de dónde voy a sacar tiempo para enseñarle?
+Sobre Yoimiya...
+Cada vez que me ve, me dice: “¡Hola, pequeña tanuki! Ven, vamos al festival a divertirnos”. En primer lugar, no soy una tanuki. En segundo, no quiero ir al festival. Y en tercero, dice que quiere “divertirse”, pero en realidad solo quiere que haga una actuación de técnicas ninja durante el espéctaculo de fuegos artificiales. ¡Eso no tiene nada que ver con mi trabajo en Los Ocelos!
+Sobre la Shogun Raiden...
+¿Su Excelencia? Es alguien a quien nunca conoceré. Si tienes preguntas sobre ella, tal vez la señorita Ayaka sea la persona a la que debes preguntar.
+Sobre Yae Miko...
+Siempre me acaricia la cabeza... Pero nunca la he mordido ni le he dicho nada al respecto porque no sé cómo reaccionará si la confronto. ¿Qué voy a hacer? Si sigue tocándome la cabeza, ¡me quedaré con esta estatura para siempre!
+Sobre Arataki Itto...
+¿Por qué tiene que ser tan ruidoso? ¿Y cómo puede ser tan alto?
+Sobre Kuki Shinobu...
+No me suena ese nombre... Hummm... Espera, ¿no es la compañera de Arataki Itto? Oh, entonces seguro que también le gusta molestar a la gente mientras duerme. ¡Los Arcontes los crían y ellos se juntan!
+Más sobre Sayu (I)
+Zzz...
+Más sobre Sayu (II)
+¿Eh? ¿Quieres saber cómo se llama mi técnica ninja? Oh... ahora mismo no puedo pensar en eso, estoy medio dormida. Déjame dormir un poco más y puede que tenga las ideas más claras cuando me despierte.
+Más sobre Sayu (III)
+Bueno, está bien, te lo diré... Pero no puedes reírte, o no te dirigiré la palabra nunca más. Mi técnica ninja se llama... técnica “¡Yujuuu!”.  Supuestamente, la razón es porque nuestro estilo ninja se basa en reírnos del enemigo, pero aun así... *Suspira*
+Más sobre Sayu (IV)
+¿Sabes escalar árboles? Yo soy una experta, te puedo enseñar. En el santuario hay un árbol perfecto para dormir durante todo el día sin que nadie te encuentre... Oh, quiero decir, es el lugar perfecto para una siesta revitalizadora. La próxima vez que quieras dormir una siesta, avísame y te llevo.
+Más sobre Sayu (V)
+En realidad, fue mi maestro quien me dio este traje. Me dijo que el diseño estaba inspirado en un tejón mujina, y que me ayudaría a escapar mejor y esas cosas... También me dijo que ya era mayor y que podía vivir sola, pero que debería protegerme a mí misma. Y entonces... se fue. Con esta altura, ¿de verdad estoy lista para estar sola?  Humm... ¿Eh? ¿T-tú estarás conmigo? ¿En serio? ¿Me prometes que no me abandonarás?
+Aficiones de Sayu...
+Cuando me pongo la capucha, puedo dormir todo lo que quiera sin preocuparme de que la miko me encuentre. Es una de las mejores sensaciones del mundo.
+Preocupaciones de Sayu - Malentendido
+Por alguna razón, cuando la gente me conoce por primera vez, siempre me llaman tanuki, osito o minino... Pero Sayu es Sayu, ¡y definitivamente no soy un tanuki!
+Preocupaciones de Sayu - Altura
+¿Cuándo daré el estirón? La gente de mi edad mide el doble que yo... No, basta. Solo tengo que dormir, esa es la respuesta. ¡Buenas noches!
+Preocupaciones de Sayu - Círculo vicioso
+Hace poco, alguien me dijo que, si te enojas fácilmente, ¡también frenará tu crecimiento! ¡Ah! No sé qué hacer con respecto a eso...
+Comida que más le gusta...
+#Me gusta la comida que aporta mucha energía, como los onigiri. Si te comes uno nada más despertarte, dejarás de sentirte somnolient{F#a}{M#o}. Luego, puedes relajarte un poco y volver a dormir.
+Comida que menos le gusta...
+¡No se puede ser quisquilloso con la comida cuando aún tienes que crecer! Dicho esto, no he crecido nada últimamente... ¿Quizás no estoy comiendo suficiente verdura? Pero es que la ensalada no me sacia y a veces incluso sabe amarga... *Suspira*
+Al recibir un regalo (I)
+Estoy a punto de explotar. Seguro que duermo genial esta noche.
+Al recibir un regalo (II)
+Con tanto comer, me entró sueño.
+Al recibir un regalo (III)
+Oh, oh... Necesito un plan de huida.
+Cumpleaños...
+¿Quieres aprender alguna técnica ninja? ¡Yo puedo enseñarte! Bueno, solo las que conozco, claro. ¿Eh? ¿Que por qué no tengo sueño? Pues... porque aún no tengo sueño, ¡y porque hoy es un día especial! Tenía que estar despierta para poder decirte esto en persona: feliz cumpleaños.
+El sentimiento de Ascensión - Introducción
+¿Es mi imaginación o he crecido un poco?
+El sentimiento de Ascensión - Desarrollo
+¡Genial! Ahora soy capaz de escaparme más rápido que nunca. Jeje, nadie me atrapará.
+El sentimiento de Ascensión - Nudo
+Gracias por recolectar tantos materiales para mí. Habría ido yo sola, pero... creo que me habría quedado dormida a mitad de camino.
+El sentimiento de Ascensión - Desenlace
+Creo que ya estoy lista para vivir yo sola, tal y como dijo mi maestro. Tal vez seguir creciendo ya no sea tan importante, porque lo que realmente importa es que... te tengo a mi lado.

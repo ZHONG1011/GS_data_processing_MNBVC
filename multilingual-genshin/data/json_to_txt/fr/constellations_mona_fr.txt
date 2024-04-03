@@ -1,0 +1,12 @@
+Prophétie immersive
+Les effets des <color=#80C0FFFF>réactions liées à l'élément Hydro</color> sont renforcés pendant 8 s lorsqu'une attaque de vos personnages dans l'équipe touche un ennemi marqué par un présage : · Les DGT d'Électrocution, d'Évaporation, de Dispersion Hydro augmentent de 15 %. · La durée de Gel augmente de 15 %.
+Chaîne lunaire
+Les attaques normales ont 20 % de chances d'être suivies par une attaque chargée. Cet effet peut être déclenché une fois toutes les 5 s.
+Révolution éternelle
+Niveau d'aptitude <color=#FFD780FF>Voie divine</color> +3. Niveau max : 15
+Prophétie de la fin
+Augmente le taux CRIT de 15 % lorsque vos personnages dans l'équipe attaquent un ennemi marqué par un présage.
+Un tour du destin
+Niveau d'aptitude <color=#FFD780FF>Mirage aqueux</color> +3. Niveau max : 15
+Rhétorique de l'adversité
+Dans l'état <color=#FFD780FF>Vicissitude</color>, Mona obtient un bonus de 60 % de DGT pour sa prochaine attaque chargée à chaque seconde passée à se déplacer. Cet effet peut être cumulé 3 fois maximum (bonus de 180 %) et dure 8 s.

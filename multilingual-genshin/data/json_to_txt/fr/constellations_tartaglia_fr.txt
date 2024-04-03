@@ -1,0 +1,12 @@
+Posture du démon : Vague au calme
+Réduit le TdR de <color=#FFD780FF>Posture du démon : Marée déchaînée</color> de 20 %.
+Posture du démon : Courant souterrain
+Vaincre un ennemi affecté par Contre-courant restaure 4 pts d'énergie élémentaire à Tartaglia.
+Chaos de l'Abîme : Vortex d'agitation
+Niveau d'aptitude <color=#FFD780FF>Posture du démon : Marée déchaînée</color> +3. Niveau max : 15
+Chaos de l'Abîme : Fleur de l'eau condensée
+Lorsque Tartaglia est dans l'état de mêlée de <color=#FFD780FF>Posture du démon : Marée déchaînée</color>, un Contre-courant : Entaille est déclenché contre les ennemis affectés par l'effet Contre-courant toutes les 4 s ; sinon, il déclenche un Contre-courant : Flash. Les Contre-courant : Entaille et Contre-courant : Flash déclenchés par cette constellation ne sont pas influencés par les intervalles de déclenchement de ces deux effets Contre-courant, et n'affectent pas leur propre intervalle de déclenchement.
+Ravage : Lame sans forme
+Niveau d'aptitude <color=#FFD780FF>Ravage : Oblitération</color> +3. Niveau max : 15
+Ravage : Annihilation
+En état de mêlée, l'activation de <color=#FFD780FF>Ravage : Oblitération</color> supprime le TdR de <color=#FFD780FF>Posture du démon : Marée déchaînée</color>. Cet effet se produit après le retour à l'état de distance.

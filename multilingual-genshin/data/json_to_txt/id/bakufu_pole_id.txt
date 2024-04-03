@@ -1,0 +1,13 @@
+Kitain Cross Spear
+Tombak spesial yang pernah digunakan oleh prajurit terkenal yang menjaga Tatarigami di Pulau Yashiori.
+ Tombak unik yang dirancang khusus oleh Kitain Bunsou untuk ilmu tombak khas miliknya. Bobotnya yang besar membuatnya sangat sulit bagi orang biasa untuk mengoperasikannya. Tapi di tangan seorang ahli, dia mampu melancarkan kekuatan penghancur yang sangat kuat.  Di masa lalu, Kitain awalnya adalah keluarga yang memburu Tatarigami. Selama beberapa generasi, mereka diberi tanggung jawab sebagai "Pejabat Pulau Yashiori".  Di masa lalu, ada sebuah lagu anak-anak yang tersebar luas di Inazuma: "Arataki dari gerbang Tenshukaku, Iwakura si Penerus, Kitain si Serpent, dan Takamine si Mistsplitter". Kalimat ini menggambarkan prajurit mempesona yang pernah menerangi bumi seperti komet. Sebenarnya masih banyak nama lainnya. Tapi semuanya sudah terhapus oleh sejarah. Setelah menjadi pemburu iblis dalam waktu lama, mencicipi darah kotor adalah hal yang sulit dihindari lagi baginya.
+Samurai Conduct
+Meningkatkan <color=#99FFFFFF>6%</color> Elemental Skill DMG. Setelah Elemental Skill mengenai musuh, 3 Energy hilang tapi akan memulihkan <color=#99FFFFFF>3</color> Energy setiap 2 detik selama 6 detik. Efek terpicu setiap 10 detik. Dapat terpicu walaupun Karakter tersebut tidak berada di medan pertempuran.
+Samurai Conduct
+Meningkatkan <color=#99FFFFFF>7,5%</color> Elemental Skill DMG. Setelah Elemental Skill mengenai musuh, 3 Energy hilang tapi akan memulihkan <color=#99FFFFFF>3,5</color> Energy setiap 2 detik selama 6 detik. Efek terpicu setiap 10 detik. Dapat terpicu walaupun Karakter tersebut tidak berada di medan perang.
+Samurai Conduct
+Meningkatkan <color=#99FFFFFF>9%</color> Elemental Skill DMG. Setelah Elemental Skill mengenai musuh, 3 Energy hilang tapi akan memulihkan <color=#99FFFFFF>4</color> Energy setiap 2 detik selama 6 detik. Efek terpicu setiap 10 detik. Dapat terpicu walaupun Karakter tersebut tidak berada di medan perang.
+Samurai Conduct
+Meningkatkan <color=#99FFFFFF>10,5%</color> Elemental Skill DMG. Setelah Elemental Skill mengenai musuh, 3 Energy hilang tapi akan memulihkan <color=#99FFFFFF>4,5</color> Energy setiap 2 detik selama 6 detik. Efek terpicu setiap 10 detik. Dapat terpicu walaupun Karakter tersebut tidak berada di medan perang.
+Samurai Conduct
+Meningkatkan <color=#99FFFFFF>12%</color> Elemental Skill DMG. Setelah Elemental Skill mengenai musuh, 3 Energy hilang tapi akan memulihkan <color=#99FFFFFF>5</color> Energy setiap 2 detik selama 6 detik. Efek terpicu setiap 10 detik. Dapat terpicu walaupun Karakter tersebut tidak berada di medan perang.

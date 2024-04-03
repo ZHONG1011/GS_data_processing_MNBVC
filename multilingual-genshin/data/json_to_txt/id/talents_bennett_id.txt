@@ -1,0 +1,12 @@
+Normal Attack: Strike of Fortune
+<color=#FFD780FF>Normal Attack</color> Melancarkan hingga 5 serangan berturut-turut.  <color=#FFD780FF>Charged Attack</color> Mengonsumsi sejumlah Stamina untuk melancarkan dua tebasan pedang.  <color=#FFD780FF>Plunging Attack</color> Menerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.
+Passion Overload
+Bennett memusatkan seluruh gairah dan impiannya bertualang ke dalam pedang miliknya. Hasilnya berbeda-beda tergantung dari seberapa bersemangatnya dia...  <color=#FFD780FF>Tekan</color> Sebuah ayunan berapi yang cepat, mengakibatkan <color=#FF9999FF>Pyro DMG</color>.  <color=#FFD780FF>Tahan (Sesaat)</color> Saat ditahan, menghasilkan efek berbeda saat dilepaskan berdasarkan Level Charge. ·Charge Tahap 1: Mengayun dua kali, mengakibatkan <color=#FF9999FF>Pyro DMG</color> dan menghempas musuh. ·Charge Tahap 2: Mengayunkan pedang 3 kali untuk mengakibatkan <color=#FF9999FF>Pyro DMG</color> yang besar, tapi serangan terakhir akan memicu ledakan yang menghempas musuh dan Bennett. Bennett tidak menerima DMG dari hempasan.  <i>Serangan yang mengombinasikan impian dan gairah Bennett. Tapi gairah terkadang terlalu berlebihan, dan Pyro terkadang meledak.</i>
+Fantastic Voyage
+Bennett melakukan serangan melompat, mengakibatkan <color=#FF9999FF>Pyro DMG</color> dan menciptakan sebuah Inspiration Field.  <color=#FFD780FF>Inspiration Field</color> ·Jika HP karakter di dalam lingkaran kurang dari 70%, maka HP mereka akan terus pulih. Jumlah pemulihan tergantung dari Max HP Bennett. ·Jika HP karakter di dalam lingkaran di atas 70%, dia akan mendapat Bonus ATK berdasarkan Base ATK Bennett. ·Memberikan <color=#FF9999FF>elemen Pyro</color> kepada karakter di dalam Inspiration Field.  <i>Regu Petualangan Benny selalu menemui bahaya yang tidak diduga saat bertualang. Bennett selalu berusaha meyakini para anggotanya bahwa itu adalah tanda "petualangan seru yang penuh tantangan dan kejutan".</i>
+Rekindle
+Mengurangi 20% CD <color=#FFD780FF>Passion Overload</color>.
+Fearnaught
+Saat berada di dalam area <color=#FFD780FF>Fantastic Voyage</color>, <color=#FFD780FF>Passion Overload</color> mempunyai efek berikut: ·CD berkurang 50%. ·Bennet tidak akan terlempar karena efek Charge Level 2.
+It Should Be Safe...
+Ketika dikirim untuk melakukan ekspedisi di Mondstadt, waktu yang dibutuhkan berkurang 25%.

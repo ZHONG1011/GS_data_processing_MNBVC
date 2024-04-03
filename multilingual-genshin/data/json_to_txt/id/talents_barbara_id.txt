@@ -1,0 +1,12 @@
+Whisper of Water
+<color=#FFD780FF>Normal Attack</color> Melancarkan hingga 4 serangan air yang mengakibatkan <color=#80C0FFFF>Hydro DMG</color>.  <color=#FFD780FF>Charged Attack</color> Mengonsumsi sejumlah Stamina untuk mengakibatkan <color=#80C0FFFF>Hydro DMG area</color> setelah jeda singkat.  <color=#FFD780FF>Plunging Attack</color> Mengumpulkan kekuatan Hydro dan menerjang tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan <color=#80C0FFFF>Hydro DMG area</color> saat mendarat.
+Let the Show Begin♪
+Memanggil tetesan air yang menyerupai not balok yang membentuk sebuah Melody Loop, mengakibatkan <color=#80C0FFFF>Hydro DMG</color> ke musuh di sekitar karakter dan memberikan efek <color=#80C0FFFF>Wet</color>.  <color=#FFD780FF>Melody Loop</color> ·Normal Attack Barbara dapat memulihkan HP seluruh anggota partymu dan karakter kawan di sekitar, jumlah HP yang dipulihkan berdasarkan pada Max HP Barbara; ·Charged Attack Barbara memulihkan 4 kali lipat lebih banyak HP; ·Memulihkan HP secara berkala untuk karakter sendiri yang sedang digunakan; ·Memberikan efek <color=#80C0FFFF>Wet</color> kepada karakter dan musuh yang menyentuhnya.  <i>Musik Barbara adalah sihir yang dapat menyembuhkan teman-temannya.</i>
+Shining Miracle♪
+Memulihkan HP karakter teman dan seluruh anggota party dalam jumlah besar, jumlah HP yang dipulihkan berdasarkan pada Max HP Barbara.  <i>Keinginan Barbara untuk menyembuhkan adalah dorongan baginya untuk terus bertarung dan bernyanyi.</i>
+Glorious Season
+Mengurangi 12% konsumsi Stamina Karakter yang berada dalam Melody Loop dari skill <color=#FFD780FF>Let the Show Begin♪</color>.
+Encore
+Setiap kali karakter yang sedang digunakan mengambil Elemental Orb/Particle, akan memperpanjang durasi Melody Loop dari skill <color=#FFD780FF>Let the Show Begin♪</color> selama 1 detik. Penambahan durasi maksimum adalah 5 detik.
+With My Whole Heart ♪
+Saat masakan jenis pemulihan dimasak dengan sempurna, memiliki 12% kemungkinan mendapatkan hasil 2 kali lipat.

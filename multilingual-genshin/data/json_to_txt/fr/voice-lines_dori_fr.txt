@@ -1,0 +1,142 @@
+Première rencontre...
+#Oh ! Mais c'est {M#le}{F#la} célèbre {M#voyageur}{F#voyageuse} ! Je suis Dori Sangemah Bay, une marchande ambulante. En guise de cadeau de bienvenue, je t'offre une remise spéciale de 10 % sur toute ma marchandise. N'hésite pas à jeter un œil. Je t'aiderai même à tout emballer, gratuitement.
+Bavardage - Mora
+♪ J'aime les moras, et les moras me le rendent bien ! Gagner des moras, ça me fait du bien ! Lalala... ♪
+Bavardage - Gagnant-gagnant
+#D'abord, j'augmente le prix de 30{NON_BREAK_SPACE}%, puis j'offre une remise de 20{NON_BREAK_SPACE}%. Ça fait plus de moras pour moi, et les clients ont toujours l'impression de faire une bonne affaire. C'est gagnant-gagnant.
+Bavardage - Grippe-sou
+Quand on a assez de moras, on peut tout se permettre, même de s'attaquer à l'Académie.
+Quand il pleut...
+#Besoin de rester au sec ? J'ai ce qu'il te faut ! Ce parapluie spécial recueille et purifie l'eau de pluie, et la transforme en eau potable qui est stockée dans ce petit récipient, un vrai must pour {M#un voyageur}{F#une voyageuse} comme toi ! Et tout cela pour la modique somme de 500 000 moras !
+Quand le tonnerre gronde...
+J'ai bien peur que même les caravanes ne puissent pas bouger avec ce temps. Je suis en train de perdre des moras...
+Quand il neige...
+#Ta-da ! Regarde ma machine à faire des boules de neige entièrement automatisée ! Elle est unique en son genre ! Tu veux l'essayer ? Je t'offre même une remise de 5 % sur la location{NON_BREAK_SPACE}!
+Il fait bon dehors...
+Il n'y a rien de plus beau qu'un mora qui brille au soleil ! Héhé.
+Le vent souffle fort...
+C'est une blague ! Qui traverserait le désert avec un vent pareil ? Quelle bande d'imbéciles... Bien sûr que je peux les sortir de là, bien sûr, héhé... Mais au triple du prix habituel !
+Au réveil...
+Bonjour ! La nuit dernière, j'ai fait un rêve rempli de beaux moras. Je sens qu'aujourd'hui je vais faire fortune !
+À l'heure du déjeuner...
+#Tu veux faire une sieste ? Je peux te proposer un coussin doux et moelleux qui épousera parfaitement la forme de ton dos. Bien entendu, le niveau de confort dépend également du prix que tu es {M#prêt}{F#prête} à payer.
+Le soir...
+Voyager de nuit peut être un véritable défi, mais pour une marchande expérimentée comme moi, c'est une promenade de santé !
+La nuit...
+Tu essaies de dormir ? Héhé, d'accord. Je vais être généreuse et te laisser essayer ma méthode d'hypnose ! Tu ne pourras pas dire que je ne te fais jamais de cadeau ! Voilà comment ça marche : 10 000 moras dans ma poche, 20 000 moras dans ma poche, 30 000 moras dans ma poche, 40... 40 000 moras, héhé... Héhé, moras... Zzz...
+À propos de Dori - Colportage
+#Bienvenue au Bazar divin de Dori{NON_BREAK_SPACE}! On a tout ce dont vous pouvez avoir besoin avec en plus un service irréprochable ! Vous en avez rêvé ? On l'a sûrement ! Si vous avez besoin de quoi que ce soit, je suis là pour vous aider !
+À propos de Dori - Kshahrewar
+#J'ai tendance à éviter ceux de l'Académie, avec toutes leurs règles et leurs règlements, c'est presque impossible de faire des affaires. Même si ceux du Kshahrewar ont un peu plus les pieds sur terre... Ahem, entre nous, on a signé un accord privé. J'ai les moras, ils ont les compétences et le savoir-faire. Je sens que ça va faire fructifier mes affaires. Héhé, un accord avec Dori, c'est toujours un accord qui fait gagner de l'argent{NON_BREAK_SPACE}!
+À propos de nous - Publicité
+Vous prévoyez de voyager à Sumeru ? Le désert peut être dangereux, vous savez. Mais ne vous inquiétez pas, Dori est toujours là pour vous aider ! Ta-daaa ! Voilà le kit de survie dans le désert. Disponible pour seulement 5 millions de moras ! Achetez-le maintenant et vous aurez droit à un kit de survie en forêt tropicale gratuit ! Attention, c'est une offre limitée, alors n'attendez pas !
+À propos de nous - Division des moras
+Mes moras sont pour moi, et tes moras sont pour moi aussi ! Héhéhé !
+À propos de nous - Prix réel
+#D'accord, d'accord, je vais être honnête avec toi... Les kits de survie pour le désert et la forêt tropicale valent deux millions et demi de moras chacun. Mais en acheter un et en avoir un gratuit, ça paraît être une bonne affaire, non{NON_BREAK_SPACE}?
+À propos de l'œil divin...
+Waouh, regarde-moi ça... Mon œil divin est tellement beau, n'est-ce pas ? Tu ne penses pas que tu devrais me donner quelques moras pour avoir vu quelque chose d'aussi beau ?
+Quelque chose à partager ?
+Une fois, il y a une bande d'imbéciles qui a cru qu'ils pouvaient s'en tirer sans payer ce qu'ils devaient. Hmpf, ils n'avaient pas idée à qui ils avaient affaire ! ... Tu sais ce qui leur est arrivé à la fin ?
+Détails intéressants - Langue commune
+Si les belettes voleuses pouvaient parler, je suis sûre qu'on aurait plein de choses à se dire. Ce qu'elles aiment par-dessus tout, ce sont bien sûr les moras ! Moi, je pense qu'elles ont les pieds sur terre.
+Détails intéressants - Parc des bêtes de somme
+#Tu veux voir une bête de somme{NON_BREAK_SPACE}? Pas de problème ! J'en ai plus que tu ne pourrais l'imaginer ! Je serais ravie de te les montrer, moyennant finances... Héhé.
+À propos de Cyno...
+On peut considérer qu'on se connaît. Après tout, je suis la seule personne dans tout Sumeru à avoir pu lui trouver la collection complète des produits dérivés de l'Invocation des Sept ! Pas mal, hein ? Je dois admettre que c'est plutôt rare de voir quelqu'un de l'Académie comme lui... Indépendant et avec les pieds sur terre. En plus, il n'a jamais marchandé les prix.
+À propos de Tighnari...
+Il aime la connaissance autant que j'aime les moras. J'ai entendu dire qu'il fabriquait beaucoup de petits gadgets intéressants, mais il refuse de s'associer avec moi pour les produire en série. Il dit toujours qu'il est trop occupé par son travail, mais ce n'est qu'une excuse. *soupir* C'est vraiment dommage... On aurait pu faire une fortune !
+À propos d'Alhaitham...
+#Il est venu fouiner une fois, il a posé des questions à mes employés pour voir ce qu'il pouvait trouver. Comme je l'ai dit, ces gens de l'Académie sont juste bornés et malhonnêtes. Pourquoi devrais-je prendre le risque que d'autres s'immiscent dans mes affaires ? N'est-ce pas, {M#mon petit apprenti}{F#ma petite apprentie} ?
+À propos de Kaveh...
+Ah oui, c'est l'un de mes partenaires du Kshahrewar. Contrairement à ceux à l'esprit étriqué de l'Académie, il se bat pour ses rêves et j'ai du respect pour ça. Je lui ai secrètement prêté des moras, et je veux dire BEAUCOUP de moras, pour qu'il me construise mon Palais d'Alcazarzaray. Une chose est sûre : sans Dori la bienfaitrice, Kaveh n'en serait pas là où il en est aujourd'hui, héhé.
+À propos de Dehya...
+Je l'engage de temps en temps pour escorter mes caravanes. Elle est efficace et ses tarifs sont compétitifs. Pour ce qui du rapport qualité-prix, c'est la meilleure.
+À propos du Souverain de la Roche...
+Avant que le Souverain de la Roche ne quitte ce monde, je faisais une petite prière chaque matin : « Ô Dieu de la fortune éthéré, s'il te plaît bénis ma journée avec plus de moras à aimer. ». Mais euh, maintenant, je suppose que je prie juste pour moi-même... « Ô divine Dori, ici et maintenant, bénis ma journée avec plus de moras à compter ! »
+À propos de la Rani Kusanali...
+À Sumeru, la Rani Kusanali a très peu de fidèles. Hmm ? Si j'en suis une ? Héhé, si elle est prête à me payer, je serais sa fidèle croyante jusqu'à la nuit des temps.
+À propos de Nilou...
+C'est une bonne danseuse, mais on ne peut pas dire qu'elle fasse le meilleur usage de son talent en restant à Sumeru... Je veux dire, c'est du gaspillage. Imagine la quantité de moras qu'on pourrait récolter si je l'emmenais en tournée dans tout Teyvat ?
+À propos d'Alice...
+Les nouveautés excentriques d'Alice sont sans limite ! Ce qui fait d'elle, et de loin, mon meilleur fournisseur, héhé. Ahem, maintenant que je t'ai dit mon secret, je pense qu'il est temps pour toi de payer tes frais de scolarité, hmm ? Allez, fais voir les moras !
+Connaître Dori (1)
+#Tu veux entendre des histoires ? D'accord, ça te coûtera un million de moras. Bon... Très bien. Par respect pour notre amitié, je pense que je peux te faire une remise de 1 %. Donc ça fera 990{NON_BREAK_SPACE}000 moras. C'est une bonne affaire si tu veux mon avis.
+Connaître Dori (2)
+Tu as les pieds sur terre, alors je vais te raconter l'histoire d'une marchande.  Il y a très longtemps, il y avait une marchande qui s'était perdue sur la route. Il ne lui fallut pas longtemps avant de rencontrer une entité brumeuse. Au moment où le monstre était sur le point de la manger toute crue, elle dit en panique, « Attendez ! Ne me mangez pas ! J'ai une histoire à vous raconter. S'il vous plaît, écoutez-la, et si vous aimez ce que vous entendez, alors peut-être que vous m'épargnerez... »
+Connaître Dori (3)
+... L'entité brumeuse accepta d'écouter, et la marchande commença à raconter son histoire. Elle parlait d'elle à une époque où ses affaires n'étaient pas aussi prospères. Alors qu'elle commençait à désespérer, elle avait trouvé par hasard une lampe magique dans ses affaires. Elle avait commencé à frotter la lampe, quand tout à coup, une bouffée de fumée rouge s'en était échappée. La fumée s'était mise à lui parler, prétendant être le génie de la bonté et de la beauté. La marchande lui rappelant sa propre fille, elle lui avait proposé d'exaucer un vœu.
+Connaître Dori (4)
+Qu'est-ce qu'une marchande pouvait désirer de plus que la perspective de gagner plus de moras ? La marchande fit donc un vœu : gagner plus de moras à l'avenir qu'elle ne pourrait jamais en compter. Le génie de la bonté et de la beauté s'exécuta et devint le fournisseur de la marchande, lui procurant un flux constant de marchandises merveilleuses. La marchande ne tarda pas à faire fortune...
+Connaître Dori (5)
+En entendant l'histoire de la marchande, l'entité brumeuse était devenue perplexe. Elle et le génie étaient manifestement de la même espèce, alors comment se faisait-il qu'elle ne puisse pas faire de magie ? La marchande fit l'éloge du potentiel de l'entité brumeuse, disant qu'elle obtiendrait sûrement les mêmes pouvoirs si elle restait assez longtemps dans la lampe magique. L'entité brumeuse accepta et entra dans la lampe magique de la marchande...  Hein ? Si c'est une histoire vraie ? C'est plus cher si tu veux connaître les dessous de l'histoire ! Donne-moi encore 990 000 moras et je te le dirai !
+Les loisirs de Dori...
+Des loisirs ? Bien sûr, j'ai des tonnes de loisirs. Il y a d'abord gagner des moras, ensuite, compter mes moras... Oh, et puis j'aime bien regarder mes moras. Ah mes chers moras, rien au monde ne me rend plus heureuse que vous !
+Les problèmes de Dori...
+Il y a toujours des gens qui viennent me voir avec des propositions d'affaires qui ne me rapporteraient que 30 % de profit. Je suis une femme occupée, moi. Alors, s'il vous plaît, tout ce qui est en dessous de 100 % de profit, je ne veux même pas en entendre parler.
+Plats préférés...
+#J'ai entendu dire qu'il y avait un plat à Liyue qui s'appelait viande-mora. Avec un nom pareil, ça doit être délicieux ! Qu—Quoi{NON_BREAK_SPACE}? Tu sais comment le préparer !? Bon, ça fait un moment que tu es {M#mon petit apprenti}{F#ma petite apprentie} maintenant, et je suis sûre que tu as appris beaucoup de choses de moi. Alors euh, en échange de tout ce que tu as appris, pourquoi ne pas cuisiner de la viande-mora pour moi ? Eh bien, qu'est-ce que tu attends ?
+Plats détestés...
+Je ne supporte pas tout ce qui est sombre et brûlé... Tu sais, comme les charbons d'ajilenakh. Argh, je ne mangerai jamais un de ces trucs ! Même si tu me payais un million de moras, je... Bon, il faudrait que je réfléchisse.
+Cadeau reçu (1)
+#Mmm, miam ! Qu'est-ce que tu dirais qu'on s'associe {M#tous}{F#toutes} les deux, hmm ? Tu pourrais être {M#mon cuisinier personnel}{F#ma cuisinière personnelle}.
+Cadeau reçu (2)
+#Oh, alors comme ça {M#mon petit apprenti}{F#ma petite apprentie} sait s'y prendre en cuisine, hein ? Très bien, laisse-moi commander quelque chose...
+Cadeau reçu (3)
+Tu veux que je mange un truc pareil ? Hmpf, tu ferais mieux de me dédommager pour le traumatisme psychologique !
+Anniversaire...
+Aujourd'hui, tu as droit à un souhait ! Après tout, je suis la grande et puissante Dori ! Vas-y, dis-moi. Quel est ton souhait ? Mais laisse-moi te dire tout de suite que t'approvisionner à vie en moras ne fait pas partie des options.
+Affinité faible
+C'est ta façon d'investir en moi ? Héhé, j'ai toujours su que tu avais les pieds sur terre.
+Affinité moyenne
+Plus on a de moras, plus on rit.
+Affinité élevée
+Waouh ! C'est comme avoir une bourse de pièces sans fond au pouvoir infini !
+Affinité max
+#Félicitations ! Tu es désormais {M#un client}{F#une cliente} VIP de l'illustre seigneur Sangemah Bay ! Tu bénéficies ainsi d'une remise de 20 % sur tous tes futurs achats. Tu es {M#le premier client}{F#la première cliente} à bénéficier d'une telle remise d'ailleurs, alors fais-en bon usage !
+Compétence élémentaire (1)
+Regarde ça !
+Compétence élémentaire (2)
+À moi les moras !
+Déchaînement élémentaire (1)
+Montre-toi, lampe magique !
+Déchaînement élémentaire (2)
+Voilà la marchandise !
+Déchaînement élémentaire (3)
+Faisons un marché !
+Ouverture de coffre (1)
+On partage, 50-50.
+Ouverture de coffre (2)
+Fais-moi voir.
+Ouverture de coffre (3)
+Je prends tout, je prends tout !
+PV faibles (1)
+Pas touche à mes moras.
+PV faibles (2)
+À l'aide ! Au voleur !
+PV faibles (3)
+Attention aux moras.
+Compagnon avec PV faibles (1)
+Je vais aider... pour une somme modique !
+Compagnon avec PV faibles (2)
+La vie est aussi importante que les moras, tête de nœud !
+K.O. (1)
+Il faut que je gagne... plus de moras...
+K.O. (2)
+Pas... encore...
+K.O. (3)
+J'imagine qu'il y a des choses... que les moras ne peuvent pas acheter...
+Attaque légère subie (1)
+Attention à la marchandise !
+Attaque légère subie (2)
+C'est juste une égratignure.
+Attaque puissante subie (1)
+Espèce de brute !
+Attaque puissante subie (2)
+On ne va pas s'entendre !
+Ajout dans l'équipe (1)
+Allons faire fortune !
+Ajout dans l'équipe (2)
+Dépêche-toi ! Les moras n'attendent pas.
+Ajout dans l'équipe (3)
+Il se passe un truc ?

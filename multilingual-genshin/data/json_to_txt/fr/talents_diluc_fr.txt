@@ -1,0 +1,12 @@
+Attaque normale : Épée trempée
+<color=#FFD780FF>Attaque normale</color> Enchaîne jusqu'à 4 coups d'épée.  <color=#FFD780FF>Attaque chargée</color> Consomme de l'endurance de façon continue pour exécuter une succession d'entailles aussi rapides que tranchantes. L'attaque chargée se termine sur un coup puissant.  <color=#FFD780FF>Attaque plongeante</color> Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.
+Assaut brûlant
+Diluc fait tournoyer sa lourde épée vers l'avant, infligeant des <color=#FF9999FF>DGT Pyro</color>. Cette attaque peut être enchaînée 3 fois de suite. Elle entre en TdR si l'enchaînement n'est pas assez rapide.  <i>Chacune de ces attaques représente les valeurs chères à Diluc : justice, courage et responsabilité.</i>
+Aurore
+Diluc érupte en une explosion de flammes qui repoussent les ennemis et leur infligent des <color=#FF9999FF>DGT Pyro</color>. Les flammes convergent ensuite sur son arme, pour renaître en un phénix qui inflige d'importants <color=#FF9999FF>DGT Pyro</color> et repousse les ennemis sur sa route. Le phénix explose lorsqu'il atteint sa destination et inflige d'importants <color=#FF9999FF>DGT Pyro de zone</color>. Les flammes confèrent à l'arme de Diluc un <color=#FF9999FF>enchantement Pyro</color>.  <i>Celui qui apporte la lumière doit marcher dans les ténèbres. Les flammes au loin ne sont que le prélude de l'aube à venir.</i>
+Impitoyable
+Les attaques chargées de Diluc consomment 50 % d'endurance en moins, et durent 3 s de plus.
+Bénédiction du phénix
+Prolonge l'<color=#FF9999FF>enchantement Pyro</color> d'<color=#FFD780FF>Aurore</color> de 4 s. Diluc inflige 20 % de <color=#FF9999FF>DGT Pyro</color> supplémentaires pendant la durée de cet effet.
+Légende de l'aurore
+Lorsque vous forgez une épée à deux mains, 15 % du minerai utilisé vous sera rendu.

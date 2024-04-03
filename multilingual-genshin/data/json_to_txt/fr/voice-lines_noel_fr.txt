@@ -1,0 +1,138 @@
+Première rencontre...
+Je m'appelle Noëlle, je suis la servante de l'Ordre de Favonius, et c'est avec un grand plaisir qu'à partir de maintenant, je t'accompagnerai lors de tes aventures. Si tu rencontres le moindre problème à n'importe quel moment, n'hésite pas à m'appeler et je serai ravie de t'offrir mon assistance. Oui, ça commence à partir de maintenant... De quoi as-tu besoin ?
+Bavardage - Aide
+Laisse-moi m'en occuper ! Laisse-moi m'occuper de tout, quoi que ce soit ! ... Mais... de quoi s'agit-il au fait ? Je n'ai pas bien compris ta demande...
+Bavardage - Repos
+#Tu as l'air {M#fatigué}{F#fatiguée}. Tu veux du thé ? Je vais en préparer. Tu prends du sucre ? Un ou deux ?
+Bavardage - Fiabilité
+Je serai toujours là quand tu auras besoin de moi.
+Quand il pleut...
+Mon dieu, j'ai laissé ma lessive dehors ! Peux-tu m'excuser une minute que j'aille la récupérer ?
+Quand le tonnerre gronde...
+S'il te plaît, reste à l'intérieur jusqu'à ce que l'orage se calme. Je m'occupe de tout ce qui a besoin d'être fait dehors.
+Il fait bon dehors...
+Mmm, quel temps merveilleux. Pourquoi ne pas faire quelques tâches « ensoleillées » ? Oh, tu te demandes de quel genre de tâches il s'agit ? Haha, eh bien, tout ce qui peut te faire sentir bien et te redonner le sourire.
+Quand le vent souffle...
+Ahhh... Peux-tu entendre la voix de l'Archon Anémo dans la brise ? Elle me calme à chaque fois que quelque chose m'indispose.
+Au réveil...
+Bonjour ! Le petit déjeuner est servi. Je suis à ta disposition. Si quoi que ce soit n'est pas à ton goût, n'hésite pas à me le faire savoir.
+À l'heure du déjeuner...
+#Tu es {M#prêt}{F#prête} pour ta pause-déjeuner ? Attends-moi ici, je vais préparer le thé. Oh oui, j'ai aussi préparé des pancakes ! Il faut que tu goûtes, c'est ma spécialité.
+Le soir...
+Tout le monde a du temps libre le soir, et c'est là que je suis la plus occupée. Où sont les bandeaux repassés d'Amber ? Combien de nouveaux cache-œils Kaeya a-t-il achetés ? C'est la responsabilité d'une servante de garder tout ça en tête.
+La nuit...
+#S'il te plaît, va te reposer, tu dois être {M#crevé}{F#crevée} après la journée d'aujourd'hui. Il faut que je retourne au quartier général des chevaliers de... Pardon ? Tu veux que je veille sur toi jusqu'à ce que tu t'endormes ? Je... Je... Je veux dire, bien sûr, ce n'est pas un problème. Mais, hum... Tu n'es pas en train de te moquer de moi, n'est-ce pas ?
+À propos de Noëlle - Autodiscipline
+Avec mon travail, je fais exactement les mêmes choses tous les jours. C'est très loin de ce que font les chevaliers, c'est vrai. Mais au final, tout cela fait partie de mon entraînement, et quand on parle d'entraînement : l'action compte plus que les mots.
+À propos de Noëlle - Divergences
+Je suis un peu dépourvue lors d'un dispute parce que je ne peux pas vraiment exprimer le fond de ma pensée clairement. Les gens trouvent ça difficile à comprendre, alors à la place, j'essaye juste de faire mon travail à ma façon. Mais alors, ils me disent que je suis têtue. Tout ce que j'essaye de faire, c'est de convaincre les gens en leur montrant des résultats plutôt que des mots... Est-ce que cela fait de moi quelqu'un de têtu ?
+À propos de nous - Identité
+Je suis totalement dévouée à ce que je fais mais ne te méprends pas : je suis dévouée de mon plein gré. Selon moi, servante est le métier le plus libérateur qu'il soit. Je suis une cheffe, une jardinière, une guerrière, une guide... Je peux être qui tu as besoin que je sois !
+À propos de nous - Exhortations
+Même si vous n'avez pas le temps pour trois repas complets par jour, ne mangez jamais un aliment dont l'origine est inconnue et équilibrez toujours les portions de viande et de légumes. Et pas question de nager après un repas... J'espère que vous ne pensez pas tout me laisser faire ? Si c'est le cas, vous pourrez quand même compter sur moi !
+À propos de nous - Fête de bienvenue
+#Alors comme ça, vous êtes {M#devenu}{F#devenue} chevalier honoraire de l'Ordre de Favonius ? Je vous envie... Je suppose que ça fait de vous mon {M#aîné}{F#aînée} eu sein de l'organisation. Ah, vous n'avez pas encore eu de fête de bienvenue ? Laissez-moi faire !
+À propos de l'œil divin...
+En toute honnêteté, je suis un peu déçue. Cet œil divin est la preuve que les dieux sont avec moi, mais pourquoi m'ont-ils fait don de la maîtrise de l'élément Géo ? L'élément Anémo aurait été parfait pour un chevalier de l'Ordre de Favonius...
+Quelque chose à partager ?
+J'aime beaucoup l'odeur du vin en fait, je n'ai juste pas encore l'âge d'en boire. J'aurais pu en goûter à quelques occasions si j'avais voulu et personne ne l'aurait su... mais j'ai résisté à la tentation. Je pense que la première fois qu'on essaye, ça doit être vraiment magique, alors j'ai envie de garder ça pour quand je serai plus grande.
+Détails intéressants...
+Une servante se doit de garder les secrets de tout le monde. C'est pourquoi ma fleur préférée est la rose. Ici à Mondstadt, elle représente l'expression « De la même manière que les bouteilles de vin sont bouchées, mes lèvres sont scellées ». Ce qui me rappelle... Quoi ? ... Les roses représentent l'amour chez toi ? J—Je ne savais pas que les roses pouvaient avoir une signification aussi... passionnée.
+À propos d'Amber...
+J'admire Amber. Elle est non seulement un excellent chevalier, mais aussi une fille extrêmement gentille. Elle m'a même appris comment fabriquer un Baron Lapinou. Regarde, je le garde toujours sur moi comme un porte-bonheur. Il est plutôt réussi, n'est-ce pas ?
+À propos de Klee...
+Je me suis toujours demandé comment elle a fait pour faire partie des chevaliers à un si jeune âge. Quand je lui ai demandé, elle m'a entraîné à l'extérieur du quartier général pour jouer avec des explosifs. Je pensais que c'était un entraînement, mais nous nous sommes retrouvées en détention ensemble quand Jean nous a vues...
+À propos de Jean...
+Jean est un modèle pour moi, autant sur le plan de la force que sur celui de la dévotion. Elle est exigeante avec les autres, mais surtout envers elle-même. Obtenir son approbation un jour serait la consécration de mes efforts. En attendant, je dois donner le meilleur de moi-même !
+À propos de Varka...
+Je voulais rejoindre l'expédition du Grand Maître pour le servir, mais il a refusé en me disant qu'il se sentirait mieux s'il me savait à Mondstadt. J'étais si heureuse d'être estimée de la sorte ! ... Oui, je sais que je ne suis pas la seule à qui il l'a dit, mais ça ne change rien.
+À propos de Kaeya...
+C'est un personnage mystérieux qui va et qui vient comme le vent, toujours occupé avec des affaires d'une grande importance. Il m'envoie souvent faire quelques courses pour lui ; c'est comme si j'étais son assistante... Ah ? Non, je ne suis pas un larbin, voyons ! Je ne le vois pas comme ça, et même si c'était le cas, j'en serais enchantée !
+À propos de Bennett...
+Il a essayé de me recruter maintes fois au sein de la Guilde des aventuriers, en insistant sur le fait que ce serait mieux. Je peux l'aider à s'occuper des vétérans, mais je ne peux pas renoncer à mon rêve de devenir chevalier...
+À propos de Fischl - Thé
+Elle a l'air de venir d'un tout autre monde, je ne sais pas trop... mais en tout cas, cette fille semble apprécier la bibliothèque de l'Ordre de Favonius. Je lui apporte le thé quand j'y vais pour y faire le ménage. Elle me remercie à chaque fois, mais je ne comprends pas toujours ce qu'elle me raconte ensuite...
+À propos de Fischl - Antécédents
+En rangeant une étagère, je suis tombée sur un livre nommé « Fleurs pour la princesse Fischl ». Moi qui pensais que c'était un roman de fantasy, j'étais loin de me douter que l'héroïne était belle et bien réelle ! Ça ne doit pas être n'importe qui, pour avoir sa biographie publiée...
+À propos de Barbara...
+Nous prenons souvent le thé ensemble. Parfois, il lui arrive de fredonner quand elle est inspirée. Je n'y connais rien en musique, mais ça me fait plaisir de partager ces moments avec Barbara !
+Connaître Noëlle (1)
+Comment puis-je t'aider ? ... Oh, tu veux juste bavarder ? Très bien, alors ! Si c'est ce que je peux faire pour toi, alors tu peux discuter avec moi aussi longtemps que tu le voudras.
+Connaître Noëlle (2)
+Aucun problème, je suis là pour te servir dans la capacité de tes besoins. Tu n'as pas besoin de te soucier de ce que je ressens... Hein ? Outil plus que servante ? Je ne suis pas d'accord. Un outil peut peut-être t'aider à accomplir des millions de tâches de façon satisfaisante mais il ne ressent rien. Alors que moi, d'autre part, j'éprouve un profond sentiment d'accomplissement à chaque fois que je fais quelque chose pour toi.
+Connaître Noëlle (3)
+Ces... Ces pâtisseries sont pour moi ? Oh, non, je ne peux pas, vraiment. Eh bien... Dans ce cas, j'en fais également pour toi ! J'y vais tout de suite ! Je reviens dans une demi-heure... Ah OK, peut-être une heure, max. Tu peux t'occuper en attendant, je m'assurerai de te les livrer directement dès que ce sera prêt, fraîchement sorti du four !
+Connaître Noëlle (4)
+Je passe toutes mes journées à m'occuper des problèmes les plus banals, mais si ça peut t'aider dans ton aventure ou te faciliter la vie ne serait-ce qu'un peu, alors je ne pourrais pas être plus heureuse. C'est parce qu'à chaque fois qu'on me remercie, ça me donne l'impression que mon travail a au moins du sens, aussi insignifiantes que mes tâches puissent paraître.
+Connaître Noëlle (5)
+Bien que je travaille principalement pour l'Ordre de Favonius, je cherche toujours des moyens de venir en aide à d'autres personnes. Ces derniers jours, cependant, j'ai l'impression de passer de plus en plus de temps avec toi... C'est peut-être un peu égoïste de ma part... Qu'en penses-tu ?
+Les loisirs de Noëlle...
+Mes loisirs ? J'aime bien laver toutes sortes de choses... vêtements, sols, fenêtres, un peu tout ! Dès que je vois quelque chose de sale, je ne peux pas m'empêcher de le nettoyer ! Cela me donne un tel sentiment de satisfaction ! ... Oh, tu veux dire ce que je fais quand j'ai du temps libre ? Hmm... Même réponse !
+Les problèmes de Noëlle...
+Comment faire des économies ? La dernière fois je suis allée jusqu'à Liyue, j'ai visité toutes les boutiques pour comparer les prix, et ensuite j'ai tout ramené moi-même... Je ne le referai pas. Ça m'a pris tellement de temps que Jean était persuadée que je m'étais fait engloutir par Stormterror en cours de route !
+Plats préférés...
+Mon plat préféré est sans aucun doute la salade copieuse. Le meilleur des produits naturels de Mondstadt réuni sur une assiette, très nutritive et faible en calories. Non, je ne m'en lasse jamais, c'est délicieux ! Cela fait dix ans que j'en mange maintenant.
+Plats détestés...
+Je ne suis pas difficile, mais je n'aime vraiment pas les banquets. La raison étant qu'en tant que servante, je me dois de goûter à tous les plats présentés à table pour m'assurer de leur qualité. Une bouchée chacun, bien sûr, mais à force... Oh, j'ai mauvaise conscience...
+Cadeau reçu (1)
+Tu arrives à transformer un plat aussi ordinaire en un véritable délice... L'admiration que j'ai pour toi ne finit pas de grandir !
+Cadeau reçu (2)
+C'est un délice. Je dois apprendre de toi ! Quoi qu'il en soit, la cuisine est aussi le travail d'une servante...
+Cadeau reçu (3)
+Toutes ces calories... Est-ce que ça dépassera mes apports journaliers ?
+Anniversaire...
+#Comme tu es {M#occupé}{F#occupée} à voyager, je suis sûre que tu n'as pas le temps de faire certaines choses. Pas de panique, je m'en occupe parce que je te suis exclusivement dévouée aujourd'hui ! J'en profite aussi pour te souhaiter un joyeux anniversaire !
+Affinité faible
+Quel est ce... nouveau pouvoir !? Merci ! À présent, je peux aider encore plus de gens.
+Affinité moyenne
+Je ne peux pas me reposer sur mes lauriers. Après tout, je ne suis même pas encore officiellement chevalier. Jusqu'à ce que ça arrive, je me dois de travailler encore plus dur.
+Affinité élevée
+Merci de m'avoir donné l'opportunité de t'accompagner dans tes aventures, cela m'a beaucoup appris et je pense que je me suis beaucoup améliorée. En tant que servante, cela devrait être à moi de te servir, mais il semble que tu aies fait plus pour moi que je n'aurais jamais pu imaginer...
+Affinité max
+Tout le monde à Mondstadt dit que je me suis beaucoup améliorée. Certains disent même que je pourrais devenir un vrai chevalier très bientôt, mais je ne pense... Quoi ? Tu le penses aussi ? Ohhh... Merci ! Venant de toi, c'est le plus beau compliment que je pouvais espérer !
+Compétence élémentaire (1)
+Stable comme la pierre !
+Compétence élémentaire (2)
+Tout doit être propre.
+Compétence élémentaire (3)
+Comptez sur moi.
+Déchaînement élémentaire (1)
+C'est l'heure du ménage.
+Déchaînement élémentaire (2)
+Comme un bon chevalier.
+Déchaînement élémentaire (3)
+Comme une bonne servante.
+Début de sprint (1)
+Je devrais y arriver.
+Début de sprint (2)
+Quelqu'un a besoin d'aide.
+Ouverture de coffre (1)
+Ah, une bonne journée de travail !
+Ouverture de coffre (2)
+Merveilleux...
+Ouverture de coffre (3)
+Pas mal de poussière... Mieux vaut astiquer ça un grand coup !
+PV faibles (1)
+Ce n'est qu'une petite blessure.
+PV faibles (2)
+Oh, mes vêtements sont tous sales...
+PV faibles (3)
+Je ne reculerai pas.
+Compagnon avec PV faibles (1)
+Laisse-moi soigner ta blessure !
+Compagnon avec PV faibles (2)
+Laisse-moi faire ! C'est à mon tour !
+K.O. (1)
+Je suis la honte... de l'Ordre de Favonius...
+K.O. (2)
+Je veux... protéger tout le monde...
+K.O. (3)
+C'était un... honneur de te servir...
+Attaque puissante subie (1)
+Hum, je me suis relâchée.
+Ajout dans l'équipe (1)
+Quel plaisir...! Ahem...
+Ajout dans l'équipe (2)
+Je te protégerai coûte que coûte.
+Ajout dans l'équipe (3)
+Eh bien, comme tu veux.

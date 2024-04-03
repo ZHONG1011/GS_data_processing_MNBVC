@@ -1,0 +1,12 @@
+Bouquet écarlate
+Les attaques chargées de Hu Tao ne consomment pas d'endurance tant qu'elle se trouve dans l'état <color=#FFD780FF>Paramita Papilio</color> conféré par <color=#FFD780FF>Chaperon de la renaissance</color>.
+Sombres auspices
+<color=#FFD780FF>Bourgeon de prune</color> inflige un bonus de DGT équivalant à 10 % des PV max de Hu Tao lorsqu'elle bénéficie de l'effet. <color=#FFD780FF>Apaisement divin</color> applique de plus l'effet <color=#FFD780FF>Bourgeon de prune</color> lorsqu'il touche.
+Rituel du sang
+Niveau d'aptitude <color=#FFD780FF>Chaperon de la renaissance</color> +3. Niveau max : 15
+Jardin du repos éternel
+Lorsqu'un ennemi affecté par <color=#FFD780FF>Bourgeon de prune</color> est vaincu, le taux CRIT de tous les personnages de l'équipe proches (hormis Hu Tao) augmente de 12 % pendant 15 s.
+Encens floral
+Niveau d'aptitude <color=#FFD780FF>Apaisement divin</color> +3. Niveau max : 15
+L'envol du papillon
+Lorsque les PV de Hu Tao passent sous le seuil des 25 % ou lorsqu'elle subit assez de DGT pour être vaincue : Hu Tao n'est pas vaincue cette fois-ci. Pendant les 10 s qui suivent, ses RÉS élémentaires et physique augmentent de 200 %, son taux CRIT augmente de 100 %, et sa RÉS à l'interruption augmente considérablement. Cet effet se déclenche automatiquement lorsqu'il ne reste qu'1 PV à Hu Tao. Cet effet peut être déclenché une fois toutes les 60 s.

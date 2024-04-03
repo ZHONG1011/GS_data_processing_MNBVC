@@ -1,0 +1,12 @@
+Prophecy of Submersion
+Efek <color=#80C0FFFF>Reaksi Elemental yang berhubungan dengan elemen Hydro</color> akan ditingkatkan selama 8 detik setelah karakter dalam party sendiri menyerang musuh yang terkena efek Omen: ·DMG Electro Charged meningkat 15%. ·DMG Vaporize meningkat 15%. ·DMG Hydro Swirl meningkat 15%. ·Durasi musuh yang terkena Frozen meningkat 15%.
+Lunar Chain
+Saat Normal Attack mengenai musuh, memiliki 20% persentase untuk melancarkan Charged Attack. Dapat terpicu setiap 5 detik.
+Restless Revolution
+Meningkatkan 3 level <color=#FFD780FF>Stellaris Phantasm</color>. Maksimum: Lv. 15.
+Prophecy of Oblivion
+Saat anggota party menyerang musuh yang terkena efek Omen, CRIT Rate akan meningkat 15%.
+Mockery of Fortuna
+Meningkatkan 3 level <color=#FFD780FF>Mirror Reflection of Doom</color>. Maksimum: Lv. 15.
+Rhetorics of Calamitas
+Saat dalam kondisi <color=#FFD780FF>Illusory Torrent</color> setiap 1 detik gerakan, Charged Attack Mona meningkat 60%, Bonus DMG maksimum yang bisa didapatkan dengan cara ini adalah 180%, efek ini berlangsung selama 8 detik.

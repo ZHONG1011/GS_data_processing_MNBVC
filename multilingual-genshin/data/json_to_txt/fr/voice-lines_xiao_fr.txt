@@ -1,0 +1,144 @@
+Première rencontre...
+Si vous vous réveillez avec un couteau sous la gorge, si des monstres approchent leurs griffes de vos entrailles, si la mort vient frapper à votre porte... Appelez l'Adepte Xiao. Je serai là.
+Bavardage - Oisiveté
+J'en suis réduit à me tenir debout à rien faire... Comme c'est bête.
+Bavardage - Esprits errants
+Les damnés périront avant de pouvoir porter la main sur moi.
+Bavardage - Corruption
+Ughhh... *halète* Ces souvenirs... si noirs...
+Quand il pleut...
+Les monstres ne s'arrêtent pas parce qu'il pleut. Alors on bouge.
+Après la pluie...
+La pluie s'est arrêtée ? Je ne me soucie guère du temps qu'il fait.
+Quand le tonnerre gronde...
+Nombre de mortels sont effrayés par le tonnerre... C'est incompréhensible. Avoir peur de quelque chose d'aussi commun.
+Quand il neige...
+Lorsqu'il y aura assez de neige, on pourra la manger.
+Au réveil...
+On perd du temps. Allons-y.
+À l'heure du déjeuner...
+C'est l'heure du déjeuner... On va retourner à l'Auberge Wangshu.
+Le soir...
+La nuit... Quand la pénombre vient vous envelopper. Ne restez pas dehors.
+La nuit...
+Allez-y. Je serai là.
+À propos de Xiao - Inhumain
+Je suis loin d'être humain, alors je ne comprends pas grand-chose à leurs émotions.
+À propos de Xiao - Liyue
+Liyue change. À grande vitesse... Oubliez ça. Ça ne veut rien dire pour moi.
+À propos de nous - Avertissement
+#Si arrive un jour où même vous êtes {M#emporté}{F#emportée} par les ténèbres, ce sera alors à moi de...
+À propos de nous - Confiance
+#Ne vous laissez pas emporter par les ténèbres. Je suis sans pitié.  Mais, peut-être que vous arriverez à vous en sortir {M#seul}{F#seule}.
+À propos de nous - Sommeil
+Qui va là ? Oh... Vous pensiez que je dormais ? Vous n'avez vraiment aucun respect pour les Adeptes.
+À propos de nous - Festival des lanternes
+Le Festival des lanternes ? Le moment pour les humains de jeter leurs déchets volants lumineux dans la mer... Comme c'est stupide...  Mais bon, si vous insistez... j'irai avec vous.
+À propos de l'œil divin - Désirs
+Si j'ai le moindre désir ? Pff. Ne considérez pas qu'un Adepte ait les mêmes aspirations qu'un mortel. Je n'ai aucun désir.
+À propos de l'œil divin - Raisons
+Si je cache quelque chose ? Je ne cache rien. Je ne parle juste pas de mes désirs aux autres.  Est-ce que vous autres, mortels, n'avez pas une règle selon laquelle si on dévoile son vœu, il ne se réalise pas ? Hmm ? Qu'est-ce que vous voulez dire par ce n'est pas la même chose ?
+Quelque chose à partager ?
+La mort est ma spécialité. Si vous n'arrivez pas à passer à l'acte, appelez-moi.
+Détails intéressants...
+Le Marais Dihua était autrefois abandonné.  Enfin, cela remonte à des dizai... Non, des centaines d'années.
+À propos de Zhongli...
+Est-ce que je peux demander... Zhongli, que fait-il de ses journées ? Hein ? Des oiseaux, des antiquités, des fleurs...  Hmm... Quelle est la signification de tout cela ?
+À propos de Beidou...
+Beidou ? Je n'ai rien à faire avec elle. Mais le léviathan existe. En tant que simple humaine, elle a prouvé sa force en terrassant « Haishan ».
+À propos de Baizhu...
+Vous voulez... que Baizhu confectionne un remède pour alléger mes souffrances ? Je comprends vos intentions, mais les remèdes pour les mortels n'ont aucun effet sur les Adeptes.
+À propos de Hu Tao...
+Hu Tao ? Son énergie débordante m'irrite. Heureusement, elle est aussi pleine d'esprit, ce qui fait qu'elle ne deviendra pas une humaine ennuyeuse.
+À propos de Venti...
+Venti ? C'est donc son nom. La musique qu'il joue est... Oubliez ça.
+À propos de Ganyu...
+Ganyu n'est ni mortelle ni une bête sacrée. À force d'errer dans le monde mortel et celui des Adeptes en ayant le devoir comme seul guide, il était inévitable qu'elle se perde... Quoi ? Moi ? Vous trouvez qu'un Yaksha qui ne sait que massacrer d'innombrables âmes et en émerger indemne constitue un bon mentor pour cette personne ? ... Votre esprit s'est égaré dans un monde bien différent de votre corps...
+À propos de Shenhe...
+On dirait que Shenhe a une grande confiance en vous. Rien d'étonnant à cela, je dois dire. Il y a peu de gens en ce monde qui soient aussi gentils et compatissants que vous.
+À propos de Yelan...
+J'ai entendu dire qu'elle avait suivi la piste des Millelithes dans le Gouffre pour mener une enquête. Elle doit être douée pour pouvoir enquêter sur de tels mystères toute seule.
+Connaître Xiao (1)
+Je vous protégerai.  Mais ne cherchez pas à m'approcher et ne vous mettez pas en travers de mon chemin, ou vous le regretterez.
+Connaître Xiao (2)
+Au cours des derniers millénaires, j'ai traqué d'innombrables spectres. Si vous ne voulez pas de problème, tenez-vous à l'écart. Considérez-moi comme une arme, rien de plus.
+Connaître Xiao (3)
+Leurs voix... Je ne cesse de les entendre. Leurs cris, leurs pleurs, humpf... Réclamant toujours plus de morts...  C'est mon fardeau. Cela n'a rien à voir avec vous.
+Connaître Xiao (4)
+Morax ? Que savez-vous de lui ?  Il m'a donné le nom de « Xiao » et m'a libéré d'une vie de souffrance sans fin.  Je ne pardonnerai jamais à ceux qui osent parler contre lui, même pas à vous.
+Connaître Xiao (5)
+C'est trop tard. Notre connexion est trop forte. Même si vous le vouliez, il est trop tard pour la rompre. Hmm ? Cela ne vous a jamais traversé l'esprit ?  *soupir* Cette danse perpétuelle de soumission des démons... Mon combat ne s'arrête jamais.  Mais... j'aimerais en savoir plus sur vous.
+Les loisirs de Xiao...
+Vous avez du cran pour oser m'interroger sur mes loisirs.  Venez donc vous battre. Combien de temps pensez-vous que votre corps supportera mes coups ?
+Les problèmes de Xiao...
+Des problèmes ? Hmph. Les problèmes ne représentent rien pour les Adeptes. Il n'y a aucun problème qui puisse résister à des milliers d'années.
+Plat préféré - Tofu aux amandes
+Je n'ai aucun intérêt pour la nourriture mortelle. La cuisine est un processus fastidieux et l'attente est longue. La seule chose que mon estomac supporte est le tofu aux amandes.
+Plat préféré - Rêve
+Le tofu aux amandes a le goût d'un doux rêve.
+Plats détestés...
+Attendez. Je suis censé placer des tranches de viande dans cette galette moi-même ? Et puis... les manger ? Ensemble ? Ugh, les humains de nos jours ne savent pas ce qu'ils font.
+Cadeau reçu (1)
+Pas mal... Pourquoi me fixez-vous du regard ?
+Cadeau reçu (2)
+Ne vous embêtez pas.
+Cadeau reçu (3)
+Cuisinez autre chose la prochaine fois.
+Anniversaire...
+L'anniversaire de votre naissance... Les mortels ont vraiment des fêtes redondantes. Hum, un instant... Je vous ai fabriqué ce papillon avec des feuilles de platane.  Allez, prenez-le. Il a le pouvoir de chasser les esprits maléfiques car j'ai utilisé un arcane d'Adepte dessus.
+Affinité faible
+C'est tout ? Pas de quoi s'enthousiasmer.
+Affinité moyenne
+Un nouveau pouvoir ? Il ne servira qu'à donner la mort.
+Affinité élevée
+L'autodestruction est la limite du pouvoir de chacun. Pourquoi persistez-vous ? Répondez.
+Affinité max
+D'innombrables âmes ont péri de ces mains. J'ai moi-même été englouti par les ténèbres... Et pourtant, vous osez continuer. Vous me considérez comme... un compagnon. Vous essayez de me sauver ?  ... Vous... êtes vraiment une personne spéciale.
+Compétence élémentaire (1)
+Hmph !
+Compétence élémentaire (2)
+Ennuyeux.
+Compétence élémentaire (3)
+Inutile.
+Attaque plongeante (1)
+Par ici !
+Attaque plongeante (2)
+Incompétent.
+Déchaînement élémentaire (1)
+Disparaissez.
+Déchaînement élémentaire (2)
+Fléau du mal.
+Déchaînement élémentaire (3)
+Pleurez.
+Ouverture de coffre (1)
+Si c'est utile, je vais le prendre.
+Ouverture de coffre (2)
+Pourquoi quelqu'un voudrait-il... *soupir* Enfin, cela ne me concerne pas.
+Ouverture de coffre (3)
+Hmm... C'est d'assez bonne qualité.
+PV faibles (1)
+Silence.
+PV faibles (2)
+Stupide.
+PV faibles (3)
+Bien.
+Compagnon avec PV faibles (1)
+... Faible.
+Compagnon avec PV faibles (2)
+Revenez si vous voulez survivre.
+K.O. (1)
+Est-ce... la fatalité...
+K.O. (2)
+Ce jour... est arrivé.
+K.O. (3)
+Impossible...
+Attaque légère subie (1)
+C'est tout ?
+Attaque puissante subie (1)
+Dégagez de mon chemin.
+Ajout dans l'équipe (1)
+Vous m'avez appelé ?
+Ajout dans l'équipe (2)
+Le mal doit être éradiqué.
+Ajout dans l'équipe (3)
+Mon devoir est de dompter les démons.

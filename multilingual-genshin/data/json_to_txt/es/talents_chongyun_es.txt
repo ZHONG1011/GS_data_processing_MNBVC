@@ -1,0 +1,12 @@
+Ataque Normal: Desgracia de los demonios
+<color=#FFD780FF>Ataque Normal</color> Realiza hasta 4 tajos de espada consecutivos.  <color=#FFD780FF>Ataque Cargado</color> Consume Aguante de manera constante para realizar golpes de espada giratorios contra los enemigos cercanos. Al final del Ataque Cargado, realizará un golpe de espada más poderoso.  <color=#FFD780FF>Ataque Descendente</color> Se lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.
+Filo espiritual: Estratos de escarcha Chonghua
+Chongyun golpea el suelo con su gran espada, causando una explosión Cryo en un AdE circular frente a él que inflige <color=#99FFFFFF>Daño Cryo</color>. Después de un breve periodo de tiempo, el aire frío creado por la explosión Cryo se concentra en un campo de estratos de escarcha, dentro del cual se <color=#99FFFFFF>imbuye del elemento Cryo</color> a los personajes que usan espadas ligeras, mandobles y lanzas.  <i>“Las joyas linlang resuenan en medio del silencio. Los ríos están quietos y las nubes se llenan de escarcha. Cuando las puertas del altar se abren, el mal es desterrado”.</i>
+Filo espiritual: Estrella cortanubes
+Chongyun crea unos sellos con sus manos para invocar tres filos espirituales gigantes que caen a la tierra uno tras otro, explotando al impactar contra el suelo, infligiendo <color=#99FFFFFF>Daño Cryo en el AdE</color> y lanzando por los aires a sus enemigos.  <i>“Así como del hielo nace la escarcha, mi hoja trascendente sacude el cielo y la tierra. ¡Atiende a mi llamado y ven aquí!”.</i>
+Respiración inalterable
+Aumenta en un 8% la Vel. de Ataque Normal de los personajes con espadas ligeras, mandobles o lanzas dentro del campo creado por <color=#FFD780FF>Filo espiritual: Estratos de escarcha Chonghua</color>.
+Hoja cazaescarcha
+Cuando el campo creado por <color=#FFD780FF>Filo espiritual: Estratos de escarcha Chonghua</color> desaparece, invoca otro filo espiritual que ataca a los enemigos cercanos, infligiendo el 100% del daño de habilidad de Estratos de escarcha Chonghua como <color=#99FFFFFF>Daño Cryo en el AdE</color>. La <color=#99FFFFFF>RES Cryo</color> de los enemigos golpeados por este filo disminuirá en un 10% durante 8 s.
+Viaje por las nubes
+Reduce en un 25% el tiempo necesario para completar una expedición en Liyue.

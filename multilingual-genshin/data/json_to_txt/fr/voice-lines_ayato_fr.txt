@@ -1,0 +1,140 @@
+Première rencontre...
+Salutations. Ayaka m'a parlé de vous à plusieurs reprises. Hélas, mon emploi du temps a été plus chargé que prévu récemment, ce qui a retardé notre première rencontre jusqu'à aujourd'hui. Kamisato Ayato, chef du Clan Kamisato. Enchanté de faire votre connaissance.
+Bavardage - Privilégié
+J'ai l'impression d'avoir oublié quelque chose... Peu importe, j'enverrai quelqu'un aller me le chercher quand je m'en souviendrai.
+Bavardage - L'art de ferrer
+Tout est en place, et ils ont mordu à l'hameçon... Bien, c'est l'heure de refermer notre piège.
+Bavardage - Plaisir dépravé
+Quand je repense à mes assistants qui faisaient une tête paniquée mais n'osaient pas me retenir, j'ai du mal à ne pas sourire. Héhé, c'était une bonne idée de sortir marcher un peu.
+Quand il pleut...
+Abritons-nous de la pluie. Pas d'inquiétude, quelqu'un va bientôt venir nous apporter des parapluies.
+Quand le tonnerre gronde...
+Ayaka avait toujours peur du tonnerre lorsqu'elle était enfant, jusqu'au jour où notre mère lui a dit que le bruit du tonnerre était la voix de la Shogun toute-puissante. Depuis, elle se concentre de toutes ses forces à chaque fois que le tonnerre gronde, comme si cela pouvait lui permettre de comprendre les paroles de Son Excellence.
+Quand il neige...
+Le paysage enneigé d'aujourd'hui me rappelle une chute de neige d'autrefois... C'était il y a bien longtemps.
+Il fait bon dehors...
+J'ai rarement la chance de pouvoir prendre un bain de soleil.
+Quand le vent souffle...
+Parfois, ce qui semble au premier abord n'être qu'une brise passagère peut finalement se révéler être l'élément qui changera l'issue des événements... Héhé.
+Le vent souffle fort...
+La plupart des gens se recroquevillent face à un fort vent frontal. Rares sont les personnes qui savent comment l'utiliser à leur avantage.
+Au réveil...
+Bonjour. Rien de tel que de s'entraîner à l'épée au petit matin pour détendre son corps et son esprit. En général, j'évite d'avoir quelque chose de prévu à ces heures. Alors ? Voulez-vous faire quelques passes d'armes ?
+À l'heure du déjeuner...
+#Si vous souhaitez quelque chose de particulier pour le déjeuner, faites-le savoir à l'avance à l'un de mes employés. Vous êtes {M#un invité}{F#une invitée} d'honneur, je suis certain qu'ils feront tout leur possible pour vous satisfaire.
+Le soir...
+#Puisque vous êtes {M#venu}{F#venue} me rendre visite à une telle heure, pourquoi ne pas rester ici pour dîner ?
+La nuit...
+Il est l'heure de dormir, n'est-ce pas ? Vous pouvez vous retirer, je n'ai pas encore sommeil... Oh, c'est vous ? Il me reste quelques tâches à terminer. Vous devriez aller vous reposer.
+À propos de Kamisato Ayato – Prix à payer
+Tout a un prix. Et si vous aspirez à des choses dont la plupart des gens ne pourraient jamais rêver, il y aura un prix inimaginable à payer.
+À propos de Kamisato Ayato – Méthodologie
+Je ne tiens pas vraiment à faire les choses d'une manière précise. Quelle que soit la méthode que vous utilisez, l'important est qu'elle donne des résultats acceptables.
+À propos de nous - Quelque chose d'amusant
+Héhé, j'ai entendu parler de ce qui vous est arrivé à la Commission administrative, comme c'est amusant. Vous avez réussi à enrager le vieux Kujou, c'est quelque chose de rare. J'aurais aimé voir un tel spectacle de mes propres yeux...
+À propos de nous - Confiance
+Faire confiance à autrui n'est pas facile, surtout pour une personne de haut statut. Placez vos espoirs en la mauvaise personne, et cela peut littéralement vous coûter la vie. Mais c'est à moi que vous avez accordé votre confiance, il est donc évident que je ne vous laisserai pas tomber.
+À propos de l'œil divin...
+Un œil divin est un outil bien utile, il est donc logique d'en faire bon usage. J'aime à penser qu'il est plus heureux en ma possession parce qu'il a la possibilité de briller de toute sa gloire.
+#Quelque chose à partager{NON_BREAK_SPACE}?
+Lorsque vous jetez des fleurs fanées sur un poêle chaud, la chaleur brûlante de celui-ci leur insuffle une dernière étincelle de vitalité, et pendant un bref instant, elles rayonnent d'un éclat plus glorieux que les flammes mêmes... Leur vie a été éphémère, mais en aucun cas gâchée.
+Détails intéressants...
+S'il faut évoquer le sujet des animaux domestiques, je dirais que je préfère les chiens. Les chats ont le mérite d'être indépendants, mais seuls les chiens écoutent sagement les ordres de leur maître. Ils sont à la fois fidèles et sincères. Difficile donc de ne pas les aimer, héhé.
+À propos de Kamisato Ayaka...
+J'ai confiance en les capacités d'Ayaka, mais j'aimerais qu'elle conserve un cœur pur. Elle ne devrait pas avoir à s'impliquer personnellement dans des luttes de pouvoir, ou à affronter le côté sombre de la vie. En tant que grand frère, c'est à moi de la protéger de tout cela... Oups, j'en ai trop dit. Ça reste entre vous et moi, d'accord ?
+À propos de Thomas...
+Il n'y a aucun doute dans mon esprit sur la loyauté de Thomas envers le Clan Kamisato. Il y a longtemps, pour le sonder, je lui ai conseillé de partir s'il ne voulait pas se laisser entraîner dans d'interminables disputes politiques. Pourtant, il a choisi de rester et sa présence m'a épargné bien des soucis. Il y a très peu de personnes en qui j'ai entièrement confiance ces jours-ci, et Thomas est l'une d'entre elles.
+À propos de Sayu...
+Elle a l'air terriblement oisive la plupart du temps, et pourtant, elle se montre toujours à la hauteur et apporte une aide indispensable quand il le faut. Bien sûr, vous en savez bien plus que moi à ce sujet, n'est-ce pas ?
+À propos de Yoimiya...
+Ah, la propriétaire du magasin de feux d'artifice. Oui, c'est une jeune femme très... fougueuse. Le Clan Kamisato est en bons termes avec elle. Elle a plus ou moins le même âge qu'Ayaka, et elles s'entendent très bien toutes les deux. Je suis sûr que son caractère direct et franc ne détournera pas Ayaka de son chemin. Ayaka a toujours été fidèle à elle-même, depuis qu'elle est toute petite.
+À propos de la Shogun Raiden...
+La Shogun et Inazuma ont payé un lourd tribut pour la quête de l'éternité. Ces plaies nécessiteront du temps pour se refermer. En tant que médiateur dans le processus politique, je m'assurerai de faire ce qui est attendu de moi.
+À propos de Yae Miko...
+La Guuji Yae fait preuve de bienveillance envers le Clan Kamisato. Pourtant, elle a toujours eu du mal avec moi. Je pense que vous avez entendu plus d'une fois la façon dont elle se réfère à moi : « ce fripon de Kamisato ».  Nous nous croisons parfois, étant donné le chevauchement de nos tâches. Malgré nos divergences, notre relation de travail est plutôt harmonieuse. Ce n'est pas pour me déplaire : en travaillant avec des gens intelligents, on ne peut qu'être plus efficace. En tout cas... Aussi désagréable qu'elle puisse me trouver, elle est forcée d'admettre que sans moi, elle n'aurait personne pour l'aider à réaliser ses idées bizarres et merveilleuses.
+À propos de Kujou Sara...
+Le vieux Kujou a profité d'une occasion en or pour créer une arme redoutable. Hélas, son plan a une faille : il n'est désormais plus capable de la manier.
+À propos de Kaedehara Kazuha...
+Le Clan Kaedehara était autrefois subordonné au Clan Kamisato. Mes ancêtres ont été incapables de le protéger il y a des années. Aujourd'hui, c'est à moi qu'incombe le devoir de lui prêter main forte. Bien que je n'aie pas la capacité de l'aider à faire renaître son clan, lui permettre d'échapper à l'arrestation par la Commission administrative est tout à fait dans mes cordes.
+À propos d'Arataki Itto...
+Quel personnage intéressant. Et son idée de faire combattre des scarabutos dociles entre eux... Haha, c'est vraiment quelque chose ! Je lui avais prodigué quelques encouragements juste pour être poli, et pourtant, il s'est mis à m'appeler « frérot Ayato ». Il ignore jusqu'à ce jour mon identité réelle. Héhé, ça ne me dérange pas, je n'ai rien contre les... gens simples.
+À propos de Ningguang...
+J'ai entendu une chose ou deux sur la façon de procéder de son Éminence la Megrez. À ce propos, il se trouve que j'ai aussi un exemplaire en édition limitée de « Mille ans à Liyue » si ça vous intéresse. Qu'en dites-vous ? Est-ce que j'envoie quelqu'un le chercher pour qu'on puisse faire une partie ?
+Connaître Ayato (1)
+Vous voulez en savoir plus sur moi ? Parfois, il n'est pas toujours bon d'en savoir trop. Je suis sûr que vous avez déjà entendu de nombreux proverbes mettant en garde contre l'indiscrétion. Peut-être aurons-nous la chance de discuter davantage une prochaine fois ?
+Connaître Ayato (2)
+Des goûts farfelus, vous dites ? Vous semblez mal me comprendre. Laissez-moi vous expliquer : la plupart du temps, j'aime simplement observer les grimaces des gens lorsqu'ils sont dans une position délicate. Est-ce si étrange ? Je pense que vous taquinez régulièrement votre petite camarade dans ce but précis, non ?
+Connaître Ayato (3)
+Les relations entre les Trois Commissions paraissent stables et bien gérées, mais je peux vous assurer qu'elles sont assez tumultueuses. Devoir traiter avec ces vieux fossiles est loin d'être une partie de plaisir, je vous en épargnerai les détails. Sachez juste que... Je n'ai jamais rien fait pouvant déshonorer le Clan Kamisato. Ni dans le passé, quand je travaillais pour apporter la stabilité à notre clan, ni dans le présent, alors que je travaille pour le bien de tout Inazuma.
+Connaître Ayato (4)
+Le Shuumatsuban ? Il n'y a pas de mal à vous en parler un peu. C'est une unité secrète qui dépend directement du chef du Clan Kamisato. Par conséquent, elle m'a été confiée après la mort de mon père. Il y a certaines situations dans lesquelles je ne peux pas m'impliquer directement et le Shuumatsuban se révèle extrêmement pratique dans ces cas-là. La plupart de ses membres sont des orphelins que nous recueillons et élevons dès leur plus jeune âge. De cette façon, leur loyauté est garantie dans la mesure du possible, et nous sommes épargnés de beaucoup de soucis.
+Connaître Ayato (5)
+Est-ce que j'ai d'autres tours dans ma manche en plus du Shuumatsuban ? Évidemment. Le lapin rusé a trois terriers différents, tout comme les hommes ne mettent pas leurs œufs dans le même panier. Seulement voilà, j'ai partagé suffisamment mes secrets avec vous. À mon tour d'écouter votre histoire. Oh, et... Vous pouvez passer tout ce qui concerne votre voyage en Teyvat. Parlez-moi plutôt de tout ce qui précède cela.
+Les loisirs d'Ayato...
+Mes passe-temps... J'en avais un ou deux quand j'étais jeune, certes. Mais aujourd'hui, les affaires officielles occupent la plus grande partie de mon temps... Oui ? Vous dites que certaines personnes considèrent ce type de travail comme un passe-temps ? Oh, c'est vraiment... Hum... Particulier.
+Les problèmes d'Ayato...
+Des tracas ? Quand quelque chose me dérange, je dois traiter cela le plus promptement possible. Et quand quelqu'un me dérange, hum...
+Plat préféré - Préférence personnelle
+Les choses novatrices sont un vrai bol de fraîcheur dans une vie monotone. Le nouvel assortiment de thé au lait de Hanamizaka n'est vraiment pas mauvais, vous devriez l'essayer. En dehors de ça... je n'ai pas de préférence en ce qui concerne les plats du quotidien. Tous mes repas sont planifiés par mes subordonnés, alors je mange tout ce que l'on me sert.
+Plat préféré - Essayer de nouvelles choses
+Pourriez-vous me parler de vos goûts ? Oh, je vois... D'accord, c'est noté. La prochaine fois qu'on me le demande, je saurai quoi dire.
+Plats détestés...
+Oups, il semblerait que j'aie mis du sel à la place du sucre. Un mizu manju salé... Bon, rien n'est perdu, Thomas le mangera pour moi.
+Cadeau reçu (1)
+C'est très novateur en effet. Haha, cela répond parfaitement à mes exigences...
+Cadeau reçu (2)
+Je vois. Alors c'est ça votre interprétation de ce plat...
+Cadeau reçu (3)
+Voilà une suggestion : pourquoi ne pas utiliser ce plat au jeu de la marmite la prochaine fois ?
+Anniversaire...
+Bon anniversaire ! Que diriez-vous de devenir le Commissaire culturel pour une journée ?  Tout le travail a déjà été fait, vous n'avez plus qu'à profiter du pouvoir qui accompagne cette fonction. Ne vous inquiétez pas, les serviteurs n'oseront pas poser de questions, je serai avec vous tout le temps, héhé.
+Affinité faible
+#Serais-je devenu plus compétent{NON_BREAK_SPACE}? Eh bien, c'est fabuleux.
+Affinité moyenne
+En fin de compte, le pouvoir n'est une source de réconfort que lorsqu'il est entre nos propres mains.
+Affinité élevée
+Héhé, voilà une chose qui pourrait bien rendre certaines personnes nerveuses.
+Affinité max
+Depuis que j'ai pris la tête du clan, j'ai rarement le temps de me relâcher. Cependant, les choses sont devenues étrangement différentes depuis que vous êtes là. C'est comme si je prenais un bain de soleil.
+Compétence élémentaire (1)
+Plus un geste.
+Compétence élémentaire (2)
+Que les lames jaillissent.
+Déchaînement élémentaire (1)
+Mon épée est sans rivale.
+Déchaînement élémentaire (2)
+Hmph... Repose en paix.
+Déchaînement élémentaire (3)
+École Kamisato : Jardin d'eau !
+Ouverture de coffre (1)
+Si c'est utile, je vais le prendre.
+Ouverture de coffre (2)
+Oh... Vous cherchez ces choses-là ?
+Ouverture de coffre (3)
+Hmm... Ce n'est pas mauvais.
+PV faibles (1)
+Que c'est intéressant...
+PV faibles (2)
+Bien, fini de plaisanter.
+PV faibles (3)
+Seul le vainqueur s'emparera du pouvoir.
+Compagnon avec PV faibles (1)
+Il est temps de se retirer.
+Compagnon avec PV faibles (2)
+Mesurez vos efforts si vous ne voulez pas mal finir.
+K.O. (1)
+Ce plan était pourtant... infaillible...
+K.O. (2)
+Toutes les bonnes choses ont une fin...
+K.O. (3)
+La vie est pleine d'imprévus...
+Attaque légère subie (1)
+Rien de plus que cela.
+Attaque puissante subie (1)
+Je dois réévaluer ma force...
+Ajout dans l'équipe (1)
+Tiens ? Vous m'invitez à aller me balader ?
+Ajout dans l'équipe (2)
+Dans ce cas, je vais mettre mon travail de côté pour le moment.
+Ajout dans l'équipe (3)
+Ha ! Du divertissement, parfait.

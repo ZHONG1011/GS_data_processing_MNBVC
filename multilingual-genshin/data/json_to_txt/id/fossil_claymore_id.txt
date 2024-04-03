@@ -1,0 +1,13 @@
+Sacrificial Greatsword
+Pedang dekorasi yang telah membatu oleh waktu, tetapi perhiasan di dalamnya masih dapat terlihat jelas. Memberikan kekuatan melawan angin waktu bagi penggunanya.
+ Di tepi jurang yang menghadap laut Timur, para leluhur memuja Dewa Waktu dan Anemo bersama-sama. Keduanya terkait erat, seperti yang diungkapkan dalam pepatah, "Anemo membawa cerita sementara Waktu memelihara mereka." Pedang ini menceritakan kisah perang, dan digunakan untuk menafsirkan opera perang. Awalnya hanya sebuah alat peraga, namun ditempa oleh berlalunya waktu.  Pedang ini dulunya milik klan Imunlaukr, sebuah klan pejuang pemberani dan berbakat yang berjuang keras dan mati muda. Dalam upacara pengorbanan, mereka akan memberlakukan duel antara pejuang pemberani yang ternoda darah.  Di mata klan Imunlaukr, pertarungan ada bukan untuk perlindungan, untuk kemuliaan, atau untuk mendapatkan wilayah. Namun, lebih kepada hiburan para Dewa, jauh di surga, yang sulit untuk dihibur. Monster dan penjahat, mereka bertarung dengan mereka semua, tanpa memedulikan apakah, kali ini, mereka akan kembali kepada orang-orang terkasih, Namun itu semua tidak berarti. Yang berarti adalah auman, yang keras dan jelas, di tengah pertempuran berdarah.  Garis keturunan yang menyedihkan seperti itu seharusnya tidak bisa bertahan lama dalam sejarah, Karena pertempuran mereka belum berakhir dan tidak ada harapan untuk menang. Namun, ketika salju perlahan mencair dan Mondstadt mulai terbentuk, lambat laun mereka sadar: Akhirnya mereka menemukan sesuatu yang layak dilindungi. 
+Composed
+Setelah Elemental Skill mengakibatkan DMG, terdapat <color=#99FFFFFF>40%</color> persentase CD Skill langsung selesai. Dapat terpicu setiap <color=#99FFFFFF>30 detik</color>.
+Composed
+Setelah Elemental Skill mengakibatkan DMG, terdapat <color=#99FFFFFF>50%</color> persentase CD Skill langsung selesai. Dapat terpicu setiap <color=#99FFFFFF>26 detik</color>.
+Composed
+Setelah Elemental Skill mengakibatkan DMG, terdapat <color=#99FFFFFF>60%</color> persentase CD Skill langsung selesai. Dapat terpicu setiap <color=#99FFFFFF>22 detik</color>.
+Composed
+Setelah Elemental Skill mengakibatkan DMG, terdapat <color=#99FFFFFF>70%</color> persentase CD Skill langsung selesai. Dapat terpicu setiap <color=#99FFFFFF>19 detik</color>.
+Composed
+Setelah Elemental Skill mengakibatkan DMG, terdapat <color=#99FFFFFF>80%</color> persentase CD Skill langsung selesai. Dapat terpicu setiap <color=#99FFFFFF>16 detik</color>.

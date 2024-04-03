@@ -1,0 +1,12 @@
+Attaque normale : Géo-dispersion
+<color=#FFD780FF>Attaque normale</color> Tire des gemmes qui infligent des <color=#FFE699FF>DGT Géo</color>. Ningguang obtient un Jade d'étoile à chaque fois qu'une gemme touche un ennemi.  <color=#FFD780FF>Attaque chargée</color> Tire une gemme géante qui inflige des <color=#FFE699FF>DGT Géo</color>. Si Ningguang a obtenu des Jades d'étoile, l'attaque chargée les tire tous au même moment, infligeant des DGT supplémentaires.  <color=#FFD780FF>Attaque plongeante</color> Plonge depuis les airs en concentrant ses pouvoirs Géo, infligeant des DGT aux ennemis en chemin et des <color=#FFE699FF>DGT Géo de zone</color> à l'impact.
+Paravent d'astrolabe
+Ningguang puise dans son opulence pour créer un paravent d'or et d'obsidienne infligeant des <color=#FFE699FF>DGT Géo de zone</color>.  <color=#FFD780FF>Paravent d'astrolabe</color> · Bloque les projectiles ennemis. · Les PV du paravent sont proportionnels aux PV max de Ningguang.  Le paravent d'astrolabe est une <color=#FFE699FF>construction Géo</color> qui peut bloquer certaines attaques mais ne peut pas être escaladée. Il ne peut exister qu'un seul paravent à la fois.  <i>Les étoiles sont dispersées dans le ciel nocturne, les pions sont prêts sur l'échiquier divin. Alors, le paravent d'astrolabe commence à s'étendre.</i>
+Éclatement des étoiles
+Ningguang fait tournoyer plusieurs jades précieux à tête chercheuse autour d'elle, qu'elle relâche tous en même temps, infligeant ainsi d'importants <color=#FFE699FF>DGT Géo</color>. Si le paravent d'astrolabe est actif lorsque cette attaque est exécutée, il l'accompagne de tirs de jade supplémentaires.  <i>Éparses sont les ténèbres quand les étoiles sont éclatées.</i>
+Plan de reprise
+L'attaque chargée de Ningguang ne consomme pas d'endurance tant que celle-ci possède des Jades d'étoile.
+Réserve stratégique
+Confère pendant 10 s un <color=#FFE699FF>bonus de DGT Géo</color> de 12 % aux personnages qui traversent le <color=#FFD780FF>Paravent d'astrolabe</color>.
+Corne d'abondance
+Affiche la localisation des <color=#FFD780FF>filons de minerai utilisables en forge</color> proches sur la carte.

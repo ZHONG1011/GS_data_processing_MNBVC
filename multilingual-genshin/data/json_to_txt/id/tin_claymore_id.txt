@@ -1,0 +1,13 @@
+White Iron Greatsword
+Claymore yang terbuat dari besi putih, mengandalkan berat untuk meningkatkan daya hancur. Semakin kuat penggunanya, semakin besar daya hancur yang diakibatkannya.
+ Pedang dua tangan yang ringan dan praktis terbuat dari besi putih dengan kilau perak, bersinar bagai es dan salju. Saat diayunkan dengan cepat, kilatan cahayanya dapat membutakan musuh. Namun, pedang ini biasanya tidak digunakan sebagai senjata. Menurut etika prajurit kuno, saat kawannya gugur dalam perang, senjata mereka akan diletakkan di tanah tempat mereka jatuh. Meskipun ritual ini tidak lagi digunakan, tapi beberapa orang masih ingat arti dari ritual ini... 
+Cull the Weak
+Memulihkan <color=#99FFFFFF>8%</color> HP saat mengalahkan satu musuh.
+Cull the Weak
+Memulihkan <color=#99FFFFFF>10%</color> HP saat mengalahkan satu musuh.
+Cull the Weak
+Memulihkan <color=#99FFFFFF>12%</color> HP saat mengalahkan satu musuh.
+Cull the Weak
+Memulihkan <color=#99FFFFFF>14%</color> HP saat mengalahkan satu musuh.
+Cull the Weak
+Memulihkan <color=#99FFFFFF>16%</color> HP saat mengalahkan satu musuh.

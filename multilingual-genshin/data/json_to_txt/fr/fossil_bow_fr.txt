@@ -1,0 +1,13 @@
+Arc rituel
+Un arc de chasse ornemental qui a été pétrifié par le temps et dont on peut encore distinguer les décorations. Avec lui, son manieur sera capable d'affronter l'épreuve du temps.
+ Le peuple des hautes falaises faisant face à la mer orientale vénérait jadis le Maître du Temps et l'Archon Anémo. Les deux divinités sont souvent confondues, car : « Le vent apporte des histoires et le temps les cultive. » Cet arc raconte l'histoire des pionniers et des épreuves par eux enduré. Il s'agissait autrefois d'un accessoire, à la corde inutilisable. Elle a gagné en robustesse et élasticité avec le temps.  Cet arc était autrefois la propriété du Clan Lawrence. Il servait lorsque les membres du clan célébraient le courage de leurs ancêtres pionniers qui avaient vaincu la nature gelée.  Le premier acte de la cérémonie contait la force et la sagesse des colons qui avaient soumis la terre ; et bien que les détails de cette cérémonie se fussent perdus, ils continuèrent de jouer le rôle.  Mais le rôle devint corrompu, et ils en vinrent graduellement à se voir en conquérants, puis en seigneurs, puis en rois. Ils empruntèrent progressivement un chemin sinueux s'écartant du peuple, dont ils perdirent l'affection. 
+Sang-froid
+Les compétences élémentaires ont <color=#99FFFFFF>40 %</color> de chances de réinitialiser leur propre TdR lorsqu'elles infligent des DGT. Cet effet peut être déclenché une fois toutes les <color=#99FFFFFF>30</color> s.
+Sang-froid
+Les compétences élémentaires ont <color=#99FFFFFF>50 %</color> de chances de réinitialiser leur propre TdR lorsqu'elles infligent des DGT. Cet effet peut être déclenché une fois toutes les <color=#99FFFFFF>26</color> s.
+Sang-froid
+Les compétences élémentaires ont <color=#99FFFFFF>60 %</color> de chances de réinitialiser leur propre TdR lorsqu'elles infligent des DGT. Cet effet peut être déclenché une fois toutes les <color=#99FFFFFF>22</color> s.
+Sang-froid
+Les compétences élémentaires ont <color=#99FFFFFF>70 %</color> de chances de réinitialiser leur propre TdR lorsqu'elles infligent des DGT. Cet effet peut être déclenché une fois toutes les <color=#99FFFFFF>19</color> s.
+Sang-froid
+Les compétences élémentaires ont <color=#99FFFFFF>80 %</color> de chances de réinitialiser leur propre TdR lorsqu'elles infligent des DGT. Cet effet peut être déclenché une fois toutes les <color=#99FFFFFF>16</color> s.

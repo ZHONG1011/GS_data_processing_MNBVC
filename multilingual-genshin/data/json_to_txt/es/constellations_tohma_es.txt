@@ -1,0 +1,12 @@
+El deber de un compañero
+Cuando los personajes que estén bajo la protección de un <color=#FFD780FF>escudo llameante</color> (a excepción de Thoma) reciben un ataque, tanto el TdE de <color=#FFD780FF>Bendición incandescente</color> como el de <color=#FFD780FF>Armadura calcinante</color> se reducen en 3 s. Este efecto solo puede ocurrir una vez cada 20 s.
+Hábil sirviente
+Aumenta en 3 s la duración de <color=#FFD780FF>Armadura calcinante</color>.
+Voluntad protectora
+Aumenta el nivel de habilidad de <color=#FFD780FF>Bendición incandescente</color> +3. Puede ser aumentado hasta Niv. 15.
+Plan de servicio
+Al realizar <color=#FFD780FF>Armadura calcinante</color>, Thoma recupera 15 pts. de Energía Elemental.
+Fuego incontrolado
+Aumenta el nivel de habilidad de <color=#FFD780FF>Armadura calcinante</color> +3. Puede ser aumentado hasta Niv. 15.
+Corazón fervoroso
+Al obtener un <color=#FFD780FF>escudo llameante</color> o reiniciar su duración, el daño de los Ataques Normales, Cargados y Descendentes de todos los miembros del equipo aumenta en un 15% durante 6 s.

@@ -1,0 +1,13 @@
+Messager
+Un simple arc en bois. On raconte qu'il était autrefois utilisé pour communiquer à distance.
+ L'on conte qu'il y a bien longtemps, Les gens de Liyue avaient pour habitude de s'échanger des messages par flèches interposées. « Mais me direz-vous, n'est-ce point dangereux ? » « À quoi je vous réponds : pourquoi imaginez-vous que cet arc est une antiquité ? » Le marchand sourit, se grattant pensivement le menton. 
+Message de l'archer
+Les attaques chargées touchant les points faibles infligent un bonus de DGT CRIT équivalant à <color=#99FFFFFF>100 %</color> de l'ATQ. Cet effet peut être déclenché une fois toutes les 10 s.
+Message de l'archer
+Les attaques chargées touchant les points faibles infligent un bonus de DGT CRIT équivalant à <color=#99FFFFFF>125 %</color> de l'ATQ. Cet effet peut être déclenché une fois toutes les 10 s.
+Message de l'archer
+Les attaques chargées touchant les points faibles infligent un bonus de DGT CRIT équivalant à <color=#99FFFFFF>150 %</color> de l'ATQ. Cet effet peut être déclenché une fois toutes les 10 s.
+Message de l'archer
+Les attaques chargées touchant les points faibles infligent un bonus de DGT CRIT équivalant à <color=#99FFFFFF>175 %</color> de l'ATQ. Cet effet peut être déclenché une fois toutes les 10 s.
+Message de l'archer
+Les attaques chargées touchant les points faibles infligent un bonus de DGT CRIT équivalant à <color=#99FFFFFF>200 %</color> de l'ATQ. Cet effet peut être déclenché une fois toutes les 10 s.

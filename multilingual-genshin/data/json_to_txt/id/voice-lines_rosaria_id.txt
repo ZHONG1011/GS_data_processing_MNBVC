@@ -1,0 +1,138 @@
+Halo
+Murid-murid sekalian, jika ada masalah yang sulit diselesaikan, datanglah padaku, tapi jika hanya ingin berdoa, silakan cari suster lain.  ...Hah? Kamu bukan murid di sini?
+Berbincang: Bosan
+Bukankah kita punya pekerjaan yang harus dilakukan?
+Berbincang: Lembur
+Semua hal bisa dibicarakan, kecuali lembur.
+Berbincang: Kehidupan Mondstadt
+Bekerja dengan baik dan melewati hidup dengan baik setiap harinya. Bukankah kehidupan di Mondstadt memang seperti itu?
+Ketika Turun Hujan
+Ini akan menghambat segalanya.
+Ketika Petir Menyambar
+*tsk* sungguh merepotkan.
+Ketika Turun Salju
+Kita harus terus bergerak, tapi perhatikan langkahmu pada saat bersalju.
+Ketika Angin Berembus
+Berkah dari Archon Anemo Barsibato? Tunggu... bukan, sepertinya Bartobas...
+Selamat Pagi
+*hoam* Ahhh-hhaaa, selamat pagi... Aku melewatkan misa pagi lagi, ya? Ugh, mulainya pagi sekali sih.
+Selamat Siang
+Menurutku, aku dapat tidur lebih nyenyak di bawah sinar mentari. Kamu juga bisa sekali-sekali mencobanya.
+Selamat Malam
+Selamat malam. Jangan harap untuk melihatku berdoa malam ini... Dan jangan tanya kenapa.
+Selamat Tidur
+Kamu istirahat saja, tidak perlu khawatir, aku akan menangani sisanya di sini.
+Tentang Rosaria: Suster
+Aku? Aku hanya orang biasa. Gereja, pekerjaan... Aku hanya melakukan apa yang harus aku lakukan.
+Tentang Rosaria: Ketidaknyamanan
+Masing-masing suster tidak lebih baik dari suster lainnya. Jika bukan tentang doa maka pasti tentang paduan suara atau hal lain yang harus aku ikuti... Aku mencoba untuk tidak terlihat, jadi jangan berani-berani memberi tahu mereka kalau kamu melihatku di sini.
+Tentang Rosaria: Keyakinan
+Mungkin dewa memiliki kekuatan untuk melindungi semua orang jika mereka memilih untuk melakukannya, tapi itu tidak akan pernah terjadi. Jika tidak demikian, penderitaan orang tidak akan pernah dianggap serius.
+Tentang Kami: Doa
+Berdoa. Bukan untuk para dewa atau untuk orang lain... tapi untuk dirimu sendiri.
+Tentang Kami: Pertarungan
+Jangan terlalu memaksakan diri, biar aku yang mengurus pekerjaan kotor ini.
+Tentang Vision
+Vision... Sebuah bukti kekuatan, atau medali keselamatan... siapa yang tahu? Selalu ada dua sisi pada setiap koin. Aku tidak akan mendefinisikan Visionku dengan yang aneh-aneh. Hubunganku dengan Vision adalah, kami menjadi saksi satu sama lain, itu saja.
+Berbagi Cerita
+Kamu tidak selalu tahu mengapa hal-hal baik terjadi, atau mengapa kita harus bahagia karenanya. Heh... Tapi jika kamu menghadapi masalah yang terlalu berat untuk ditangani, jangan putus asa. Kamu tidak pernah tahu, mungkin ada seseorang yang mau membantu, bahkan jika kamu tidak bisa melihat orang tersebut.
+Kisah Menarik
+Aku tidak tertarik pada tanaman dan sejenisnya, kecuali dandelion. Betapa sekuntum bunga yang sederhana bisa berubah menjadi anggur yang begitu nikmat itu mengagumkan bagiku. Segelas anggur dandelion setelah bekerja bahkan lebih nikmat daripada tidur di hari Minggu.
+Tentang Diluc
+Bukankah sudah jelas? Ada sesuatu yang lebih di balik statusnya yang kaya raya itu. Dia begitu percaya diri, namun bijaksana... dan bahkan sedikit berbahaya.
+Tentang Kaeya
+Anggur memiliki kegunaannya tersendiri... seperti mengungkapkan watak asli seseorang. Contohnya, Kaeya selalu bermulut manis saat bicara, tapi untuk orang sepertiku, aku bisa langsung melihat watak aslinya. Haha, kamu harus melihat saat dia mabuk.
+Tentang Venti
+Ada sesuatu yang sangat menarik tentang penyair ini... Aku tidak bisa menjelaskannya, tapi ada sesuatu yang membuatnya berbeda dari orang lain di Mondstadt.
+Tentang Barbara
+Barbara seperti duri yang selalu ada di sisiku, selalu mengomel tentang misa dan latihan paduan suara. Aku tidak akan kaget jika ternyata Suster Victoria secara khusus memintanya untuk mengawasiku.
+Tentang Jean
+Dia tidak hanya kompeten dalam pekerjaannya sendiri, tapi juga entah bagaimana berhasil menyelesaikan berbagai masalah orang lain... Dia memang seorang wanita yang patut dikagumi.
+Tentang Albedo
+Dia seperti lukisan cat minyak yang tergantung di dinding aula kuno, mempunyai kesan mendalam dan misterius... sulit untuk melihat ke dalam dirinya. Tapi mau bagaimana lagi, menurutku orang-orang dengan kisahnya masing-masing itu... menarik.
+Tentang Lisa
+Meskipun aku tidak suka kepada mereka yang suka bolos dalam bekerja, tapi aku menghormati ketepatan waktunya ketika pulang bekerja.
+Tentang Klee
+Masalah, selalu saja banyak masalah. Walaupun, ini cuma masalah kecil saja sih...
+Tentang Varka
+Aku yakin maksud Varka itu baik, tapi percakapannya yang bertele-tele itu membosankan. Yah tapi walaupun begitu, setidaknya dia benar-benar peduli dengan orang-orang di sekitarnya, kan?
+Tentang Ayah
+Ayah? Aku merasa asing dengan kata itu. Bisa dibilang aku tidak punya ayah tapi bisa juga dibilang aku punya banyak ayah. Kenapa kamu kaget begitu?
+Mengenal Rosaria I
+Lupakan saja soal formalitas. Aku di sini untuk menyelesaikan pekerjaan. Serahkan saja pekerjaan kotor itu padaku.
+Mengenal Rosaria II
+Apa yang aneh tentang seorang suster yang tidak menghormati dewa? Ada pemburu yang tidak makan babi, dan ada nelayan yang tidak makan ikan, bukan? Hanya karena kamu melakukan sesuatu bukan berarti kamu suka melakukannya. Setiap pekerjaan memang begitu.
+Mengenal Rosaria III
+Anggur Dandelion tahun ini sangat baik. Kamu mau minum segelas?
+Mengenal Rosaria IV
+Mondstadt itu bagaikan makhluk putih bercahaya, dia tua tapi juga muda. Tua dalam artian selalu membutuhkan perlindungan, tapi juga terlalu muda untuk bisa bertahan sendiri. Makanya ada orang-orang sepertiku. Aku peduli pada Mondstadt seperti halnya para suster lainnya yang peduli pada orang-orang percaya, kita semua membimbing apa yang kita cintai untuk maju di jalan menuju kebebasan. Hah? Mengapa aku menyebutnya makhluk putih bercahaya? Karena orang-orang sepertiku hanya dapat ditemukan dalam kegelapan...
+Mengenal Rosaria V
+Terkadang aku merasa bahwa diriku yang dulu dari tahun-tahun sebelumnya masih ada bersamaku dan terus mendukungku. Aku yakin kamu mengerti perasaan itu. Bahkan jika kamu memutuskan untuk menempuh jalan baru, jangan meninggalkan dirimu yang sebelumnya. Karena itu akan menjadi fondasi dari dirimu yang sekarang. Jangan takut dengan masa lalu, dan jangan takut untuk menghadapinya.
+Kegemaran Rosaria
+Ada beberapa masalah yang hanya bisa dihilangkan oleh alkohol. Meski begitu, aku tidak pernah mabuk.
+Kesulitan Rosaria
+Ugh, aku jelas akan melewatkan konser paduan suara bulan depan, tapi aku yakin Suster Victoria pasti akan mengambil alih secara pribadi... Benar-benar merepotkan.
+Makanan Favorit
+Apa kamu pernah mencoba Bourguignon? Potongan daging besar dengan rasa alkohol yang lembut, sangat lezat.
+Makanan yang tidak kamu suka
+M-Maksudmu aku harus mencelupkan hash brown ini ke dalam selai? Ini penistaan!
+Menerima Hadiah: I
+Sepertinya selera kita sama kalau soal makanan.
+Menerima Hadiah: II
+Setidaknya bisa mengenyangkan lah.
+Menerima Hadiah: III
+Kamu benar-benar suka makanan begini?
+Ulang Tahun
+Hari ini adalah hari ulang tahunmu, jadi jika ada pekerjaan kotor yang perlu diurus, aku bisa membantumu... Jangan bilang siapa-siapa, oke?
+Perasaan Tentang Ascension: Permulaan
+Hmm, ini memang yang kubutuhkan.
+Perasaan Tentang Ascension: Persiapan
+Kamu punya pekerjaan untukku? Aku punya waktu.
+Perasaan Tentang Ascension: Klimaks
+Bagus. Bertambah kuat, artinya bisa menyelesaikan pekerjaan dengan lebih cepat.
+Perasaan Tentang Ascension: Konklusi
+Aku sudah tidak asing lagi menumpahkan darah dalam pekerjaanku, tapi aku belum pernah memiliki kekuatan seperti itu sebelumnya. Aku berterima kasih karena telah diberi berkat seperti itu.
+Elemental Skill: I
+Heya!!
+Elemental Skill: II
+Penghakiman!
+Elemental Skill: III
+Jangan harap bisa lari dariku!
+Elemental Burst: I
+Penghakiman!
+Elemental Burst: II
+Gentarlah!
+Elemental Burst: III
+Malam tiba...
+Membuka Peti Harta: I
+... Hm, ada yang lumayan juga ternyata.
+Membuka Peti Harta: II
+Kurasa bukan perkara besar.
+Membuka Peti Harta: III
+Rasanya ... boleh juga.
+HP Rendah: I
+Hmph. Ini jadi hal yang menarik...
+HP Rendah: II
+Sepertinya aku bekerja lembur hari ini.
+HP Rendah: III
+Hebat juga kamu, huh!
+HP Rekan Rendah: I
+Biar kutangani!
+HP Rekan Rendah: II
+Jangan sok pahlawan!
+Gugur: I
+Akhirnya... pekerjaan... selesai.
+Gugur: II
+Mungkin ini hanyalah... desain takdir yang gelap.
+Gugur: III
+Apakah ini... pekerjaan terakhirku?
+Menerima Serangan Ringan: I
+Ternyata hanya begitu.
+Menerima Serangan Hebat: I
+*ck* Sungguh merepotkan!
+Bergabung ke Party: I
+Kudengar kamu punya pekerjaan untukku.
+Bergabung ke Party: II
+Pastikan semuanya lancar.
+Bergabung ke Party: III
+Lebih cepat selesai lebih baik.

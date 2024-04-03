@@ -1,0 +1,12 @@
+J'assure vos arrières
+L'effet de restauration des PV d'Armure de cœur a 100 % de chances d'être déclenché lorsque <color=#FFD780FF>Grand ménage</color> et <color=#FFD780FF>Armure de cœur</color> sont actifs en même temps.
+Servante de tourbillon
+Les attaques chargées de Noëlle consomment 20 % d'endurance en moins et infligent 15 % de DGT supplémentaires.
+La servante ne sera jamais blessée
+Niveau d'aptitude <color=#FFD780FF>Armure de cœur</color> +3. Niveau max : 15
+Je vais nettoyer après
+<color=#FFD780FF>Armure de cœur</color> inflige une quantité de <color=#FFE699FF>DGT Géo</color> équivalant à 400 % de l'ATQ aux ennemis proches lorsqu'elle prend fin ou que l'armure est détruite.
+Maîtresse de ménage
+Niveau d'aptitude <color=#FFD780FF>Grand ménage</color> +3. Niveau max : 15
+Aucune poussière
+<color=#FFD780FF>Grand ménage</color> fait bénéficier Noëlle d'un bonus supplémentaire d'ATQ à hauteur de 50 % de sa DÉF. De plus, chaque ennemi vaincu pendant que la compétence est active prolonge sa durée de 1 s (10 s max).

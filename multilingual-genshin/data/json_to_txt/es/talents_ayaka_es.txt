@@ -1,0 +1,14 @@
+Ataque Normal: Estilo Kamisato - Elegancia
+<color=#FFD780FF>Ataque Normal</color> Realiza hasta 5 ataques rápidos.  <color=#FFD780FF>Ataque Cargado</color> Consume una cierta cantidad de Aguante para desatar un ráfaga con su espada.  <color=#FFD780FF>Ataque Descendente</color> Se lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.
+Estilo Kamisato: Flor del hielo
+Invoca una flor de escarcha que lanza por los aires a los enemigos cercanos e inflige <color=#99FFFFFF>Daño Cryo en el AdE</color>.  <i>Las nubes tapan el brillo de la luna Un anhelo desciende como la bruma Y se apodera de mi melancólico corazón.</i>
+Estilo Kamisato: Senda de escarcha
+<color=#FFD780FF>Reemplaza a Esprintar</color> Ayaka se oculta bajo un torrente de hielo, consumiendo su Aguante, para moverse rápidamente.  Cuando está bajo el efecto de Senda de escarcha, puede moverse a gran velocidad sobre el agua. Al reaparecer, produce los siguientes efectos: ·Libera el gélido poder del hielo para aplicar el elemento <color=#99FFFFFF>Cryo</color> sobre los enemigos cercanos. ·Condensa el frío en su espada, lo que la <color=#99FFFFFF>imbuye del elemento Cryo </color>durante un breve periodo de tiempo.  <i>Plumas mojadas Garza sobre el agua Es la perfección.</i>
+Estilo Kamisato: Devastación glacial
+Adopta una magnífica pose para invocar la escarcha y liberar una ráfaga de ventisca.  <color=#FFD780FF>Ráfaga de ventisca</color> ·Mediante un viento gélido y cortante como una afilada espada, realiza continuamente cortes contra los enemigos y les inflige <color=#99FFFFFF>Daño Cryo</color>. ·Al terminar la duración, provoca una explosión que inflige <color=#99FFFFFF>Daño Cryo en el AdE</color>.  <i>La ventisca cubre de escarcha a la garza. Oh, cuánto pesar en su corazón.</i>
+Supresión de lo impuro
+Tras realizar <color=#FFD780FF>Estilo Kamisato: Flor del hielo</color>, el daño de los Ataques Normales y Cargados de Kamisato Ayaka aumenta en un 30% durante 6 s.
+Edicto helado
+Si el hielo que se libera al terminar <color=#FFD780FF>Estilo Kamisato: Senda de escarcha</color> golpea a un enemigo, se producen los siguientes efectos: ·Kamisato Ayaka recupera 10 pts. de Aguante. ·Obtiene un 18% de <color=#99FFFFFF>Bono de Daño Cryo</color> durante 10 s.
+Los frutos de la reflexión
+Al crear materiales de ascensión de arma, hay una probabilidad del 10% de recibir el doble.

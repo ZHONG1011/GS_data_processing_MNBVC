@@ -1,0 +1,12 @@
+Une flèche suffit !
+Tire 2 flèches consécutives à chaque <color=#FFD780FF>tir visé</color>. La seconde flèche inflige 20 % des DGT de la première.
+Tout est prêt
+Une toute nouvelle modification du Baron Lapinou ! Un tir visé à pleine charge aux pieds du Baron Lapinou, et ce dernier explose directement... Ce type d'explosion inflige 200 % de DGT supplémentaires.
+Ça brûle !
+Niveau d'aptitude <color=#FFD780FF>Pluie de flèches</color> +3. Niveau max : 15
+Ce n'est pas n'importe quelle poupée...
+Réduit le TdR de <color=#FFD780FF>Poupée explosive</color> de 20 % et permet de l'utiliser 1 fois supplémentaire.
+Baron Lapinou !
+Niveau d'aptitude <color=#FFD780FF>Poupée explosive</color> +3. Niveau max : 15
+Feu sauvage
+<color=#FFD780FF>Pluie de flèches</color> augmente la VIT de déplacement de tous les personnages de l'équipe de 15 % et leur ATQ de 15 % pendant 10 s.

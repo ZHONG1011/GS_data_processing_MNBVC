@@ -1,0 +1,146 @@
+Première rencontre...
+#Je suis Kujou Sara. Vous pouvez oublier mon nom, mais retenez ceci : sous ma garde, Inazuma sera toujours protégée et la volonté de la Shogun appliquée. Dieu ou démon, si vous faites de moi votre ennemie, je vous terrasserai ! Hum, ne sois pas si {F#nerveuse}{M#nerveux}. J'ai accepté de me battre à tes côtés et j'honorerai mon engagement. Je peux être intransigeante pour ce qui est de grande importance, mais pour le reste, je suis plutôt facile à vivre.
+Bavardage - Cible
+Vaincre un ennemi nécessite une parfaite harmonie entre l'esprit, l'arc et la flèche.
+Bavardage - Éternité
+Atteindre l'éternité tant recherchée par la Shogun toute-puissante, telle est mon unique aspiration.
+Bavardage - Devoir
+La responsabilité d'un guerrier tengu est de veiller sur les forêts et montagnes, tandis que celle du Clan Kujou est de protéger Inazuma. Deux missions pratiquement identiques.
+Quand il pleut...
+La pluie dissimule les bruits de pas de l'ennemi. Restons en alerte.
+Quand le tonnerre gronde...
+Écoute. Le bruit du tonnerre exprime la volonté de la Shogun toute-puissante.
+Quand il neige...
+J'aimerais attraper un flocon. Mais une fois dans le creux de la main, il se met à fondre d'autant plus vite.
+Il fait bon dehors...
+Le ciel est clair et le soleil éclatant. Un temps parfait pour une épreuve de force.
+Au réveil...
+Bonjour ? Il est déjà tard selon moi. Je me lève bien avant le soleil.
+À l'heure du déjeuner...
+Je n'ai pas l'habitude de prendre une pause-déjeuner, mais je vous attendrai si vous souhaitez en prendre une.
+Le soir...
+Bonsoir. Les cerisiers de Hanamizaka sont splendides la nuit, je ne m'en lasse jamais.
+La nuit...
+Va te reposer. Je vais rester ici et monter la garde.
+À propos de Sara - Commission administrative
+Je suis reconnaissante envers Takayuki. La Commission administrative est tout ce que j'ai et je ferai tout ce qui est en mon pouvoir pour défendre l'honneur de mon clan. Hmm ? Tu veux en savoir plus sur le code de conduite de la Commission administrative ? Loyauté absolue envers la Shogun Raiden bien sûr ! Il s'agit-là aussi de la règle qui articule ma vie.
+À propos de Sara - Préparation au combat
+Suis-je prête ? Laisse-moi t'expliquer. Ne fais pas une habitude de me poser la question avant chaque départ, car tu ne recevras de réponse de ma part qu'une fois sur dix. Les neuf autres fois, je serai déjà en plein combat sur la ligne de front. Non pas car je suis téméraire ou par manque de politesse, mais bien car la bataille n'attend pas.
+À propos de Sara - Aspiration
+Mon aspiration ? Je pensais que tu le savais déjà : assister la Shogun toute-puissante dans sa réalisation de l'éternité. Hmm ? Mon aspiration personnelle ? Je n'y ai jamais vraiment réfléchi...
+À propos de nous - Observations
+Bien que tu sois un facteur d'instabilité dans la quête de l'éternité de la Shogun toute-puissante, cela ne veut pas pour autant dire que tu représentes une menace. Je ne suis pas ton ennemie, cependant je vais continuer de te garder à l'œil.
+À propos de nous - Expérience
+Quand je confisquais un œil divin, je ne tenais pas compte des ambitions de son porteur. Maintenant que le décret de saisie n'est plus, il est de ma responsabilité d'expier mes actions. J'ai entendu dire que tu pouvais entendre ces ambitions... Celles qui font écho à la Statue de la divinité omniprésente ? J'aimerais que tu m'en parles. Et puis... Est-ce que tu pourrais aussi me parler de tes propres ambitions ? Je suis curieuse d'en savoir plus à ce sujet.
+À propos de l'œil divin...
+On ne peut recevoir un œil divin que si les dieux nous observent. Puisque mon œil divin m'a été accordé par la Shogun toute-puissante, je lui rendrai un jour et ce, sans hésitation ni regret.
+Quelque chose à partager - Toupie
+Lors d'une précédente mission, un marchand de Hanamizaka me fit le cadeau d'une toupie, le genre de jouet avec lequel il est possible de s'amuser seul. J'ai trouvé l'idée intéressante et je l'ai donc conservé. Que dis-tu ? Jouer ensemble ? Mais, cela irait à l'encontre du but dans lequel ce jouet a été fabriqué. Je me dois de poliment refuser cette proposition.
+Quelque chose à partager - Spécialité locale
+Sais-tu quel est l'objet le plus représentatif du style inazumien ? Non, il ne s'agit pas d'une épée. C'est la « Statuette de Son Excellence, la toute-puissante Narukami Ogosho », une statuette laquée. Elle est fabriquée à la main par un artisan de talent. On peut en trouver une dans quasiment chaque foyer à l'intérieur de la cité. Chez moi ? Il y en a cinq.
+Détails intéressants...
+Quand quelque chose me tourmente, je me tiens près du cerisier sacré, je ferme les yeux et tente d'apaiser mon esprit. Lorsque j'ouvre à nouveau les yeux, les pétales qui virevoltent guident mes pas.
+À propos de Thomas...
+La résidence de la Commission administrative est immense. Nous aurions bien besoin d'un serviteur expérimenté comme Thomas pour gérer de manière appropriée nos nombreuses affaires domestiques. S'il décide un jour de prendre congé auprès du Clan Kamisato, j'espère qu'il viendra nous rejoindre. Je doute cependant qu'un tel jour arrivera.
+À propos de Kamisato Ayaka...
+Dans la résidence du Clan Kujou, le seul son que l'on peut percevoir est celui des soldats à l'entraînement dans le dojo. Mais à chaque fois que je passe devant la résidence du Clan Kamisato, j'entends de la musique, des chamailleries et des rires. J'ai entendu dire que dame Kamisato était très douée au jeu de go et j'ai toujours souhaité lui rendre visite, mais... J'ai bien peur que quelqu'un d'aussi sérieux que moi n'ait pas sa place là-bas.
+À propos de Yoimiya...
+Tant qu'elle ne lance pas de feu d'artifice dans mon camp, je ne lui causerai aucun ennui. Hmm, oui je sais, il faut avouer que ses feux d'artifice sont impressionnants et colorés, elle mérite les louanges qui lui sont adressées. Selon moi, le souci est que les feux d'artifice sont intrinsèquement éphémères. Après un bref instant d'éclat, il ne reste que l'immuable obscurité. Je dois donc me rappeler régulièrement de ne pas me laisser aller à ce spectacle illusoire. Il est temporaire, contrairement à Inazuma, et ma mission est de la protéger.
+À propos de Shikanoin Heizou...
+Shikanoin et moi avons beau être collègues, je n'ai que peu de sympathie à son égard. Il semble toujours préoccupé par ses affaires personnelles et tout ce qui est de caractère officiel passe en second plan. La seule raison pour laquelle je ne le rappelle pas à l'ordre est que ses investigations portent leurs fruits.  *soupir* C'est un tel casse-tête avec lui.
+À propos de la Shogun Raiden - Confiance
+Je suis certaine que vous en avez déjà entendu parler à de nombreuses reprises. La Shogun toute-puissante recherche l'éternité, une existence qui transcende toute pensée et toute aspiration. Abandonner les liens mortels pour atteindre l'éternité immuable. Les paroles de la Shogun toute-puissante sont résolues et je ne saisis pas toujours le sens de ses mots. Mais il s'agit-là de sa décision, et je lui fais entièrement confiance.
+À propos de la Shogun Raiden - Service
+Le décret de saisie est aboli... En effet, il semblerait que tu avais raison. Hum, cela ne veut pas pour autant dire que la Shogun toute-puissante était dans l'erreur. Elle a tout simplement pris la décision de poursuivre l'éternité d'une autre manière. J'ignore si la Shogun a apaisé son cœur après avoir protégé Inazuma pendant des millénaires. Ce que je sais, c'est que peu importe les dangers qui se dressent sur la route, je la suivrai comme je l'ai toujours fait.
+À propos de Yae Miko...
+Les actions de la Guuji Yae me laissent souvent perplexe... Cependant, son titre de grande prêtresse du Sanctuaire de Narukami indique clairement le niveau de confiance et d'approbation que la Shogun lui accorde, raison pour laquelle je me dois également de la respecter. Mais, si arrive un jour où elle désobéit à la volonté de la Shogun, alors je suis désolée mais...
+À propos de Sangonomiya Kokomi...
+Elle est meilleure stratège qu'elle n'est prêtresse. La manière dont elle utilise ses directives pour mener la guerre est inouïe. Je me demande si je ne devrais pas m'en inspirer pour diriger l'armée du Shogunat ? Hmm... Cela nous amènerait peut-être à une situation où la guerre est négociée autour d'une table, chaque partie avec ses cartes stratégiques en main, les abaissant une à une jusqu'à ce qu'un vainqueur en émerge... Finalement, mieux vaut éviter cela.
+À propos de Gorou...
+Gorou est à Sangonomiya Kokomi ce que je suis à la Shogun toute-puissante. Il est férocement loyal, ce que j'admire. Quel dommage que nous soyons rivaux, nous n'aurons jamais l'occasion de coopérer. Cependant, je suis heureuse d'avoir en face de moi un adversaire digne d'admiration. En plus, j'ai entendu dire qu'il était le cinquième d'une fratrie. C'est encore mieux.
+À propos d'Arataki Itto...
+Entendre ce nom me donne mal au crâne. Il a fait un scandale lorsque j'ai confisqué son œil divin, il est de loin la personne la plus bruyante que j'aie jamais rencontrée. Non, l'oni le plus bruyant. Il a montré qu'il était suffisamment viril pour admettre sa propre défaite, mais sa façon d'insister sur sa vengeance... Aujourd'hui, je préfère ne plus en parler. Si tu veux vraiment savoir, tu n'as qu'à aller lui poser la question.
+À propos de Kuki Shinobu...
+Avec son talent et ses qualifications, c'est dommage qu'elle ait décidé de rejoindre le gang Arataki. Je dois cependant concéder qu'au moins, sa présence a permis d'empêcher ces tire-au-flanc de semer le trouble et de perturber l'ordre public. Cela rend service à la Commission administrative.
+Connaître Sara (1)
+Tu veux en savoir plus sur moi ? Que veux-tu savoir exactement ? Je ne peux pas discuter des affaires de la Commission administrative avec toi, tout comme je ne peux divulguer aucune information quant à la Shogun toute-puissante. Je ne comprends pas tes intentions. Hmm ? Me connaître personnellement ? J'imagine que c'est envisageable, c'est juste que... Cela ne m'est jamais arrivé auparavant.
+Connaître Sara (2)
+Ma vie est plutôt simple. Quand je ne guide pas mes troupes au combat, je me lève à cinq heures cinq précisément. Je me rends ensuite dans la cour, je prends cinq inspirations avant d'en faire cinq fois le tour. Au petit déjeuner, je mange cinq bouchées de riz... Le chiffre cinq me porte bonheur, je fais donc tout par tranche de cinq. Des objections ?
+Connaître Sara (3)
+Ce qui me donnait le plus de fil à retordre lorsque je faisais respecter le décret de saisie était ces officiers qui abusaient de leur autorité. La volonté de la Shogun toute-puissante doit être appliquée, mais je ne tolère pas la violence envers les innocents. J'ai réprimé ce type de comportement à de nombreuses reprises, mais à en juger du résultat... C'est un mal bien difficile à éradiquer. Si tu as une idée pour en venir à bout, fais-le-moi savoir.
+Connaître Sara (4)
+Bien que le Clan Kujou m'ait adoptée, je sais pertinemment que le regard que Takayuki porte sur moi est différent de celui qu'il porte sur Kamaji. Même quelqu'un d'aussi impassible que moi peut ressentir la solitude... Surtout lorsque j'aperçois mes subordonnés profiter de moments chaleureux avec leurs proches.  Excuse-moi, Takayuki est bon avec moi, je ne devrais pas tenir de propos aussi irrespectueux...
+Connaître Sara (5)
+Maintenant que j'y pense, toi et moi sommes l'exemple même d'une entente parvenue par le biais d'un conflit. Nous étions dans des camps rivaux, diamétralement opposés. Je n'aurais jamais imaginé me retrouver à tes côtés, que ce soit au combat ou pour de longues conversations. En y réfléchissant, le destin a été clément envers moi... Non, ce n'est rien.
+Les loisirs de Sara...
+Jusqu'à aujourd'hui, pas un jour ne passe sans que je ne pratique le tir à l'arc. De la posture à la visée, en passant par l'écoute du bruit de la corde, tout cela ne m'apparaît pas comme répétitif mais bien comme une amélioration par rapport à la veille. Ce n'est pas un loisir, c'est la discipline de toute une vie.
+Les problèmes de Sara...
+L'existence des ailes des guerriers tengu est un fait objectif, tout comme le fait qu'elles prennent de la place lorsqu'il s'agit de se tenir côte à côte. Je ne comprends pas ce que je suis censée faire quand tu me dis « rapproche-toi ».
+Plats préférés...
+J'ai toujours eu l'habitude de consommer des aliments faciles à transporter et qui rassasient rapidement comme les onigiris. Le meilleur choix pour reprendre des forces sur le champ de bataille. Mais c'est juste une préférence, je ne demande pas à mes troupes de faire pareil.
+Plats détestés...
+Non pas que je les déteste, mais j'évite généralement les sucreries. Pourquoi ? Elles détendent le corps et l'esprit, si je venais à en manger je... Hum, en résumé, je ne dois pas me relâcher, voilà tout. N'en demande pas plus !
+Cadeau reçu (1)
+Un mets dont le goût arrive à détrôner celui des onigiris... Je dois retenir son nom.
+Cadeau reçu (2)
+J'ai bien mangé. Merci beaucoup.
+Cadeau reçu (3)
+Je n'avais pas besoin de dessert...
+Anniversaire...
+Tu tombes à pic. Je vais laisser tomber les formalités et te poser la question directement. As-tu un souhait pour ton anniversaire ? Dans la mesure où il n'entre pas en conflit avec la grande cause de la Shogun toute-puissante, je ferai tout ce qui est possible pour le réaliser. Pour te prouver que je suis de bonne volonté, je te laisse me faire part non pas de un, mais de cinq souhaits pour ton anniversaire.
+Affinité faible
+Le son de la corde de mon arc est satisfaisant. Je n'ai besoin que d'un seul tir.
+Affinité moyenne
+Force dûment assimilée. Prête à recevoir les instructions.
+Affinité élevée
+Je suis à moi seule l'armée du Shogunat !
+Affinité max
+La responsabilité m'incombe de continuer à m'améliorer et de perfectionner mes compétences martiales, tu m'as pourtant apporté ton aide de manière dévouée... Je me montrerai digne de cette force et je l'utiliserai pour une juste cause. L'amitié des Tengu t'accompagne !
+Compétence élémentaire (1)
+Tremble !
+Compétence élémentaire (2)
+Frappe !
+Compétence élémentaire (3)
+Éclair !
+Déchaînement élémentaire (1)
+Gloire à la Shogun !
+Déchaînement élémentaire (2)
+Plus moyen de reculer !
+Déchaînement élémentaire (3)
+Assaut droit devant !
+Ouverture de coffre (1)
+Excellent. Ces butins remonteront le moral.
+Ouverture de coffre (2)
+Bien. Il ne faut rien laisser de valeur derrière.
+Ouverture de coffre (3)
+On se réapprovisionne et on continue !
+PV faibles (1)
+Jusqu'au bout !
+PV faibles (2)
+Je gagnerai !
+PV faibles (3)
+J'arrive à ma limite...
+Compagnon avec PV faibles (1)
+Regroupement !
+Compagnon avec PV faibles (2)
+Retirez-vous !
+K.O. (1)
+La vie n'est pas éternelle.
+K.O. (2)
+Je m'incline de mon gré...
+K.O. (3)
+Hmpf, me voilà vaincue.
+Attaque légère subie (1)
+Encore !
+Attaque légère subie (2)
+Un adversaire digne...
+Attaque puissante subie (1)
+Impossible !
+Attaque puissante subie (2)
+L'adversaire prend le dessus...
+Ajout dans l'équipe (1)
+Je nous mènerai à la victoire.
+Ajout dans l'équipe (2)
+Hmm, allons-y.
+Ajout dans l'équipe (3)
+À tes côtés !

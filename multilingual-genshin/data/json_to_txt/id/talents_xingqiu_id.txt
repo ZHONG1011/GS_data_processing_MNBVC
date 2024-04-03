@@ -1,0 +1,12 @@
+Normal Attack: Guhua Style
+<color=#FFD780FF>Normal Attack</color> Melancarkan hingga 5 serangan berturut-turut.  <color=#FFD780FF>Charged Attack</color> Mengonsumsi sejumlah Stamina untuk melancarkan dua tebasan pedang.  <color=#FFD780FF>Plunging Attack</color> Menerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.
+Guhua Sword: Fatal Rainscreen
+Xingqiu mengayunkan pedangnya dua kali, mengakibatkan <color=#80C0FFFF>Hydro DMG</color> kepada musuh di hadapannya. Pada saat bersamaan, skill ini akan menciptakan Rain Sword dalam jumlah maksimum yang akan mengitari karakter. Rain Sword memiliki karakteristik berikut: ·Saat karakter menerima DMG, Rain Sword akan hancur dan mengurangi DMG yang diterima; ·Meningkatkan ketahanan karakter terhadap interupsi. Sebanyak 20% dari <color=#80C0FFFF>Hydro DMG Bonus</color> milik Xingqiu akan dikonversi menjadi DMG Reduction tambahan untuk Rain Sword.  Jumlah maksimum DMG Reduction tambahan yang bisa didapatkan dengan cara ini adalah 24%. Jumlah maksimum Rain Sword di awal adalah 3. Menggunakan skill ini akan mengenakan efek <color=#80C0FFFF>Wet</color> pada karakter.  <i>"Lebih mudah mengalahkan naga air daripada membelah air hujan."</i>
+Guhua Sword: Raincutter
+Memulai Rainbow Bladework dan bertarung menggunakan hujanan pedang ilusi sambil menciptakan Rain Sword dalam jumlah maksimum.  <color=#FFD780FF>Rainbow Bladework</color> ·Normal Attack dari karakter yang sedang digunakan akan meluncurkan pedang air yang menyerang berturut-turut dan mengakibatkan <color=#80C0FFFF>Hydro DMG</color>; ·Jumlah Rain Sword akan terus berada dalam jumlah maksimum selama durasi skill.  <i>"Way of the Rain Cutter" adalah salah satu ilmu rahasia Klan Guhua.</i>
+Hydropathic
+Saat sebuah Rain Sword hancur atau durasinya berakhir, memulihkan HP karakter saat ini sebesar 6% Max HP Xingqiu.
+Blades Amidst Raindrops
+Xingqiu memperoleh 20% <color=#80C0FFFF>Hydro DMG Bonus</color>.
+Flash of Genius
+Xingqiu memiliki 25% kemungkinan untuk mendapatkan kembali material yang digunakan untuk membuat Material Talenta Karakter.

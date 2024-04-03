@@ -1,0 +1,12 @@
+Normal Attack: Liutian Archery
+<color=#FFD780FF>Normal Attack</color> Melancarkan hingga 6 serangan berturut-turut dengan busur.  <color=#FFD780FF>Charged Attack</color> Melancarkan sebuah <color=#FFD780FF>Serangan Membidik</color> yang lebih akurat untuk mengakibatkan DMG lebih besar. Saat membidik, es akan berkumpul di ujung anak panah. Memiliki efek yang berbeda tergantung dari lama serangannya ditahan: ·Charge Tahap 1: Menembakkan panah es yang mengakibatkan <color=#99FFFFFF>Cryo DMG</color>. ·Charge Tahap 2: Menembakkan Frostflake Arrow yang mengakibatkan <color=#99FFFFFF>Cryo DMG</color>. Frostflake Arrow akan mengembang setelah mengenai target untuk mengakibatkan <color=#99FFFFFF>Cryo DMG area</color>.  <color=#FFD780FF>Plunging Attack</color> Melancarkan hujan panah dari udara dan menerjang tanah dengan kecepatan tinggi, mengakibatkan DMG area saat mendarat.
+Trail of the Qilin
+Dengan meninggalkan sebuah Ice Lotus, Ganyu meloncat mundur dengan cepat, membuang semua ketidakmurnian dan mengakibatkan <color=#99FFFFFF>Cryo DMG area</color>.  <color=#FFD780FF>Ice Lotus</color> ·Terus menarik perhatian musuh di sekitar untuk menyerangnya. ·HP Ice Lotus mewarisi Max HP Ganyu berdasarkan persentase tertentu. ·Saat dihancurkan atau durasinya berakhir, Ice Lotus akan mengembang dengan hebat dan mengakibatkan <color=#99FFFFFF>Cryo DMG area</color>.  <i>"Kamu melihatku? Pasti salah, aku sedang lembur saat itu."</i>
+Celestial Shower
+Mengumpulkan es dan salju di udara untuk memanggil Sacred Cryo Pearl yang membasmi iblis. Selama durasi skill, Sacred Cryo Pearl akan terus menjatuhkan bongkahan es yang mengenai musuh dalam area dan mengakibatkan <color=#99FFFFFF>Cryo DMG</color>.  <i>Ganyu tentunya dapat membuat hujan manis, tapi terhadap iblis dan monster, hujannya menjadi salju yang dingin dan pahit.</i>
+Undivided Heart
+Setelah menembakkan sebuah Frostflake Arrow, meningkatkan 20% CRIT Rate dari Frostflake Arrow berikutnya serta efek ledakan yang disebabkan olehnya selama 5 detik.
+Harmony between Heaven and Earth
+<color=#FFD780FF>Celestial Shower</color> memberikan 20% <color=#99FFFFFF>Cryo DMG Bonus</color> kepada anggota party yang berada di dalam lingkup areanya.
+Perserved for the Hunt
+Mengembalikan 15% jumlah Ore yang digunakan saat membuat senjata tipe Bow.

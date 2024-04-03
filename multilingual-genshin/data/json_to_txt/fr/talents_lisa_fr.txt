@@ -1,0 +1,12 @@
+Attaque normale : Touche d'éclair
+<color=#FFD780FF>Attaque normale</color> Enchaîne jusqu'à 4 attaques électrifiées, infligeant des <color=#FFACFFFF>DGT Électro</color>.  <color=#FFD780FF>Attaque chargée</color> Consomme de l'endurance pour infliger des <color=#FFACFFFF>DGT Électro de zone</color> après un court délai.  <color=#FFD780FF>Attaque plongeante</color> Plonge depuis les airs en concentrant ses pouvoirs Électro, infligeant des DGT aux ennemis en chemin et des <color=#FFACFFFF>DGT Électro de zone</color> à l'impact.
+Arc fulminant
+Canalise le pouvoir de la foudre pour nettoyer un peu le champ de bataille.  <color=#FFD780FF>Appui simple</color> Libère un orbe électrique à tête chercheuse.  Lorsqu'il touche une cible, l'orbe inflige des <color=#FFACFFFF>DGT Électro</color>, ainsi que l'effet Conductivité aux ennemis proches, cumulable 3 fois maximum.  <color=#FFD780FF>Appui long</color> Après un court délai, des éclairs s'abattent des cieux et infligent des <color=#FFACFFFF>DGT Électro</color> à tous les ennemis proches. Les ennemis affectés par Conductivité subissent des DGT supplémentaires proportionnels au nombre de cumuls.  <i>La couleur de la foudre est aussi la couleur de la Sorcière à la rose.</i>
+Rose de foudre
+Invoque une rose de foudre qui libère une puissante énergie électrique repoussant les ennemis proches et leur infligeant des <color=#FFACFFFF>DGT Électro</color>. La rose de foudre envoie des décharges électriques qui infligent des <color=#FFACFFFF>DGT Électro</color> aux ennemis proches tant qu'elle est active.  <i>Cette rose est belle, mais possède des épines mortelles.</i>
+Relique d'électricité
+Les attaques chargées infligent l'effet Conductivité d'<color=#FFD780FF>Arc fulminant</color> aux ennemis lorsqu'elles touchent.
+Champ électrostatique
+<color=#FFD780FF>Rose de foudre</color> réduit la DÉF des ennemis qu'elle touche de 15 % pendant 10 s.
+Connaissances médicinales
+Lorsque vous fabriquez des potions, il y a 20 % de chances qu'une partie des matières premières vous soit rendue.

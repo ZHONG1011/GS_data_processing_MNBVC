@@ -1,0 +1,13 @@
+Alabarda
+Un arma de asta con una hoja de hacha montada en la parte superior, capaz de causar mucho daño. El arma predilecta entre los oficiales de la Geoarmada.
+ Una lanza siempre es un arma formidable, no importa quién la porte. Esto es debido a que “mientras más larga, mejor”. Si, además, se le añade un hacha en uno de los extremos, será capaz de cortar aunque su peso haya aumentado, lo que hace su uso ideal para escenarios complejos. Este tipo de armas de asta son ideales para soldados hábiles en las artes marciales, que también son un símbolo de orgullo entre los oficiales de la Geoarmada. A pesar de que se viven tiempos de paz en Liyue, en avenidas y callejones aún se pueden ver las siluetas de valientes soldados portando alabardas.  Los comandantes de la Geoarmada siempre lideran valientemente a sus tropas hacia la batalla. Pueden estar en la vanguardia, como la punta de una lanza, o servir como primer baluarte contra las tropas enemigas. Los soldados no solo son protegidos por sus leales compañeros de armas, sino también mediante sus técnicas de artes marciales, refinadas a través de milenios de práctica. Para cualquier enemigo que se atreva a acercarse, la primera línea de lanceros es extremadamente letal, pues son el verdadero núcleo en medio de filas de tantos soldados firmes como rocas. 
+Pesado
+Los Ataques Normales infligen un <color=#99FFFFFF>160%</color> de daño adicional a los enemigos. Este efecto solo puede ocurrir una vez cada 10 s.
+Pesado
+Los Ataques Normales infligen un <color=#99FFFFFF>200%</color> de daño adicional a los enemigos. Este efecto solo puede ocurrir una vez cada 10 s.
+Pesado
+Los Ataques Normales infligen un <color=#99FFFFFF>240%</color> de daño adicional a los enemigos. Este efecto solo puede ocurrir una vez cada 10 s.
+Pesado
+Los Ataques Normales causan un <color=#99FFFFFF>280%</color> adicional de daño a los oponentes. Este efecto puede activarse una vez cada 10 s.
+Pesado
+Los Ataques Normales infligen un <color=#99FFFFFF>320%</color> de daño adicional a los enemigos. Este efecto solo puede ocurrir una vez cada 10 s.

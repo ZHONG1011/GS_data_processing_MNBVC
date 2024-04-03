@@ -1,0 +1,148 @@
+Première rencontre...
+Kaeya de l'Ordre de Favonius. Laisse-moi me joindre à toi, tu ne le regretteras pas. En tout cas, ça me changera des missions qu'on nous confie d'habitude...
+Bavardage - Rien à faire
+#Je ne te savais pas aussi {M#paresseux}{F#paresseuse}...
+Bavardage - Ordre de Favonius
+Mes collègues ont l'air débordés, haha.
+Bavardage - Paresse
+Assez traîné. Si on reste encore longtemps ici, des champignons se mettront à germer.
+Quand il pleut...
+Mon pouvoir Cryo est plus efficace en temps de pluie et ça pimente mes combats.
+Quand il neige - Anecdote
+C'est un temps parfait pour te raconter des histoires de fantômes !
+Quand il neige - Froidure
+Ça va ? Pas trop froid ?
+Quand le vent souffle...
+Le vent est doux... Mais pour combien de temps encore ?
+Au réveil...
+Profitons de cette journée.
+À l'heure du déjeuner...
+Allons faire un tour à la taverne, qu'en dis-tu ?
+Le soir...
+Oh, tu as peur du noir ? Je vois, intéressant...
+La nuit...
+Tu t'en vas déjà ? À la prochaine, mais ne me fais pas trop attendre !
+À propos de Kaeya...
+L'Ordre de l'Abîme te tracasse ces derniers temps ? N'hésite pas à m'en parler.
+À propos de nous - Relation employeur/employé
+Appelle-moi quand tu as besoin d'un coup de main dans un combat. Je suis ton ami après tout.
+À propos de nous - Force
+#Oh ? Si tu veux qu'on maintienne une relation professionnelle, peut-être que tu pourrais me déployer plus souvent au combat, {M#patron}{F#patronne} ? Ne sois pas {M#surpris}{F#surprise} par ma force !
+À propos de l'œil divin...
+Tu ne comprends toujours pas le fonctionnement d'un œil divin ? Comment te l'expliquer... Les yeux sont des organes qui nous permettent de voir, n'est-ce pas ? Eh bien, l'œil divin est comme un organe qui nous permet de contrôler un élément. C'est simple comme bonjour !
+Quelque chose à partager ?
+Tu aimes le vin ? Le vin de dent-de-lion possède un goût unique. Ah, tu ne peux pas en boire ? Va pour du cidre de pomme alors, je connais un endroit parfait pour ça.
+Détails intéressants...
+As-tu déjà aperçu les chouettes des Monts Dosdragon ? Quand on les regarde droit dans les yeux, on dirait qu'elles te percent à jour sans rien laisser paraître... Ça me fascine.
+À propos de Jean...
+Jean ? Elle a besoin de toute l'aide que tu peux lui donner.
+À propos de Lisa...
+Avec Lisa, n'oublie jamais de rendre tes livres en temps et en heure. Elle est entrée dans une colère noire quand j'ai eu le malheur de dépasser le délai d'emprunt. Mon bras me fait mal rien que d'y penser...
+À propos d'Amber...
+Amber est une Éclaireuse intelligente avec un sens aigu de la justice. Ne fais pas n'importe quoi devant elle.
+À propos de Diluc...
+Diluc était mignon quand il était petit. Mais maintenant, on dirait qu'il vit dans son petit monde, différent du nôtre... Il n'est pas très amusant à fréquenter.
+À propos de Klee...
+Cette chère petite Klee n'a jamais réussi à échapper à Jean, malgré mes précieux conseils... Je rigole ! Ne va pas me dénoncer.
+À propos d'Albedo...
+Albedo ? C'est un garçon calme et très talentueux. Tout le monde aime les gens comme lui. Toi aussi ?
+À propos de Diona...
+Tu as déjà goûté aux cocktails de Diona ? Ah, j'oublie que tu n'as pas l'âge ! Et c'est bien dommage, héhé. On ne peut qu'attendre que tu grandisses un peu plus.
+À propos de Varka...
+Dommage que personne à l'Ordre de Favonius n'ait la même approche que le Grand Maître en matière de travail. Je dois dire que ça me manque...
+À propos de Fischl...
+Tu trouves que le cache-œil de Fischl lui va bien parce que ça colle avec son titre de Princesse du châtiment ? Dans ce cas-là, je devrais aussi être un prince, non ?
+À propos de Noëlle...
+Jean m'a demandé de prendre soin de Noëlle en secret, mais tout va bien. La petite a la tête sur les épaules et c'est un soulagement.
+À propos de Rosalia...
+Tu veux savoir ce que sœur Rosalia cache ? Hélas, je ne peux rien te dire. Je la trouve plutôt bien comme personne, pas comme d'autres. Elle est honnête envers elle-même et ne fait pas semblant de s'intéresser à des futilités.
+À propos de Sucrose...
+Sucrose a beau sembler calme et introvertie, son labo est plein de choses très farfelues et terrifiantes... Enfin, d'après ce que j'en ai entendu. J'ai d'autres choses à faire que de fouiner dans cette pièce...
+À propos de Collei...
+Oh, Collei ? Eh bien, voilà un nom que je n'ai pas entendu depuis longtemps... Vous vous adressez à la bonne personne ! Laissez-moi vous raconter son histoire depuis le début, je vais vous dévoiler tout plein de détails croustillants !
+À propos de Mika...
+Quand j'ai rencontré Mika pour la première fois, il m'a paru être quelqu'un d'angoissé, alors j'ai voulu lui faire une petite blague. Je ne pensais pas que cela le rendrait encore plus nerveux, même son sourire s'est figé... Au final, il m'a carrément écrit une lettre d'excuses. Tss, c'est un trait de la famille Schmidt de tout prendre au sérieux comme ça ?
+Connaître Kaeya (1)
+Mon titre au sein de l'Ordre est obsolète dans la situation actuelle. Le Grand Maître a emmené toute la cavalerie avec lui...
+Connaître Kaeya (2)
+Il y a dix capitaines au sein de l'Ordre de Favonius, mais en toute honnêteté, certains ne sont pas à la hauteur de leur rôle.
+Connaître Kaeya (3)
+Mon œil va bien, ne t'en fais pas. Ce n'est pas si étrange de vouloir couvrir une partie de son corps... Tu portes bien des vêtements après tout, non ?
+Connaître Kaeya (4)
+Khaenri'ah ? Tu en connais beaucoup sur Teyvat, dis donc. Ce pays n'existe plus, seuls restent les pécheurs qu'il vaut mieux oublier.
+Connaître Kaeya (5)
+On se connaît depuis un bon bout de temps désormais ! Voyager avec toi est la chose la plus amusante que j'ai faite de toute ma vie. J'espère ne jamais être déçu de ce choix.
+Les loisirs de Kaeya...
+L'œnologie est un art. Le vin mondstadtois est un cadeau de l'Archon Anémo que tout le monde doit apprendre à apprécier.
+Les problèmes de Kaeya...
+Moi, solitaire ? Jamais ! Pas quand j'ai quelqu'un d'aussi bavard avec moi.
+Plats préférés...
+Le vin pétillant est une spécialité mondstadtoise. Son amertume disparaît si on ajoute trois volumes de vin de dent-de-lion et c'est comme ça qu'on obtient une « mort de l'après-midi ». Exquis.
+Plats détestés...
+Je n'arrive toujours pas à croire qu'il existe des gens qui boivent du jus de raisin. S'ils avaient un peu de patience, ce jus se transformerait en un merveilleux vin... Hmph. Ils n'y connaissent rien en bonnes choses.
+Cadeau reçu (1)
+Oh ! Quel délice ! On ne dirait pas, mais tu as plus d'un tour dans ton sac.
+Cadeau reçu (2)
+Ce serait parfait avec un bon vin.
+Cadeau reçu (3)
+Ne t'inquiète pas. Je suis un peu lent, mais je vais finir de tout manger.
+Anniversaire...
+Aujourd'hui est un grand jour. Je souhaite qu'il t'apporte joie et bonheur !
+Affinité faible
+Oh, pas mal du tout.
+Affinité moyenne
+Tu sembles te préoccuper beaucoup de ma personne, merci beaucoup.
+Affinité élevée
+J'ai l'impression de devenir plus puissant... Mais tu as l'air de t'en réjouir beaucoup plus que moi, ai-je tort ?
+Affinité max
+#Nous étions censés n'être que de simples partenaires de voyage, alors je n'aurais jamais pensé que tu m'aiderais à en arriver là, merci. Je me dois de faire de même pour toi... Continuons notre chemin ensemble, mon {M#ami}{F#amie}.
+Compétence élémentaire (1)
+Du calme !
+Compétence élémentaire (2)
+Gelez !
+Compétence élémentaire (3)
+Esquivez ça !
+Déchaînement élémentaire (1)
+Attention, froid devant.
+Déchaînement élémentaire (2)
+Oh, pardon !
+Déchaînement élémentaire (3)
+Cet instant deviendra votre éternité.
+Début de sprint (1)
+Pourquoi tant de précipitation ?
+Fin de sprint (1)
+Pfiou, haha.
+Utilisation de planeur (1)
+Le vent se lève.
+Ouverture de coffre (1)
+Quelle chance !
+Ouverture de coffre (2)
+Fascinant.
+Ouverture de coffre (3)
+Haha, une bien belle trouvaille.
+PV faibles (1)
+On dirait qu'il est temps d'être sérieux.
+PV faibles (2)
+Tout cela me fatigue...
+PV faibles (3)
+Quelle plaie...
+Compagnon avec PV faibles (1)
+Je vais aider, mais tu m'en devras une.
+Compagnon avec PV faibles (2)
+Hé, ne meurs pas comme ça. Ce ne serait pas drôle.
+K.O. (1)
+Je n'en ai... pas fini...
+K.O. (2)
+Hmph, quelle surprise...
+K.O. (3)
+Je suis pathétique...
+Attaque puissante subie (1)
+Zut !
+Attaque puissante subie (2)
+Arrêtez tant que vous le pouvez.
+Ajout dans l'équipe (1)
+J'ai hâte.
+Ajout dans l'équipe (2)
+On va s'amuser.
+Ajout dans l'équipe (3)
+Je suis prêt.

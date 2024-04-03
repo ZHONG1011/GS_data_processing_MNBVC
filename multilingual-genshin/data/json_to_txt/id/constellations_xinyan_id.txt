@@ -1,0 +1,12 @@
+Fatal Acceleration
+Setelah melakukan serangan CRIT, meningkatkan ATK SPD dari Normal dan Charged Attack Xinyan sebesar 12% selama 5 detik. Terpicu setiap 5 detik.
+Impromptu Opening
+Meningkatkan 100% CRIT Rate serangan Physical DMG <color=#FFD780FF>Riff Revolution</color>, dan saat dilancarkan, akan membentuk Perisai Level 3: Rave.
+Double-Stop
+Meningkatkan 3 level <color=#FFD780FF>Sweeping Fervor</color>. Maksimum: Lv. 15.
+Wildfire Rhythm
+Swing DMG <color=#FFD780FF>Sweeping Fervor</color> mengurangi Physical RES musuh sebesar 15% selama 12 detik.
+Screamin' for an Encore
+Meningkatkan 3 level <color=#FFD780FF>Riff Revolution</color>. Maksimum: Lv. 15.
+Rockin' in a Flaming World
+Mengurangi Konsumsi Stamina Charged Attack Xinyan sebesar 30%. Selain itu, Xinyan mendapatkan Bonus ATK sebesar 50% DEF saat melakukan Charged Attack.

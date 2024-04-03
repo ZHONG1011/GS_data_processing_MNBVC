@@ -1,0 +1,13 @@
+Amber Bead
+Catalyst yang terbentuk dari batu amber, memancarkan aura hangat saat berada di bawah sinar matahari.
+ Walaupun amber bukan jenis mineral, namun masih mulus dan cukup kuat dengan kehangatan batu permata. Saat memegangnya, cahaya berwarna madu dan sentuhan lembutnya membuat orang merasa nyaman. Dikatakan bahwa katalis amber adalah batu permata pertama yang diberikan kepada masyarakat Liyue oleh Dewa Batu. Mungkin amber ini juga menyimpan kelembutan sang Dewa. 
+Elemental Mastery
+Normal Attack meningkatkan <color=#99FFFFFF>6%</color> Elemental DMG selama 6 detik. Maks. 2 lapis.
+Elemental Mastery
+Normal Attack memberikan <color=#99FFFFFF>7,5%</color> Elemental DMG Bonus selama 6 detik. Maks. 2 lapis.
+Elemental Mastery
+Normal Attack meningkatkan <color=#99FFFFFF>9%</color> Elemental DMG selama 6 detik. Maks. 2 lapis.
+Elemental Mastery
+Normal Attack meningkatkan <color=#99FFFFFF>10,5%</color> Elemental DMG selama 6 detik. Maks. 2 lapis.
+Elemental Mastery
+Normal Attack meningkatkan <color=#99FFFFFF>12%</color> Elemental DMG selama 6 detik. Maks. 2 lapis.

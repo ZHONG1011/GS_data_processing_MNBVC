@@ -1,0 +1,12 @@
+Deepwood Patrol
+Ketika Collei ada dalam party namun sedang tidak berada di medan pertempuran, Energy Recharge Collei meningkat 20%.
+Through Hill and Copse
+Talenta Pasif "Floral Sidewinder" akan berubah menjadi: Saat <color=#FFD780FF>Floral Ring</color> kembali, Talenta Pasif "Floral Sidewinder" akan memberikan status "Sprout" untuk Karakter, yang akan mengakibatkan <color=#99FF88FF>Dendro DMG</color> secara terus-menerus kepada musuh di sekitar sebesar 40% dari ATK Collei selama 3 detik. Sejak melancarkan <color=#FFD780FF>Floral Brush</color> dan sebelum status Sprout kali ini hilang, jika ada Karakter di dalam party yang memicu reaksi Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, atau Burgeon, maka durasi efek Sprout kali ini diperpanjang 3 detik. Perpanjangan durasi efek Sprout yang bisa didapatkan dengan cara ini adalah 1 kali. Jika efek Sprout terpicu lagi selama durasinya berlangsung, maka efek yang awal akan dihapus. DMG yang diakibatkan oleh efek Sprout dianggap sebagai DMG Elemental Skill. Harus sudah membuka Talenta Pasif Floral Sidewinder lebih dulu.
+Scent of Summer
+Meningkatkan 3 level <color=#FFD780FF>Floral Brush</color>. Maksimum: Lv. 15.
+Gift of the Woods
+Saat melancarkan <color=#FFD780FF>Trump-Card Kitty</color>, akan meningkatkan 60 poin Elemental Mastery seluruh anggota party di sekitar (tidak termasuk Collei) selama 12 detik.
+All Embers
+Meningkatkan 3 level <color=#FFD780FF>Trump-Card Kitty</color>. Maksimum: Lv. 15.
+Forest of Falling Arrows
+Saat <color=#FFD780FF>Floral Ring</color> mengenai target, akan menghasilkan 1 miniatur Cuilein-Anbar dan mengakibatkan <color=#99FF88FF>Dendro DMG</color> sebesar 200% dari ATK Collei. Hanya 1 miniatur Cuilein-Anbar yang bisa dihasilkan setiap kali melancarkan <color=#FFD780FF>Floral Brush</color>.

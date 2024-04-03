@@ -1,0 +1,13 @@
+Hoja Fría
+Un arma de acero forjada por capas. Sirve como testimonio de las grandes aventuras de su antiguo maestro.
+ Un acero resistente forjado mediante pliegues. Tiene un brillo frío y tenue. Perteneció a un famoso aventurero que presenció la inmensidad de la tierra, cortó los huesos de acero de los monstruos y luchó contra bandidos. Sin embargo, terminó renunciando a la vasta tierra, el cielo infinito, sus amigos del gremio, su leal espada y sus viejos amigos. Todo por una joven. 
+Perdición del agua y el hielo
+Aumenta en un <color=#99FFFFFF>12%</color> el daño contra los enemigos afectados por Hydro o Cryo.
+Perdición del agua y el hielo
+Aumenta en un <color=#99FFFFFF>15%</color> el daño contra los enemigos afectados por Hydro o Cryo.
+Perdición del agua y el hielo
+Aumenta en un <color=#99FFFFFF>18%</color> el daño contra los enemigos afectados por Hydro o Cryo.
+Perdición del agua y el hielo
+Aumenta en un <color=#99FFFFFF>21%</color> el daño contra los enemigos afectados por Hydro o Cryo.
+Perdición del agua y el hielo
+Aumenta en un <color=#99FFFFFF>24%</color> el daño contra los enemigos afectados por Hydro o Cryo.

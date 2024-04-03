@@ -1,0 +1,14 @@
+Attaque normale : Forme de l'eau
+<color=#FFD780FF>Attaque normale</color> Enchaîne jusqu'à 3 attaques qui prennent la forme de poissons pour infliger des <color=#80C0FFFF>DGT Hydro</color>.  <color=#FFD780FF>Attaque chargée</color> Consomme de l'endurance pour infliger des <color=#80C0FFFF>DGT Hydro de zone</color> après un court délai.  <color=#FFD780FF>Attaque plongeante</color> Plonge depuis les airs en concentrant ses pouvoirs Hydro, infligeant des DGT aux ennemis en chemin et des <color=#80C0FFFF>DGT Hydro de zone</color> à l'impact.
+Serment de Kurage
+Kokomi crée une méduse fantôme à partir d'eau pour soigner ses alliés. Utiliser cette compétence applique l'état <color=#80C0FFFF>Trempé</color> à Kokomi.  <color=#FFD780FF>Méduse fantôme</color> Inflige des <color=#80C0FFFF>DGT Hydro</color> aux ennemis proches et restaure les PV des personnages déployés à proximité à intervalles réguliers. Les soins sont fonction des PV max de Kokomi.  <i>Kokomi a besoin de récupérer des forces régulièrement pour maintenir son efficacité de travail.</i>
+Ascension de la néréide
+La puissance de Watatsumi se manifeste, infligeant des <color=#80C0FFFF>DGT Hydro</color> aux ennemis proches, avant d'entourer Kokomi d'une parure cérémoniale faite des eaux vives de Sangonomiya.  <color=#FFD780FF>Parure cérémoniale</color> · Les DGT des attaques normales et chargées de Kokomi et ceux de la méduse fantôme créée par sa compétence élémentaire augmentent en fonction des PV max de Kokomi ; · Lorsque ses attaques normales et chargées touchent des ennemis, Kokomi restaure les PV de tous les personnages de l'équipe à proximité, la quantité de PV restaurés dépendant des PV max de Kokomi ; · Augmente la RÉS à l'interruption de Kokomi, et lui permet de se déplacer à la surface de l'eau.  Ces effets prennent fin lorsque Kokomi quitte le champ de bataille.  <i>Une lumière claire se fond dans les robes autour de Son Altesse Sangonomiya Kokomi, reflétant sa forme magnifique.</i>
+Coffret de Tamanooya
+Si la méduse fantôme de Kokomi est sur le champ de bataille lorsqu'elle utilise <color=#FFD780FF>Ascension de la néréide</color>, sa durée est réinitialisée.
+Chant de nacre
+Lorsque Kokomi revêt la parure cérémoniale créée par <color=#FFD780FF>Ascension de la néréide</color>, les bonus de DGT d'attaque normale et chargée en fonction de ses PV max bénéficient d'une augmentation supplémentaire basée sur 15 % de son bonus de soins.
+Princesse de Watatsumi
+Réduit la consommation d'endurance de vos personnages dans l'équipe de 20 % lors de la nage. Ne peut pas être cumulé avec d'autres aptitudes passives aux effets identiques.
+Stratégie sans faille
+Kokomi obtient un bonus de soins de 25 %, mais son taux CRIT diminue de 100 %.

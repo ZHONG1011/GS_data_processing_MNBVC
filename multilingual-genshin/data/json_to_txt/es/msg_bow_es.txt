@@ -1,0 +1,13 @@
+Mensajero
+Un arco de madera básico. Dicen que se usaba para comunicaciones de larga distancia.
+ Se dice que en tiempos antiguos, la gente de Liyue mandaba mensajes a través de flechas. “¿Pero no era peligroso?“ “Precisamente por eso el arco se convirtió en una antigüedad”, dijo entre risas el dueño de la tienda de antigüedades mientras se frotaba la barbilla. 
+Mensaje del arquero
+Al golpear un punto débil con un Ataque Cargado, inflige un <color=#99FFFFFF>100%</color> adicional de daño de ATQ como Daño CRIT. Este efecto puede activarse una vez cada 10 s.
+Mensaje del arquero
+Al golpear un punto débil con un Ataque Cargado, inflige un <color=#99FFFFFF>125%</color> adicional de daño de ATQ como Daño CRIT. Este efecto puede activarse una vez cada 10 s.
+Mensaje del arquero
+Al golpear un punto débil con un Ataque Cargado, inflige un <color=#99FFFFFF>150%</color> adicional de daño de ATQ como Daño CRIT. Este efecto puede activarse una vez cada 10 s.
+Mensaje del arquero
+Al golpear un punto débil con un Ataque Cargado, inflige un <color=#99FFFFFF>175%</color> adicional de daño de ATQ como Daño CRIT. Este efecto puede activarse una vez cada 10 s.
+Mensaje del arquero
+Al golpear un punto débil con un Ataque Cargado, inflige un <color=#99FFFFFF>200%</color> adicional de daño de ATQ como Daño CRIT. Este efecto puede activarse una vez cada 10 s.

@@ -1,0 +1,12 @@
+Attaque normale : Cuisine-fu
+<color=#FFD780FF>Attaque normale</color> Enchaîne jusqu'à 5 coups de lance.  <color=#FFD780FF>Attaque chargée</color> Consomme de l'endurance pour charger en ligne droite et infliger des DGT aux ennemis sur la route.  <color=#FFD780FF>Attaque plongeante</color> Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT de zone à l'impact.
+Attaque Gooba
+Xiangling invoque le panda Gooba. Tant que Gooba est actif, il crache du feu sur les ennemis, leur infligeant des <color=#FF9999FF>DGT Pyro de zone</color>.  <i>Gooba raffole des produits épicés ; mais même ça, c'est un peu trop pour lui.</i>
+Pyrotation
+Démontrant à nouveau sa maîtrise du feu et des armes, Xiangling libère une tornade de feu qui tournoie autour d'elle. La tornade suit le personnage tant qu'elle est active, infligeant des <color=#FF9999FF>DGT Pyro</color> aux ennemis sur sa route.  <i>On n'a jamais assez d'explosif. JAMAIS.</i>
+Feux croisés
+Augmente la portée des crachats de feu de Gooba de 20 %.
+Attention, ça pique
+À la fin d'<color=#FFD780FF>Attaque Gooba</color>, le gentil petit Gooba laisse un piment à son emplacement avant de disparaître. Ce piment confère un bonus de 10 % d'ATQ pendant 10 s à celui qui le ramasse.
+Cheffe cuisinière
+12 % de chances d'obtenir un plat supplémentaire lorsque vous cuisinez un plat parfait qui renforce l'ATQ.

@@ -1,0 +1,13 @@
+Espada Surcacielos
+Una espada de acero fiable. Cierta persona intentó usarla como una espada voladora para surcar los cielos...
+ El maestro de la espada descendió de lo más alto del Desfiladero Jueyun de un salto. Perforó las nubes mientras la tempestad rugía en sus oídos, a lo que le siguió el sonido de unos huesos rotos. En ese momento, se dio cuenta de que hay cosas que el arte de la espada no puede lograr. Entonces, empeñó la espada para comprar medicamentos. ¡Pero el maestro de la espada sabía que su vuelo no acabaría ahí! 
+Resolución
+Al usar la Habilidad Definitiva, el ATQ y la Vel. Movimiento aumentarán en un <color=#99FFFFFF>12%</color> durante 15 s.
+Resolución
+Al usar la Habilidad Definitiva, el ATQ y la Vel. Movimiento aumentarán en un <color=#99FFFFFF>15%</color> durante 15 s.
+Resolución
+Al usar la Habilidad Definitiva, el ATQ y la Vel. Movimiento aumentarán en un <color=#99FFFFFF>18%</color> durante 15 s.
+Resolución
+Al usar la Habilidad Definitiva, el ATQ y la Vel. Movimiento aumentarán en un <color=#99FFFFFF>21%</color> durante 15 s.
+Resolución
+Al usar la Habilidad Definitiva, el ATQ y la Vel. Movimiento aumentarán en un <color=#99FFFFFF>24%</color> durante 15 s.

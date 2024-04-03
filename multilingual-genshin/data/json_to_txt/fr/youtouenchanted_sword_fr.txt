@@ -1,0 +1,4 @@
+Chef d'œuvre Isshin
+Une aura violette inquiétante s'accroche sur cette lame bizarre, qui a le pouvoir de contrôler le cœur et l'esprit de son porteur.
+Épéiste errant
+Lorsqu'une attaque normale, chargée ou plongeante touche un ennemi, elle libère un esprit maudit, infligeant des DGT de zone équivalant à 180 % de l'ATQ et restaurant les PV d'une valeur équivalant à 100 % de l'ATQ. Cet effet peut être déclenché une fois toutes les 8 s. Les DGT infligés par le personnage équipé de l'arme sont réduits de 50 %.

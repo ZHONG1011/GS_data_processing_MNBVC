@@ -1,0 +1,13 @@
+Orbe jadien
+Un catalyseur sculpté dans la jadéite, produite au Karst Jueyun, au nord de Liyue. Petit et léger, résistant et durable, les gens l'appellent souvent « Boulette de jade ».
+ Un catalyseur gravé dans le jade, au poids léger. Résistant et durable, son prix raisonnable en fait un objet populaire. De taille réduite, mais finement travaillé, il est surnommé par les gens de Liyue « Boulette de jade ». Il offre en plus d'être un catalyseur défensif efficace le style d'un accessoire élégant. 
+Torrent
+Augmente l'ATQ de <color=#99FFFFFF>20 %</color> pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel, Fleurissement ou Dispersion Hydro.
+Torrent
+Augmente l'ATQ de <color=#99FFFFFF>25 %</color> pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel, Fleurissement ou Dispersion Hydro.
+Torrent
+Augmente l'ATQ de <color=#99FFFFFF>30 %</color> pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel, Fleurissement ou Dispersion Hydro.
+Torrent
+Augmente l'ATQ de <color=#99FFFFFF>35 %</color> pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel, Fleurissement ou Dispersion Hydro.
+Torrent
+Augmente l'ATQ de <color=#99FFFFFF>40 %</color> pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel, Fleurissement ou Dispersion Hydro.

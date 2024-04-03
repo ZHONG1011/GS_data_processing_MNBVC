@@ -1,0 +1,13 @@
+Catalyseur en ambre
+Un catalyseur magique taillé dans l'ambre, qui scintille au soleil.
+ Bien que l'ambre ne compte pas parmi les minéraux, il n'en est pas moins lisse et durable, et offre une certaine chaleur manquante chez la plupart des gemmes. Son aura couleur de miel et sa texture douce à la main laissent une impression réconfortante. Le catalyseur d'ambre aurait dit-on été la première des gemmes divines offerte par le Souverain de la Roche au peuple de Liyue. Peut-être que la pièce en ambre, un matériau que ne compte pourtant pas parmi les plus luxueux, a-t-elle gardé quelque trace de la douceur de l'Archon Géo ? 
+Maestria élémentaire
+Les attaques normales confèrent un bonus de DGT élémentaires de <color=#99FFFFFF>6 %</color> pendant 6 s lorsqu'elles touchent. Cet effet peut être cumulé 2 fois maximum.
+Maestria élémentaire
+Les attaques normales confèrent un bonus de DGT élémentaires de <color=#99FFFFFF>7,5 %</color> pendant 6 s lorsqu'elles touchent. Cet effet peut être cumulé 2 fois maximum.
+Maestria élémentaire
+Les attaques normales confèrent un bonus de DGT élémentaires de <color=#99FFFFFF>9 %</color> pendant 6 s lorsqu'elles touchent. Cet effet peut être cumulé 2 fois maximum.
+Maestria élémentaire
+Les attaques normales confèrent un bonus de DGT élémentaires de <color=#99FFFFFF>10,5 %</color> pendant 6 s lorsqu'elles touchent. Cet effet peut être cumulé 2 fois maximum.
+Maestria élémentaire
+Les attaques normales confèrent un bonus de DGT élémentaires de <color=#99FFFFFF>12 %</color> pendant 6 s lorsqu'elles touchent. Cet effet peut être cumulé 2 fois maximum.

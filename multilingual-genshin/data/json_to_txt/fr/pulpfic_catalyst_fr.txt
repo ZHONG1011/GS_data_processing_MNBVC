@@ -1,0 +1,13 @@
+Histoire des chasseurs de dragon
+L'histoire de cinq héros partant à la chasse au dragon. L'ouvrage est mal écrit et particulièrement incohérent. Sa valeur réside dans les nombreuses leçons que l'on peut tirer de l'échec.
+ Cinq héros sur les traces du dragon partirent. Le maître épéiste à la main sûre, pour l'honneur ; La sorcière studieuse, pour le savoir ; Le mercenaire à la danse mortelle, pour la prime ; L'archère à la grande précision, pour la vengeance ; Et l'écrivain votre serviteur, pour l'histoire. Le lotus précède ma bouche ; du page naissent les fleurs. Pertinents sont mes mots, et acérée ma pensée. Cette équipée j'ai rejoint, ne pouvant trouver à subsister par mes propres moyens. Bien que n'ayant nul renom, avec eux je marche, jeune adulte n'ayant point d'expérience. 
+Héritage
+Augmente l'ATQ de <color=#99FFFFFF>24 %</color> pendant 10 s après un changement de personnage. Cet effet peut être déclenché une fois toutes les 20 s.
+Héritage
+Augmente l'ATQ de <color=#99FFFFFF>30 %</color> pendant 10 s après un changement de personnage. Cet effet peut être déclenché une fois toutes les 20 s.
+Héritage
+Augmente l'ATQ de <color=#99FFFFFF>36 %</color> pendant 10 s après un changement de personnage. Cet effet peut être déclenché une fois toutes les 20 s.
+Héritage
+Augmente l'ATQ de <color=#99FFFFFF>42 %</color> pendant 10 s après un changement de personnage. Cet effet peut être déclenché une fois toutes les 20 s.
+Héritage
+Augmente l'ATQ de <color=#99FFFFFF>48 %</color> pendant 10 s après un changement de personnage. Cet effet peut être déclenché une fois toutes les 20 s.

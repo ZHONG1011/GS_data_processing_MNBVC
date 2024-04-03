@@ -1,0 +1,12 @@
+The Scent Remained
+Meningkatkan 1 jumlah maksimum Rain Sword
+Rainbow Upon the Azure Sky
+Memperpanjang 3 detik durasi <color=#FFD780FF>Guhua Sword: Raincutter</color>. dan mengurangi 15% <color=#80C0FFFF>Hydro RES</color> musuh yang terkena serangan Sword Rain selama 4 detik.
+Weaver of Verses
+Meningkatkan 3 level <color=#FFD780FF>Guhua Sword: Raincutter</color>. Maksimum: Lv. 15.
+Evilsoother
+Pada durasi <color=#FFD780FF>Guhua Sword: Raincutter</color>, DMG yang dihasilkan oleh <color=#FFD780FF>Guhua Sword: Fatal Rainscreen</color> meningkat 50%.
+Embrace of Rain
+Meningkatkan 3 level <color=#FFD780FF>Guhua Sword: Fatal Rainscreen</color>. Maksimum: Lv. 15.
+Hence, Call Them My Own Verses
+Mengaktifkan 2 dari <color=#FFD780FF>Guhua Sword: Raincutter</color> Sword Rain akan meningkatkan DMG ketiganya. Xingqiu akan mendapatkan 3 Energy saat Sword Rain mengenai musuh.

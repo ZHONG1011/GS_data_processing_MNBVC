@@ -1,0 +1,12 @@
+Retour de l'héritière des sables écarlates
+La durée de l'état de Prière de couronne cramoisie de <color=#FFD780FF>Liturgie : Marée de la bergeronnette</color> augmente de 3 s.
+Brillance perçant la lune
+Lorsque <color=#FFD780FF>Liturgie : Sanctuaire de la héronne</color> touche un ennemi, les PV max de Candace augmentent de 20 % pendant 15 s.
+Supplication du chasseur
+Niveau d'aptitude <color=#FFD780FF>Liturgie : Marée de la bergeronnette</color> +3. Niveau max : 15
+Serment de la sentinelle
+Réduit le TdR de l'appui long de <color=#FFD780FF>Liturgie : Sanctuaire de la héronne</color> pour correspondre à celui de l'appui simple.
+Regard hétérochromatique
+Niveau d'aptitude <color=#FFD780FF>Liturgie : Sanctuaire de la héronne</color> +3. Niveau max : 15
+Débordement
+Lorsqu'un personnage déployé (hormis Candace) affecté par l'état de Prière de couronne cramoisie de <color=#FFD780FF>Liturgie : Marée de la bergeronnette</color> inflige des DGT élémentaires à un ennemi avec une attaque normale, il déclenche une marée d'impact, infligeant des <color=#80C0FFFF>DGT Hydro de zone</color> d'une valeur équivalant à 15 % des PV max de Candace. Cet effet peut être déclenché une fois toutes les 2,3 s. Les DGT infligés sont considérés comme des DGT de déchaînement élémentaire.

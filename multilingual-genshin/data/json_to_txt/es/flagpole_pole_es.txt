@@ -1,0 +1,12 @@
+Asta de Bandera
+Reservar
+Por determinar
+Restaura un <color=#99FFFFFF>8%</color> de Vida tras derrotar a un enemigo.
+Por determinar
+Restaura un <color=#99FFFFFF>10%</color> de Vida tras derrotar a un enemigo.
+Por determinar
+Restaura un <color=#99FFFFFF>12%</color> de Vida tras derrotar a un enemigo.
+Por determinar
+Restaura un <color=#99FFFFFF>14%</color> de Vida tras derrotar a un enemigo.
+Por determinar
+Restaura un <color=#99FFFFFF>16%</color> de Vida tras derrotar a un enemigo.

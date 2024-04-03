@@ -1,0 +1,12 @@
+Œil du corbeau obscur
+Oz garde toujours un œil de corbeau sur Fischl, même quand il ne l'accompagne pas au combat : les attaques normales de Fischl infligent un bonus de DGT équivalant à 22 % de l'ATQ.
+Plume de jugement
+<color=#FFD780FF>Ailes de surveillance nocturne</color> inflige un bonus de DGT équivalant à 200 % de l'ATQ ; la zone d'effet augmente de 50 %.
+Ailes noires de l'Abîme
+Niveau d'aptitude <color=#FFD780FF>Ailes de surveillance nocturne</color> +3. Niveau max : 15
+Les fantasmes de la princesse
+<color=#FFD780FF>Incarnation de la nuit</color> inflige un bonus de <color=#FFACFFFF>DGT Électro</color> équivalant à 222 % de l'ATQ aux ennemis proches. Fischl récupère 20 % de PV à la fin de la compétence.
+Apocalypse de la nuit
+Niveau d'aptitude <color=#FFD780FF>Incarnation de la nuit</color> +3. Niveau max : 15
+Oiseau de la nuit éternelle
+Prolonge la durée d'Oz de 2 s. De plus, Oz attaque aux côtés de votre personnage déployé, infligeant des <color=#FFACFFFF>DGT Électro</color> équivalant à 30 % de l'ATQ de Fischl.

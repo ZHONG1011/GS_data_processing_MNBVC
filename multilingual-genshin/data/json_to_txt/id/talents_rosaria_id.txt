@@ -1,0 +1,12 @@
+Normal Attack: Spear of the Church
+<color=#FFD780FF>Normal Attack</color> Melancarkan hingga 5 serangan berturut-turut.  <color=#FFD780FF>Charged Attack</color> Mengonsumsi sejumlah Stamina untuk menerjang ke depan, mengakibatkan DMG pada musuh di jalur terjangan.  <color=#FFD780FF>Plunging Attack</color> Menerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.
+Ravaging Confession
+Rosaria bergerak dengan cepat, muncul di belakang musuh, lalu menusuk dan menebas dengan polearm, mengakibatkan <color=#99FFFFFF>Cryo DMG</color>. Talenta ini tidak dapat digunakan untuk bergerak ke belakang musuh yang bertubuh lebih besar.  <i>Mereka yang mengaku dosa pada Suster Rosaria tidak akan mendapat pengampunan. Sebaliknya, para pendosa akan menerima hukuman dingin yang menusuk tulang, masing-masing sebanding dengan berat dosa yang mereka lakukan.</i>
+Rites of Termination
+Doa khas Rosaria. Setelah mengayunkan senjatanya untuk menebas musuh di sekitar, dia akan melancarkan Ice Lance yang menghantam tanah. Kedua aksi tersebut mengakibatkan <color=#99FFFFFF>Cryo DMG</color>. Saat Talenta ini aktif, Ice Lance akan mengeluarkan hawa dingin secara berkala, mengakibatkan <color=#99FFFFFF>Cryo DMG</color> pada musuh di sekitar.  <i> Penghakiman adalah pekerjaan yang merepotkan. Kusarankan sebaiknya kita lewatkan saja, dan langsung masuk ke tahap terakhir! Rosaria bukan seseorang yang taat pada Dewa Anemo, karena itu, menurut Rosaria, penghakiman adalah pekerjaan yang mudah.</i>
+Regina Probationum
+Saat Rosaria menyerang musuh dari belakang menggunakan <color=#FFD780FF>Ravaging Confession</color>, akan meningkatkan 12% CRIT Rate Rosaria selama 5 detik.
+Shadow Samaritan
+Melancarkan <color=#FFD780FF>Rites of Termination</color> akan meningkatkan CRIT Rate seluruh anggota party di sekitar (tidak termasuk Rosaria sendiri) sebesar 15% dari CRIT Rate Rosaria selama 10 detik. Bonus CRIT Rate yang didapat dari Talenta ini tidak dapat melebihi 15%.
+Night Walk
+Saat malam hari (18:00 — 6:00), meningkatkan 10% Movement SPD anggota party sendiri. Efek ini tidak aktif dalam Domain, Trounce Domain, atau Spiral Abyss. Efek ini tidak dapat ditumpuk dengan Talenta Pasif lain dengan efek yang sama.

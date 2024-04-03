@@ -1,0 +1,13 @@
+Espada del Alba
+Una espada que solía brillar como el sol. Su portador será bendecido con una sensación de poder y bienestar. El material reflectante de su hoja se desgastó hace mucho tiempo.
+ Esta espada tiene un nombre tan largo como extraordinario: “Espada Triunfal del Alba Apuntavictorias”. Sin embargo, solo una persona ha caído a causa de su filo en la batalla. Una noche, él desenvainó la espada y anunció en voz alta la victoria. En un pestañeo iluminó la turbia noche, que se tornó clara como el día, revelando su ubicación con el brillo. Esto creó un trueno dorado que, a su vez, produjo una lluvia de flechas. 
+Vigor
+Cuando la Vida esté por encima del 90%, aumenta la Prob. CRIT en un <color=#99FFFFFF>14%</color>.
+Vigor
+Cuando la Vida esté por encima del 90%, aumenta la Prob. CRIT un <color=#99FFFFFF>17.5%</color>.
+Vigor
+Cuando la Vida esté por encima del 90%, aumenta la Prob. CRIT un <color=#99FFFFFF>21%</color>.
+Vigor
+Cuando la Vida esté por encima del 90%, aumenta la Prob. CRIT un <color=#99FFFFFF>24.5%</color>.
+Vigor
+Cuando la Vida esté por encima del 90%, aumenta la Prob. CRIT un <color=#99FFFFFF>28%</color>.

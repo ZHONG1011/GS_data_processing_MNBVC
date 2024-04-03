@@ -1,0 +1,12 @@
+To Cloister Compassion
+Meningkatkan 50% area serangan <color=#FFD780FF>Gyoei Narukami Kariyama Rite</color>.
+To Forsake Fortune
+Meningkatkan 3 detik durasi <color=#FFD780FF>Grass Ring of Santification</color>
+To Sequester Sorrow
+Meningkatkan 3 level <color=#FFD780FF>Sanctifying Ring</color>. Maksimum: Lv. 15.
+To Sever Sealing
+Saat Normal, Charged, atau Plunging Attack dari Karakter yang terpengaruh oleh <color=#FFD780FF>Grass Ring of Sanctification</color> milik Shinobu memukul musuh, maka Thundergrass Mark akan muncul di posisi musuh dan mengakibatkan <color=#FFACFFFF>Electro DMG Area</color> berdasarkan 9,7% Max HP Shinobu. Efek ini dapat terpicu setiap 5 detik.
+To Cease Courtesies
+Meningkatkan 3 level <color=#FFD780FF>Gyoei Narukami Kariyama Rite</color>. Maksimum: Lv. 15.
+To Ward Weakness
+Saat Kuki Shinobu menerima DMG mematikan, DMG tersebut tidak akan membuatnya gugur. Efek ini terpicu secara otomatis saat HP-nya mencapai 1 dan dapat terpicu setiap 60 detik. Saat HP Shinobu turun sampai di bawah 25%, Shinobu akan mendapatkan 150 Elemental Mastery selama 15 detik. Efek ini terpicu setiap 60 detik.

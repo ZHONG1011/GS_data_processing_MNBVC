@@ -1,0 +1,138 @@
+Hola...
+Soy Qiqi. Soy una zombi... Ah, ¿qué más?
+Charla - Hablando consigo misma
+¿Sabes que...? Espera, ¿qué iba a decir?
+Charla - Miedo al calor
+Vamos a un lugar más frío.
+Charla - Ejercicio
+Un, dos, tres, cuatro. Dos, dos, tres, cuatro... Cinco, seis, tres, cuatro. Cinco, seis, siete, siete...
+Cuando llueve...
+Olvidé mi paraguas de nuevo.
+Cuando nieva...
+Quiero hacer un muñeco de nieve... ¿Me ayudas?
+Qué sol hace...
+Hoy debí quedarme en casa.
+Cuando hace viento...
+Hace frío. Me gusta.
+Hace mucho viento...
+Tómame de la mano. El viento puede mandarme a volar.
+Buenos días...
+¿Ya es de día? ¿Qué tengo que hacer hoy?... Tengo que ver mi diario.
+Buenas tardes...
+Olvidé ayudar al doctor Baizhu a preparar los medicamentos.
+Buenas noches... (I)
+Buenas noches. El día de hoy... ¿qué hice el día de hoy?...
+Buenas noches... (II)
+Es hora de dormir. Tengo que hacer unos estiramientos... Por favor, no mires.
+Sobre Qiqi...
+¿Me preguntas a mí? Lo siento, lo olvidé.
+#Sobre nosotr{F#as}{M#os} - Memoria
+Tengo mala memoria para la mayoría de las cosas... Pero no es tan grave.
+#Sobre nosotr{F#as}{M#os} - Ejercicios de memoria
+Recientemente comencé a ejercitar la memoria, así que no te preocupes, no te olvidaré.
+Sobre la Visión...
+Mi Visión no puede hacer retroceder el tiempo. Pero me da el poder necesario para proteger a la gente que me importa.
+¿Algo que decir?
+Aunque soy un cadáver, estoy en mejor condición que el doctor Baizhu...
+Una noticia interesante...
+A veces veo pinzones cerca de la farmacia. Una pequeña bandada de pinzones.
+Sobre Baizhu...
+No puedo recordar el rostro del doctor Baizhu, pero no importa.
+Sobre Hu Tao...
+No me gusta. Da mucho calor, se ríe mucho y habla todo el tiempo de la muerte.
+Sobre Xiao - Nombre
+Suena a que es un artefacto antiguo...
+Sobre Xiao - Recuerdos
+¿Lo he visto antes?
+Sobre Xinyan...
+¿Quién?
+Sobre Yaoyao...
+Es como un pequeño pinzón. Qué bonito...
+Sobre la Pequeña Ming
+En las noches, siento que hay alguien más haciendo estiramientos conmigo... ¿Es mi imaginación?
+Más sobre Qiqi (I)
+¿Qué está pasando?
+Más sobre Qiqi (II)
+Hago estiramientos con frecuencia para tener la misma flexibilidad que un humano, pero en cuanto dejo de hacerlos, el rigor mortis vuelve...
+Más sobre Qiqi (III)
+Algunas personas se aprovechan de mí. Otras me temen. Pero tú... no eres como los demás.
+Más sobre Qiqi (IV)
+#Desde que nos conocimos, tengo una sensación cálida por dentro. No es del tipo de calor que me hace sentir podrida, asquerosa y más cerca de la muerte. Es otro tipo de calor dentro de mi corazón. Gracias. Estoy feliz. Lamentablemente, solo reconozco {F#a la}{M#al} “tú” de ahora. Si te olvido... No, me ordeno no olvidarte.
+Más sobre Qiqi (V)
+#En el pasado, solo pensaba en mantenerme con vida, aunque no sabía para qué vivir. Pero ahora, creo que lo sé. Quiero vivir contigo. ¿Podemos permanecer siempre junt{F#as}{M#os} para el resto de la vida y hasta que muramos? ¿Sí o no? ¿Sí? ¿Esa es tu respuesta? Excelente. Prometo protegerte por siempre.
+Aficiones de Qiqi...
+Quiero tener una mascota. Por ejemplo, un lindo y pequeño pinzón.
+Preocupaciones de Qiqi...
+No sé por qué, pero las altas temperaturas me hacen sentir podrida y asquerosa... y más cerca de la muerte.
+Comida que más le gusta...
+Me gusta la leche de coco... aunque no tengo idea de a qué sabe.
+Comida que menos le gusta...
+Lo siento, no tengo idea.
+Al recibir un regalo (I)
+Está frío. Me gusta. Pero no sabe a nada...
+Al recibir un regalo (II)
+Eh...
+Al recibir un regalo (III)
+Quema un poco...
+Cumpleaños...
+#Muchas felicidades. Aquí tienes una bolsa de hierbas medicinales. Debes estar muy sorprendid{F#a}{M#o} de que me haya acordado, ¿cierto? Deja que te lo explique. La última vez que me lo dijiste, escribí tu cumpleaños en un papel. Si miro algo una vez al día, al final se graba en mi memoria a largo plazo y permanecerá en ella para siempre.
+El sentimiento de Ascensión - Introducción
+¿Que ahora soy más fuerte? ¿Qué quiere decir eso?
+El sentimiento de Ascensión - Desarrollo
+Ah, ya entendí. Después de volverme fuerte, tengo que esforzarme más por controlarme.
+El sentimiento de Ascensión - Nudo
+Antes, no entendía el concepto de volverse más fuerte. Ahora que lo entiendo, quisiera ser más fuerte aún.
+El sentimiento de Ascensión - Desenlace
+Todo esto es por ti. Muchas gracias. ¿Puedes prometerme una cosa? De ahora en adelante, deja que yo te proteja. ¿Aceptas? ¿Sí?
+Habilidad Elemental (I)
+Ciclo de la vida.
+Habilidad Elemental (II)
+La vida sigue.
+Habilidad Elemental (III)
+Ve.
+Habilidad Elemental (IV)
+Levántate.
+Habilidad Definitiva (I)
+Orden dada, orden recibida.
+Habilidad Definitiva (II)
+Soy la Preservadora de la Fortuna.
+Habilidad Definitiva (III)
+Abriendo la caja de trucos de Adeptus.
+Al esprintar (I)
+¿Más rápido? De acuerdo, más rápido.
+Al abrir el planeador (I)
+¿Eh?
+Al abrir un cofre (I)
+Oh, ¡qué hermoso!
+Al abrir un cofre (II)
+Los cofres... Humm, ¿me gustan los cofres?
+Al abrir un cofre (III)
+¿No había algo aquí antes?
+Vida baja (I)
+¡Au!
+Vida baja (II)
+Oh, no...
+Vida baja (III)
+Tengo que seguir viviendo...
+Aliado con vida baja (I)
+Peligro.
+Aliado con vida baja (II)
+Para. Déjame a mí.
+Derrotada (I)
+No quiero... que me sellen... de nuevo...
+Derrotada (II)
+Qué frío...
+Derrotada (III)
+No...
+Recibiendo un ligero ataque (I)
+No noté nada...
+Recibiendo un fuerte ataque (I)
+Guau.
+Recibiendo un fuerte ataque (II)
+Oh...
+Unirse al equipo (I)
+Aquí estoy.
+Unirse al equipo (II)
+¿Qué sucede?
+Unirse al equipo (III)
+Traeré... mi cuaderno.

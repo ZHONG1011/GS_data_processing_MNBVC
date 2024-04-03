@@ -1,0 +1,12 @@
+Parfum persistant
+Augmente le nombre max d'épées de pluie de 1.
+Arc-en-ciel sur le ciel d'azur
+Prolonge la durée d'<color=#FFD780FF>Épée Guhua : Pluie et arc-en-ciel</color> de 3 s. De plus, les épées de pluie réduisent la <color=#80C0FFFF>RÉS Hydro</color> des ennemis qu'elles touchent de 15 % pendant 4 s.
+Tisseuse de vers
+Niveau d'aptitude <color=#FFD780FF>Épée Guhua - Pluie et arc-en-ciel</color> +3. Niveau max : 15
+Conquérant du dragon
+Pendant la durée d'<color=#FFD780FF>Épée Guhua : Pluie et arc-en-ciel</color>, les DGT infligés par l'<color=#FFD780FF>Épée Guhua : Pluie battante</color> augmentent de 50 %.
+Embrassement de pluie
+Niveau d'aptitude <color=#FFD780FF>Épée Guhua : Pluie battante</color> +3. Niveau max : 15
+Rassemblement d'articles
+Les DGT du déluge d'épées d'<color=#FFD780FF>Épée Guhua : Pluie et arc-en-ciel</color> augmentent considérablement toutes les 2 pluies d'épées ; Xingqiu récupère de plus 3 pts d'énergie élémentaire.

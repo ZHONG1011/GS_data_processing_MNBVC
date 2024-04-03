@@ -1,0 +1,4 @@
+Prized Isshin Blade
+Pedang terkutuk yang sudah usang menunjukkan bentuk aslinya. Namun anugerah bawaan apa pun yang mungkin dimilikinya sebelumnya, kini telah pupus selama perjalanannya.
+Wandering Striker
+Saat Normal, Charged, atau Plunging Attack mengenai musuh, akan melepaskan Accursed Spirit yang mengakibatkan DMG Area setara dengan 180% ATK. Efek ini terpicu setiap 8 detik. DMG yang diakibatkan oleh Karakter pengguna senjata ini berkurang sebesar 50%.

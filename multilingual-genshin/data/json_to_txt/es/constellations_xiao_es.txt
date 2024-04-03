@@ -1,0 +1,12 @@
+Desintegración: Destructor de mundos
+Aumenta las cargas de <color=#FFD780FF>Ciclón de viento lemniscático</color> en 1.
+Aniquilación: Flor de Kaleidos
+Cuando Xiao está en tu equipo pero no en combate, su Recarga de Energía aumenta en un 25%.
+Conquista del mal: Deidad de la ira
+Aumenta el nivel de habilidad de <color=#FFD780FF>Ciclón de viento lemniscático</color> +3. Puede ser aumentado hasta Niv. 15.
+Trascendencia: Fin del sufrimiento
+Cuando la Vida de Xiao cae por debajo del 50%, obtiene un 100% de Bono de DEF.
+Evolución: Origen de la ignorancia
+Aumenta el nivel de habilidad de <color=#FFD780FF>Azote de todos los males</color> +3. Puede ser aumentado hasta Niv. 15.
+Conquista del mal: Guardián Yaksha
+Mientras Xiao está bajo los efectos de <color=#FFD780FF>Azote de todos los males</color>, golpear a 2 o más enemigos con Ataque Descendente otorga a <color=#FFD780FF>Ciclón de viento lemniscático</color> 1 carga adicional y elimina su TdE durante 1 s.

@@ -1,0 +1,136 @@
+Halo
+<color=#37FFFF>Fischl:</color> Aku, Fischl, Prinzessin der Verurteilung, turun ke bumi ini atas panggilan takdir dan - oh, jadi kamu juga pengembara dari dunia lain? Baiklah, aku memberimu izin untuk bertualang denganku.  <color=#37FFFF>Oz:</color> Maksudnya adalah "Senang bertemu denganmu."
+Berbincang: Bisikan Takdir
+Aku mendengar suara takdir, menyebut namaku dengan lemah lembut...
+Berbincang: Penciptaan Dunia
+Hm hm, semoga kemuliaan Prinzessin membawa cahaya ke dunia ini.
+Berbincang: Dari Dunia Langit
+<color=#37FFFF>Fischl:</color> Aku khawatir mengenai kesejahteraan rombonganku selama aku tidak ada...  <color=#37FFFF>Oz:</color> Aku yakin orang-orang baik di Adventurers' Guild akan baik-baik saja, mein Fräulein.
+Setelah Hujan
+Ah langit yang cerah, uhuk... Transformasi meteorologis ini sangat hebat! Seperti sentuhan takdir yang tak terduga di hadapan sebuah nasib tertentu.
+Ketika Petir Menyambar
+<color=#37FFFF>Fischl:</color> Ah! Lihat, guntur penghakiman, sebuah pertanda bahwa zaman kegelapan sudah di depan mata...  <color=#37FFFF>Oz:</color> Itu, dan cucian milik mein Fräulein masih ada di luar...  <color=#37FFFF>Fischl:</color> Eh? Benarkah?
+Ketika Turun Salju
+<color=#37FFFF>Fischl:</color> Hmm, benar-benar pemandangan yang menakjubkan, ini mengingatkanku akan dunia tempatku berasal, di mana saat mereka melihat Prinzessin der Verurteilung, maka darah dan air mata para pendosa berubah menjadi es!... Achoo! Achoo!  <color=#37FFFF>Oz:</color> Tidak hanya darah dan air mata, tapi juga air liur dan ingus, mein Fräulein.  <color=#37FFFF>Fischl:</color> Oz-A-Achoo!
+Ketika Matahari Bersinar
+<color=#37FFFF>Fischl:</color> Ozzie, temanku...  <color=#37FFFF>Oz:</color> "Ozzie?" Anda kenapa...  <color=#37FFFF>Fischl:</color> Yang Mulia memintamu untuk membentangkan sayapmu, untuk menutupi surga, membawa dunia ke kegelapan malam abadi...  <color=#37FFFF>Oz:</color> Tuan Putri tidak boleh memaksa orang lain!
+Selamat Pagi: Salam untuk Fischl
+Siang dan malam, waktu dan ruang semua adalah gambaran ilusi belaka, tetapi ikatan nasib telah membawamu ke malam abadiku.
+Selamat pagi: Salam untuk Oz
+<color=#37FFFF>Oz:</color> Selamat pagi. Mein Fräulein sudah dengar bahwa kamu akan datang, jadi dia menyiapkan sarapan.  <color=#37FFFF>Fischl:</color> Oz! ...Ehem, ada perlu apa?
+Selamat Siang
+Ha ... Bahkan jika kamu seorang kaisar sekalipun, kamu tidak bisa tidak merasa mengantuk pada jam-jam seperti ini...
+Selamat Malam
+<color=#37FFFF>Fischl:</color> Bintang-bintang cakrawala di langit malam adalah lubang yang dibuat oleh paruh Oz untuk menghiasi kegelapan.  <color=#37FFFF>Oz:</color> Terkadang Anda mengatakan hal-hal yang cukup aneh, mein Fräulein.
+Selamat Tidur
+<color=#37FFFF>Fischl:</color> Tidurmu akan nyenyak dan terbebas dari mimpi buruk! Karena tidak ada mimpi buruk yang berani mendekati mereka yang telah diberkati oleh Immernachtreich!  <color=#37FFFF>Oz:</color> Maksudnya adalah "selamat tidur."
+Tentang Fischl: Prinzessin der Verurteilung
+<color=#37FFFF>Fischl:</color> Aku? Hehehe. Ingatlah, bahwa aku, Fischl, adalah Prinzessin der Verurteilung, Penguasa Immernachtreich, hakim maha tahu dan terkemuka dari semua kejahatan dunia!  <color=#37FFFF>Oz:</color> Dia adalah penyelidik dari Adventurers' Guild.  <color=#37FFFF>Fischl:</color> Ehem. Itu hanyalah salah satu dari sekian banyak pekerjaanku!
+Tentang Kita: Manusia yang turun ke dunia
+Aku dan kamu adalah dua pengembara dari dunia yang berbeda dan bertemu di sini. Tidak mungkin salah, itu pasti kehendak takdir.
+Tentang Kita: Menjatuhkan Monster Dunia
+Kamu terlihat bermasalah...? Pengembara, jangan berkecil hari! Dengan mata kiriku, Auge der Verurteilung, yang sanggup melihat takdir, aku pasti akan menjagamu. Lalu Oz, gagak yang telah menyaksikan kehancurkan berbagai dunia, akan mengawasimu selama perjalananmu. Jika dunia ini, seperti binatang buas berkeliaran di malam hari, menghantui mimpimu, maka aku, Prinzessin der Verurteilung, akan menjatuhkannya dengan panah penghakiman!
+Tentang Kita: Manusia yang terkasih
+<color=#37FFFF>Fischl:</color> Oz, temanku yang setia. Fakta bahwa kita diharuskan bertemu orang ini, seseorang yang berasal dari dunia lain sepertiku... Mungkin takdir yang kejam akhirnya tersenyum padaku, walaupun darah pendosa mengalir dalam nadiku. Jika aku memang ditakdirkan untuk berada di sini, dalam penjara yang tak terhindarkan bernama kenyataan ini, setidaknya -  <color=#37FFFF>Oz:</color> Aku mengerti, mein Fräulein! Dalam diri pengembara ini, Fräulein telah menemukan seseorang yang tidak mungkin mengorbankan Fräulein.
+Tentang Kita: Sang pelindung
+<color=#37FFFF>Fischl:</color> Ozvaldo von Hrafnavines. Aku, Prinzessin der Verurteilung, penguasa Immernachtreich, dengan ini menyerukan kepadamu dengan menggunakan segala kekuatanmu untuk membebaskan pengembara ini dari cakar nasib yang akan berusaha mencelakainya di setiap kesempatan, dan untuk mempersiapkan dirimu jikalau dirimu diperlukan untuk melakukan pengorbanan dalam melaksanakan tugas yang mulia ini.  <color=#37FFFF>Oz:</color>...Jangan biarkan aku mati begitu saja, mein Fräulein!
+Tentang Vision
+Oh? Kamu ingin tahu mengenai Edelstein der Dunkelheit? Ini adalah pusaka kerajaan, ornamen upacara yang menampilkan keagungan Prinzessin der Verurteilung di hadapan yang tidak layak. Bahkan di sini, di dunia yang hampir musnah ini, aku telah dipersatukan kembali dengan pewarisku yang sah sebagai salah satu dari darah bangsawan dan roh yang mulia, karena keagungan seorang putri sejati akan sanggup menarik pusaka kerajaannya ke mana saja dia pergi...
+Berbagi Cerita
+<color=#37FFFF>Fischl:</color> Jika seseorang harus memperhitungkan waktu seperti dunia ini, aku, Fischl, telah melihat tiga ribu musim dingin. Bukan berarti perjalanan waktu khayalan memiliki pengaruh pada sesuatu sepertiku, yang telah melihat kausalitas dari tiga ribu alam semesta.  <color=#37FFFF>Oz:</color> Walau demikian, mein Fräulein, Anda masih belum dianggap usia layak untuk minum di dunia ini, dan tidak ada bartender yang bisa dibujuk.
+Kisah Menarik
+Nama lengkap Oz adalah Ozvaldo von Hrafnavines, yang mendominasi bintang-bintang dan langit malam dari tiga alam semesta di "dunia itu", dan menaungi jiwa semua pahlawan yang mati dalam pertempuran dengan sayap-sayap bayangan. Ngomong-ngomong, seseorang harus dihukum jika salah menyebutkan namanya. Namun, karena aku adalah seorang putri dan kamu adalah salah satu favoritku, kamu bebas untuk memanggilnya, "Oz."
+Tentang Bennett
+<color=#37FFFF>Fischl:</color> Ah, pria bernasib malang itu... Auge der Verurteilung milikku telah melihat dengan sangat jelas bagaimana hatinya sakit saat ditinggalkan oleh dunia ini-  <color=#37FFFF>Oz:</color> Seseorang harus menjaga pria malang itu.
+Tentang Lisa
+<color=#37FFFF>Fischl:</color> Penyihir yang menggunakan buku itu, penjaga gerbang ilmu pengetahuan... Dapatkan kepercayaannya, dan seseorang akan mendapatkan akses menuju ilmu pengetahuan yang begitu luas...  <color=#37FFFF>Oz:</color> Maksudnya adalah "selama kamu mengembalikan buku perpustakaan tepat waktu, maka kamu tidak akan ada masalah untuk meminjam buku lagi."
+Tentang Kaeya
+<color=#37FFFF>Fischl:</color> Sifatnya tidak jelas, nasibnya adalah misteri, dan pidatonya merupakan permadani yang menjengkelkan yang ditenun dari fakta dan fiksi... Mungkin dia dan aku berbagi pemandangan mistis yang sama...  <color=#37FFFF>Oz:</color> Atau mungkin dia memang bajak laut asli...?
+Tentang Mona
+<color=#37FFFF>Fischl:</color> Ah, ya, Mona, astrolog hebat itu... Mona, yang dengan kesombongannya pernah mencoba untuk meramalkan nasib dari Prinzessin der Verurteilung! Akhirnya dia hanya gemetar ketakutan.  <color=#37FFFF>Oz:</color> *berbisik* Sebenarnya Mona gemetar karena menahan tawanya, itu benar-benar sulit.
+Tentang Rosaria
+<color=#37FFFF>Fischl:</color> Orang bilang Suster Rosaria adalah pengabdi Archon Anemo yang paling setia.  <color=#37FFFF>Oz:</color>..."Pengabdi setia," mein Fräulein?  <color=#37FFFF>Fischl:</color> Benar! Suatu malam, aku mendengar dia memanggil nama Archon di hadapan orang lain: "Atas nama Lord Bartabos, matilah!" Seseorang mengira bahwa dia sedang memimpin doa.
+Mengenal Fischl: I
+Untuk mengutuk yang bersalah, menguduskan yang adil, dan untuk menarik semua mimpi terbuang ke dalam pelukan Immernachtreich yang tak terbatas. Ini adalah misi dari Prinzessin der Verurteilung, dan tanggung jawabnya. Tidak ada yang dapat membantahnya.
+Mengenal Fischl: II
+Mata kiriku? Ini adalah Auge der Verurteilung, yang dapat melihat kebenaran di dunia ini. Mengenai alasan kenapa aku menyembunyikannya... Apakah kamu rela menanggung semua beban dan rasa sakit yang ada di dunia ini? Terlebih lagi... dunia akan kehilangan banyak daya tariknya jika khayalan dan kepalsuannya dihilangkan sepenuhnya.
+Mengenal Fischl: III
+<color=#37FFFF>Fischl:</color> Stormterror? Hewan peliharaan yang dipelihara di istana tak disangka akan menyebabkan bencana di dunia ini.*huff* Yang menyedihkan adalah ketidakmampuan dunia ini...  <color=#37FFFF>Oz:</color> Meski mein Fräulein berkata demikian, apakah Anda tidak khawatir akan keselamatan semua orang selama bencana tersebut?  <color=#37FFFF>Fischl:</color> I-Itu karena Prinzessin der Verurteilung memiliki tugas mulia melindungi jiwa semua makhluk hidup...
+Mengenal Fischl: IV
+<color=#37FFFF>Oz:</color> Beberapa orang memanggilnya dengan nama lain. Tetapi bagiku, satu-satunya orang yang memberiku kehidupan dan kekuatan adalah "Fischl". Dari semua yang dipertimbangkan, Fischl adalah nama yang paling tepat untuk identitasnya. Serius, jangan panggil dia apa pun, atau—  <color=#37FFFF>Fischl:</color> Oh, apa yang sedang kalian bicarakan dengan sembunyi-sembunyi?  <color=#37FFFF>Oz:</color> Mid—Midnight Phantasmagoria, mein Fräulein! Dan... keagungan nama Verurteilung!
+Mengenal Fischl: V
+Mengapa Prinzessin der Verurteilung harus menghukum dosa? Tentu saja karena dosa "melanggar takdir"! Bagaimanapun juga... takdirlah yang membawamu ke sini... takdir membawa dirimu dan diriku ke dunia ini... takdir yang membuat jalan kita saling terkait. Aku, Fischl, akan selalu melindungimu. Karena... karena takdir telah mengungkapkan kepadaku bahwa inilah yang telah ditetapkannya!
+Hobi Fischl: Tanya Fischl
+Aku, Fischl, telah melintasi bintang-bintang, dan menjelajahi dunia yang tak terhitung jumlahnya. Aku telah mempelajari nasib sepuluh ribu alam semesta dan telah membaca semua takdir setiap jiwa yang hidup.
+Hobi Fischl: Tanya Oz
+<color=#37FFFF>Oz:</color> Mein Fräulein membaca banyak novel. *huff* Nama "Oz" juga dipilih dari novel favoritnya.
+Kekhawatiran Oz
+Apa hal-hal di dunia ini yang dapat mengganggu putri? Apa pun yang kukatakan, selalu ada seseorang yang tidak dapat menerima identitasku yang sebenarnya. Tapi tidak masalah, karena kesunyian adalah nasib bangsawan, selama aku tidak kehilangan hati yang mulia ini...
+Makanan Favorit
+<color=#37FFFF>Fischl:</color> Huh! Makanan hanyalah belenggu manusia... Tetapi jika Prinzessin der Verurteilung harus memperhitungkan setiap bagian yang layak, maka itu pastilah air mata orang-orang pendosa dan lidah para pendusta.  <color=#37FFFF>Oz:</color> Apakah mein Fräulein kehilangan nafsu makannya karena Mitternachtsbrot des Sommernachtgartens?  <color=#37FFFF>Fischl:</color> Ugh— Yang itu semata-mata untuk menyediakan kapal duniawi milikku dengan bahan makanan yang dibutuhkan untuk melakukan tugas-tugas kerajaannya!
+Makanan yang tidak kamu suka
+<color=#37FFFF>Oz:</color> Aku yakin jawaban untuk yang satu ini...  <color=#37FFFF>Fischl:</color> Memang benar, Oz! Ah, malangnya anggota tubuhnya dikendalikan oleh rantai yang menentang alam...  <color=#37FFFF>Oz:</color> Ia tidak akan pernah lagi terbang seperti yang kulakukan...  <color=#37FFFF>Fischl:</color> Tanpa memiliki kerendahan hati yang dengannya ia dilahirkan untuk menatap kagum pada keagungan rajanya yang hanyalah bayangan neraka dari "dunia itu". Hmm, namanya adalah...  <color=#37FFFF>Oz:</color> Sesuatu "Madame", bukan?
+Menerima Hadiah: I
+<color=#37FFFF>Fischl:</color> Kelezatan hakiki yang layak disajikan di Garten Sanssouci.  <color=#37FFFF>Oz:</color> Mein Fräulein bilang dia sangat menikmati masakanmu yang lezat ini.
+Menerima Hadiah: II
+<color=#37FFFF>Fischl:</color> Untuk bisa mengalahkan Beast of the World, seseorang harus terlebih dahulu mengatasi keinginan duniawi dan menenun jalan menuju takdir.  <color=#37FFFF>Oz:</color> Tapi bukannya tadi Mein Fräulein makan dengan lahap?
+Menerima Hadiah: III
+<color=#37FFFF>Fischl:</color> Oh, mengapa kamu berani-beraninya menghujani piring yang penuh kekacauan ini ke hadapan sang Prinzessin?  <color=#37FFFF>Oz:</color> Mein Fräulein kurang suka dengan hidangan ini, mohon dimaklumi ya.
+Ulang Tahun
+<color=#37FFFF>Fischl:</color> Nah! Jika hari ini benar-benar adalah hari yang ditakdirkan untukmu, maka aku tidak bisa hanya duduk diam saja. Kamu akan mendapatkan perhatian penuh dariku. Bicaralah! Katakan kepadaku tentang keinginanmu, apa yang kamu dambakan dalam hidupmu yang singkat dan keras di dunia ini. Apa pun keinginanmu, meskipun mungkin—  <color=#37FFFF>Oz:</color> Maksudnya, "Selamat Ulang Tahun, dan jika kamu mau, dia bisa—"  <color=#37FFFF>Fischl:</color> Diam, Oz.
+Perasaan Tentang Ascension: Permulaan
+<color=#37FFFF>Fischl:</color> Panah ajaibku memanggil nama suciku saat melesat sepanjang malam, berdoalah agar kilat violet penghakiman akan menembak jatuh musuh takdir!  <color=#37FFFF>Oz:</color> Cukup menginspirasi, mein Fräulein! Mempertimbangkan sudah hampir waktunya makan malam, mungkin Anda bisa menembakkan merpati saat Anda melakukannya?
+Perasaan Tentang Ascension: Persiapan
+<color=#37FFFF>Fischl:</color> Dengan ini, aku bisa lebih sepenuhnya memanifestasikan keagunganku sebagai Prinzessin der Verurteilung, dan mengalahkan musuh takdir bernama "kenyataan".  <color=#37FFFF>Oz:</color> Ini juga akan sangat berguna dalam pekerjaan Anda untuk Adventurers' Guild, mein Fräulein.
+Perasaan Tentang Ascension: Klimaks
+Bersukacitalah! Gemetarlah dalam ketakutan! Jika kamu ingin bertanya dari mana munculnya panggilan untuk kegairahan dan kesengsaraan ini, ketahuilah bahwa aku, Prinzessin der Verurteilung, penguasa Immernachtreich, telah menggunakan mata kiri ini untuk melihat dengan jelas permadani takdir yang menganyam alam semesta!
+Perasaan Tentang Ascension: Konklusi
+Sepertinya aku sekarang telah mendapatkan kembali sebagian besar kekuatanku yang hilang dalam transisiku ke dunia ini. HAHAHA, hari penghakiman sudah dekat! Ah, jangan khawatir. Bahkan pada akhirnya, ketika aku menjatuhkan kilat penghakiman di dunia ini, kamu tidak akan celaka, karena kamu diberkati oleh Prinzessin.
+Elemental Skill: I
+Kuhukum dengan putusan kerajaan!
+Elemental Skill: II
+Oz, ungkapkan wujudmu!
+Elemental Skill: III
+Aku memanggilmu!
+Elemental Skill: IV
+Oz: Tidak ada kata istirahat bagi yang jahat...
+Elemental Burst: I
+Sayap Kegelapan, pisahkanlah malam dari siang!
+Elemental Burst: II
+Ilusi tengah malam!
+Elemental Burst: III
+Gagak bayangan, biarkan malam tiba!
+Elemental Burst: IV
+Oz: Seperti yang Anda inginkan, mein Fräulein!
+Elemental Burst: V
+Oz: Ilusi tengah malam!
+Membuka Peti Harta: I
+Takdir telah menuntunku kemari!
+Membuka Peti Harta: II
+Harta apa yang tersembunyi di balik tirai kegelapan ini?
+Membuka Peti Harta: III
+Hahaha, serukan agungnya namaku!
+HP Rendah: I
+Hmph! Apakah kamu ingin menyaksikan kekuatanku yang sebenarnya?
+HP Rendah: II
+Oz: Mein Fräulein! Kalau Anda gugur...
+HP Rendah: III
+Nasib kejam ini tidak sesuai untuk darah bangsawan!
+HP Rekan Rendah: I
+Hah! Biarkan aku yang turun!
+HP Rekan Rendah: II
+Oz: Mein Fräulein, kehadiran Anda sangat dibutuhkan di sini ....
+Gugur: I
+Dunia ini bukanlah rumah bagi sang Prinzessin...
+Gugur: II
+Diriku akan... bangkit... lagi...
+Gugur: III
+Oz: Mein Fräulein!
+Menerima Serangan Hebat: I
+Pembangkang!
+Bergabung ke Party: I
+Dalam nama Prinzessin!
+Bergabung ke Party: II
+Oz: Saksikanlah kedatangan Prinzessin der Verurteilung!
+Bergabung ke Party: III
+Garis takdirmu ada dalam genggamanku!

@@ -1,0 +1,12 @@
+Normal Attack: Wind Spirit Creation
+<color=#FFD780FF>Normal Attack</color> Melancarkan hingga 4 serangan angin yang mengakibatkan <color=#80FFD7FF>Anemo DMG</color>.  <color=#FFD780FF>Charged Attack</color> Mengonsumsi sejumlah Stamina untuk mengakibatkan <color=#80FFD7FF>Anemo DMG area</color> setelah jeda singkat.  <color=#FFD780FF>Plunging Attack</color> Mengumpulkan kekuatan Anemo dan menerjang tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan <color=#80FFD7FF>Anemo DMG area</color> saat mendarat.
+Astable Anemohypostasis Creation - 6308
+Menciptakan Wind Spirit kecil yang menarik musuh dan obyek ke lokasi Wind Spirit sebelum menghempas musuh di area tersebut; juga mengakibatkan <color=#80FFD7FF>Anemo DMG</color>.  <i>Ini sedikit memalukan, tetapi meskipun elemen kehidupan yang dilahirkan melalui prosedur ini menghilang dengan sangat cepat, mereka cukup berguna saat bertualang. Bahkan percobaan yang gagal pun dapat memiliki penggunaan yang praktis.</i>
+Forbidden Creation - Isomer 75 / Type II
+Sucrose melemparkan sebuah ramuan yang menciptakan Large Wind Spirit. Selama ramuan itu ada, Large Wind Spirit akan terus-menerus menarik musuh dan obyek yang ada di sekitar, menghasilkan <color=#80FFD7FF>Anemo DMG</color>.  <color=#FFD780FF>Elemental Absorption</color> Ketika Wind Spirit bersentuhan dengan elemen<color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, maka akan mengakibatkan elemental DMG tambahan dari tipe tersebut. Elemental Absorption hanya dapat muncul satu kali dalam sekali penggunaan.  <i>Sucrose dulunya selalu memberikan nama kepada Anemo Hypostases miliknya. Namun mereka berkembang biak dengan cepat sampai melampaui Baron Bunny ke-893.</i>
+Catalyst Conversion
+Ketika Sucrose memicu Swirl, akan meningkatkan Elemental Mastery anggota party dengan tipe elemen yang sama (tidak termasuk Sucrose sendiri) sebesar 50, berlangsung selama 8 detik.
+Mollis Favonius
+Ketika skill <color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color> atau <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color> mengenai musuh, akan meningkatkan Elemental Mastery seluruh anggota party (tidak termasuk Sucrose sendiri) sebanyak 20% dari Elemental Mastery Sucrose selama 8 detik.
+Astable Invention
+Saat Sucrose membuat Material Penguatan Senjata dan Karakter, memiliki 10% kemungkinan untuk mendapatkan hasil 2 kali lipat.

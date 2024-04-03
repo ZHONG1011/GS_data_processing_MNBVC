@@ -1,0 +1,13 @@
+Épée rituelle
+Une épée ornementale qui a été pétrifiée par le temps, dont on peut encore distinguer les décorations. Avec elle, son manieur sera capable d'affronter l'épreuve du temps.
+ Le peuple des hautes falaises faisant face à la mer orientale vénérait jadis le Maître du Temps et l'Archon Anémo. Les deux divinités sont souvent confondues ; comme le dit le proverbe, « Le vent apporte les histoires que le temps cultive. » Cette épée raconte une histoire de protection et du courage de l'exercer ; rien de plus autrefois qu'un ustensile émoussé, elle est devenue une lame au fil tranchant avec le passage du temps.  Cette épée appartenait autrefois au Clan Gunnhildr. Ses membres avaient pour habitude lors des rituels de tenir une représentation symbolique de la défense de Mondstadt.  La cérémonie dédiée aux vents du temps se déroulait en trois parties. Le dernier acte narrait la vie, la protection et la liberté.  Les détails de cette cérémonie sont aujourd'hui tombés dans le puits de l'histoire ; mais à ce jour le Clan Gunnhildr continue de défendre la cité. 
+Sang-froid
+Les compétences élémentaires ont <color=#99FFFFFF>40 %</color> de chances de réinitialiser leur propre TdR lorsqu'elles infligent des DGT. Cet effet peut être déclenché une fois toutes les <color=#99FFFFFF>30</color> s.
+Sang-froid
+Les compétences élémentaires ont <color=#99FFFFFF>50 %</color> de chances de réinitialiser leur propre TdR lorsqu'elles infligent des DGT. Cet effet peut être déclenché une fois toutes les <color=#99FFFFFF>26</color> s.
+Sang-froid
+Les compétences élémentaires ont <color=#99FFFFFF>60 %</color> de chances de réinitialiser leur propre TdR lorsqu'elles infligent des DGT. Cet effet peut être déclenché une fois toutes les <color=#99FFFFFF>22</color> s.
+Sang-froid
+Les compétences élémentaires ont <color=#99FFFFFF>70 %</color> de chances de réinitialiser leur propre TdR lorsqu'elles infligent des DGT. Cet effet peut être déclenché une fois toutes les <color=#99FFFFFF>19</color> s.
+Sang-froid
+Les compétences élémentaires ont <color=#99FFFFFF>80 %</color> de chances de réinitialiser leur propre TdR lorsqu'elles infligent des DGT. Cet effet peut être déclenché une fois toutes les <color=#99FFFFFF>16</color> s.

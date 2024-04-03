@@ -1,0 +1,12 @@
+Bombardement continu
+Les attaques et compétences ont une chance de générer des étincelles qui bombardent les ennemis, infligeant 120 % des DGT de <color=#FFD780FF>Fleur bombardier</color>.
+Éclats de bombe
+Les mines de <color=#FFD780FF>Bombe rebondissante</color> réduisent la DÉF des ennemis de 23 % pendant 10 s.
+Réglage spécial de Klee
+Niveau d'aptitude <color=#FFD780FF>Bombe rebondissante</color> +3. Niveau max : 15
+Tout est prêt
+Une explosion se produit lorsque Klee quitte le champ de bataille tant que <color=#FFD780FF>Fleur bombardier</color> est active. Cette explosion inflige 555 % de l'ATQ en <color=#FF9999FF>DGT Pyro de zone</color>.
+Bombardement d'étoiles
+Niveau d'aptitude <color=#FFD780FF>Fleur bombardier</color> +3. Niveau max : 15
+À tout feu
+Klee restaure 3 pts d'énergie élémentaire à tous les membres de l'équipe (hormis Klee) toutes les 3 s tant que <color=#FFD780FF>Fleur bombardier</color> est active. L'activation de <color=#FFD780FF>Fleur bombardier</color> confère un bonus de <color=#FF9999FF>DGT Pyro</color> de 10 % pendant 25 s à tous les membres de l'équipe.

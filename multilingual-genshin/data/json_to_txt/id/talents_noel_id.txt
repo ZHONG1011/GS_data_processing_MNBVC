@@ -1,0 +1,12 @@
+Normal Attack: Favonius Bladework - Maid
+<color=#FFD780FF>Normal Attack</color> Melancarkan hingga 4 tebasan berturut-turut.  <color=#FFD780FF>Charged Attack</color> Terus menguras Stamina untuk melancarkan serangan berputar yang mengakibatkan DMG ke musuh di sekitar. Diakhiri dengan sebuah tebasan yang kuat.  <color=#FFD780FF>Plunging Attack</color> Menerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.
+Breastplate
+Menciptakan zirah batu yang mengakibatkan <color=#FFE699FF>Geo DMG</color> pada musuh di sekitar dan membentuk perisai. DMG yang ditahan perisai berdasarkan DEF Noelle. Perisainya memiliki ciri-ciri berikut: ·Saat Normal dan Charged Attack Noelle mengenai target, berkemungkinan memulihkan HP untuk semua karakter. ·Memiliki 150% Efisiensi Penahanan DMG terhadap semua Elemental dan Physical DMG.  Jumlah HP yang dipulihkan meningkat berdasarkan DEF Noelle.  <i>Noelle adalah seorang pelayan yang sangat sigap, dan juga seorang Knight yang sangat gagah.</i>
+Sweeping Time
+Mengumpulkan kekuatan Geo di sekitar senjatanya, Noelle menghantam musuh di sekitarnya dengan serangan dalam area besar, mengakibatkan <color=#FFE699FF>Geo DMG</color>. Setelahnya, Noelle mendapatkan efek berikut: ·Serangan area yang lebih besar. ·Mengonversi serangan menjadi <color=#FFE699FF>Geo DMG</color>, konversi ini tidak bisa ditimpa oleh Elemental Infusion lainnya. ·Peningkatan ATK yang meningkat berdasarkan DEF dia.  <i>Terkadang, bukan hanya debu yang harus dibersihkan...</i>
+Devotion
+Saat Noelle berada dalam party, tetapi tidak sedang bertarung, skill ini akan terpicu secara otomatis ketika HP karakter yang sedang digunakan kurang dari 30%: Karakter tersebut akan mendapatkan perisai yang dapat menahan DMG sebesar 400% dari DEF Noelle selama 20 detik. Perisai ini memiliki bonus 150% efektivitas Penahanan DMG untuk semua Elemental dan Physical DMG. Efek ini dapat terpicu setiap 60 detik.
+Nice and Clean
+Saat Normal Attack atau Charged Attack Noelle mengenai musuh 4 kali, CD skill <color=#FFD780FF>Breastplate</color> akan berkurang 1 detik. Serangan Noelle dapat dihitung sebagai 1 kali setiap 0,1 detik.
+Maid's Knighthood
+Saat masakan jenis pertahanan dimasak dengan sempurna, terdapat 12% kemungkinan mendapatkan hasil 2 kali lipat.

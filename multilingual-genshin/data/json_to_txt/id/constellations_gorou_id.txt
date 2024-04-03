@@ -1,0 +1,12 @@
+Rushing Hound: Swift as the Wind
+Setelah Karakter aktif (selain Gorou sendiri) mengakibatkan Geo DMG saat berada dalam Area <color=#FFD780FF>General's War-Banner</color> atau <color=#FFD780FF>General's Glory</color> ciptaan Gorou sendiri, durasi CD <color=#FFD780FF>Inuzaka All-Round Defense</color> milik Gorou akan berkurang 2 detik. Efek ini dapat terpicu setiap 10 detik.
+Sitting Hound: Steady as a Clock
+Selama durasi <color=#FFD780FF>General's Glory</color> berlangsung, setelah Karakter aktif di sekitar memperoleh Elemental Shard dari reaksi Crystallize, maka durasi General's Glory milik Gorou sendiri akan bertambah 1 detik. Efek ini dapat terpicu setiap 0,1 detik dan durasi General's Glory dapat bertambah hingga 3 detik dengan cara ini.
+Mauling Hound: Fierce as Fire
+Meningkatkan 3 level <color=#FFD780FF>Inuzaka All-Round Defense</color>. Maksimum: Lv.15.
+Lapping Hound: Warm as Water
+Saat <color=#FFD780FF>General's Glory</color> berada dalam status "Impregnable" atau "Crunch", HP Karakter aktif yang berada di dalam area General's Glory akan dipulihkan sebesar 50% DEF Gorou sendiri setiap 1,5 detik.
+Striking Hound: Thunderous Force
+Meningkatkan 3 level <color=#FFD780FF>Juuga: Forward Unto Victory</color>. Maksimum: Lv. 15.
+Valiant Hound: Mountainous Fealty
+Dalam 12 detik setelah menggunakan <color=#FFD780FF>Inuzaka All-Round Defense</color> atau <color=#FFD780FF>Juuga: Forward Unto Victory</color>, Gorou akan meningkatkan CRIT DMG untuk <color=#FFE699FF>Geo DMG</color> milik seluruh anggota party di sekitar sesuai dengan level area Gorou saat skill ini dilancarkan: ·Standing Firm: Meningkatkan 10%. ·Impregnable: Meningkatkan 20%. ·Crunch: Meningkatkan 40%.  Efek ini tidak bisa ditumpuk, yang terhitung adalah yang terakhir kali aktif.

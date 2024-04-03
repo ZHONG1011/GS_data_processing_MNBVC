@@ -1,0 +1,13 @@
+Traveler's Handy Sword
+Pedang baja yang nyaman untuk digenggam, di dalamnya tersembunyi gunting, kaca pembesar, kayu bakar, dan berbagai kebutuhan bertualang lainnya.
+ Pedang yang andal dan seimbang terbuat dari baja halus. Satu-satunya kekurangannya adalah rancangannya yang membuatnya tidak tahan lama. Konon di bagian gagangnya ada sebuah lubang untuk memasukkan sebuah pisau kecil, gunting, sumbu dan benda lainnya. Mungkin karena itulah pedang itu dinamakan Traveler's Handy Sword, karena di dalamnya terdapat banyak barang-barang berguna bagi petualang...? 
+Journey
+Mengambil Elemental Energy Orb/Particle memulihkan <color=#99FFFFFF>1%</color> HP.
+Journey
+Mengambil Elemental Energy Orb/Particle memulihkan <color=#99FFFFFF>1.25%</color> HP.
+Journey
+Mengambil Elemental Energy Orb/Particle memulihkan <color=#99FFFFFF>1.5%</color> HP.
+Journey
+Mengambil Elemental Energy Orb/Particle memulihkan <color=#99FFFFFF>1.75%</color> HP.
+Journey
+Mengambil Elemental Energy Orb/Particle memulihkan <color=#99FFFFFF>2%</color> HP.

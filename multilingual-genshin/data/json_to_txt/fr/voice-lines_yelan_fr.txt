@@ -1,0 +1,142 @@
+Première rencontre...
+#Bonjour {M#voyageur}{F#voyageuse}. Vous pouvez m'appeler Yelan. Je pense que vous allez avoir besoin de mon aide, et, par chance, il se trouve que vous possédez des renseignements qui m'intéressent. Pour le dire autrement, soyons {M#amis}{F#amies} et entraidons-nous.
+Bavardage - Tuyau
+Une lettre de mon informateur. Hmm... La situation a encore changé, dirait-on.
+Bavardage - Congé en douce
+Bon lancer... Je vais peut-être prendre un autre jour de congé. Je finirai tout mon travail d'un coup une fois que je serai en forme.
+Bavardage - Identités
+Naviguer dans ce monde est beaucoup plus facile quand on a plusieurs identités parmi lesquelles choisir. Vous voulez que je vous en fabrique quelques-unes ?
+Quand il pleut...
+Il pleut encore ? Et mince... Si la pluie efface les traces, ça va prendre un paquet de temps pour les reconstituer...
+Quand le tonnerre gronde...
+Seuls les enfants innocents et les adultes qui manquent d'assurance ont peur du tonnerre. Mais vous n'êtes ni l'un ni l'autre... N'est-ce pas ?
+Quand il neige...
+Il fait un peu froid... Je ne peux plus porter ma veste sur mes épaules.
+Il fait bon dehors...
+Ce soleil éblouissant, c'est agaçant ! Je ne vais pas pouvoir faire de sieste à cause de ça.
+Le vent souffle fort...
+Je peux sentir un sentiment d'agitation porté par le vent... Hmm...
+Au réveil...
+Hmm... Il est si tôt ! D'habitude, je me lève à midi quand je n'ai pas de travail urgent à faire.
+À l'heure du déjeuner...
+Ah, j'ai un peu sommeil. Je vais faire une petite sieste... Pas besoin de me réveiller, je me réveille toujours naturellement quand il est l'heure de travailler.
+Le soir...
+Bonsoir ! Vous avez dîné ? Qu'avez-vous mangé ? Oh... Je vous demandais ça comme ça, n'y faites pas trop attention.
+La nuit...
+#Soyez sage, buvez votre lait et dormez. Comment ? Vous n'êtes pas {M#un enfant}{F#une enfant} ? Héhé... Bon, je le pose ici, vous pouvez le boire si vous voulez. En général, je dors après minuit. Oh, et si vous parlez en dormant, je ne peux pas vous promettre que je ne prendrai pas de notes.
+À propos de Yelan - Responsabilités
+Les Sept Étoiles connaissent Liyue comme leur poche. Mais certaines informations ne peuvent être obtenues qu'en ayant recours à des méthodes un peu spéciales. Vu que c'est mon domaine d'expertise, c'est principalement moi qui m'occupe de toutes ces tâches.
+À propos de Yelan - Rumeurs
+Certains disent que la patronne de la Maison de thé Yanshang est une jeune entrepreneuse qui s'est enrichie du jour au lendemain ; d'autres disent qu'il y aurait un employé du Bureau des affaires civiles qui, fragilisé par la maladie, vivrait en ermite en dehors de la ville ; d'autres encore disent qu'il faut rester à l'écart des zones interdites, sous peine d'être hanté par un spectre bleu... Bien évidemment, la plupart des citoyens n'ont jamais entendu le nom de Yelan auparavant. Vous pouvez donc vous rire de ces rumeurs.
+À propos de nous - Lien
+#Hmm ? Pourquoi faites-vous cette tête ? Vous n'avez pas besoin d'être si {M#méfiant}{F#méfiante} en ma présence. Je ne manigance jamais contre les personnes que j'approuve.
+À propos de nous - Trahison
+#Ne croyez pas trop aux soi-disant « paroles venues du fond du cœur », Hua le fuyant ne fait que dire ce que vous voulez entendre. Et évitez de laisser votre regard croiser celui des autres trop facilement, vos yeux en disent long sur ce que vous pensez. Dans le fond, on est {M#amis}{F#amies}, et si quelqu'un se jouait de vous, j'aurais l'impression de me faire avoir aussi.
+À propos de l'œil divin...
+Là où les renseignements importants se cachent, la mort n'est jamais très loin. Peu importe la taille de vos effectifs et leur fiabilité, il est impossible d'écarter tous les risques. Il est donc vital de disposer de suffisamment de force pour pouvoir se sortir d'une situation délicate. Je considère que j'ai de la chance : quelques jours après avoir réalisé cela, j'ai obtenu un œil divin. Sans ça, vous seriez probablement en train de parler à un fantôme en ce moment même.
+Quelque chose à partager - Silence
+Si vous polissez minutieusement des perles de loche, elles peuvent servir de bouchons pour les oreilles. Elles bloquent très bien le son : avec elles, il est possible de dormir même si quelqu'un vous crie dans les oreilles. Bien entendu, j'espère que vous n'aurez jamais besoin de vous en servir.
+Quelque chose à partager - Bracelet fascinant
+Le bracelet à ma main droite ? Je suppose qu'il n'y a pas de mal à vous en parler... Il contient la magie de notre clan, qui confère à son porteur la capacité d'envoyer des messages simples. La signification de ces messages est enfouie dans cette lumière bleue, et je suis la seule à pouvoir les déchiffrer.
+Quelque chose à partager - Traque
+Quand je traque une cible, j'aime exercer une pression psychologique sur elle. En essayant de se débarrasser de moi, elle commencera à paniquer, fera venir des renforts, changera de plan... Elle continuera ainsi jusqu'à ce qu'elle m'ait révélé tout ce que je dois savoir. Ha...
+Détails intéressants...
+Vous connaissez les Belettes voleuses ? Ce ne sont pas des créatures particulièrement intelligentes, mais une fois apprivoisées, on peut les entraîner à voler des objets et même à crocheter des serrures. Si même les animaux peuvent être utilisés comme des pions en utilisant les bonnes méthodes, qu'en est-il des hommes, qui sont constamment en train de comploter les uns contre les autres ?
+À propos de Ningguang - Lien
+J'ai fait la connaissance de Ningguang il y a longtemps, avant qu'elle ne rejoigne les Sept Étoiles, et nous avons travaillé ensemble pendant un certain temps. C'est peut-être en partie grâce à moi qu'elle est devenue une des Sept Étoiles si rapidement, qui sait ? En tout cas, c'est elle qui m'a recommandé ce travail. C'était une bonne décision, il me convient parfaitement.
+À propos de Ningguang - Attentes
+#Ningguang est une très bonne partenaire de travail. Cependant, lors de nos déplacements quotidiens à l'extérieur, je dois faire attention à mon identité. Lorsque je m'adresse à une des Sept Étoiles en tant qu'employée du Bureau des affaires civiles, je dois l'appeler « monsieur » ou «{NON_BREAK_SPACE}madame ».
+À propos de Ganyu...
+Ah, la secrétaire... Je ne pourrais jamais travailler sans m'arrêter comme elle le fait, en tout cas, certainement pas en étant si productive. Je suppose qu'être mi-Adepte doit avoir ses avantages. Imaginez pouvoir rester en forme sans avoir besoin de dormir...
+À propos de Keqing...
+Je n'aime pas vraiment les personnes qui ont leur emploi du temps chargé à bloc, car cela ne laisse aucune place à la négociation. S'il se passe quelque chose qu'elles n'ont pas prévu, leurs plans tombent à l'eau, ce qui a des répercussions non seulement sur elles-mêmes, mais aussi sur leurs collègues. Mais l'Alioth est différente. Elle procède toujours de manière très méthodique. J'ai toujours plaisir à travailler avec elle.
+À propos de Yanfei...
+J'aime beaucoup Yanfei. Notre amitié mise de côté, les informations importantes du Port de Liyue affluent constamment dans sa direction étant donné qu'elle est conseillère juridique de haut niveau. Chaque fois que je l'aide, j'obtiens toujours des pistes précieuses en retour. Par contre, sa vénération envers moi semble être un peu excessive.
+À propos de Xiao...
+Les ainés du clan disent qu'il faut avoir le plus grand respect pour le Gardien Yaksha. Il est dit que mon ancêtre qui avait perdu la raison trouvait un rare moment de répit lorsqu'il passait à côté de l'Auberge Wangshu. C'est sûrement grâce à son pouvoir exorciseur. Mais s'il arrive un jour que je doive me battre aux côtés du Dompteur de démons, ma mission passera en premier, et je ne me laisserai pas intimider par sa présence.
+À propos de Xiangling...
+Xiangling ? C'est une petite cheffe cuisinière que les gens aiment. Son choix d'ingrédients n'a rien à envier à celui du Pavillon Liuli et du Kiosque Xinyue. Je vais parfois la voir pour ses piments séchés de Jueyun. Elle ne semble pas comprendre la manière dont je les mange, et je n'ai pas le cœur à lui expliquer non plus. C'est une tradition familiale.
+À propos de Xingqiu...
+Bien sûr que je me souviens du jeune maître de la Guilde des marchands de Feiyun. J'ai souvent affaire à son clan. Qui sait, peut-être qu'un jour il deviendra lui aussi une personne talentueuse capable de voir les choses dans leur ensemble.
+À propos de Tartaglia...
+Cet Exécuteur des Fatui ? Il m'a été bénéfique sans le savoir. J'avais prévu d'enquêter sur le précédent gérant de la Maison de thé Yanshang, mais cet Exécuteur a été plus rapide que moi et est allé chez lui récupérer des dettes en utilisant la manière forte. Il a même divulgué comment ce fameux patron avait trafiqué ses comptes, ce qui a valu un séjour en prison à ce dernier. C'est grâce à cela que j'ai repris la gestion de la Maison de thé Yanshang, et c'est un endroit plus qu'idéal pour servir de base d'opérations.
+Connaître Yelan (1)
+Si je mise sur vous, c'est parce que je pense que vous avez une identité spéciale et que je crois que celle-ci pourra me guider vers de nombreuses pistes menant à la vérité. Héhé, quelles sont les nouvelles que vous m'apportez aujourd'hui ?
+Connaître Yelan (2)
+Un échange d'informations doit se faire dans les deux sens, alors je suppose que je peux vous parler de mon passé. Grâce aux relations de mon clan, j'ai pu apprendre des compétences utiles auprès d'éclaireurs des Millelithes, ce qui m'a permis de commencer ce métier à un jeune âge. Certes, une multitude d'obstacles se présentent à moi durant tout mon travail de collecte de renseignements, mais tant que je garde la vie sauve, je sors toujours vainqueur...
+Connaître Yelan (3)
+Les pistes sont comme les maillons d'une chaîne. Il faut les remonter jusqu'au point de départ pour démêler les nœuds d'une affaire. À cette fin, je dois garder les yeux et les oreilles sur tous les milieux de la société, et souvent, cela signifie devoir jouer plusieurs rôles. Les gens me décrivent parfois comme une « personne aux multiples facettes », et je prends ça comme un compliment.
+Connaître Yelan (4)
+Quelqu'un m'a un jour conseillé de faire attention à ne pas déterrer certaines choses du passé. Creusez trop profondément et vous pourriez vous retrouver dans votre propre tombe. Eh bien, je ne suis pas près de m'arrêter, et je ne m'arrêterai surtout pas à cause de ce que quelqu'un a dit. Même si je n'ai pas le pouvoir de changer la réalité de certaines choses, je refuse de rester dans le brouillard de l'ignorance. Et vous ? Que choisiriez-vous ?
+Connaître Yelan (5)
+#J'aimerais savoir quelque chose. Quand je suis en votre compagnie, quel genre de personne voulez-vous que je sois pour vous ? Quelqu'un avec qui vous travaillez ? Une rivale qui vous pousse à devenir plus {M#fort}{F#forte} ? Un nom de plus sur votre longue liste de connaissances, ou... quelqu'un de plus important que ça ? Je peux jouer le rôle ou même devenir la personne que vous espérez que je sois.
+Les loisirs de Yelan...
+Pendant mon temps libre, je mène une vie complètement aléatoire. C'est très simple : je fais une liste de choses à faire, puis je lance les dés pour choisir la prochaine tâche que je vais exécuter. C'est un jeu étonnamment amusant, qui m'a vraiment ouvert l'esprit et m'a été d'une grande aide dans mon travail.
+Les problèmes de Yelan...
+Ma forme physique n'est pas vraiment très bonne comparée à celle de certains artistes martiaux entraînés. C'est un problème dont j'ai hérité de ma famille. Donc, avant de me lancer dans un travail vraiment important, j'adapte mon emploi du temps pour m'assurer de pouvoir me reposer suffisamment. J'attends d'avoir assez d'énergie, puis je m'efforce de terminer tout ce qui doit être fait en une seule fois. En dehors du travail, je fais de mon mieux pour vivre ma vie calmement et de manière insouciante. C'est pourquoi je refuse toujours d'entreprendre des travaux physiques pénibles.
+Plats préférés...
+J'aime me préparer une bonne tasse de thé en moulant des piments de Jueyun et du muguet bleu en poudre puis en les mélangeant avec des feuilles de thé blanc Yunlai. C'est une préparation au parfum très puissant qui vous fait instantanément succomber à son charme. Je préfère les boissons de ce type au café et aux alcools, car elles ont un arrière-goût persistant.
+Plats détestés...
+Il faut être très prudent avec les sucreries. Cette puissante sensation de satisfaction... Elle affaiblit votre volonté et vous fait baisser votre garde. Il suffit de quelques bouchées pour en devenir dépendant, et avec une consommation à long terme, vos capacités s'émoussent sans que vous vous en rendiez compte.
+Cadeau reçu (1)
+Hmm, pas mal. C'est presque assez bon pour me soudoyer...
+Cadeau reçu (2)
+Une fois qu'on s'est habitué à la nourriture épicée, tout le reste est plutôt fade. C'est la vie.
+Cadeau reçu (3)
+Et si on jetait les dés ? Celui qui fait le plus petit nombre... peut le manger.
+Anniversaire...
+Il serait déplacé pour moi de vous dire de ne pas trop faire la fête aujourd'hui par peur que vous ne baissiez votre garde et que quelqu'un en profite pour vous nuire. Alors, détendez-vous autant que vous le voulez. Oh, et vous devriez passer à la Maison de thé Yanshang, j'ai préparé quelques friandises spécialement pour vous. Il n'y a rien de sucré, bien entendu, c'est juste un tout petit peu épicé.
+Affinité faible
+Les techniques de combat sont indispensables dans mon travail.
+Affinité moyenne
+Parfois, il faut frapper fort et vite au bon moment pour révéler les mensonges, tout en évitant les interférences indésirables.
+Affinité élevée
+Trouver la vérité est moins simple que ça en a l'air : il faut de la persévérance pour suivre ses pistes sans relâche sur une longue durée, et de la force pour s'enfoncer dans des territoires dangereux.
+Affinité max
+#Je vous considère depuis longtemps comme {M#mon informateur le plus important}{F#mon informatrice la plus importante}. Naturellement, je dois être pleinement préparée à faire face aux périls qu'impliquera la réponse finale que vous m'apporterez. Bon, allons la chercher !
+Compétence élémentaire (1)
+Attrapé !
+Compétence élémentaire (2)
+Je vous tiens !
+Compétence élémentaire (3)
+Gardez le silence.
+Déchaînement élémentaire (1)
+La partie est terminée, fini de s'amuser !
+Déchaînement élémentaire (2)
+Tous les fils s'entrecroisent ici.
+Déchaînement élémentaire (3)
+Les dés sont jetés.
+Début de sprint (1)
+Pas de hâte.
+Ouverture de coffre (1)
+Tout argent gagné doit être utilisé convenablement.
+Ouverture de coffre (2)
+Un trésor... Il pourra servir à appâter les cibles hors de leurs cachettes.
+Ouverture de coffre (3)
+Un coffre rempli d'objets de valeur... Voilà une mine d'or d'indices potentiels.
+PV faibles (1)
+C'est décevant...
+PV faibles (2)
+Bâcler le travail n'était pas une bonne idée...
+PV faibles (3)
+Je n'avais pas pris ce facteur en compte...
+Compagnon avec PV faibles (1)
+Partez, je vais finir le travail.
+Compagnon avec PV faibles (2)
+Vous êtes dans une impasse, permettez-moi de vous aider.
+K.O. (1)
+À quelle étape... ai-je commis une erreur ?
+K.O. (2)
+Comment ai-je pu... commettre une telle négligence...
+K.O. (3)
+La vérité... n'a toujours pas fait surface...
+Attaque légère subie (1)
+Quelle audace.
+Attaque puissante subie (1)
+Non...
+Ajout dans l'équipe (1)
+Qui est la cible, cette fois-ci ?
+Ajout dans l'équipe (2)
+Il est l'heure de passer un coup de filet.
+Ajout dans l'équipe (3)
+Allons nous renseigner auprès des gens.

@@ -1,0 +1,12 @@
+Ataque Normal: Espada templada
+<color=#FFD780FF>Ataque Normal</color> Realiza hasta 4 tajos de espada consecutivos.  <color=#FFD780FF>Ataque Cargado</color> Consume Aguante de manera constante para realizar golpes de espada continuos. Cuando termina el Ataque Cargado, hará un movimiento final de dos cortes más poderosos.  <color=#FFD780FF>Ataque Descendente</color> Se lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.
+Filo ardiente
+Da un golpe de espada hacia el frente que inflige <color=#FF9999FF>Daño Pyro</color>.  Esta habilidad puede utilizarse 3 veces consecutivas, pero entrará en TdE si no se activa tras un breve periodo de tiempo.  <i>Los tres golpes de espada representan los valores de Diluc: la justicia, el valor y el deber.</i>
+Amanecer
+Unas llamas emergen de la espada de Diluc, las cuales derriban a los enemigos cercanos e infligen <color=#FF9999FF>Daño Pyro</color>. Las llamas convergen en la espada, invocando un fénix que vuela hacia adelante e infligiendo <color=#FF9999FF>Daño Pyro</color> a todos los enemigos en su camino. El fénix explota al llegar a su destino, infligiendo una cantidad significativa de <color=#FF9999FF>Daño Pyro en el AdE</color>. Las llamas que quedan en el arma de Diluc la <color=#FF9999FF>imbuyen del elemento Pyro</color>.  <i>La única razón para caminar en la oscuridad es iluminarla. Hela aquí, la luz fugitiva en la oscuridad de la noche, heraldo del próximo amanecer.</i>
+Implacable
+Reduce en un 50% el Coste de Aguante del Ataque Cargado de Diluc, y aumenta en 3 s su duración.
+Bendición del fénix
+El <color=#FF9999FF>elemento Pyro imbuido</color> mediante <color=#FFD780FF>Amanecer</color> se extiende 4 s más. Además, Diluc gana un 20% de <color=#FF9999FF>Bono de Daño Pyro</color> durante la duración de este efecto.
+Tradición del Caballero del Amanecer
+Recupera el 15% de los minerales utilizados en la fabricación de mandobles.

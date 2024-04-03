@@ -1,0 +1,12 @@
+Guide du pécheur
+Lorsque les attaques de Rosalia infligent un coup CRIT, sa VIT d'attaque et les DGT des attaques normales augmentent de 10 % pendant 4 s.
+Terre sacrée
+Prolonge la durée de la lance de glace de <color=#FFD780FF>Sacrement mortel</color> de 4 s.
+Rite de confession
+Niveau d'aptitude <color=#FFD780FF>Confession des péchés</color> +3. Niveau max : 15
+Souffrance bénie
+Rosalia récupère 5 pts d'énergie élémentaire lorsque <color=#FFD780FF>Confession des péchés</color> inflige un coup CRIT. Cet effet ne peut être déclenché qu'une fois par Confession des péchés.
+Prière agonisante
+Niveau d'aptitude <color=#FFD780FF>Sacrement mortel</color> +3. Niveau max : 15
+Châtiment divin
+Les attaques de <color=#FFD780FF>Sacrement mortel</color> réduisent la RÉS physique des ennemis de 20 % pendant 10 s.

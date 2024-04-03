@@ -1,0 +1,132 @@
+Halo
+Harum tubuhmu... wangi ya. Ayo kita berburu bersama!
+Berbincang: Aroma
+Umm, ada bau kelinci...
+Berbincang: Kelaparan
+Ayo kita cari makan, aku lapar.
+Berbincang: Memandang Angin
+Aku akan berjaga di sini, panggil aku kalau kamu sudah siap pergi.
+Ketika Petir Menyambar: Peringatan
+Kalau takut cepatlah bersembunyi.
+Ketika Petir Menyambar: Panduan
+Tinggalkan pohon itu, ayo cepat ikuti aku!
+Waktu Angin Bertiup
+Nyamannya embusan angin ini ....
+Ketika Angin Berembus
+Angin... *wush* agak menyakitkan.
+Selamat Pagi
+Matahari sudah terbit. Ayo kita berburu bersama?
+Selamat Siang
+Yey! Makan daging yang besar! Senangnya~
+Selamat Malam
+Kamu tidur dulu saja, aku masih mau memandangi bulan.
+Selamat Tidur
+Tidurlah dulu, biar aku yang berjaga-jaga. Besok kita berburu bersama .
+Tentang Razor sendiri
+Aku adalah serigala. Manusia punya ayah dan ibu, sedangkan aku tidak punya.
+Tentang Kita: Teman
+Kamu adalah temanku. Ayo kita pergi berburu bersama!
+Tentang Kita: Senjata
+Aku punya cakar baja dan gigi petir. Aku akan melindungimu.
+Tentang Vision
+Vision bantu Razor. Bertarung dengan gigi petir! Lindungi Lupical!
+Berbagi Cerita
+Bintang-bintang di malam hari sangatlah indah. Di langit maupun di danau semuanya terdapat bintang.  Malam hari di dalam kota pun terdapat banyak bintang.
+Kisah Menarik
+Serigala "Lupical" milikku. Mereka adalah keluarga.
+Tentang Lisa
+Petir yang guru miliki bisa mengubah langit menjadi hitam. Kekuatan itu sangat menakutkan!
+Tentang Barbara
+Barbara, seorang anak perempuan yang manis dan sangat baik.
+Tentang Diluc
+Diluc, merah dan hitam. Orangnya dingin sekaligus panas.
+Tentang Venti
+Puisi... hmm, tidak mengerti. Meskipun tidak mengerti, "Lupical" suka.
+Tentang Bennett
+Bennett, orangnya banyak bicara. Kalau sedang bersamanya, tidak akan pernah kenyang.
+Tentang Klee
+Klee, teman! Teman, tapi, sakit kepala.
+Tentang Varka: Tak mengenal
+Varka? Aku tidak kenal...
+Tentang Varka: Kenangan
+Oh... Varka, itu nama orang. Laki-laki itu tinggi dan besar. Nama Razor, cakar baja, dia yang memberikannya. Wow... Aku ingin bertemu dengannya.
+Mengenal Razor: I
+Aromamu adalah aroma kebaikan. Apa kamu makan daging?
+Mengenal Razor: II
+Kamu sangat kuat seperti seekor serigala. Aku suka berburu denganmu karena hasilnya pasti selalu banyak.
+Mengenal Razor: III
+Lupical adalah "keluarga serigala". Hmm... bukan, maksudku adalah "keluarganya serigala". Lupical milikku ada di dalam hutan. Mereka melindungiku, mereka menganggapku keluarganya.
+Mengenal Razor: IV
+Aku hanya punya Lupical.  Tetapi, walaupun aku Lupical namun aku tidak memiliki 4 kaki, karena aku bukan serigala asli. Terkadang aku sedih karena hal ini.
+Mengenal Razor: V
+Aku senang ketika berlari dan berburu bersamamu. Ketika bersamamu, aku tidak peduli apakah aku serigala ataukah manusia.  Kamu adalah temanku, kamu adalah "Lupical" milikku. Aku ingin kamu juga senang.
+Hobi Razor
+Suka Lupical. Suka hutan. Suka teman. Suka berlari.
+Kekhawatiran Razor
+Berbicara itu susah dan melelahkan. Tapi tidak mungkin juga aku tidak berbicara, kan.
+Makanan Favorit
+Suka daging. Suka kentang.
+Makanan yang tidak kamu suka
+Sayuran tidak baik. Hewan memakan makanan hijau. Lalu aku makan hewan.
+Menerima Hadiah: I
+Wangi, enak, aku suka.
+Menerima Hadiah: II
+Makan, tambah tenaga. Senang.
+Menerima Hadiah: III
+Makan, salah. Tidak makan, salah juga. Sedih.
+Ulang Tahun
+Hari ini adalah hari... hari di mana berbulan-bulan yang lalu, kamu lahir. Aku ingin bersenang-senang bersamamu. Ayo kita makan daging hari ini.
+Perasaan Tentang Ascension: Permulaan
+Lengannya, menebalkah?
+Perasaan Tentang Ascension: Persiapan
+Asah cakar dan gigimu, jadilah lebih kuat!
+Perasaan Tentang Ascension: Klimaks
+Lari, berburu. Tidak cukup, tidak bisa! Aku harus... harus menjadi kuat.
+Perasaan Tentang Ascension: Konklusi
+Gigi, cakar, kaki. Harus jadi kuat... untuk melindungimu!
+Elemental Skill: I
+Enyah!
+Elemental Skill: II
+Ah!
+Elemental Skill: III
+Ow!
+Elemental Skill: IV
+Jangan mendekat!
+Elemental Burst: I
+Raaarrr!
+Elemental Burst: II
+Blitz!
+Elemental Burst: III
+*menggeram*
+Elemental Burst: IV
+Raar!
+Membuka Peti Harta: I
+Yang begini ... berguna?
+Membuka Peti Harta: II
+Peti kosong ... simpan barang.
+Membuka Peti Harta: III
+Bau harta karun ... aneh.
+HP Rendah: I
+Argh!
+HP Rendah: II
+Raaarrr!
+HP Rendah: III
+Kubunuh kamu!
+HP Rekan Rendah: I
+Tidak!
+HP Rekan Rendah: II
+Bangun!
+Gugur: I
+Tidak bisa... napas...
+Gugur: II
+Bawa aku pulang...
+Gugur: III
+Lupical... Lupical-ku...
+Menerima Serangan Hebat: I
+Aku merasakan darah...
+Bergabung ke Party: I
+Aku akan mengintai ke depan.
+Bergabung ke Party: II
+Akhirnya pergi berburu!
+Bergabung ke Party: III
+Aku akan menjagamu dari belakang.

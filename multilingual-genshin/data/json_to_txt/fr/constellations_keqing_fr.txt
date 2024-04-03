@@ -1,0 +1,12 @@
+Force foudroyante
+Lorsque Keqing libère de nouveau <color=#FFD780FF>Retour des étoiles</color> lorsqu'une Lame de foudre est active, elle inflige des <color=#FFACFFFF>DGT Électro de zone</color> équivalant à 50 % de son ATQ aux endroits où elle disparaît puis réapparaît.
+Taxation sévère
+Les attaques normales et chargées de Keqing touchant un ennemi affecté par l'élément <color=#FFACFFFF>Électro</color> ont 50 % de chances de générer une particule élémentaire. Cet effet peut être déclenché une fois toutes les 5 s.
+Formation anticipée
+Niveau d'aptitude <color=#FFD780FF>Promenade céleste</color> +3. Niveau max : 15
+Syntonie
+Lorsque Keqing déclenche une <color=#FFACFFFF>réaction liée à l'élément Électro</color>, son ATQ augmente de 25 % pendant 10 s.
+Lueur mouvante
+Niveau d'aptitude <color=#FFD780FF>Retour des étoiles</color> +3. Niveau max : 15
+Étoile tenace
+Les attaques normales, attaques chargées, compétences élémentaires et déchaînements élémentaires de Keqing lui confèrent un <color=#FFACFFFF>bonus de DGT Électro</color> de 6 % pendant 8 s. Les effets des attaques normales et chargées et des compétences et déchaînements élémentaires sont comptabilisés indépendamment les uns des autres.

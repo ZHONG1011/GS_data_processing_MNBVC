@@ -1,0 +1,13 @@
+Lance-pierres
+C'est bien un arc ! Après de nombreuses modifications et améliorations, l'inventeur du lance-pierres ultime s'est finalement retrouvé avec un arc.
+ Un homme cherchant à améliorer la portée et la précision de son lance-pierre fit un jour la découverte suivante : Augmenter la puissance en vue d'améliorer la portée se fait au détriment de la précision. Il remplaça donc ses pierres par des tiges de bois fines, complétées chacune d'une plume par souci d'aérodynamisme. Mais il lui fallut alors modifier le design de l'arme ; aussi remplaça-t-il l'armature trop faible pour supporter la pression voulue par une structure en bois courbé, plus résistante à la tension de l'élastique, qu'il remplaça par une corde. Puis, regardant son œuvre, il réalisa qu'il venait de fabriquer un arc. 
+Lance-pierres
+Les DGT infligés par les flèches des attaques normales et chargées infligent <color=#99FFFFFF>36 %</color> de DGT supplémentaires lorsqu'elles touchent dans les 0,3 s après le tir. Dans le cas contraire, elles infligent 10 % de DGT en moins.
+Lance-pierres
+Les DGT infligés par les flèches des attaques normales et chargées infligent <color=#99FFFFFF>42 %</color> de DGT supplémentaires lorsqu'elles touchent dans les 0,3 s après le tir. Dans le cas contraire, elles infligent 10 % de DGT en moins.
+Lance-pierres
+Les DGT infligés par les flèches des attaques normales et chargées infligent <color=#99FFFFFF>48 %</color> de DGT supplémentaires lorsqu'elles touchent dans les 0,3 s après le tir. Dans le cas contraire, elles infligent 10 % de DGT en moins.
+Lance-pierres
+Les DGT infligés par les flèches des attaques normales et chargées infligent <color=#99FFFFFF>54 %</color> de DGT supplémentaires lorsqu'elles touchent dans les 0,3 s après le tir. Dans le cas contraire, elles infligent 10 % de DGT en moins.
+Lance-pierres
+Les DGT infligés par les flèches des attaques normales et chargées infligent <color=#99FFFFFF>60 %</color> de DGT supplémentaires lorsqu'elles touchent dans les 0,3 s après le tir. Dans le cas contraire, elles infligent 10 % de DGT en moins.

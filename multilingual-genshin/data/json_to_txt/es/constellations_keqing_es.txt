@@ -1,0 +1,12 @@
+Fuerza atronadora
+Usar <color=#FFD780FF>Retorno estelar</color> mientras está presente una cuña relámpago hace que Keching inflija un 50% de su ATQ como <color=#FFACFFFF>Daño Electro en el AdE</color> en el punto de inicio y de reaparición.
+Impuestos desorbitantes
+Cuando los Ataques Normales y Cargados de Keching golpean a enemigos afectados por <color=#FFACFFFF>Electro</color>, hay una probabilidad del 50% de crear una partícula elemental. Este efecto solo puede ocurrir una vez cada 5 s.
+Reforma anticipada
+Aumenta el nivel de habilidad de <color=#FFD780FF>Paseo celestial</color> +3. Puede ser aumentado hasta Niv. 15.
+Sintonización
+Cuando Keching causa una <color=#FFACFFFF>Reacción Elemental con Electro</color>, su ATQ aumenta en un 25% durante 10 s.
+Luces viajeras
+Aumenta el nivel de habilidad de <color=#FFD780FF>Retorno estelar</color> +3. Puede ser aumentado hasta Niv. 15.
+Estrella tenaz
+Al hacer un Ataque Normal, un Ataque Cargado, una Habilidad Elemental o una Habilidad Definitiva, Keching obtiene un 6% de <color=#FFACFFFF>Bono de Daño Electro</color> durante 8 s. Los efectos activados por Ataques Normales, Ataques Cargados, Habilidades Elementales y Habilidades Definitivas serán independientes unos de otros.

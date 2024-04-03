@@ -1,0 +1,12 @@
+Normal Attack: Sharpshooter
+<color=#FFD780FF>Normal Attack</color> Melancarkan hingga 5 serangan berturut-turut menggunakan busur.  <color=#FFD780FF>Charged Attack</color> Melancarkan sebuah <color=#FFD780FF>Serangan Membidik</color> yang lebih akurat untuk mengakibatkan DMG lebih besar. Saat membidik, api akan berkumpul di ujung anak panah. Panah dengan api yang terkumpul penuh akan mengakibatkan <color=#FF9999FF>Pyro DMG</color>.  <color=#FFD780FF>Plunging Attack</color> Melancarkan hujan panah dari udara dan menerjang tanah dengan kecepatan tinggi, mengakibatkan DMG area saat mendarat.
+Explosive Puppet
+Serahkan kepada Baron Bunny yang selalu dapat diandalkan.  <color=#FFD780FF>Baron Bunny</color> ·Terus mengejek musuh untuk mengalihkan serangan mereka. ·HP Baron Bunny mewarisi Max HP Amber berdasarkan persentase tertentu. ·Saat meledak atau saat durasi skill habis, Baron Bunny meledak dan mengakibatkan <color=#FF9999FF>Pyro DMG area</color>.  <color=#FFD780FF>Tahan</color> Atur arah lemparan Baron Bunny. Semakin lama tombolnya ditahan, semakin jauh lemparannya.  <i>Baron Bunny datang dari keluarga dengan garis keturunan yang sangat panjang, tapi Amber sudah berhenti menghitungnya sejak Baron Bunny ke-893.</i>
+Fiery Rain
+Menembakkan hujan panah yang mengakibatkan <color=#FF9999FF>Pyro DMG area</color>.  <i>Semangat Amber benar-benar membara.</i>
+Every Arrow Finds Its Target
+Meningkatkan 10% CRIT Rate skill<color=#FFD780FF>Fiery Rain</color> dan memperluas area skill tersebut sebesar 30%.
+Precise Shot
+Meningkatkan 15% ATK selama 10 detik saat Serangan Membidik mengenai titik lemah musuh.
+Gliding Champion
+Mengurangi 20% konsumsi Stamina Karakter sendiri saat terbang. Efek tidak dapat ditumpuk dengan Talenta Pasif lain yang memiliki efek yang sama.

@@ -1,0 +1,12 @@
+Cerise givrée
+Les attaques normales et chargées d'Ayaka ont 50 % de chances de réduire le TdR d'<color=#FFD780FF>École Kamisato : Fleur de glace</color> de 0,3 s lorsqu'elles infligent des <color=#99FFFFFF>DGT Cryo</color> aux ennemis. Cet effet peut être déclenché une fois toutes les 0,1 s.
+Lame de blizzard Seki
+Deux petits tourbillons givrés supplémentaires sont libérés à l'activation d'<color=#FFD780FF>École Kamisato : Givre mortel</color> ; chacun inflige 20 % des DGT du tourbillon d'origine.
+Confettis de fleuraison givrée
+Niveau de compétence <color=#FFD780FF>École Kamisato : Givre mortel</color> +3. Niveau max : 15
+Retour prééminent
+La DÉF des ennemis subissant les DGT infligés par le tourbillon givré d'<color=#FFD780FF>École Kamisato : Givre mortel</color> est réduite de 30 % pendant 6 s.
+Lune entre les nuages
+Niveau de compétence <color=#FFD780FF>École Kamisato : Fleur de glace</color> +3. Niveau max : 15
+Danse de la lune
+Kamisato Ayaka s'illumine d'une gracieuseté gelée toutes les 10 s, augmentant les DGT infligés par son attaque chargée de 298 %. Cet effet s'annule 0,5 s après que l'attaque chargée d'Ayaka touche un ennemi, puis le chronomètre de cette capacité démarre.

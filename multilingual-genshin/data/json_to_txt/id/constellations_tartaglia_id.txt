@@ -1,0 +1,12 @@
+Foul Legacy: Tide Withholder
+Mengurangi 20% CD <color=#FFD780FF>Foul Legacy: Raging Tide</color>.
+Foul Legacy: Understream
+Saat musuh yang terkena efek Riptide dikalahkan, Tartaglia memulihkan 4 Energy.
+Abyssal Mayhem: Vortex of Turmoil
+Meningkatkan 3 level <color=#FFD780FF>Foul Legacy: Raging Tide</color>. Maksimum: Lv. 15.
+Abyssal Mayhem: Hydrospout
+Bila ada musuh yang terkena efek Riptide milik Tartaglia dan Tartaglia sedang menggunakan mode jarak dekat dari <color=#FFD780FF>Foul Legacy: Raging Tide</color>, maka Tartaglia akan memicu Riptide Slash setiap 4 detik; bila tidak, akan memicu Riptide Flash. Riptide Slash dan Riptide Flash yang terpicu dari Konstelasi ini tidak dibatasi oleh jeda waktu masing-masing skill, juga tidak memengaruhi jeda waktu masing-masing skill.
+Havoc: Formless Blade
+Meningkatkan 3 level <color=#FFD780FF>Havoc - Obliteration</color>. Maksimum: Lv. 15.
+Havoc: Annihilation
+Saat <color=#FFD780FF>Havoc: Obliteration</color> dilancarkan dalam keadaan mode jarak dekat, maka CD dari <color=#FFD780FF>Foul Legacy: Raging Tide</color> akan direset. Efek ini hanya akan terjadi begitu Tartaglia kembali ke mode jarak jauh.

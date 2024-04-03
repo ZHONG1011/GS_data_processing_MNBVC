@@ -1,0 +1,4 @@
+Espada Egregia de Isshin
+Una espada demoniaca envuelta en una ominosa niebla púrpura. Su aura maligna y su animosidad están algo debilitadas.
+Espadachín errante
+Al golpear a un enemigo con un Ataque Normal, Cargado o Descendente, se libera un espíritu maldito que inflige un Daño en el AdE equivalente al 180% del ATQ y regenera una cantidad de Vida equivalente al 100% del ATQ. Este efecto solo se puede activar una vez cada 8 s. El daño que inflige el personaje que lleva esta arma equipada se reduce en un 50%.

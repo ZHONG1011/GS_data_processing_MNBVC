@@ -1,0 +1,12 @@
+Additional Investment
+Jumlah After Sales Service Round yang diciptakan dari <color=#FFD780FF>Troubleshooter Shot</color> bertambah 1.
+Special Franchise
+Saat berada dalam status pertempuran, saat <color=#FFD780FF>Jinni</color> memulihkan HP Karakter yang terhubung, maka akan menembakkan Jinni Toop dari posisi berdiri Karakter tersebut dan mengakibatkan DMG setara dengan 50% dari ATK Dori.
+Wonders Never Cease
+Meningkatkan 3 level <color=#FFD780FF>Alcazarzaray's Exactitude</color>. Maksimum: Lv. 15.
+Discretionary Supplement
+Karakter yang terhubung dengan <color=#FFD780FF>Jinni</color> akan mendapatkan buff berikut berdasarkan HP dan Energy sekarang: ·Meningkatkan 50% Bonus Pemulihan saat HP kurang dari 50%; ·Meningkatkan 30% Energy Recharge saat Energy kurang dari 50%.
+Value for Mora
+Meningkatkan 3 level <color=#FFD780FF>Spirit-Warding Lamp: Troubleshooter Cannon</color>. Maksimum: Lv. 15.
+Sprinkling Weight
+3 detik setelah melancarkan <color=#FFD780FF>Spirit-Warding Lamp: Troubleshooter Cannon</color>, Dori akan mendapatkan efek berikut: ·<color=#FFACFFFF>Electro Infusion</color>; Saat Normal Attack mengenai musuh, memulihkan HP kepada seluruh anggota party di sekitar sebesar 4% Max HP Dori. Pemulihan HP dengan cara ini bisa terjadi setiap 0.1 detik sekali.

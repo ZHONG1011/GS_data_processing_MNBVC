@@ -1,0 +1,13 @@
+Garrote del Debate
+Una práctica vara hecha de acero fino. Es la base de la “convicción racional”.
+ Un objeto muy útil para ganar en una discusión acalorada. Hace que las palabras de su portador tengan peso. Puede usarse en cualquier discusión para que el adversario atienda a razones. Al fin y al cabo, nadie puede resistirse a la elocuencia. Sin embargo, finalmente, se ordenó que esta arma dejara de producirse por la cantidad de protestas a las que daba lugar. Fue un “todos contra uno” en toda regla. 
+Conclusión contundente
+Después de usar una Habilidad Elemental, los Ataques Normales o Cargados infligirán un daño de ATQ adicional del <color=#99FFFFFF>60%</color> en una pequeña AdE. Este efecto dura 15 s y solo puede ocurrir una vez cada 3 s.
+Conclusión contundente
+Después de usar una Habilidad Elemental, los Ataques Normales o Cargados infligirán un daño de ATQ adicional del <color=#99FFFFFF>75%</color> en una pequeña AdE. Este efecto dura 15 s y solo puede ocurrir una vez cada 3 s.
+Conclusión contundente
+Después de usar una Habilidad Elemental, los Ataques Normales o Cargados infligirán un daño de ATQ adicional del <color=#99FFFFFF>90%</color> en una pequeña AdE. Este efecto dura 15 s y solo puede ocurrir una vez cada 3 s.
+Conclusión contundente
+Después de usar una Habilidad Elemental, los Ataques Normales o Cargados infligirán un daño de ATQ adicional del <color=#99FFFFFF>105%</color> en una pequeña AdE. Este efecto dura 15 s y solo puede ocurrir una vez cada 3 s.
+Conclusión contundente
+Después de usar una Habilidad Elemental, los Ataques Normales o Cargados infligirán un daño de ATQ adicional del <color=#99FFFFFF>120%</color> en una pequeña AdE. Este efecto dura 15 s y solo puede ocurrir una vez cada 3 s.

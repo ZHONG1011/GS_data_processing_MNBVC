@@ -1,0 +1,12 @@
+Dew-Drinker
+Mengurangi 15% <color=#99FFFFFF>Cryo RES</color> musuh yang terkena Frostflake Arrow Charge Tahap 2 atau Frostflake Arrow Bloom selama 6 detik. Serangan ini juga akan memulihkan 2 Energy Ganyu. Efek pemulihan Energy terpicu maksimum 1 kali dalam 1 serangan, tak peduli musuh terkena Frostflake Arrow Charge Tahap 2 atau ledakan Frostflake Arrow Bloom.
+The Auspicious
+Meningkatkan 1 charge <color=#FFD780FF>Trail of the Qilin</color>.
+Cloud-Strider
+Meningkatkan 3 level <color=#FFD780FF>Celestial Shower</color>. Maksimum: Lv. 15.
+Westward Sojourn
+Meningkatkan DMG yang diterima musuh saat mereka berada di dalam area <color=#FFD780FF>Celestial Shower</color>. Semakin lama musuh berada di dalam area, semakin besar efek peningkatan DMG. Peningkatan DMG mula-mula 5%, dan meningkat 5% setiap 3 detik, peningkatan DMG maksimum: 25%. Efek ini bertahan selama 3 detik setelah musuh meninggalkan area.
+The Merciful
+Meningkatkan 3 level <color=#FFD780FF>Trail of the Qilin</color>. Maksimum: Lv. 15.
+The Clement
+Menggunakan <color=#FFD780FF>Trail of the Qilin</color> akan menyebabkan Frostflake Arrow yang ditembakkan dalam waktu 30 detik ke depan tidak memerlukan Charge.

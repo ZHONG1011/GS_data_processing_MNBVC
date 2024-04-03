@@ -1,0 +1,18 @@
+Cœur du Gardien
+Augmente la DÉF de 30 %.
+Pour chaque personnage de l'équipe ayant un élément de type différent du personnage équipé, la RÉS élémentaire correspondante est augmentée de 30 %.
+Fleur du Gardien
+Un iris chéri par le Protecteur. Il n'a pas eu l'occasion de l'offrir à la personne qu'il aimait.
+ Seule la douce voix d'une certaine demoiselle pouvait apaiser sa personne.  Hélas, leur histoire fut brève. Le chevalier se vida de son sang, et la jeune fille, de ses larmes. 
+Plume du Gardien
+Une broche en forme de plume qui symbolise l'envie de protéger.
+ L'emblème en forme de bouclier gravé sur cette plume brille sous la lumière pâle de lune. Il fut un temps où cette lumière inspirait la terreur dans les cœurs des scélérats.  Le Protecteur possédait un titre prestigieux de chevalier, mais à la tombée de la nuit, il dissimulait son emblème et son visage. Rien ne l'empêchait alors de faire ce qu'il devait faire ; des actions qui ne pouvaient pas être effectuées par un noble chevalier. 
+Horloge du Gardien
+Un petit appareil qui affiche l'heure. C'est la seule façon de voir le temps passer lors des nuits sans lune.
+ Le bruit des aiguilles de l'horloge et la lueur de la chandelle l'accompagnaient sa lecture des rapports d'incidents. Son épée et son grand manteau noir étaient ses plus précieuses possessions. Le Protecteur solitaire n'avait que son ombre pour le suivre lorsqu'il voyageait. Peu importe sa destination, le temps ne lui suffisait jamais. Son supérieur hiérarchique, insouciant et fier, se moquait de sa nature brusque de son visage inexpressif et de son aversion pour les plaisirs de la vie.  Cependant, le Protecteur n'avait cure de ces railleries du passé. Le présent et l'avenir étaient ce qui lui importaient. Ce n'était qu'en éradiquant toute trace de mal par tous les moyens qu'il pouvait s'assurer que son ami puisse avoir un avenir paisible.  Ce n'était qu'en regardant cette demoiselle sur la place qu'il avait le temps de réfléchir aux choses qu'il s'était interdites.  Parmi lesquelles figurait son propre avenir...
+Coupe du Gardien
+Un récipient en métal qui contient souvent une boisson pour aider le Protecteur à se sentir moins seul pendant qu'il monte la garde.
+ Une coupe en or ordinaire. Sa seule particularité, s'il fallait en évoquer une,  était qu'elle n'avait jamais été touchée par une goutte de vin.  « Allez, essaie de boire un peu pour voir. » Ainsi plaisantait le supérieur hiérarchique du Protecteur. « Arrête de faire la tête ! Buvons et chantons à tue-tête ! » « C'est comme ça qu'on a le courage d'affronter le lendemain ! » 
+Bandeau du Gardien
+Un objet en tissu de couleur indigo qui peut aussi servir de bandage en cas d'urgence.
+ Selon lui, il était indispensable d'avoir un plan de secours en toute circonstance. Ce bandeau était là pour le lui rappeler. En cas d'urgence, l'objet pouvait aussi servir de bandage pour arrêter une hémorragie.  Selon cette conviction, il forma de nombreux chevaliers sous les ordres de son ami à l'escrime. Ensuite, il devint le mentor d'un chevalier blanc qui avait soif de justice. Toujours armé de cette conviction, il empêcha d'innombrables graines du mal de germer.  Tant qu'il était préparé à toute éventualité, tout irait bien, même s'il n'avait plus la force de se battre, de protéger son ami ou cette demoiselle qui aimait chanter...

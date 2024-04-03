@@ -1,0 +1,160 @@
+Hola...
+¡Soy Diona, cantinera de la taberna Cola de Gato! Cobro una tarifa bastante elevada por hacer eventos privados. ¿Eh? ¿No viniste a tomar una copa? Humm... Bueno, entonces acepto tu invitación...
+Charla - Relajarse
+Ah... ¡Qué bien me siento! Se me estaba empezando a entumecer todo el cuerpo...
+Charla - Reflexión
+Una cola de lagarto, pimienta, una caracola estelar... ¿Qué más necesito para crear el cóctel más repugnante del mundo?
+Charla - Espera
+¡N-no te estaba esperando! ¡Solo estaba descansando!
+Cuando llueve...
+¡Llueve! ¡Odio la lluvia! Vamos adentro. ¡Hum! No le tengo miedo al agua, solo que... odio cuando se me moja la ropa.
+Cuando truena...
+¡¿Eh?! No, no estoy temblando... ¡Ah!
+Cuando nieva - Juego
+¡Qué fresquito! Ah... ¡Me encanta esta sensación!
+Cuando nieva - Vistas
+Ohhh, mira los pequeños copos de nieve bailando en el aire de un lado a otro... ¿No es hermoso? Ven, siéntate a mi lado para verlos.
+Qué sol hace...
+Vamos, tomemos un poco el sol. Si no vienes, iré yo sola... ¡Última oportunidad! ¡¿Vienes o no?!
+Buenos días...
+¡Buenos días! ¿Me puedes dar la lata de locha seca que hay en ese armario? ¡Es hora de destruir la industria del vino de Mondstadt!
+Buenas tardes - Ruido
+*Glugluglu* ¿Eh? No, ¡no oíste nada!
+Buenas tardes - Lata
+Estaba guardando esta lata de pescado para cuando tuviera mucha hambre, ¡deja de mirarme así! Está bien, te dejaré probar un poco, ¡pero solo un poco!
+Buenas noches... (I)
+He fracasado... otra vez. A todo el mundo le gustaron mis cócteles... No intentes consolarme, no necesito tu consuelo.
+Buenas noches... (II)
+Sin la visión de un gato, ¿podrás volver a casa con esta oscuridad? Si necesitas que te acompañe... ¿Eh? ¿Que hay luces en la calle? Bueno, entonces olvídalo. ¡Vamos, vete!
+Sobre Diona...
+Mis orejas y mi cola no son falsas, son un símbolo de mi linaje felinés. Es cierto que no son algo que se vea mucho, pero... ¿Por qué acercas tu mano hacia mí? Está bien, puedes tocarme las orejas, ¡pero la cola no!
+#Sobre nosotr{F#as}{M#os} - Bebidas
+¿Quieres una bebida sin alcohol? No, no es difícil de hacer, ¡pero no tiene sentido! No sirve para mi gran plan de destruir la industria del vino de Mondstadt. No perderé mi tiempo haciendo una bebida así, ¡hum!
+#Sobre nosotr{F#as}{M#os} - VIP
+¡Toma! Este es mi “té espumoso de coral veraniego melancólico”, lo preparé un día que estaba aburrida. ¿Eh? ¿Que quieres beber algo que esté más de moda? ¿Que harías cola por probarlo? No entiendo de qué hablas.
+#Sobre nosotr{F#as}{M#os} - Conversaciones
+#Bueno, si alguna vez te sientes sol{F#a}{M#o}, puedes charlar conmigo. Sé muchas cosas interesantes. Soy una buena... ¿cómo se dice? Compañera de conversación. ¡Sí, eso! Puedes charlar conmigo cuando quieras.
+#Sobre nosotr{F#as}{M#os} - Curiosidad
+¡¿Que es eso?! ¡¿Que es eso que tienes ahí?! ¡Déjame verlo! Tal vez pueda usarlo en mi próximo cóctel para darle un sabor espantoso... ¿Eh? Vaya, es solo un champiñón de aspecto extraño. Qué aburrido...
+Sobre la Visión - Herencia
+¿Que cómo conseguí mi Visión? Hummm, pues... todos los miembros de la familia felinesa tienen una... ¿Eh? ¿Que, entonces, por qué Draff no tiene una Visión? Vaya... ¡me atrapaste!
+Sobre la Visión - Origen
+#¡¿Por qué debería contártelo?! ¡Hum! *Suspira* Bueno, como insistes y somos {F#amigas}{M#amigos}, te lo diré: una vez, mi papá se perdió mientras cazaba durante una fuerte tormenta. Entonces, yo solo podía pensar en encontrarlo y salvarlo... Eso es todo. ¿Ya estás content{F#a}{M#o}?
+¿Algo que decir?
+¿Crees que hay plantas exóticas en Espinadragón? Quizás algo con un sabor tan amargo que incluso puede matar, o algo que adormece toda la boca al probarlo. Cuando vaya, ¡recogeré muchas plantas! Y entonces... ¡Muajajaja!
+Una noticia interesante...
+Cuando se trata de mariposas, soy la mejor cazándolas. ¿Eh? ¡No! ¡No me las como! Las atrapo para agregarlas a mis cócteles y darlos un sabor horrible. ¡No te creas que soy una gata de verdad! ¡Miau!
+Sobre Diluc...
+Diluc... Ah, sí, ¡lo odio! Si él no existiera, Mondstadt no tendría una industria del vino. Si no hubiera una industria del vino, papá no bebería; y si papá no bebiera... pasaría más tiempo conmigo. ¡Buaaa!
+Sobre Kaeya...
+¡¿Cómo es posible que incluso alguien que debería protegernos sea un borracho?! Sí, yo también estoy hablando de ese tipo de la risa molesta. ¡Lo único que hace es beber!
+Sobre Venti...
+¿Venti? No sé muy bien quién es... ¿Es un bardo? Ah, debe ser ese tipo que canta para entretener a los borrachos. Entonces no, no me agrada en absoluto.
+Sobre Bárbara...
+¿Cómo es que los fans de Bárbara son todos gente joven, mientras que los míos son hombres de mediana edad? ¡Hum! No lo entiendo. En fin, ¡olvídalo!
+Sobre Jean...
+La Gran Maestra Intendente de los Caballeros de Favonius... Una mujer adulta con una personalidad muy poco común y que no bebe. Tal vez sea demasiado seria... Me da la sensación de que es por ella que los Caballeros se esfuerzan tanto en protegerme.
+Sobre Albedo...
+¿El Alquimista en Jefe? Humm... Me pregunto si podría ayudarme a preparar una bebida que no le guste a nadie.
+Sobre Lisa...
+¡Lisa es tan buena y amable! Pero... ¿cómo puede una persona tan amable beber tanto? ¡Ah!... ¡¿Por qué?! Mondstadt no tiene remedio...
+Sobre Xiangling...
+Una vez, le pedí a Xiangling que me hiciera un “plato combinado de comida asquerosa”. Era una receta propia que, supuestamente, debía saber horrible. Bueno, no funcionó, no sirvió de nada. Es más, no pude evitar pedirle que me prepara otra ración... *Suspira*
+Sobre Klee...
+Cada vez que Klee quiere jugar conmigo, la llevo a un lugar lejos de las tabernas. ¡El alcohol y los explosivos son una combinación peligrosa! Claro que quiero destruir la industria del vino de Mondstadt, ¡pero no de esa forma!
+Sobre su padre...
+¡Amo a mi papá más que a nadie! ¡Es el mejor! Pero cuando bebe demasiado... ¡Hum! ¡Debo poner fin a la industria del vino de Mondstadt lo antes posible! ¡Basta de charla!
+Más sobre Diona (I)
+Mi vida como cantinera es muy ajetreada. Cuando no estoy en la taberna, estoy recolectando ingredientes para nuevas recetas. Así que... a menos que necesites algo urgente, te aconsejo que no molestes.
+Más sobre Diona (II)
+No irás a pedirme que maúlle como los gatos, como hacen los borrachos de la taberna, ¿no? ¡Porque no lo haré! ¡No soy una linda mascota que se sacude las orejas y estira la espalda! Soy... Soy Diona, ¡la asesina de la industria del vino!
+Más sobre Diona (III)
+¿Que cómo se convirtió la asesina de la industria del vino en la estrella de la taberna Cola de Gato? ¿Me lo preguntas para reírte de mí? ¡Hum! ¡Eres mala persona! No te prepararé ninguna bebida nunca más, ni siquiera agua.
+Más sobre Diona (IV)
+Será mejor que no me hagas enojar. Soy una persona muy respetuosa hasta que alguien se mete conmigo. ¡Y te advierto que muerdo cuando me enojo! ¡Miau! Bueno, tal vez contigo haga una excepción...
+Más sobre Diona (V)
+#Tú y yo... ya somos buen{F#as}{M#os} amig{F#as}{M#os}, ¿cierto? Hace tiempo, tuve un amigo como tú, aunque no sé... Tal vez lo soñé.  Ven, dame la mano. Ah... es muy cálida. Por favor, no me abandones y te conviertas en otro sueño.
+Aficiones de Diona...
+#Me gusta cazar. ¡Soy especialmente buena rastreando a mis presas! Pero papá dice que la naturaleza es peligrosa. Uno solo debe adentrarse en el bosque con un adulto responsable. Tú eres {F#una adulta}{M#un adulto} responsable, ¿cierto?
+Preocupaciones de Diona...
+Ya me quedé sin ideas para hacer bebidas que sepan mal... Tenía grandes esperanzas en mi “cóctel de chile de Jueyun con leche de soja y semillas de diente de león”, ¡mi combinación más horripilante hasta la fecha! Pero a todos los clientes de la taberna les gustó.“¡Esta es la mejor bebida de Diona hasta la fecha!”, dijeron. Grr... ¡Pero no me rendiré!
+Comida que más le gusta...
+¡Me encanta el pescado! Sobre todo el que hace papá. Pero comer pescado en una taberna... ¡eso es una blasfemia!
+Comida que menos le gusta...
+La zanahoria, las papas, la cebolla, el tomate... ¡Odio su sabor! De hecho, yo no como verdura.
+Al recibir un regalo (I)
+Qué rico... Oye, una pregunta. ¿Cocinarás para mí otra vez?
+Al recibir un regalo (II)
+No te creas que, por darme comida, voy a dejar que me acaricies...
+Al recibir un regalo (III)
+Oye, ¿me tomas por un gato abandonado o qué?
+Cumpleaños...
+Aquí tienes: pescado frito acompañado de mi salsa especial. No te preocupes, no le puse nada extraño. En realidad, cuando quiero, cocino bien. Vamos, pruébalo.  Eso está mejor... Ah, ¡y feliz cumpleaños!
+El sentimiento de Ascensión - Introducción
+Con nuestra vista, ¡los gatos podemos ver perfectamente a nuestra presa en la oscuridad!
+El sentimiento de Ascensión - Desarrollo
+Las orejas felinas oyen hasta las pisadas más ligeras.
+El sentimiento de Ascensión - Nudo
+Las patas felinas pueden trepar incluso al árbol más alto de Teyvat.
+El sentimiento de Ascensión - Desenlace
+La nariz felina reconoce a las personas que le gustan a través del olor... ¿Eh? Te equivocas, yo jamás diría algo así...
+Habilidad Elemental (I)
+¡Jiá!
+Habilidad Elemental (II)
+¡Piu! ¡Piu!
+Habilidad Elemental (III)
+¡En las rocas!
+Habilidad Elemental (IV)
+¡Agitado y revuelto!
+Habilidad Elemental (V)
+¡Te pillé!
+Habilidad Elemental (VI)
+¿Crees que puedes aprovecharte de mí?
+Habilidad Definitiva (I)
+¡El especial de Diona!
+Habilidad Definitiva (II)
+¿No puedes con tu bebida?
+Habilidad Definitiva (III)
+¡Mírate, borrachín!
+Al esprintar (I)
+¡Ja, ya estoy aquí!
+Al esprintar (II)
+¡Vamos, vamos!
+Después de esprintar (I)
+¡Uf!
+Después de esprintar (II)
+¡Fiuuu! Uf...
+Al abrir el planeador (I)
+¡Estoy volando!
+Al abrir un cofre (I)
+Si no sirve para estropear una bebida, ¡no es un tesoro!
+Al abrir un cofre (II)
+Brilla mucho... Debo controlar... mis ganas de... abalanzarme sobre ello...
+Al abrir un cofre (III)
+Un posible tesoro... *Suspira*, y así, la curiosidad mató al gato.
+Vida baja (I)
+¡No aceptaré una derrota!
+Vida baja (II)
+Miau... ¡Miau!
+Vida baja (III)
+¡Todavía no hemos acabado!
+Aliado con vida baja (I)
+¡Ten más cuidado!
+Aliado con vida baja (II)
+¡Ve a descansar!
+Derrotada (I)
+Huele a alcohol... ¡Qué asco!
+Derrotada (II)
+No me abandones... Hada del manantial...
+Derrotada (III)
+No logro mantener... los ojos abiertos...
+Recibiendo un ligero ataque (I)
+Me diste...
+Recibiendo un fuerte ataque (I)
+¿De dónde vino eso?
+Unirse al equipo (I)
+¡Comienza la cacería!
+Unirse al equipo (II)
+¿Necesitas mi ayuda, como siempre?
+Unirse al equipo (III)
+Jeje, ¡déjamelo a mí!

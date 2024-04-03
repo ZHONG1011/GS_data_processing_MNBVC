@@ -1,0 +1,138 @@
+Halo
+Aku adalah Qiqi, seorang zombie. Ah, tadi aku mau ngomong apa ya...
+Berbincang: Bicara pada Diri Sendiri
+Eh, aku tadi mau bilang apa ya? Aku lupa...
+Berbincang: Takut Panas
+Ayo pergi ke tempat yang lebih sejuk.
+Berbincang: Latihan
+Satu, dua, tiga, empat. Dua, dua, tiga, empat...
+Ketika Turun Hujan
+Lagi-lagi aku lupa membawa payung.
+Ketika Turun Salju
+Aku ingin membuat manusia salju. Apa kamu mau membantuku?
+Ketika Matahari Bersinar
+Aku tidak seharusnya keluar dari rumah hari ini.
+Waktu Angin Bertiup
+Sejuk sekali anginnya, aku suka.
+Ketika Angin Berembus
+Tanganku, pegang tanganku! Sudah hampir terbang tertiup angin!
+Selamat Pagi
+Apa hari sudah pagi? Yang harus kulakukan adalah... Coba kucek catatanku dulu.
+Selamat Siang
+... Aku baru ingat kalau aku harus membantu Dr. Baizhu menyiapkan obat-obatan.
+Selamat Malam
+Selamat malam. Apa saja yang kamu lakukan hari ini? Aku... tidak ingat hari ini melakukan apa saja...
+Selamat Tidur
+Sudah waktunya kamu tidur sekarang. Aku mau melakukan peregangan badan dulu. Jangan ngintip ya~
+Tentang Qiqi sendiri
+Kamu tanya aku? Maaf... Aku sudah lupa.
+Tentang Kita: Ingatan
+Banyak sekali yang aku lupakan. Tapi sepertinya ini bukan masalah yang besar.
+Tentang Kita: Latihan Mengingat
+Belakangan ini aku berlatih keras agar bisa mengingat lebih baik lagi. Jadi jangan cemas, aku tidak akan melupakanmu.
+Tentang Vision
+Walaupun Vision tidak bisa menghentikan waktu, tapi dia memberiku kekuatan untuk melindungi orang-orang yang kusayang.
+Berbagi Cerita
+Sebenarnya keadaan fisikku lebih bagus daripada Dr. Baizhu.
+Kisah Menarik
+Di sekitar apotek terkadang ada sekelompok kecil burung pipit.
+Tentang Baizhu
+Aku tidak ingat wajah Dr. Baizhu. Tapi ini bukan masalah besar...
+Tentang Hu Tao
+Hangat. Senyum palsu. Kematian. Aku benci Hu Tao.
+Tentang Xiao: Nama
+Huh, kedengarannya seperti barang antik...
+Tentang Xiao: Ingatan
+Apa aku pernah melihatnya?
+Tentang Xinyan
+... Siapa?
+Tentang Yaoyao
+Lucu sekali... Sama seperti burung pipit kecil yang lucu.
+Tentang Dusky Ming
+Pada malam hari, aku kadang-kadang merasa ada orang yang melakukan senam peregangan bersamaku. Apa ini halusinasiku saja?
+Mengenal Qiqi: I
+Apa terjadi sesuatu?
+Mengenal Qiqi: II
+Senam peregangan membantu mempertahankan bentuk tubuhku tetap seperti tubuh manusia. Tapi kalau aku berhenti melakukannya, tubuhku akan kembali seperti semula...
+Mengenal Qiqi: III
+Ada orang yang mau memanfaatkanku, ada juga yang takut padaku. Tapi kamu... berbeda dengan mereka.
+Mengenal Qiqi: IV
+Kamu sudah memberiku kesan yang sangat hangat sejak pertama kali kita bertemu. Hangatnya beda dengan rasa panas yang membuatku tidak nyaman, hangat itu membuat hatiku merasa damai. Terima kasih... aku sangat senang. Sayang sekali aku hanya mengenal kamu yang sekarang. Kalau aku melupakanmu... Kita... Tidak, aku akan meminta diriku untuk tidak melupakanmu.
+Mengenal Qiqi: V
+Dulu tujuanku adalah ingin terus hidup, tapi aku tidak tahu untuk apa aku hidup. Kini aku sudah tahu jawabannya. Aku ingin hidup bersamamu. Apa kita bisa terus bersama selamanya? Ya? Benarkah? Aku berjanji akan melindungimu!
+Hobi Qiqi
+Aku ingin mempunyai hewan peliharaan. Misalnya seperti burung pipit kecil.
+Kekhawatiran Qiqi
+Aku tidak tahu mengapa suhu tinggi membuatku merasa sangat menderita...
+Makanan Favorit
+Aku suka susu santan, tapi... aku tidak bisa merasakan rasanya.
+Makanan yang tidak kamu suka
+Maaf, aku tidak tahu...
+Menerima Hadiah: I
+Dingin. Suka. Tapi tawar.
+Menerima Hadiah: II
+Ugh ....
+Menerima Hadiah: III
+Panas, sampai bakar lidahku ....
+Ulang Tahun
+Selamat ulang tahun! Ini sekantong obat untukmu. Kamu kaget? Kamu pernah memberi tahu aku sebelumnya dan aku mencatatnya di kertas. Karena aku membacanya setiap hari, aku tidak pernah melupakannya...
+Perasaan Tentang Ascension: Permulaan
+Sekarang aku sudah menjadi lebih kuat. Apa artinya menjadi lebih kuat?
+Perasaan Tentang Ascension: Persiapan
+Ah, aku mengerti. Setelah menjadi kuat, aku harus berusaha lebih keras untuk mengendalikan kekuatanku.
+Perasaan Tentang Ascension: Klimaks
+Dulu aku tidak mengerti tentang bagaimana menjadi lebih kuat, tapi sekarang berbeda... Aku harap aku bisa menjadi lebih kuat lagi.
+Perasaan Tentang Ascension: Konklusi
+Semua ini berkat bantuanmu. Terima kasih... Apa kamu bisa mengabulkan satu permintaanku? Mulai dari sekarang, biarkan aku melindungimu. Apa kamu mau menerimaku?
+Elemental Skill: I
+Roda kehidupan.
+Elemental Skill: II
+Kehidupan terus berjalan.
+Elemental Skill: III
+Pergi.
+Elemental Skill: IV
+Bangkit.
+Elemental Burst: I
+Perintah diberikan. Perintah diterima.
+Elemental Burst: II
+Nama suci: Fortune-Preserver
+Elemental Burst: III
+Segel Adeptus, terbukalah.
+Mulai Lari: I
+Lebih cepat? Baik, lebih cepat.
+Membuka Wind Glider: I
+Eh?
+Membuka Peti Harta: I
+Ah, cantik.
+Membuka Peti Harta: II
+Peti harta ... kita ... suka?
+Membuka Peti Harta: III
+Barusan ada apa di dalam?
+HP Rendah: I
+Aw.
+HP Rendah: II
+Raar!
+HP Rendah: III
+Aku harus terus hidup...
+HP Rekan Rendah: I
+Bahaya.
+HP Rekan Rendah: II
+Cukup. Giliran.
+Gugur: I
+Tidak mau... disegel... dicadangkan...
+Gugur: II
+Dingin... Dingin sekali...
+Gugur: III
+Tidak...
+Menerima Serangan Ringan: I
+Aku tidak merasakannya.
+Menerima Serangan Hebat: I
+Wow.
+Menerima Serangan Hebat: II
+Oh...
+Bergabung ke Party: I
+Aku datang.
+Bergabung ke Party: II
+Ada apa?
+Bergabung ke Party: III
+Aku akan... membawa catatanku.

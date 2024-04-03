@@ -1,0 +1,13 @@
+Arco del Sacrificio
+Un arco de caza decorativo que ha sido petrificado por el tiempo. Las decoraciones en él son todavía fácilmente visibles. Concede al portador el poder de resistir los vientos del tiempo.
+ En el acantilado frente al mar oriental, los antepasados adoraban a los amos del tiempo y Anemo por igual. Con respecto a ambos, hay una enseñanza que dice que “las semillas traídas por el viento crecerán con el tiempo”. El arco cuenta la historia de los pioneros y las dificultades por las que pasaron. En un principio no era muy buen arco de caza, pero, con el paso del tiempo, se volvió flexible y firme.  Este arco fue propiedad de la orgullosa familia Lawrence. En la antigüedad, se usaba para recrear la valiente victoria del clan sobre el hielo del mundo.  En el primer acto de la ceremonia, se contaba cómo los antepasados conquistaron la tierra a través de su sabiduría y fuerza. Aunque esta ceremonia terminó perdiéndose por las vicisitudes de la historia, los ancestros siguieron desempeñando el mismo papel.  Sin embargo, este rol se corrompió y, poco a poco, pasaron de considerarse conquistadores a reyes. Con el tiempo, el camino que tomaron se corrompió cada vez más y perdieron el afecto de los vientos de Mondstadt. 
+Serenidad
+Al hacer daño por medio de una Habilidad Elemental, hay un <color=#99FFFFFF>40%</color> de probabilidad de restablecer el TdE de esta habilidad. Este efecto puede activarse una vez cada <color=#99FFFFFF>30</color> s.
+Serenidad
+Al hacer daño por medio de una Habilidad Elemental, hay un <color=#99FFFFFF>50%</color> de probabilidad de restablecer el TdE de esta habilidad. Este efecto puede activarse una vez cada <color=#99FFFFFF>26</color> s.
+Serenidad
+Al hacer daño por medio de una Habilidad Elemental, hay un <color=#99FFFFFF>60%</color> de probabilidad de restablecer el TdE de esta habilidad. Este efecto puede activarse una vez cada <color=#99FFFFFF>22</color> s.
+Serenidad
+Al hacer daño por medio de una Habilidad Elemental, hay un <color=#99FFFFFF>70%</color> de probabilidad de restablecer el TdE de esta habilidad. Este efecto puede activarse una vez cada <color=#99FFFFFF>19</color> s.
+Serenidad
+Al hacer daño por medio de una Habilidad Elemental, hay un <color=#99FFFFFF>80%</color> de probabilidad de restablecer el TdE de esta habilidad. Este efecto puede activarse una vez cada <color=#99FFFFFF>16</color> s.

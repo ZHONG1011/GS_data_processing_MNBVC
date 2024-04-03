@@ -1,0 +1,12 @@
+Wolf's Instinct
+Saat mengambil Elemental Orb atau Particle, meningkatkan 10% DMG Razor selama 8 detik.
+Suppression
+Meningkatkan 10% CRIT Rate Razor terhadap musuh dengan HP kurang dari 30%.
+Soul Companion
+Meningkatkan 3 level <color=#FFD780FF>Lightning Fang</color>. Maksimum: Lv. 15.
+Bite
+Saat <color=#FFD780FF>Claw and Thunder</color> ditekan, DEF musuh yang terkena akan berkurang 15% selama 7 detik.
+Sharpened Claws
+Meningkatkan 3 level <color=#FFD780FF>Claw and Thunder</color>. Maksimum: Lv. 15.
+Lupus Fulguris
+Setiap 10 detik, pedang Razor mengumpulkan kekuatan secara otomatis, membuat Normal Attack berikutnya melepaskan serangan listrik, mengakibatkan 100% dari ATK Razor sebagai <color=#FFACFFFF>Electro DMG</color>. Saat Razor tidak menggunakan <color=#FFD780FF>Lightning Fang</color>, sambaran petir pada musuh akan memberikan Razor sebuah Electro Sigil untuk <color=#FFD780FF>Claw and Thunder</color>.

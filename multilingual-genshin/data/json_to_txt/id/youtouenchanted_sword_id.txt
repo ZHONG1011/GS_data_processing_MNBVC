@@ -1,0 +1,4 @@
+Prized Isshin Blade
+Aura ungu yang tidak menyenangkan menyelimuti benda ini. Ia bahkan memiliki kekuatan untuk mengendalikan hati dan pikiran penggunanya.
+Wandering Striker
+Saat Normal, Charged, atau Plunging Attack mengenai musuh, akan melepaskan Accursed Spirit yang mengakibatkan DMG Area setara dengan 180% ATK dan memulihkan HP sebesar 100% ATK. Efek ini dapat terpicu setiap 8 detik. DMG yang diakibatkan oleh Karakter pengguna senjata ini berkurang sebesar 50%.

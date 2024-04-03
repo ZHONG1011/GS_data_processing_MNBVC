@@ -1,0 +1,12 @@
+Condena
+Aumenta el daño de Diluc en un 15% contra enemigos con más del 50% de Vida.
+Ardor incesante
+Cuando Diluc recibe daño, su ATQ aumenta en un 10% y su Vel. de Ataque aumenta en un 5% durante 10 s. Puede acumularse un máximo de 3 veces, y solo puede ocurrir una vez cada 1.5 s.
+Fuego y acero
+Aumenta el nivel de habilidad de <color=#FFD780FF>Filo ardiente</color> +3. Puede ser aumentado hasta Niv. 15.
+Flujo llameante
+Realizar <color=#FFD780FF>Filo ardiente</color> siguiendo la secuencia de ataques aumenta considerablemente el daño infligido. 2 s después de utilizar <color=#FFD780FF>Filo ardiente</color>, aumenta el daño del siguiente Filo ardiente en un 40% durante 2 s.
+Fénix, heraldo del amanecer
+Aumenta el nivel de habilidad de <color=#FFD780FF>Amanecer</color> +3. Puede ser aumentado hasta Niv. 15.
+Espada llameante, némesis de la oscuridad
+Después de lanzar <color=#FFD780FF>Filo ardiente</color>, aumenta en un 30% el daño y la Vel. de Ataque Normal de los siguientes 2 ataques durante 6 s. Además, Filo ardiente no interrumpirá la secuencia de Ataques Normales.

@@ -1,0 +1,12 @@
+Clarity of Heart
+Jumlah penggunaan <color=#FFD780FF>Spring Spirit Summoning</color> bertambah 1 kali.
+Centered Spirit
+Durasi <color=#FFD780FF>Divine Maiden's Deliverance</color> diperpanjang 6 detik. CRIT DMG dari <color=#99FFFFFF>Cryo DMG</color> untuk Karakter aktif yang berada di dalam area meningkat 15%.
+Seclusion
+Meningkatkan 3 level <color=#FFD780FF>Spring Spirit Summoning</color>. Maksimum: Lv. 15.
+Insight
+Saat Karakter yang berada dalam status <color=#FFD780FF>Icy Quill</color> dari Shenhe sendiri memicu Bonus DMG dari Icy Quill, Shenhe akan mendapatkan 1 lapis Skyfrost Mantra: ·Saat Shenhe melancarkan <color=#FFD780FF>Spring Spirit Summoning</color>, dia akan mengonsumsi semua lapisan Skyfrost Mantra dan meningkatkan DMG yang diakibatkan oleh Spring Spirit Summoning sebesar 5% untuk setiap lapisan yang dikonsumsi. ·Efek ini dapat ditumpuk hingga 50 lapis dan berlangsung selama 60 detik.
+Divine Attainment
+Meningkatkan 3 level <color=#FFD780FF>Divine Maiden's Deliverance</color>. Maksimum: Lv. 15.
+Mystical Abandon
+Saat Karakter memicu efek <color=#FFD780FF>Icy Quill</color> melalui DMG Normal Attack dan Charged Attack, jumlah lapisan Icy Quill tidak akan berkurang.

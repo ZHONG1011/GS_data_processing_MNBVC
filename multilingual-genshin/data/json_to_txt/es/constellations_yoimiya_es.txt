@@ -1,0 +1,12 @@
+Cornalina dorada
+Aumenta en 4 s la duración de la ascua dorada aplicada mediante <color=#FFD780FF>Saxifraga de oro</color>. Además, cuando un enemigo afectado por ascua dorada es derrotado, el ATQ de Yoimiya aumenta en un 20% durante 20 s.
+Procesión de las antorchas
+Cuando Yoimiya asesta un golpe CRIT de <color=#FF9999FF>Daño Pyro</color>, obtiene un 25% de <color=#FF9999FF>Bono de Daño Pyro</color> durante 6 s. Este efecto se puede activar incluso cuando Yoimiya está en tu equipo pero no en combate.
+Llama de la astucia
+Aumenta el nivel de habilidad de <color=#FFD780FF>Danza de la pólvora</color> +3. Puede ser aumentado hasta Niv. 15.
+Conocimiento pirotécnico
+Cada explosión de ascua dorada de Yoimiya reduce en 1.2 s el TdE de <color=#FFD780FF>Danza de la pólvora</color>.
+Noche del festival de verano
+Aumenta el nivel de habilidad de <color=#FFD780FF>Saxifraga de oro</color> +3. Puede ser aumentado hasta Niv. 15.
+Lluvia de meteoros Naganohara
+Cuando Yoimiya realiza un Ataque Normal mientras <color=#FFD780FF>Danza de la pólvora</color> está activa, hay una probabilidad del 50% de disparar una flecha flamígera adicional, la cual inflige un 60% del daño original. Este daño se considera daño de Ataque Normal.

@@ -1,0 +1,12 @@
+Fragments perforants
+Les attaques normales qui touchent infligent des DGT de zone.
+Effet de choc
+Le TdR de <color=#FFD780FF>Paravent d'astrolabe</color> est annulé lorsque ce dernier est brisé. Cet effet peut être déclenché une fois toutes les 6 s.
+Alignement des étoiles
+Niveau d'aptitude <color=#FFD780FF>Éclatement des étoiles</color> +3. Niveau max : 15
+Exquis soit le Jade, éclatant de toutes parts
+<color=#FFD780FF>Paravent d'astrolabe</color> augmente les RÉS élémentaires des personnages à proximité de 10 %.
+Invincible soit le Paravent d'astrolabe
+Niveau d'aptitude <color=#FFD780FF>Paravent d'astrolabe</color> +3. Niveau max : 15
+Grandeur soit les Sept Étoiles
+L'activation d'<color=#FFD780FF>Éclatement des étoiles</color> confère 7 Jades d'étoile à Ningguang.

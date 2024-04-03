@@ -1,0 +1,12 @@
+Crispy Outside, Tender Inside
+Saat Guoba Attack mengenai musuh, akan mengurangi 15% <color=#FF9999FF>Pyro RES</color> mereka selama 6 detik.
+Oil Meets Fire
+Serangan terakhir dari Normal Attack mengakibatkan Implode pada musuh selama 2 detik. Saat durasi Implode selesai, menimbulkan ledakan yang mengakibatkan 75% dari ATK Xiangling sebagai <color=#FF9999FF>Pyro DMG area</color>.
+Deepfry
+Meningkatkan 3 level <color=#FFD780FF>Pyronado</color>. Maksimum: Lv. 15.
+Slowbake
+Meningkatkan 40% durasi <color=#FFD780FF>Pyronado</color>.
+Guoba Mad
+Meningkatkan 3 level <color=#FFD780FF>Guoba Attack</color>. Maksimum: Lv. 15.
+Condensed Pyronado
+Saat <color=#FFD780FF>Pyronado</color> aktif, seluruh anggota party menerima peningkatan 15% <color=#FF9999FF>Pyro DMG Bonus</color>.

@@ -1,0 +1,13 @@
+Arco de Cuervo
+Los cuervos son conocidos por ser los mensajeros de la muerte. Las plumas que decoran este arco presagian la muerte inminente de cualquier objetivo.
+ Se dice que los cuervos son emisarios de la muerte. Si se decora la extremidad de un arco con la pluma de un cuervo, la reverberación de la cuerda anuncia la muerte de su presa. O, al menos, eso dicen los comerciantes de armas. 
+Perdición de las llamas y el agua
+Aumenta en un <color=#99FFFFFF>12%</color> el daño contra los enemigos afectados por Hydro o Pyro.
+Perdición de las llamas y el agua
+Aumenta en un <color=#99FFFFFF>15%</color> el daño contra los enemigos afectados por Hydro o Pyro.
+Perdición de las llamas y el agua
+Aumenta en un <color=#99FFFFFF>18%</color> el daño contra los enemigos afectados por Hydro o Pyro.
+Perdición de las llamas y el agua
+Aumenta en un <color=#99FFFFFF>21%</color> el daño contra los enemigos afectados por Hydro o Pyro.
+Perdición de las llamas y el agua
+Aumenta en un <color=#99FFFFFF>24%</color> el daño contra los enemigos afectados por Hydro o Pyro.

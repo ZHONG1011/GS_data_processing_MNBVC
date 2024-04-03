@@ -1,0 +1,12 @@
+Ataque Normal: Toque de relámpago
+<color=#FFD780FF>Ataque Normal</color> Realiza hasta 4 ataques eléctricos que infligen <color=#FFACFFFF>Daño Electro</color>.  <color=#FFD780FF>Ataque Cargado</color> Consume una cierta cantidad de Aguante para infligir <color=#FFACFFFF>Daño Electro en el AdE</color> después de un corto tiempo de lanzamiento.  <color=#FFD780FF>Ataque Descendente</color> Concentra el poder Electro y desciende hacia el suelo, dañando a todos los enemigos cercanos e infligiendo <color=#FFACFFFF>Daño Electro en el AdE</color> en el momento del impacto.
+Arco violeta
+#Canaliza el poder del rayo para deshacerse de los asuntos más molestos.  <color=#FFD780FF>{LAYOUT_MOBILE#Un toque}{LAYOUT_PC#Pulsar una vez}{LAYOUT_PS#Pulsar una vez}</color> Lanza un orbe eléctrico contra sus enemigos. En el momento del impacto, el orbe inflige <color=#FFACFFFF>Daño Electro</color> y afecta a los enemigos situados en una pequeña AdE con una carga de conducción (máx. 3 cargas).  <color=#FFD780FF>Mantener pulsado</color> Tras un tiempo de canalización, invoca los truenos del cielo, infligiendo una gran cantidad de <color=#FFACFFFF>Daño Electro</color> a los enemigos cercanos. Inflige grandes cantidades de daño adicional a los enemigos en proporción al número de cargas de conducción que tengan, tras lo que elimina este efecto.  <i>El color de los rayos es el color preferido de la Bruja de las Rosas.</i>
+Rayo de la rosa
+Invoca una rosa devastadora que libera un inmenso poder eléctrico y empuja a los enemigos cercanos, infligiendo <color=#FFACFFFF>Daño Electro</color>. Durante su efecto, la rosa devastadora chispea periódicamente relámpagos para atacar a los oponentes cercanos, infligiendo <color=#FFACFFFF>Daño Electro</color>.  <i>Efectivamente, esta rosa es increíblemente bella, pero sus espinas pueden llegan a ser letales</i>.
+Réplica eléctrica
+Al hacer un Ataque Cargado, <color=#FFD780FF>Arco violeta</color> aplica cargas de conducción sobre los enemigos.
+Campo de electricidad estática
+<color=#FFD780FF>Rayo de la rosa</color> reduce la DEF del enemigo en un 15% durante 10 s.
+Conocimientos farmacéuticos
+Al fabricar una poción, hay una probabilidad del 20% de recuperar los materiales usados.

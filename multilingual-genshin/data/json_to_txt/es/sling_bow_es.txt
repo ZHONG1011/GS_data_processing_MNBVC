@@ -1,0 +1,13 @@
+Tirachinas
+Después de muchas modificaciones y mejoras, su inventor acabó cambiando su aspecto por completo. Ahora, en realidad, es un arco.
+ Hace mucho tiempo, hubo una persona que quiso mejorar el rango y la precisión de un tirachinas. Descubrió que, si aumentaba el rango, perdía precisión, así que reemplazó la munición de piedras por palos de madera con plumas en su parte posterior para estabilizarlo. Al nuevo tirachinas le cambió el agarre y curvó sus extremidades para aumentar la tensión. Al final, se dio cuenta de que terminó por hacer un arco. 
+Tirachinas
+Si un Ataque Normal o Cargado golpea al enemigo en menos de 0.3 s de ser lanzado, el daño infligido aumentará en un <color=#99FFFFFF>36%</color>. Si se excede este tiempo, el daño disminuirá en un 10%.
+Tirachinas
+Si un Ataque Normal o Cargado golpea al enemigo en menos de 0.3 s de ser lanzado, el daño infligido aumentará en un <color=#99FFFFFF>42%</color>. Si se excede este tiempo, el daño disminuirá en un 10%.
+Tirachinas
+Si un Ataque Normal o Cargado golpea al enemigo en menos de 0.3 s de ser lanzado, el daño infligido aumentará en un <color=#99FFFFFF>48%</color>. Si se excede este tiempo, el daño disminuirá en un 10%.
+Tirachinas
+Si un Ataque Normal o Cargado golpea al enemigo en menos de 0.3 s de ser lanzado, el daño infligido aumentará en un <color=#99FFFFFF>54%</color>. Si se excede este tiempo, el daño disminuirá en un 10%.
+Tirachinas
+Si un Ataque Normal o Cargado golpea al enemigo en menos de 0.3 s de ser lanzado, el daño infligido aumentará en un <color=#99FFFFFF>60%</color>. Si se excede este tiempo, el daño disminuirá en un 10%.

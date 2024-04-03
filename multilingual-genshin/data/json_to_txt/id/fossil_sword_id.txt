@@ -1,0 +1,13 @@
+Sacrificial Sword
+Pedang dekoratif yang telah membatu karena usianya yang sangat tua, tetapi perhiasan yang tertanam di dalamnya masih dapat terlihat. Memberikan kekuatan berkat akan angin waktu kepada pemegangnya.
+ Di tepi jurang yang menghadap laut Timur, para leluhur memuja Dewa Waktu dan Anemo bersama-sama. Keduanya terhubung erat, sama seperti pepatah berkata, "Anemo membawakan cerita dan waktu memupuknya". Pedang ini menceritakan cerita tentang perlindungan dan keberanian untuk melindungi. Awalnya hanya sebuah alat peraga, namun pedang itu akhirnya ditempa oleh waktu.  Pedang ini dulunya milik Klan Gunnhildr yang baik hati. Dalam upacara kurban, mereka akan memberlakukan pertahanan Mondstadt.  Ada tiga hal dalam upacara yang didedikasikan untuk sang waktu. Hal yang terakhir adalah bercerita kisah mengenai perlindungan Mondstadt, hidup, dan kebebasan.  Upacara dan sejarah sudah lama hilang. Namun Klan Gunnhildr tetap menjadi penjaga Mondstadt sampai hari ini. 
+Composed
+Setelah Elemental Skill mengakibatkan DMG, terdapat <color=#99FFFFFF>40%</color> persentase CD Skill langsung selesai. Dapat terpicu setiap <color=#99FFFFFF>30 detik</color>.
+Composed
+Setelah Elemental Skill mengakibatkan DMG, terdapat <color=#99FFFFFF>50%</color> persentase CD Skill langsung selesai. Dapat terpicu setiap <color=#99FFFFFF>26 detik</color>.
+Composed
+Setelah Elemental Skill mengakibatkan DMG, terdapat <color=#99FFFFFF>60%</color> persentase CD Skill langsung selesai. Dapat terpicu setiap <color=#99FFFFFF>22 detik</color>.
+Composed
+Setelah Elemental Skill mengakibatkan DMG, terdapat <color=#99FFFFFF>70%</color> persentase CD Skill langsung selesai. Dapat terpicu setiap <color=#99FFFFFF>19 detik</color>.
+Composed
+Setelah Elemental Skill mengakibatkan DMG, terdapat <color=#99FFFFFF>80%</color> persentase CD Skill langsung selesai. Dapat terpicu setiap <color=#99FFFFFF>16 detik</color>.

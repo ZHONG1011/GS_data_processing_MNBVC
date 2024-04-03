@@ -1,0 +1,12 @@
+Attaque normale : Lame volante
+<color=#FFD780FF>Attaque normale</color> Enchaîne jusqu'à 4 coups d'épée.  <color=#FFD780FF>Attaque chargée</color> Consomme de l'endurance pour déclencher deux coups d'épée rapides.  <color=#FFD780FF>Attaque plongeante</color> Plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.
+Anneau de consécration
+#Sacrifie une partie des PV pour créer un anneau d'herbes de consécration qui inflige des <color=#FFACFFFF>DGT Électro</color> aux ennemis proches.  <color=#FFD780FF>Anneau d'herbes de consécration</color> Suit le personnage déployé pour infliger des <color=#FFACFFFF>DGT Électro</color> aux ennemis proches et restaurer les PV des personnages déployés à portée d'une valeur proportionnelle aux PV max de Kuki Shinobu, ces deux effets se déclenchant une fois toutes les 1,5{NON_BREAK_SPACE}s.  Le sacrifice de PV de cette compétence ne fera pas tomber les PV de Kuki Shinobu en dessous de 20 %.  <i>Enroulez les herbes à sanglots autour de votre taille et ça exorcisera le mal !</i>
+Rituel des semoirs de Narukami
+Enfonce une lame d'adjuration dans le sol pour créer une barrière qui purifie la zone de tout ce qui est malsain, infligeant de façon continue des <color=#FFACFFFF>DGT Électro</color> aux ennemis à l'intérieur selon les PV max de Kuki Shinobu. Si les PV de Shinobu sont inférieurs ou égaux à 50 % lors de l'utilisation de cette compétence, la barrière dure plus longtemps.  <i>C'était à l'origine une technique utilisée pour le désherbage et les prières rituelles en vue des récoltes annuelles, mais Shinobu ne l'a pas oubliée, même si sa vie de prêtresse du sanctuaire est déjà derrière elle.</i>
+Désir libérateur
+Augmente le bonus de soins de 15 % quand les PV de Kuki Shinobu sont inférieurs ou égaux à 50 %.
+Quiétude du cœur
+L'effet <color=#FFD780FF>Anneau de consécration</color> s'améliore selon la maîtrise élémentaire de Kuki Shinobu : · Augmente les soins de 75 % de sa maîtrise. · Augmente les DGT de 25 % de sa maîtrise.
+Prière prolongée
+Augmente les récompenses d'une expédition de 20 h à Inazuma de 25 %.

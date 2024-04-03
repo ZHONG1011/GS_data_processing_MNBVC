@@ -1,0 +1,138 @@
+Hola...
+#Hola, creyente. Si necesitas ayuda con algún problema, puedes venir a verme. Pero si solo quieres rezar, entonces mejor busca a otra monja.  ¿Eh? ¿No eres {F#una}{M#un} creyente?
+Charla - Aburrimiento
+¿Aún sigues aquí?
+Charla - Horas extra
+Todo puede negociarse, excepto hacer horas extra.
+Charla - La vida en Mondstadt
+Terminar el trabajo y pasar una buena vida. ¿No es así la vida en Mondstadt?
+Cuando llueve...
+*Suspira*, esto afectará a mi eficacia.
+Cuando truena...
+*Tsk*, qué fastidio.
+Cuando nieva...
+Ten cuidado por donde pisas si vas con prisa en un día como este.
+Hace mucho viento...
+¿Y esto es una bendición de Basbartos? No, espera, creo que su nombre era “Bartabos”...
+Buenos días...
+*Bosteza*, buenos días. ¿Ya comenzaron los rezos de por la mañana? Qué pronto.
+Buenas tardes...
+La luz de la tarde ayuda a dormir. Vamos, inténtalo tú también.
+Buenas noches... (I)
+Buenas noches. No participo en las oraciones de por la noche. ¿Que por qué? Porque no.
+Buenas noches... (II)
+No te preocupes, descansa. Yo me encargo de lo que queda por hacer.
+Sobre Rosaria - Monja
+¿Yo? No soy una persona interesante. Como ya te habrás dado cuenta, no me gusta ni la Iglesia ni trabajar.
+Sobre Rosaria - Molestias
+Esas monjas que están de guardia trabajando son todas tan molestas... O te atrapan para llevarte a rezar, o te llaman para cantar en el coro. Ni se te ocurra decirles que estoy aquí.
+Sobre Rosaria - Fe
+Un dios podría tener el poder de proteger a todo el mundo. Aunque, la verdad, no creo que eso suceda nunca. Si no, el sufrimiento de la gente sería en vano.
+#Sobre nosotr{F#as}{M#os} - Rezar
+Reza. Pero no por un dios o por otras personas, sino por ti.
+#Sobre nosotr{F#as}{M#os} - Luchar
+No te preocupes. Yo me haré cargo del trabajo sucio.
+Sobre la Visión...
+Una Visión puede ser una demostración de tu fuerza, pero también tu medalla de superviviente... ¿Quién sabe? Las cosas realmente buenas siempre tienen dos caras. Yo no me atrevo a definir lo que es una Visión, solo que mi relación con la mía es la de ser testigos la una de la otra.
+¿Algo que decir?
+#¿Quieres saber por qué cosas merece la pena estar content{F#a}{M#o}? Humm, es solo una suposición, pero, si alguna vez te encuentras con un problema que no puedes resolver, no pienses que ese es el fin del mundo. Tal vez alguien esté dispuesto a ayudarte a salir de esa situación.
+Una noticia interesante...
+Las plantas no entran dentro de mis intereses. La única excepción es el diente de león, ya que con él se puede hacer un vino delicioso. Tomar una copa en mi hora de descanso es un placer mayor que dormir una siesta.
+Sobre Diluc...
+¿No te diste cuenta tan pronto como lo viste? Ese ricachón no es una persona de trato fácil. Siempre con un perfil bajo, tan seguro de sí mismo y con un aire de peligro...
+Sobre Kaeya...
+Solo muestra su verdadera personalidad cuando está borracho. Ser elocuente y tener labia es su manera de enmascarar su verdadero yo. ¡Hum! Se puede ver a simple vista que oculta algo. Deberías ir a verlo cuando está borracho.
+Sobre Venti...
+Ese bardo tiene algo muy especial... Aún no estoy segura de qué es, pero es muy distinto al resto de los ciudadanos.
+Sobre Bárbara...
+Bárbara siempre está pegada a mí, diciéndome que participe en los rezos y en el coro. ¿Acaso Victoria le ha ordenado que me vigile?
+Sobre Jean...
+No solo termina siempre su propio trabajo, sino también el de otros. Es una mujer que merece un enorme respeto.
+Sobre Albedo...
+Es como un cuadro colgado en un edificio antiguo... enigmático, misterioso e imposible de descifrar a primera vista. No me disgusta la gente que tiene una historia.
+Sobre Lisa...
+No me gusta la gente que holgazanea en sus horas de trabajo, aunque entiendo muy bien lo puntual que es para terminar de trabajar.
+Sobre Klee...
+*Suspira*, esa niña no es más que una molestia. Una molestia bastante linda.
+Sobre Varka...
+Aunque sus intenciones son buenas, Varka es como un viejo que no deja de hablar y que se preocupa bastante por su gente. *Suspira*, ese hombre...
+Sobre su padre...
+#¿Mi padre? Hacía mucho tiempo que no escuchaba esa palabra. Se podría decir que no tengo padre, pero también que tengo más de uno. ¿Eh? ¿Estás sorprendid{F#a}{M#o}?
+Más sobre Rosaria (I)
+Dejémonos de formalidades. Si estoy aquí es para terminar el trabajo. Si no puedes solucionar algo, déjamelo a mí.
+Más sobre Rosaria (II)
+No es raro que haya monjas que no creen en los dioses, igual que hay cazadores a los que no les gusta la carne de jabalí y pescadores que detestan el pescado. El hecho de hacer algo no implica que tengas que amarlo, y el hecho de que no te guste algo tampoco significa que no quieras tener nada que ver con ello. Así es el trabajo.
+Más sobre Rosaria (III)
+¿Quieres un trago? Este es el vino de diente de león de este año. Su sabor no está nada mal.
+Más sobre Rosaria (IV)
+Mondstadt es como un viejo y, al mismo tiempo, joven animal salvaje de color blanco: tan viejo como para necesitar ser protegido y tan joven como para no poder sobrevivir por sí solo. Solo un lugar así necesitaría a alguien como yo. Cuido a Mondstadt tal y como otras monjas cuidan a los ciudadanos y dejo que avance con seguridad por el camino de la libertad. ¿Que por qué tiene que ser de color blanco? Porque solo la gente como yo es oscura.
+Más sobre Rosaria (V)
+A veces siento que mi yo del pasado aún sigue existiendo, que sigue cerca de mí y que tiene esperanzas en mí. Seguro que tú también has sentido algo parecido, así que aunque actualmente estés en un camino totalmente distinto, nunca debes olvidar a tu yo del pasado. Ese yo es la base sobre la que caminas hoy. No temas al pasado y no tengas miedo de enfrentarte a él.
+Aficiones de Rosaria...
+Comer y beber son mi alegrías. Algunos problemas solo se pueden resolver con el alcohol. Aun así, yo nunca me emborracho.
+Preocupaciones de Rosaria...
+*Suspira*, no quiero participar en la actividad de canto del mes que viene, pero Victoria va a comprobar la asistencia personalmente...
+Comida que más le gusta...
+¿Has probado el estofado de carne al vino tinto? Alcohol y unos buenos trozos de carne en el mismo plato... Delicioso.
+Comida que menos le gusta...
+¿Lo... lo que se unta en la tortilla de papas es mermelada? ¡No tiene sentido!
+Al recibir un regalo (I)
+Parece que tenemos gustos parecidos en cuanto a la comida.
+Al recibir un regalo (II)
+Al menos me servirá para llenar el estómago.
+Al recibir un regalo (III)
+¿De verdad te gusta esta comida?
+Cumpleaños...
+Hoy es tu cumpleaños, ¿hay alguien o algo de lo que tengas que hacerte cargo? Puedo ayudarte, pero no se lo cuentes a nadie.
+El sentimiento de Ascensión - Introducción
+Oh, qué bien me siento.
+El sentimiento de Ascensión - Desarrollo
+¿Necesitas ayuda? Justo ahora estoy libre.
+El sentimiento de Ascensión - Nudo
+No está mal. Cuanto más fuerte sea, más eficaz seré.
+El sentimiento de Ascensión - Desenlace
+Aunque se me da muy bien luchar y matar, nunca había tenido tanta fuerza. Gracias por bendecirme de esta manera.
+Habilidad Elemental (I)
+¡Jiá!
+Habilidad Elemental (II)
+¡Sentencia!
+Habilidad Elemental (III)
+¡No corras!
+Habilidad Definitiva (I)
+¡Sanciones!
+Habilidad Definitiva (II)
+¡Tiembla!
+Habilidad Definitiva (III)
+Luces fuera...
+Al abrir un cofre (I)
+Humm, hay algunas cosas interesantes aquí.
+Al abrir un cofre (II)
+Supongo que no llevó mucho esfuerzo.
+Al abrir un cofre (III)
+Eso estuvo... bastante bien.
+Vida baja (I)
+¡Hum! Las cosas se ponen interesantes.
+Vida baja (II)
+Parece que hoy tendré que hacer horas extra.
+Vida baja (III)
+Así que sabes lo que haces...
+Aliado con vida baja (I)
+¡Yo me encargaré de esto!
+Aliado con vida baja (II)
+#¡No intentes hacerte {F#la heroína}{M#el héroe}!
+Derrotada (I)
+Al fin... No más... trabajo...
+Derrotada (II)
+Tal vez este es... mi destino...
+Derrotada (III)
+¿Es... mi último trabajo?
+Recibiendo un ligero ataque (I)
+Ya veo...
+Recibiendo un fuerte ataque (I)
+¡Qué molestia!
+Unirse al equipo (I)
+Oí que tienes un encargo para mí.
+Unirse al equipo (II)
+No te quedes atrás.
+Unirse al equipo (III)
+Cuanto antes acabemos, mejor.

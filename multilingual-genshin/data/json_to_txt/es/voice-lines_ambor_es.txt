@@ -1,0 +1,158 @@
+Hola...
+¡Amber la Caballera Exploradora presente! Si necesitas ayuda, ¡pídemela y allí estaré!
+Charla - Intereses
+¡Me encantaría ir a correr!
+Charla - Anhelos
+A Jean no le gustará nada vernos holgazanear.
+Charla - Nuevos descubrimientos
+Por ahí hay algo extraño... ¡Venga, vamos a ver qué es!
+Cuando llueve - Preocupaciones
+Oh, no, está lloviendo... Mi ropa se va a empapar...
+Cuando llueve - Advertencia
+¡Otra vez está lloviendo! Esto reduce nuestro campo de visión. Debemos ir con cuidado.
+Tras la lluvia...
+¡Guau! ¡Hace un tiempo increíble!
+Qué sol hace...
+Ojalá hubiera algo más de viento.
+Cuando hace viento - Contenta
+Esta brisa... ¡es muy refrescante!
+Cuando hace viento - Relajada
+Me encanta este tiempo. Ah... es tan relajante...
+Buenos días...
+¡Buenos días! ¿Quieres ir a correr?
+Buenas tardes...
+¿Puedo comer contigo?
+Buenas noches... (I)
+Está oscureciendo. ¿Prendo una antorcha?
+Buenas noches... (II)
+Cierto. ¡Descansar es importante! Bien, entonces, nos vemos mañana.
+Sobre Amber...
+La Campeona de Vuelo de Mondstadt, ¡sí, esa soy yo! ¡La Campeona de Vuelo!
+#Sobre nosotr{F#as}{M#os} - Competiciones
+¡Recuerda que nunca se lo pongo fácil a nadie! ¡Ni siquiera a ti!
+#Sobre nosotr{F#as}{M#os} - Vuelo
+A medida que te enseño a volar, siento que mi velocidad va aumentando. ¿Eh? ¿De qué te ríes? ¡Mira, te lo voy a demostrar! ¡Hagamos una carrera ahora mismo!
+Sobre la Visión...
+Mi Visión... es una señal de que los Arcontes creen en mí. Sí, ¡tengo que llegar a ser la mejor Caballera Exploradora!
+¿Algo que decir?
+Las vistas desde la torre del reloj de la Catedral son increíbles, ¡deberías echarles un ojo!
+Una noticia interesante...
+¡Mira, allí hay una paloma! Jeje, me gustaría volar con ellas.
+Sobre Jean - Ayuda
+Después de que el Gran Maestro partiera en su expedición, es Jean la que se encarga de todo lo relacionado con los Caballeros de Favonius, ya sean problemas grandes o pequeños. Ojalá pudiera ayudarla más...
+Sobre Jean - Preocupación
+¿Crees que Jean está todavía trabajando? Podríamos invitarla a tomar un café... Vamos.
+Sobre Lisa - Historias
+¡Cuando tengas tiempo, hay que ir a ver a Lisa! La última vez que la vi, me contó una historia sobre un tesoro en Espinadragón. Pero nos interrumpieron antes de que acabara la historia... ¡quiero escuchar el resto!
+Sobre Lisa - Admiración
+Si Lisa no está durmiendo, ¡está leyendo! No sé cómo lo hace, yo no podría quedarme sentada tanto tiempo.
+Sobre Kaeya - Preocupaciones
+¡Ah, de repente me siento muy intranquila! ¿Estaba antes Kaeya contigo? ¿Te ha causado algún problema?
+Sobre Kaeya - Culpable
+Hay algo raro en los dientes de león del jardín... Hummm... Seguro que Kaeya tiene algo que ver con esto.
+Sobre Bennett...
+¿Bennett? Me suena ese nombre... ¡Ah, sí! Es ese chico tan apasionado del Gremio de Aventureros. A veces me lo encuentro cerca de los dominios, parece que le gusta mucho buscar tesoros.
+Sobre Klee...
+¿Klee? Puede ser un poco descarada a veces, pero a todos los Caballeros de Favonius les agrada. Aunque... debería vigilarla más si quiero evitar que Jean la vuelva a encerrar.
+Sobre Albedo...
+Albedo pasa la mayor parte del tiempo en su taller, trabajando con cosas increíbles. Pero cuando lo ves en persona, nunca sabes en lo que está pensando.
+Sobre Noelle...
+¿Quieres saber más sobre Noelle? Es muy fuerte y tenaz. No obstante, deberíamos hacer lo que podamos para ayudarla.
+Sobre Eula...
+¡Eula es una gran amiga mía! Ya verás como, una vez que te acostumbres a su sentido del humor, te llevarás muy bien con ella. Su único problema es que la gente la malinterpreta por su apellido. ¿Cómo puedo hacer que la gente vea cómo es realmente?...
+Sobre Collei...
+DATA NOT FOUND
+Sobre Mika...
+Oh, Mika es un veterano del equipo de Eula. Cuando llegó, solo decía “¡Sí, comandante!” cada vez que hablaba conmigo. Supongo que lo hacía porque sabía lo bien que me llevo con Eula. Pero entonces, empezó a llamarme “señora” cuando le conté que era una Exploradora... Qué vergüenza... Bueno, después de todo, tenemos responsabilidades muy distintas. Yo jamás podría alcanzar su nivel con la cartografía.
+Más sobre Amber (I)
+¿Sabías que soy una experta en cacería? ¿Quieres que te enseñe alguna de mis habilidades? O... ¿te gustaría que hiciéramos una pequeña competición?
+Más sobre Amber (II)
+¡Compartiré contigo mi gran secreto de Campeona de Vuelo! ¡Lo más importante que debes recordar es siempre tener valor!
+Más sobre Amber (III)
+No se me dan muy bien los acertijos. Siempre trato de evitar el puesto de adivinanzas durante el Ludi Harpastum... ¿Y tú?
+Más sobre Amber (IV)
+Me uní a los Caballeros por mi abuelo, me quedé por Jean y... ahora, tú eres quien me ha enseñado que hay mundo más allá de Mondstadt. No podría ser más feliz.
+Más sobre Amber (V)
+Me gustaría explorar otros mundos... ¡Quiero llegar al punto más lejano del cielo! Vendrás conmigo, ¿verdad?
+Aficiones de Amber...
+Barón Bunny, ¡hoy nos espera otro día explosivamente limpio!
+Preocupaciones de Amber...
+Oh... Por casualidad, ¿no sabrás hacer un pastelillo de luna decente?
+Comida que más le gusta...
+¡El café que hace Jean es increíble! Tienes que probarlo alguna vez.
+Comida que menos le gusta...
+¡Puedo con cualquier cosa! Siempre que no sea un jugo de gancho de lobo helado... Puaj.
+Al recibir un regalo (I)
+#¡Vaya! Está delicioso. ¡Eres {F#una cocinera}{M#un cocinero} increíble!
+Al recibir un regalo (II)
+Ojalá yo también supiera cocinar así de bien...
+Al recibir un regalo (III)
+No estoy acostumbrada a este tipo de platos, ¡lo siento! ¡No es culpa tuya!
+Cumpleaños...
+¡Ah, feliz cumpleaños! Ten, un regalo para ti: una exclusiva versión a medida de Barón Bunny que he hecho a medida con mis propias manos... No te preocupes, “hecho a medida” significa ¡que no explotará!
+El sentimiento de Ascensión - Introducción
+¡Sí! ¡Tan rápido como el viento!
+El sentimiento de Ascensión - Desarrollo
+¡A esta velocidad, nadie podrá conmigo!
+El sentimiento de Ascensión - Nudo
+El cielo de Mondstadt parece más pequeño... ¿o es que ahora veo mejor que antes?
+El sentimiento de Ascensión - Desenlace
+¡Creo que he mejorado mucho desde que nos conocimos! ¡Jeje, muchas gracias! ¡Déjame invitarte a una ración de asado a la miel! ¡Vamos, vamos!
+Habilidad Elemental (I)
+¡Por ellos!
+Habilidad Elemental (II)
+¡Vamos, Barón Bunny!
+Habilidad Elemental (III)
+♪ Mmm mmm mmm mmm mmm... ♪
+Habilidad Definitiva (I)
+¡Nadie se escapa de mí!
+Habilidad Definitiva (II)
+¡Lluvia de flechas!
+Habilidad Definitiva (III)
+¡No tienes escapatoria!
+Al esprintar (I)
+¡Te reto a una carrera!
+Al esprintar (II)
+¡A ver si puedes seguirme el paso!
+Después de esprintar (I)
+Te dije que ganaría.
+Después de esprintar (II)
+¡Así está mejor!
+Al abrir el planeador (I)
+¡La campeona de vuelo de Mondstadt ya está aquí!
+Al abrir el planeador (II)
+¡No te defraudaré!
+Al abrir un cofre (I)
+¡Abrir un cofre es como abrir un regalo!
+Al abrir un cofre (II)
+¡Otro objetivo alcanzado por la Caballera Exploradora, Amber!
+Al abrir un cofre (III)
+¡Guau! ¡Qué bien me va a venir esto!
+Vida baja (I)
+¡Nunca me rendiré!
+Vida baja (II)
+¡Au! Qué malvado...
+Vida baja (III)
+¡No me subestimes!
+Aliado con vida baja (I)
+¡A cubierto!
+Aliado con vida baja (II)
+¡Ey! ¿Necesitas una ayudita?
+Derrotada (I)
+Estoy cansada...
+Derrotada (II)
+Debo seguir... entrenando...
+Derrotada (III)
+Me venciste...
+Recibiendo un ligero ataque (I)
+¡Oye!
+Recibiendo un fuerte ataque (I)
+¡Au! ¡No tan fuerte!
+Recibiendo un fuerte ataque (II)
+¡Eso es trampa!
+Unirse al equipo (I)
+¡Cuenta conmigo!
+Unirse al equipo (II)
+¡Preparada!
+Unirse al equipo (III)
+Amber la Exploradora, ¡presente!

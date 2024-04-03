@@ -1,0 +1,13 @@
+Gran Espada de Sacrificio
+Una gran espada decorativa que se ha petrificado con el tiempo. Su decoración ritual aún es visible. Concede al portador el poder de resistir los vientos del tiempo.
+ En el acantilado frente al mar oriental, los antepasados adoraban a los amos del tiempo y Anemo por igual. Ambos estaban unidos por la noción de que “las semillas traídas por el viento crecerán con el tiempo”. Esta espada, que cuenta una historia bélica, fue usada en obras de teatro que tratan sobre temas de guerra. Antes era un simple accesorio, pero con el paso del tiempo su hoja se volvió dura como una roca.  Esta espada perteneció al clan Imunlaukr, formado por guerreros valientes y de gran talento que lucharon arduamente y murieron muy jóvenes. En las ceremonias de sacrificio, hacían actuaciones de duelo entre valerosos guerreros manchados de sangre.  Los Imunlaukr no combatían para proteger, por gloria o por ganar territorio. Más bien, era para entretener a los dioses que vivían en los cielos, que eran difíciles de complacer. Luchaban contra monstruos y forajidos, sin importarles si no volvían a ver a sus seres más queridos. Lo que importaba era rugir fuerte y claramente en el calor de la sangrienta batalla. Así era como cumplían con su deber.  Es incomprensible cómo la sangre caliente que corre por las venas de los miembros del clan Imunlaukr les permitió sobrevivir tanto tiempo. Su lucha no tenía fin, y tampoco tenían esperanzas de victoria. Sin embargo, cuando la nieve se derritió, Mondstadt comenzó a tomar forma, momento en que, al fin, encontraron algo por lo que luchar. 
+Serenidad
+Al hacer daño por medio de una Habilidad Elemental, hay un <color=#99FFFFFF>40%</color> de probabilidad de restablecer el TdE de esta habilidad. Este efecto puede activarse una vez cada <color=#99FFFFFF>30</color> s.
+Serenidad
+Al hacer daño por medio de una Habilidad Elemental, hay un <color=#99FFFFFF>50%</color> de probabilidad de restablecer el TdE de esta habilidad. Este efecto puede activarse una vez cada <color=#99FFFFFF>26</color> s.
+Serenidad
+Al hacer daño por medio de una Habilidad Elemental, hay un <color=#99FFFFFF>60%</color> de probabilidad de restablecer el TdE de esta habilidad. Este efecto puede activarse una vez cada <color=#99FFFFFF>22</color> s.
+Serenidad
+Al hacer daño por medio de una Habilidad Elemental, hay un <color=#99FFFFFF>70%</color> de probabilidad de restablecer el TdE de esta habilidad. Este efecto puede activarse una vez cada <color=#99FFFFFF>19</color> s.
+Serenidad
+Al hacer daño por medio de una Habilidad Elemental, hay un <color=#99FFFFFF>80%</color> de probabilidad de restablecer el TdE de esta habilidad. Este efecto puede activarse una vez cada <color=#99FFFFFF>16</color> s.

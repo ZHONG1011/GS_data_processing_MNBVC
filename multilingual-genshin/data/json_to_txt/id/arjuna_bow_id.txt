@@ -1,0 +1,13 @@
+Sharpshooter's Oath
+Busur kuat yang pernah dimiliki oleh seorang pemanah terbaik. Tetapi aura kuat yang terpancar dari busur ini membuatnya tidak cocok dipakai untuk berburu.
+ Dahulu kala, di suatu tempat, yang jauh sekali... ada sebuah tragedi. Sebuah tragedi kuno, di mana para saudara menggunakan senjata untuk saling bertarung. Di antara mereka ada seorang pemanah andal. Setelah menderita kekalahan yang memalukan, dia bersumpah: Sampai aku mengalahkan musuhku, menusuk leher mereka, Aku tidak akan pernah membasuh kakiku, sampai darah musuhku itu mengering. Menurut legenda, orang ini akhirnya gugur karena infeksi di kakinya. 
+Precise
+Meningkatkan <color=#99FFFFFF>24%</color> DMG serangan yang mengenai titik kelemahan musuh.
+Precise
+Meningkatkan <color=#99FFFFFF>30%</color> DMG serangan yang mengenai titik kelemahan musuh.
+Precise
+Meningkatkan <color=#99FFFFFF>36%</color> DMG serangan yang mengenai titik kelemahan musuh.
+Precise
+Meningkatkan <color=#99FFFFFF>42%</color> DMG serangan yang mengenai titik kelemahan musuh.
+Precise
+Meningkatkan <color=#99FFFFFF>48%</color> DMG serangan yang mengenai titik kelemahan musuh.

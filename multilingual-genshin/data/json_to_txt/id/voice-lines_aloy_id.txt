@@ -1,0 +1,114 @@
+Halo
+Aku Aloy. Aku tidak tahu dunia ini, tapi panahku sudah kuasah dan busurku sudah siap. Kalau kamu perlu bantuan, aku akan lakukan apa yang kubisa.
+Berbincang: Melangkah
+Sudah cukup, ayo bergerak.
+Berbincang: Tolong
+Ayo pergi. Masih ada yang butuh bantuan.
+Ketika Turun Hujan
+Hujan. itulah salah satu cara untuk membersihkan kotoran.
+Setelah Hujan
+Hujannya sudah berhenti. Waktunya untuk mengeringkan diri.
+Ketika Turun Salju
+Dunia selalu terlihat lebih hening ketika salju turun.
+Waktu Angin Bertiup
+Angin mulai bertiup lagi. Segarnya menghirup udara ini.
+Ketika Angin Berembus
+Tiupan anginnya semakin kencang sekarang. Wajahku terasa sakit.
+Selamat Pagi
+Selamat pagi. Dunia bergerak kembali. Begitu pun aku.
+Selamat Siang
+Setengah hari sudah berlalu, tapi masih banyak yang harus kita lakukan.
+Selamat Malam
+Matahari kini terbenam. Sebentar lagi kita akan berdiri di bawah jutaan bintang.
+Selamat Tidur
+Selamat malam. Sekarang waktunya istirahat, kecuali kalau kita masih mau terus bergerak di bawah sinar bintang-bintang.
+Tentang Aloy
+Aku dibesarkan sebagai orang buangan, dan pengalaman itu sama sekali tidak menyenangkan. Meskipun aku adalah orang asing di sini, tapi orang-orang di sini justru lebih ramah daripada suku yang seharusnya membesarkan aku. Rasanya ... sangat menyenangkan.
+Tentang Kita: Tindakan
+Semua yang kulakukan adalah demi melindungi kehidupan, bukan memusnahkannya. Karena itulah, aku ada di sini bersamamu.
+Tentang Kita: Sumpah
+Sebuah sumpah terkesan hanya sebuah formalitas. Tapi kalau kamu menginginkan sumpahku, aku akan memberikannya untukmu.
+Tentang Kita: Bergerak Maju
+Aku akan melakukan apa pun untuk bisa menyelesaikan perjalanan ini bersamamu. Aku tidak ragu-ragu. Aku tidak akan goyah.
+Berbagi Cerita
+Kalau aku harus berbagi sesuatu, mungkin tentang busurku ... yang kupakai untuk menolong orang-orang yang butuh bantuan.
+Kisah Menarik
+Tanah ini memiliki masa lalu yang penuh rahasia, sama seperti duniaku. Aku akan mengungkap semua rahasia itu, tentunya kalau aku punya cukup waktu.
+Mengenal Aloy: I
+Aku tidak banyak berbicara tentang diriku sendiri. Bagiku, misi adalah hal yang paling penting.
+Mengenal Aloy: II
+Aku tidak pernah punya orang tua. Tapi seorang pria bernama Rost, dialah yang membesarkanku. Dia tegas, tapi baik dan murah hati. Dia juga melatihku dengan baik. Aku merindukannya.
+Mengenal Aloy: III
+Aku menghabiskan seluruh hidupku untuk mencari ibuku, tapi tidak pernah menemukannya. Tapi aku menemukan pesan kuno dari wanita di mana aku... dikloning. Rasanya seperti dia mengenalku. Dan dia tahu cara menginspirasiku.
+Mengenal Aloy: IV
+Ketika aku tumbuh dewasa, aku tidak punya teman. Kemudian dalam perjalananku, aku berteman dengan beberapa orang. Tapi aku sudah meninggalkan dunia itu sebelum kami berkomunikasi lebih dekat. Itulah mengapa aku senang bisa menjalani waktu bersamamu.
+Mengenal Aloy: V
+Percaya adalah hal yang tidak mudah untuk kulakukan, tapi aku yakin kalau aku bisa memercayaimu. Kamu adalah teman sejati. Aku jarang mengungkapkan pengakuan itu.
+Hobi Aloy
+Aku tidak yakin apa hobiku, kalau kamu anggap membaca barang-barang kuno sebagai hobi ... mungkin hobiku adalah, sejarah?
+Kekhawatiran Aloy
+Satu dunia butuh diselamatkan. Sekarang ada dunia lain juga yang membutuhkannya. Tidak ada waktu untuk beristirahat.
+Makanan Favorit
+Aku tidak pilih-pilih makanan. Daripada melakukan perjalanan dengan perut kosong, apa pun akan kumakan.
+Makanan yang tidak disukai
+Aku pernah memakan Oseram rebus yang sangat tebal, sampai mungkin kamu bisa menggunakannya untuk mengaspal jalan. Ugh.
+Ulang Tahun
+Aku tidak pernah merayakan ulang tahun terlalu meriah. Di dunia tempatku berasal, orang-orang akan memperingati ibunya, dan bukan diri sendiri. Meskipun begitu, aku berharap semoga ini hari yang membahagiakan untukmu.
+Perasaan Tentang Ascension: Permulaan
+Bagus. Aku merasa ada kemajuan yang kita capai, tapi kita tidak bisa berhenti di sini.
+Perasaan Tentang Ascension: Persiapan
+Semakin baik dan semakin kuat. Keduanya memang hal yang baik.
+Perasaan Tentang Ascension: Klimaks
+Tidak peduli kamu pemburu sehebat apa, kamu selalu bisa untuk menjadi lebih hebat lagi. Jangan beristirahat. Jangan berhenti belajar.
+Perasaan Tentang Ascension: Konklusi
+Saat kita memulainya, kamu hanyalah orang asing di dunia yang tidak kupahami. Tapi setelah semua yang telah kita lalui, aku dapat mengatakan hal ini dengan keyakinanku: Busur yang kumiliki kini milikmu, sekarang dan senantiasa.
+Elemental Skill: I
+Ini akan jadi sebuah pukulan hebat!
+Elemental Skill: II
+Ini untukmu!
+Elemental Skill: III
+Pernah lihat ini?
+Elemental Burst: I
+Kamu terjebak!
+Elemental Burst: II
+Ini jurus baru.
+Elemental Burst: III
+Saatnya berburu!
+Membuka Wind Glider: I
+Ha! Ini menarik!
+Membuka Peti Harta: I
+Yang begini kelihatannya akan berguna.
+Membuka Peti Harta: II
+Yang ini bisa dimakan ... Ini masih bisa dipakai ....
+Membuka Peti Harta: III
+Siapa yang simpan semua ini di sini?
+HP Rendah: I
+Yang ini kuat juga ....
+HP Rendah: II
+Ayo, ayo. Di mana kelemahanmu ....
+HP Rendah: III
+Aku ceroboh ....
+HP Rekan Rendah: I
+Hati-hati!
+HP Rekan Rendah: II
+Jangan ceroboh!
+Gugur: I
+Aku gagal ....
+Gugur: II
+Maafkan aku ....
+Gugur: III
+Tidak ... Ini semua sudah berakhir ....
+Menerima Serangan Ringan: I
+Uh!
+Menerima Serangan Ringan: II
+Masalah kecil.
+Menerima Serangan Hebat: I
+Agh!
+Menerima Serangan Hebat: II
+Aku sudah tahu ini tidak akan begitu mudah ....
+Bergabung ke Party: I
+Mau ke mana sekarang?
+Bergabung ke Party: II
+Aku Aloy. Siap berburu.
+Bergabung ke Party: III
+Butuh bantuan? Aku di sini.

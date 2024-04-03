@@ -1,0 +1,158 @@
+Première rencontre...
+Amber l'Éclaireuse, au rapport ! N'hésite pas à me dire comment je peux te rendre service !
+Bavardage - Intérêts
+J'ai bien envie de courir un peu...
+Bavardage - Pensées
+Jean ne serait pas ravie de nous voir paresser comme ça.
+Bavardage - Découvertes
+Je crois avoir vu un truc étrange par là-bas... On va voir de plus près ? Allez !
+Quand il pleut - Inquiétude
+Ah, il pleut... Je vais être trempée de la tête aux pieds...
+Quand il pleut - Rappel
+La pluie réduit notre champ de vision... Il faut qu'on fasse plus attention.
+Après la pluie...
+Waouh, qu'il fait beau !
+Il fait bon dehors...
+Oui... Un peu plus de vent, et ce serait parfait.
+Quand le vent se lève - Agrément
+Ah... C'est tellement agréable !
+Quand le vent se lève - Détente
+J'adore ce genre de temps... On se sent tellement bien !
+Au réveil...
+Bonjour ! Tu te joins à moi pour une petite course matinale ?
+À l'heure du déjeuner...
+On mange ensemble ?
+Le soir...
+Il commence à faire sombre. On allume une torche ?
+La nuit...
+C'est important de se reposer ! Sur ce, à demain !
+À propos d'Amber elle-même...
+La championne de planage de Mondstadt est dans la place !
+À propos de nous - Compétition
+Je te préviens que je ne fais pas de cadeau ! Même pas pour toi !
+À propos de nous - Planage
+Quand je t'apprends à planer, j'ai l'impression d'aller plus vite que d'habitude... Hé ! Qu'est-ce qui te fait rire ? On peut faire une course, là, tout de suite ! Je vais te montrer un peu !
+À propos de l'œil divin...
+Cet œil divin signifie que j'ai été reconnue par les dieux. Je deviendrai la meilleure Éclaireuse de tous les temps !
+Quelque chose à partager ?
+Allez, montons sur le clocher de la cathédrale ! La vue est superbe là-bas !
+Détails intéressants...
+Regarde, un pigeon ! J'aimerais bien pouvoir voler avec eux.
+À propos de Jean - Aide
+Depuis le départ du Grand Maître, Jean croule sous le travail. Si seulement je pouvais l'aider ne serait-ce qu'un peu...
+À propos de Jean - Souci
+Jean travaille encore ? Allez, proposons-lui une tasse de café.
+À propos de Lisa - Écoute des histoires
+On ira voir Lisa quand tu seras libre ! L'autre jour, elle m'a raconté qu'il y avait un trésor aux Monts Dosdragon, mais elle n'a pas fini son histoire. Je meurs d'envie de savoir la suite !
+À propos de Lisa - Admiration
+Quand elle ne fait pas la sieste, Lisa passe son temps le nez dans les bouquins ! Franchement, je ne sais pas comment elle fait pour rester si longtemps en place...
+À propos de Kaeya - Inquiétude
+Ah, je me sens soudainement mal à l'aise ! Kaeya t'a tenu compagnie, n'est-ce pas ? J'espère qu'il ne t'embête pas...
+À propos de Kaeya - Coupable
+Les pissenlits de notre parterre de fleurs sont tous ratatinés... Rah, je suis sûre que c'est cette brute de Kaeya qui les a écrasés avec ses gros sabots !
+À propos de Bennett...
+Bennett ? J'ai déjà entendu ce nom quelque part... Ah ! Tu parles de cet aventurier passionné ! L'autre jour, je l'ai croisé à côté d'un donjon. Il avait l'air à l'affût d'un trésor...
+À propos de Klee...
+Hum, Klee fait des bêtises parfois, mais on l'aime beaucoup chez l'Ordre de Favonius ! Je devrais la surveiller de plus près pour qu'elle évite de se retrouver encore en détention...
+À propos d'Albedo...
+Albedo reste enfermé dans son bureau la plupart du temps pour bidouiller des trucs. Quand je le regarde, je me demande ce qui peut bien lui traverser l'esprit... mais je n'en ai vraiment aucune idée.
+À propos de Noëlle...
+Noëlle ? C'est vraiment une force de la nature ! Je devrais la prendre sous mon aile, car je suis son aînée à l'Ordre de Favonius.
+À propos d'Eula...
+Eula ? C'est une amie, une vraie ! Il faut juste s'habituer à son sens de l'humour, et le reste se passe sans problème ! Si tant de gens se trompent à son sujet, c'est à cause de son nom de famille. Comment faire pour qu'ils l'acceptent telle qu'elle est ?
+À propos de Collei...
+DATA NOT FOUND
+À propos de Mika...
+Mika ? C'est un ancien de l'unité d'Eula. Au début, il a vu que j'étais proche d'Eula, alors il m'appelait toujours « commandante ». Quand je lui ai partagé mon expérience d'éclaireuse, il s'est mis à m'appeler « madame »... Ça me met un peu mal à l'aise. On a simplement des responsabilités différentes, lui et moi... Je ne pourrais jamais égaler son expertise en cartographie.
+Connaître Amber (1)
+Je suis aussi douée pour la chasse ! Tu veux voir de quoi je suis capable ? Je sais, que dirais-tu d'un concours de chasse ?
+Connaître Amber (2)
+Laisse-moi te dire un secret en tant que championne de planage : l'important, c'est d'avoir le courage de se lancer !
+Connaître Amber (3)
+Je ne peux pas m'empêcher de faire le tour des stands de jeu d'énigmes lors du Ludi Harpastum, même si je ne suis pas douée pour les résoudre... Et toi ?
+Connaître Amber (4)
+Mon grand-père m'a donné envie de rejoindre l'Ordre de Favonius, et Jean m'a donné envie d'y rester. À présent, je t'accompagne au-delà des frontières de Mondstadt ! J'en suis très heureuse !
+Connaître Amber (5)
+J'ai envie de voir d'autres mondes et de braver les limites du ciel ! On le fera ensemble, hein ? Dis oui !
+Les loisirs d'Amber...
+Encore une bonne journée, Baron Lapinou !
+Les problèmes d'Amber...
+Dis, tu sais comment faire pour préparer une bonne tourte de lune ?
+Plats préférés...
+Le café de Jean est le meilleur du monde ! Tu devrais en boire une tasse à l'occasion.
+Plats détestés...
+Je peux tout supporter, tant que ce n'est pas du jus de baie à crochet !
+Cadeau reçu (1)
+#Ouah, mais c'est super bon. T'es trop {M#doué}{F#douée} !
+Cadeau reçu (2)
+Si seulement je pouvais cuisiner aussi bien...
+Cadeau reçu (3)
+Désolée, je n'ai pas l'habitude de manger ce genre de plat ! Ce n'est pas du tout ta faute !
+Anniversaire...
+Joyeux anniversaire, héhé ! Voici, rien que pour toi, un Baron Lapinou en édition limitée ! ... T'inquiète, comme je te l'ai dit, il s'agit d'une édition limitée, alors il n'explosera pas !
+Affinité faible
+Waouh ! Aussi vif que le vent !
+Affinité moyenne
+Personne n'arriverait à me rattraper à cette vitesse !
+Affinité élevée
+Le ciel de Mondstadt m'a l'air plus étroit... Peut-être que ce sont mes horizons qui se sont élargis ?
+Affinité max
+Je ne suis plus la même depuis notre rencontre ! Grâce à toi, je suis devenue plus forte ! Pour te remercier, je t'invite à manger un délice de viande et carottes au miel, allez !
+Compétence élémentaire (1)
+Je compte sur toi !
+Compétence élémentaire (2)
+En avant, Baron Lapinou !
+Compétence élémentaire (3)
+♪ Lala~ Lalala~
+Déchaînement élémentaire (1)
+Dans le mille !
+Déchaînement élémentaire (2)
+Que ma pluie de flèches s'abatte sur vous !
+Déchaînement élémentaire (3)
+Je te tiens !
+Début de sprint (1)
+C'est parti pour la course !
+Début de sprint (2)
+Tu arrives à me suivre ?
+Fin de sprint (1)
+Je t'avais dit que je gagnerai.
+Fin de sprint (2)
+C'est le bon esprit !
+Utilisation de planeur (1)
+La championne de planage de Mondstadt est dans la place !
+Utilisation de planeur (2)
+Laissez-moi faire !
+Ouverture de coffre (1)
+Ouvrir un coffre, c'est comme déballer un cadeau d'anniversaire !
+Ouverture de coffre (2)
+Et une autre cible découverte par l'Éclaireuse Amber !
+Ouverture de coffre (3)
+Waouh, voilà qui sera utile !
+PV faibles (1)
+... Je refuse de perdre !
+PV faibles (2)
+J'ai mal... Espèce de...
+PV faibles (3)
+Ne me sous-estimez pas !
+Compagnon avec PV faibles (1)
+À couvert !
+Compagnon avec PV faibles (2)
+Hé... Besoin d'aide ?
+K.O. (1)
+Je suis fatiguée de courir...
+K.O. (2)
+Je dois... continuer à m'entraîner...
+K.O. (3)
+J'ai perdu... cette fois...
+Attaque légère subie (1)
+Hé !
+Attaque puissante subie (1)
+Ça fait mal !
+Attaque puissante subie (2)
+C'est de la triche !
+Ajout dans l'équipe (1)
+Je m'en occupe !
+Ajout dans l'équipe (2)
+Prête à partir !
+Ajout dans l'équipe (3)
+Amber l'Éclaireuse, à ton service !

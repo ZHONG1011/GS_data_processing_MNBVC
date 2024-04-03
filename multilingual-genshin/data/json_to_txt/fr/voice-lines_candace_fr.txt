@@ -1,0 +1,138 @@
+Première rencontre...
+#Bonjour, {M#voyageur venu}{F#voyageuse venue} de loin. Les nuits dans le désert sont cruelles. Vous devriez séjourner ici ce soir. Dormez profondément, je veille sur vous.
+Bavardage - Lance et bouclier
+Un bouclier n'est pas suffisant pour protéger tout ce qui est précieux. C'est donc pour cela que je tiens aussi une lance.
+Bavardage - Vie
+Je souhaite que tout le monde soit en sécurité et en bonne santé. Si j'arrive à maintenir une vie paisible pour les habitants, alors je serai satisfaite...
+Bavardage - Souhaits
+Je chercherai toujours à protéger les choses les plus importantes, quoi qu'il en coûte... Même si cela semble futile.
+Quand il pleut...
+N'attrapez pas froid.
+Quand le tonnerre gronde...
+L'orage gronde... Est-ce que ça vous fait peur ?
+Quand il neige...
+Ces choses blanches... Elles sont glaciales...
+Le vent souffle fort...
+#Dans le désert, un vent fort peut donner lieu à des tempêtes de sable. Restons {M#vigilants}{F#vigilantes}.
+Dans le désert...
+#Je suis à côté de vous. Si vous êtes {M#inquiet}{F#inquiète}, prenez ma main.
+Au réveil...
+#Bonjour ! Avez-vous dormi paisiblement, {M#voyageur}{F#voyageuse} ?
+À l'heure du déjeuner...
+C'est déjà midi. L'œil doré du ciel rayonne férocement à cette heure... Trouvons de l'ombre, pour échapper à sa colère.
+Le soir...
+Le soir tombe. Combien de secrets se cachent derrière ce voile nocturne où la lumière prend fin...
+La nuit...
+Oui, il est temps de se reposer. Vous devriez dormir. Quant à moi ? Il est encore beaucoup trop tôt. La nuit est belle, mais elle est aussi pleine de dangers... Je dois monter la garde, pour votre bien.
+À propos de Candace - Couleur des yeux
+Vous trouvez ça curieux ? Je ne vois pas ce que vous voulez dire. L'ambre et le bleu sont des couleurs d'yeux assez communes, je crois...
+À propos de Candace - Village d'Aaru
+Le Village d'Aaru est l'endroit où je suis née et où j'ai grandi. Même lorsque j'étais trop jeune pour comprendre quoi que ce soit à la vie, j'étais sûre d'une chose : j'allais succéder à mon grand-père en tant que protectrice de notre village... Aujourd'hui, je suis honorée d'exercer cette fonction. Je suis née pour ça.
+À propos de Candace - Parents
+Mon père était chercheur à l'Académie. Il est venu au Village d'Aaru dans le cadre de recherches, puis il a rencontré ma mère... Quant à elle, je ne sais malheureusement que ce que mon père m'a dit. Le jour de ma naissance, elle a commencé son voyage dans la nuit éternelle...
+À propos de nous - Accueil d'invités
+#Vous serez toujours {M#un invité d'honneur}{F#une invitée d'honneur} au Village d'Aaru. Si jamais vous vous fatiguez de votre voyage, vous pouvez toujours venir ici pour vous reposer. Vous serez toujours {M#le bienvenu}{F#la bienvenue} au Village d'Aaru... Je vous accueillerai toujours chaleureusement.
+À propos de nous - Trésor dans le coffre
+On dit que dans le cœur de chaque personne se trouve une boîte précieuse dans laquelle elle place les choses qu'elle chérit afin de les garder toute sa vie. Mon cœur recèle de nombreux trésors... Vous voulez essayer de deviner ce que c'est ?
+À propos de l'œil divin...
+Quand j'ai reçu mon œil divin, les gens du village n'arrêtaient pas de me dire que c'était une bénédiction d'Al-Ahmar... Mais ça n'a pas d'importance pour moi. J'ai juré de protéger le village, et je le ferai avec ou sans œil divin.
+Quelque chose à partager ?
+J'aime passer du temps au Village d'Aaru. Mais chaque jour ici me rappelle que si je commence à baisser ma garde et que je laisse un drame se produire... Je ne retrouverai plus jamais la vie que j'ai actuellement.
+Détails intéressants...
+Avez-vous déjà rencontré du nougat d'ajilenakh au cours de votre voyage ? Ce sont des fruits très sucrés que les villageois utilisent pour faire de délicieuses confiseries. Si ça vous intéresse, vous devriez goûter.
+À propos de la Rani Kusanali...
+Peut-être est-ce un témoignage de la bienveillance de l'Archon Dendro que moi, une descendante de la lignée d'Al-Ahmar, puisse vivre en paix sur cette terre. Même si je suis un petit peu reconnaissante envers elle, je reste une enfant du désert.
+À propos de Layla...
+DATA NOT FOUND
+À propos d'Alhaitham...
+C'est un chercheur vraiment inhabituel, différent de tous ceux que j'ai rencontrés avant lui. Il voit et pense les choses à sa manière... J'espère seulement qu'il n'utilisera jamais son intelligence pour perturber la paix du Village d'Aaru.
+À propos de Cyno...
+Dans le passé, il était rare de voir le général mahamatra de l'Académie de ce côté du Mur de Samiel, mais depuis peu, il apparaît ici fréquemment. Je crois que les Érémites ont des histoires vraiment terrifiantes à son sujet...
+À propos de Dehya...
+Chaque fois que Dehya fait séjourner ses amis érémites au Village d'Aaru, elle fait en sorte de les restreindre le plus possible. Je dois dire que ça me rend la vie beaucoup plus facile. Cette Dehya... Derrière son apparence de mercenaire impétueuse se cache quelqu'un de tout à fait adorable.
+Connaître Candace (1)
+Vous voulez connaître mon histoire ? Ce n'est pas une histoire très intéressante, mais si vous insistez... Attendons la tombée de la nuit. On pourra s'asseoir au coin du feu, et je vous dirai tout ce que vous souhaitez savoir.
+Connaître Candace (2)
+Nous sommes un peuple qui a perdu sa divinité protectrice. Pour nous, les mensonges ne sont pas des menaces, seule la perspective de perdre notre avenir en est une. Le chemin qui s'offre à nous est pavé d'embûches et chaque pas est douloureux. Il est douloureux d'avancer sur le chemin épineux des mensonges, mais peut-être que... peut-être que c'est plus noble que d'accepter égoïstement la prétendue vérité et de mourir avec elle...
+Connaître Candace (3)
+Même aujourd'hui, certains persistent à croire que Deshret, le roi écarlate, va ressusciter. Mais ce n'est pas possible. Le passé n'est que des grains de sable dispersés par le vent. Le mieux que nous puissions faire est de les laisser partir, car se faire emporter par le vent est le meilleur dénouement qu'ils puissent connaître.
+Connaître Candace (4)
+Mon bouclier ? Eh bien, d'après ce que disent les gens hors du village, il a la bénédiction de Bennu. Ils affirment qu'avec ce bouclier en main, tous les grains de sable deviennent mes yeux et mes oreilles, et le désert est prêt à m'obéir... Mais ce n'est que leur imagination, rien de plus. Cela mis à part, l'essentiel pour moi est qu'il fonctionne toujours à merveille.
+Connaître Candace (5)
+J'aimerais pouvoir lire votre avenir avec mon œil d'ambre, si je pouvais... Quelque chose me dit qu'il serait entièrement doré, d'une couleur entre celle du soleil et celle du miel... Une couleur pleine d'espoir. Votre voyage se passera sans heurts, vous avez ma bénédiction.
+Les loisirs de Candace...
+Ce que je préfère, c'est me promener dans le village. Voir que tout va bien me donne l'impression que... si aujourd'hui est comme hier, et si hier est comme tous les jours précédents... Les choses ont toujours été agréables ici.
+Les problèmes de Candace...
+De temps en temps, il y a quelques voyous pas très futés qui viennent perturber la paix et la tranquillité du Village d'Aaru. Je me demande... si les chasser dans une vallée infestée de monstres n'est pas un peu trop... gentil ? Qu'en pensez-vous ? Avez-vous une meilleure idée de la façon dont je devrais les traiter ?
+Plats préférés...
+Pour moi... La quantité est plus importante que le goût quand il s'agit de nourriture. Vivre dans le désert consomme plus d'énergie qu'on ne le pense. Après une journée de travail, il n'y a rien de plus satisfaisant qu'un bon repas.
+Plats détestés...
+Je ne déteste pas ça, mais comparé à la viande, manger du poisson est une vraie plaie... Je ne suis pas très douée pour enlever les arêtes des poissons. Peut-être que c'est parce qu'on ne mange pas vraiment de poisson dans le désert. J'imagine que vous devez trouver ça ridicule.
+Cadeau reçu (1)
+C'est un régal ! Vous avez dû vous donner du mal pour cuisiner un plat aussi bon.
+Cadeau reçu (2)
+#Vous êtes {M#un voyageur}{F#une voyageuse} qui passe son temps sur la route, et pourtant, on se sent comme chez soi quand on goûte vos plats.
+Cadeau reçu (3)
+Peut-être que j'ai une définition trop démodée de ce qui constitue un aliment comestible...
+Anniversaire...
+#Joyeux anniversaire ! C'est incroyable de se dire que vous êtes {M#né}{F#née} en ce jour il y a des années dans le passé. Avez-vous un souhait pour votre anniversaire ? Si vous voulez aller dans un endroit dangereux, laissez-vous accompagner, je serai votre garde. Si vous cherchez à vous reposer et à vous revitaliser, venez au Village d'Aaru, et je vous servirai les meilleures viandes et boissons que nous avons.
+Affinité faible
+Je sens une nouvelle force en moi... Espérons qu'elle fera de moi une meilleure protectrice.
+Affinité moyenne
+Mon bouclier devient plus solide, et ma lance plus tranchante. J'ai autrefois entendu parler du paradoxe de la lance qui peut tout percer et du bouclier qu'on ne peut détruire. Mais je n'essaierai pas de les faire s'entrechoquer.
+Affinité élevée
+J'ai appris à manier la lance et le bouclier en sachant que j'en aurais besoin un jour, et aujourd'hui j'utilise mes compétences pour protéger le village. Peut-être que la nouvelle force que je suis en train d'obtenir est pour me préparer aux épreuves qui m'attendent dans le futur.
+Affinité max
+Je suis maintenant capable de me tenir devant vous et de repousser tous les dangers qui chercheraient à vous atteindre. Si vous me faites confiance, alors fermez les yeux et laissez-moi m'occuper de vos ennemis.
+Compétence élémentaire (1)
+Abandonnez !
+Compétence élémentaire (2)
+Fuyez !
+Compétence élémentaire (3)
+Venez !
+Compétence élémentaire (4)
+Attaque perçante !
+Compétence élémentaire (5)
+C'est tout ce que vous avez ?
+Compétence élémentaire (6)
+Une faille !
+Déchaînement élémentaire (1)
+Entends ma prière !
+Déchaînement élémentaire (2)
+Accorde-nous ta bénédiction !
+Déchaînement élémentaire (3)
+C'est une bataille défensive !
+Ouverture de coffre (1)
+Il n'y a que des objets utiles...
+Ouverture de coffre (2)
+Alors ? Y a-t-il quelque chose qui vous plaît ?
+Ouverture de coffre (3)
+J'espère que vous trouverez quelque chose qui vous sera utile.
+PV faibles (1)
+Je ne vous ménagerai plus.
+PV faibles (2)
+Vous n'avez aucun scrupule ?
+PV faibles (3)
+Dégagez... Tout de suite...
+Compagnon avec PV faibles (1)
+Reposez-vous...
+Compagnon avec PV faibles (2)
+Mettez-vous derrière moi !
+K.O. (1)
+Je dois continuer à m'entraîner...
+K.O. (2)
+Désolée, je n'ai pas pu vous protéger...
+K.O. (3)
+Mon bouclier... Il est brisé...
+Attaque légère subie (1)
+Ce n'est rien du tout.
+Attaque puissante subie (1)
+Impressionnant.
+Attaque puissante subie (2)
+C'est juste une égratignure.
+Ajout dans l'équipe (1)
+#Qu'y a-t-il ? Êtes-vous en danger{NON_BREAK_SPACE}?
+Ajout dans l'équipe (2)
+Restez près de moi.
+Ajout dans l'équipe (3)
+J'assurerai votre sécurité.

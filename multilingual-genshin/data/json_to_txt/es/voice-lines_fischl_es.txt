@@ -1,0 +1,136 @@
+Hola...
+#<color=#37FFFF>Fischl:</color> Yo, Fischl, la Princesa del Juicio, desciendo a este mundo al ser llamada por el destino, y... ¿Tú también eres {F#una viajera}{M#un viajero} de otro mundo? Muy bien, te doy permiso para viajar conmigo.  <color=#37FFFF>Oz:</color> Te pido disculpas. Lo que realmente quiere decir es “encantada de conocerte”.
+Charla - Susurros del Destino
+Escucho la voz del destino susurrando mi nombre con humildad...
+Charla - La creación del mundo
+¡Hum! Que la gloria de la Princesa traiga la luz a este mundo.
+Charla - La persona del más allá
+<color=#37FFFF>Fischl:</color> Me preocupa el bienestar de mi séquito al haberme ido de manera imprevista...  <color=#37FFFF>Oz:</color> Seguro que la buena gente del Gremio de Aventureros está perfectamente, señorita.
+Tras la lluvia...
+Oh, sale el sol... *Cof* Hummm... ¡Qué espléndida transmutación meteorológica! Es como un feliz giro del destino.
+Cuando truena...
+<color=#37FFFF>Fischl:</color> ¡Oh! ¡Mira ese Trueno del destino presagiado!  <color=#37FFFF>Oz:</color> Ahora que lo dice, ¿no tenía usted ropa secándose fuera?  <color=#37FFFF>Fischl:</color> ¡¿Qué?!
+Cuando nieva...
+<color=#37FFFF>Fischl</color> ¡Ajá! Un maravilloso paisaje. ¡Me recuerda a mi mundo natal, donde, al ver a la Princesa del Juicio, la sangre y las lágrimas de los pecadores se convierten en hielo! A... ¡Achís! ¡Achís!  <color=#37FFFF>Oz:</color> De hecho, no solo su sangre y sus lágrimas, sino también su saliva y sus mocos, señorita.  <color=#37FFFF>Fischl: </color> Oz... A... ¡Achís!
+Qué sol hace...
+<color=#37FFFF>Fischl:</color> Oz, mi estimado acompañante...  <color=#37FFFF>Oz:</color> ¿En qué está pensando?  <color=#37FFFF>Fischl:</color> Su Majestad te ruega que despliegues tus benditas alas para borrar los cielos y sumergir al mundo en la noche eterna...  <color=#37FFFF>Oz:</color> ¡Señorita! Si no trajo su sombrilla, es culpa suya.
+Buenos días - Saludo de Fischl
+El anochecer y el amanecer no son más que unas fugaces sombras. Una vez más, los giros del destino te trajeron a mi eterna noche.
+Bueno días - Saludo de Oz
+<color=#37FFFF>Oz:</color> Buenos días. La señorita escuchó que vendrías, así que está preparando el desayuno.  <color=#37FFFF>Fischl:</color> ¡Oz! *Ejem* ¿En qué puedo servirte?
+Buenas tardes...
+*Bosteza*, ni siquiera alguien de la realeza como yo puede escapar a la somnolencia que acecha a esta hora del día...
+Buenas noches... (I)
+<color=#37FFFF>Fischl:</color> Las estrellas del firmamento no son más que grietas abiertas por el pico de Oz en el infinito tapiz de la oscuridad.  <color=#37FFFF>Oz:</color> Qué cosas tan extrañas dice, señorita.
+Buenas noches... (II)
+<color=#37FFFF>Fischl:</color> ¡Dulces serán tus sueños, pues ninguna pesadilla se atrevería a atormentar a los bendecidos por el Reino de la Noche Eterna!  <color=#37FFFF>Oz:</color> Dice que “buenas noches”.
+Sobre Fischl - Princesa del Juicio
+<color=#37FFFF>Fischl:</color> ¿Yo? ¡Recuerda que yo, Fischl, soy la Princesa del Juicio, soberana del Reino de la Noche Eterna, la omnisciente y eminente jueza de la inmoralidad del mundo!  <color=#37FFFF>Oz:</color> Y también investigadora del Gremio de Aventureros.  <color=#37FFFF>Fischl:</color> *Ejem* Bueno, ese solo es uno de mis muchos compromisos como miembro de la realeza.
+#Sobre nosotr{F#as}{M#os} - Los seres que descendieron a este mundo
+#Tú y yo somos {F#viajeras}{M#viajeros} de otro mundo. Que nuestros caminos se hayan cruzado aquí no es casualidad, sino la voluntad del destino.
+#Sobre nosotr{F#as}{M#os} - La cacería del monstruo del mundo
+#Pareces algo preocupad{F#a}{M#o}. Pero {F#viajera}{M#viajero}, no te desanimes. Porque gracias a mi ojo izquierdo, el Ojo del juicio, que ve los hilos del destino, te mantendré a salvo. Y Oz, el cuervo que ha sido testigo de la desaparición de incontables mundos, te vigilará durante tus viajes. ¡Si este mundo codicia tus sueños como una bestia que merodea por la noche, yo, la Princesa del Juicio, lo asolaré con mis flechas del juicio benditas!
+#Sobre nosotr{F#as}{M#os} - Figuras importantes
+#<color=#37FFFF>Fischl:</color> Oz, mi leal compañero... haber conocido a {F#esta viajera}{M#este viajero} procedente de otro mundo, igual que yo... Aunque el pecado corre por mis venas, tal vez el cruel destino se haya dignado a sonreírme por una vez. Si estoy destinada a permanecer aquí, en esta ineludible prisión que es la realidad, al menos...  <color=#37FFFF>Oz:</color> Ah... Entiendo, señorita. Quiere decir que, pase lo que pase, {F#esta viajera}{M#este viajero} nunca la abandonará.
+#Sobre nosotr{F#as}{M#os} - Protección
+#<color=#37FFFF>Fischl:</color> Ozvaldo Hrafnavines, yo, la Princesa del Juicio, soberana del Reino de la Noche Eterna, por la presente te pido que hagas todo lo posible para liberar a {F#esta viajera}{M#este viajero} de las garras de su destino, que trata de hacerle retroceder a cada paso que da, así como a prepararte mentalmente en caso de que se requiera que hagas un último sacrificio en el desempeño de esta noble tarea.  <color=#37FFFF>Oz:</color> Por favor, ¡deje de meterme en situaciones de vida o muerte, señorita!
+Sobre la Visión...
+¿Oh? ¿Preguntas sobre mi Gema de la Oscuridad? Es una reliquia real, un adorno ceremonial que muestra la majestuosidad de la Princesa del Juicio ante los indignos. Incluso aquí, en este mundo en decadencia, las pertenencias reales vuelven con su legítima dueña para fundirse con su alma aristocrática. Se trata, sin duda, de un destino inevitable.
+¿Algo que decir?
+<color=#37FFFF>Fischl:</color> Si debo calcular el tiempo según los parámetros de este mundo, yo, Fischl, he vivido tres mil inviernos. Pero bueno, tampoco es que el ilusorio paso del tiempo tenga importancia para mí, a quien se le ha revelado la causalidad de tres mil universos.  <color=#37FFFF>Oz:</color> Sin embargo, señorita, en este mundo no se considera que usted tenga la edad requerida para beber alcohol, por lo que no podrá convencer a ningún cantinero.
+Una noticia interesante...
+El nombre completo de Oz es Ozvaldo Hrafnavines. En el mundo del que provengo, él controla las estrellas y el cielo de tres universos, y las almas de los más fuertes, los cuales cayeron en la batalla, descansan bajo la sombra de sus alas. Cabe mencionar que el castigo por pronunciar mal su nombre es que le arranquen la lengua a quien lo haga. Sin embargo, como yo soy una princesa y tú tienes mi validación, gozamos de la libertad de llamarlo simplemente “Oz”.
+Sobre Bennett...
+<color=#37FFFF>Fischl:</color> Ah, el joven destinado a la eterna desgracia... Mi Ojo del juicio ha visto con una claridad inequívoca cómo su corazón sufre por ser abandonado por el resto...  <color=#37FFFF>Oz:</color> Alguien debería vigilar a ese pobre chico.
+Sobre Lisa...
+<color=#37FFFF>Fischl:</color> La vigilante mágica de los libros y guardiana del conocimiento universal... Si te ganas su confianza, podrías tener acceso al mayor repositorio de sabiduría existente...  <color=#37FFFF>Oz:</color> Dice que “siempre y cuando devuelvas los libros de la biblioteca a tiempo, nunca tendrás problemas para seguir llevándote más”.
+Sobre Kaeya...
+<color=#37FFFF>Fischl:</color> Su naturaleza es oscura, su destino, un misterio, y su forma de hablar, un irritante tapiz tejido con hechos y ficción... Quizás lo único que compartimos es la carga de una mirada enigmática...  <color=#37FFFF>Oz:</color> ¿O tal vez es un pirata que desea mantener en secreto su identidad?
+Sobre Mona...
+<color=#37FFFF>Fischl:</color> ¡Ajá! Sí, Mona, la poderosa astróloga... Mona, ¡la que una vez osó investigar el destino de la Princesa del Juicio, y que, debido a ello, acabó con todo el cuerpo temblando de miedo!  <color=#37FFFF>Oz:</color> *Susurra* La pobre muchacha estaba intentando desesperadamente no reírse. No fue nada fácil.
+Sobre Rosaria...
+<color=#37FFFF>Fischl:</color> Considero que la Hermana Rosaria es una de las creyentes más devotas del Arconte Anemo.  <color=#37FFFF>Oz:</color> ¿“Creyente devota”, señorita?  <color=#37FFFF>Fischl:</color> ¡Así es! Una noche, la escuché decirle a alguien “¡En nombre de Barbatos, el Arconte Anemo, muere!”. Supuse que estaba dirigiendo un rezo.
+Más sobre Fischl (I)
+Condenar a los pecadores, santificar a los justos y traer los sueños incumplidos al territorio del Reino de la Noche Eterna. Ese ese mi gran deber por cargar con la sangre de la Princesa del Juicio, algo que nadie puede negar.
+Más sobre Fischl (II)
+#¿Mi ojo izquierdo? Es el Ojo del juicio que todo lo ve, capaz de revelar todo lo que es verdad en el mundo. En cuanto a por qué lo oculto... Bueno, ¿tú estarías dispuest{F#a}{M#o} a cargar con la agonía de la cruda realidad y el dolor de todos los corazones del mundo? Además... el mundo sería un lugar mucho menos interesante si en él no existieran el engaño y la falsedad.
+Más sobre Fischl (III)
+<color=#37FFFF>Fischl:</color> ¿Stormterror? Nunca imaginé que una criatura que perfectamente podría ser la mascota de alguien en mi mundo podría ser capaz de causar tal desastre en este... *Suspira* Qué lamentables e incompetentes son los de este mundo...  <color=#37FFFF>Oz:</color> Dicho eso, señorita, ¿no estaba usted terriblemente preocupada por todos durante aquel desastre?  <color=#37FFFF> Fischl: </color> E-Eso es porque la Princesa del Juicio tiene el solemne deber de salvaguardar las almas de todo el mundo, ya sean seres indignos o no...
+Más sobre Fischl (IV)
+<color=#37FFFF>Oz:</color> Algunas personas se dirigen a ella con otros nombres, pero para mí, la que me dio vida y me otorgó mis poderes es Fischl. A fin de cuentas, Fischl es el nombre que mejor capta su esencia. En serio, no la llames de otra manera, o...  <color=#37FFFF>Fischl:</color> ¡Mis oídos reales me pitan! ¿Qué asunto discuten tan furtivamente?  <color=#37FFFF>Oz:</color> ¡D-de la Ilusión nocturna, señorita! ¡Y del nombre de la Princesa del Juicio!
+Más sobre Fischl (V)
+¿Que por qué la Princesa del Juicio debe castigar a los pecadores? ¡Porque el pecado constituye un desafío del legítimo decreto del destino! Y, por supuesto, el destino es lo que te trajo aquí, así que... así que... el destino vio tu descenso a este mundo, el mismo destino que también vio cómo nuestros caminos se entrelazaban. Yo, Fischl, siempre te protegeré. Porque... ¡porque tal es el decreto del destino!
+Aficiones de Fischl - Pregunta a Fischl
+Yo, Fischl, he recorrido la galaxia y atravesado innumerables mundos. He conocido el destino de diez mil universos, donde se me reveló el destino de todas y cada una de sus almas vivientes.
+Aficiones de Fischl - Pregunta a Oz
+<color=#37FFFF>Oz:</color> A la señorita le gusta mucho leer. De hecho, mi nombre, “Oz”, lo sacó de una de sus novelas favoritas.
+Preocupaciones de Fischl...
+¿Quieres saber qué me hace enojar? Las personas que no reconocen mi identidad como princesa. Pero no me importa, pues la soledad es la suerte de los más nobles, así que siempre y cuando no pierda la nobleza de mi alma...
+Comida que más le gusta...
+<color=#37FFFF>Fischl:</color> ¡Hum! ¿Qué es la comida sino los grilletes de la carne mortal? Pero si la Princesa del Juicio tuviera que escoger una comida digna para sí misma, entonces, mi bebida serían las lágrimas de los pecadores y mi comida, las lenguas de los calumniadores.  <color=#37FFFF>Oz:</color> Señorita, ¿es que ya no le gusta comer tostadas dulces de la noche eterna del palacio de verano?  <color=#37FFFF>Fischl:</color> ¡E-eso es solo para proporcionar a la cáscara que es mi cuerpo la energía que necesita!
+Comida que menos le gusta...
+<color=#37FFFF>Oz:</color> Creo que sé la respuesta a esa pre...  <color=#37FFFF>Fischl:</color> Por supuesto que la sabes. Esa pobre criatura privada de su propia naturaleza y mutilada...  <color=#37FFFF>Oz:</color> Que nunca más podrá volar, como hago yo...  <color=#37FFFF>Fischl:</color> Y cuyo bien más preciado, admirado y envidiado incluso por reyes y monarcas, se le arrebató, lo que, no hay duda, representa el infierno que es mi mundo natal... ¿Cuál era el nombre de ese plato?...  <color=#37FFFF>Oz:</color> Creo que lo llaman “alitas de pollo”, ¿cierto?
+Al recibir un regalo (I)
+<color=#37FFFF>Fischl:</color> Un manjar tan exquisito es digno de ser servido en el Jardín del Desasosiego donde la Princesa degusta las comidas.  <color=#37FFFF>Oz:</color> La señorita dice que “está disfrutando plenamente de este delicioso plato”.
+Al recibir un regalo (II)
+<color=#37FFFF>Fischl:</color> Para derrotar a la gran bestia de este mundo, uno ha de despojarse de sus mundanos deseos y entretejer su propio camino hacia el encuentro con el destino.  <color=#37FFFF>Oz:</color> Y, aun así, señorita, parecía estar disfrutando de lo que comió.
+Al recibir un regalo (III)
+<color=#37FFFF>Fischl:</color> ¿Por qué insistes en invocar el descenso del caos y la destrucción ante la presencia de tu Princesa?  <color=#37FFFF>Oz:</color> Disculpa, a la señorita no le gustó demasiado este plato.
+Cumpleaños...
+<color=#37FFFF>Fischl:</color> Bueno, si hoy es realmente el aniversario de tu nacimiento, no sería adecuado no celebrar la ocasión. Tienes toda mi atención. ¡Habla! Háblame de tus deseos, de aquello que más ansías cumplir durante tu fugaz y dura existencia en este miserable mundo. Sea cual sea ese deseo, yo haré que...  <color=#37FFFF>Oz:</color> Dice que “feliz cumpleaños. Si quieres, puedes pedirle a...”  <color=#37FFFF>Fischl:</color> ¡Oz! ¡Calla!
+El sentimiento de Ascensión - Introducción
+<color=#37FFFF>Fischl:</color> ¡Mi flecha mágica grita mi sagrado nombre mientras vuela a través de la noche, rezando para que el rayo violeta de la retribución golpee a los enemigos del destino desde el firmamento!  <color=#37FFFF>Oz:</color> ¡Impresionante, señorita! Ya que es casi la hora de la cena, ¿podría derribar una paloma con una de esas flechas?
+El sentimiento de Ascensión - Desarrollo
+<color=#37FFFF>Fischl:</color> De esta manera, podré hacer mejor alarde de mi autoridad como Princesa del Juicio y derrotar a ese enemigo del destino llamado “realidad”.  <color=#37FFFF>Oz:</color> Y también le servirá de mucho en su trabajo en el Gremio de Aventureros, señorita.
+El sentimiento de Ascensión - Nudo
+¡Regocíjense! ¡Tiemblen de terror! Pues gracias a su ojo izquierdo, ¡la Princesa del Juicio del Reino de la Noche Eterna ha visto con total claridad los hilos que tejen el destino del universo!
+El sentimiento de Ascensión - Desenlace
+Parece que ya recuperé una gran parte de la fuerza que perdí al pasar de un mundo a otro. ¡Mujajaja! ¡El día del juicio final se acerca! Ah, no te preocupes. Ni siquiera al final, cuando haga que el rayo de la retribución caiga sobre este mundo, no sufrirás ningún daño, pues cuentas con la bendición de la Princesa.
+Habilidad Elemental (I)
+¡Decreto real!
+Habilidad Elemental (II)
+¡Oz, revélate ante mí!
+Habilidad Elemental (III)
+¡Yo te invoco!
+Habilidad Elemental (IV)
+Oz: El mal no descansa...
+Habilidad Definitiva (I)
+Alas oscuras, ¡asolen el día y la noche!
+Habilidad Definitiva (II)
+¡Ilusión nocturna!
+Habilidad Definitiva (III)
+Cuervo de las sombras, ¡que caiga el velo de la noche!
+Habilidad Definitiva (IV)
+Oz: A sus ordenes, señorita.
+Habilidad Definitiva (V)
+Oz: ¡Ilusión nocturna!
+Al abrir un cofre (I)
+¡El destino me ha traído hasta aquí!
+Al abrir un cofre (II)
+¿Qué riquezas yacen bajo este páramo desolado?
+Al abrir un cofre (III)
+Jajaja, ¡grita mi ilustre nombre!
+Vida baja (I)
+¡Hum! ¿Ansías ser testigo de mi verídico poder?
+Vida baja (II)
+Oz: Señorita, si usted cayera, yo...
+Vida baja (III)
+¡Este atroz destino no es propio de una noble!
+Aliado con vida baja (I)
+¡Hum! ¡Déjame a mí!
+Aliado con vida baja (II)
+Oz: Princesa, se requiere su presencia urgentemente...
+Derrotada (I)
+Este mundo no es el hogar de una princesa...
+Derrotada (II)
+Yo... descenderé... una vez más...
+Derrotada (III)
+Oz: ¡Señorita!
+Recibiendo un fuerte ataque (I)
+¡Qué insubordinación!
+Unirse al equipo (I)
+¡En nombre de la Princesa!
+Unirse al equipo (II)
+Oz: ¡He aquí a la Princesa del Juicio!
+Unirse al equipo (III)
+¡Los hilos de tu destino reposan sobre mis manos!

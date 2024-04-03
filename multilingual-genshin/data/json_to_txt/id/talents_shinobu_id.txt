@@ -1,0 +1,12 @@
+Normal Attack: Shinobu's Shadowsword
+<color=#FFD780FF>Normal Attack</color> Melancarkan hingga 4 serangan berturut-turut.  <color=#FFD780FF>Charged Attack</color> Mengonsumsi sejumlah Stamina untuk melancarkan dua tebasan pedang.  <color=#FFD780FF>Plunging Attack</color> Menerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.
+Sanctifying Ring
+Menciptakan Grass Ring of Sanctification dengan mengorbankan sebagian dari HP-nya, mengakibatkan <color=#FFACFFFF>Electro DMG</color> kepada musuh di sekitarnya.  <color=#FFD780FF>Grass Ring of Sanctification</color> Mengikuti Karakter aktif. Mengakibatkan <color=#FFACFFFF>Electro DMG</color> kepada musuh di sekitar setiap 1,5 detik dan memulihkan HP Karakter aktif di dalam Area efeknya berdasarkan Max HP Kuki Shinobu.  HP yang terkonsumsi akibat penggunaan skill ini akan mengurangi HP Shinobu sampai batas 20% maksimum.  <i>Ikat Naku Weed secara melingkar di pinggangmu, dan itu bisa membantumu mengusir roh jahat.</i>
+Gyoei Narukami Kariyama Rite
+Menancapkan pedang pengusir roh jahat di tanah, dan membuat perisai yang membersihkan area yang kotor, mengakibatkan <color=#FFACFFFF>Electro DMG</color> secara berkelanjutan kepada musuh di dalam Area efeknya berdasarkan Max HP Kuki Shinobu. Jika HP Shinobu kurang atau berada pada 50% saat skill ini digunakan, perisai akan bertahan lebih lama.  <i>Sebenarnya ini teknik yang digunakan saat menyiangi rumput dan ritual doa saat panen, dan walaupun hari-harinya sebagai miko telah berakhir tapi Shinobu tidak pernah lupa dengan teknik ini.</i>
+Breaking Free
+Saat HP Shinobu tidak lebih dari 50%, maka bonus pemulihannya meningkat 15%.
+Heart's Repose
+Kemampuan <color=#FFD780FF>Sanctifying Ring</color> akan menguat berdasarkan Elemental Mastery milik Kuki Shinobu: ·Jumlah pemulihan akan meningkat sebesar 75% dari Elemental Mastery; ·DMG yang diakibatkan akan meningkat sebesar 25% dari Elemental Mastery.
+Protracted Prayers
+Ketika dikirim untuk melakukan ekspedisi di Inazuma selama 20 jam, hadiah yang didapatkan akan bertambah 25%.

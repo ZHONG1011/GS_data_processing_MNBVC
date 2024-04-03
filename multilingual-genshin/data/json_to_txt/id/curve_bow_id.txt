@@ -1,0 +1,13 @@
+Recurve Bow
+Konon busur ini dapat mengenai burung elang yang sedang terbang, tetapi tentunya juga harus mengandalkan kemahiran dari sang pemburu.
+ Kombinasi dari tendon hewan, tulang dan kayu, lengkungan busur dibuat dengan cermat. Di tangan seorang pemanah handal, busur tersebut bisa memanah elang yang sedang terbang. Itulah kebanggaan seorang pemburu, dan bukti dari keahliannya. Kasihan sekali elang yang menjadi korban tanpa alasan.
+Cull the Weak
+Memulihkan <color=#99FFFFFF>8%</color> HP saat mengalahkan satu musuh.
+Cull the Weak
+Memulihkan <color=#99FFFFFF>10%</color> HP saat mengalahkan satu musuh.
+Cull the Weak
+Memulihkan <color=#99FFFFFF>12%</color> HP saat mengalahkan satu musuh.
+Cull the Weak
+Memulihkan <color=#99FFFFFF>14%</color> HP saat mengalahkan satu musuh.
+Cull the Weak
+Memulihkan <color=#99FFFFFF>16%</color> HP saat mengalahkan satu musuh.

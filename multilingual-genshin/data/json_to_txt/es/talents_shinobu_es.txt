@@ -1,0 +1,12 @@
+Ataque Normal: Corte alado Shinobu
+<color=#FFD780FF>Ataque Normal</color> Realiza hasta 4 ataques rápidos.  <color=#FFD780FF>Ataque Cargado</color> Consume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado.  <color=#FFD780FF>Ataque Descendente</color> Se lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.
+Anillo purificador herboatronador
+Consume una parte de la Vida del personaje para crear un anillo purificador que inflige <color=#FFACFFFF>Daño Electro</color> a los enemigos cercanos.  <color=#FFD780FF>Anillo purificador</color> Acompaña al personaje en uso para infligir <color=#FFACFFFF>Daño Electro</color> cada 1.5 s contra los enemigos de alrededor y regenerar Vida a los personajes en uso que estén en el AdE del anillo. La cantidad de Vida regenerada varía en función de la Vida Máx. de Kuki Shinobu.  La Vida consumida para usar esta habilidad no reducirá la Vida actual de Kuki Shinobu por debajo del 20%.  <i>Un anillo de percibetormentas se forma en su cintura para expulsar la energía impura.</i>
+Eleusinia de Narukami
+Clava una espada exorcizante en el suelo para crear frente a sí misma una barrera purificadora, la cual inflige <color=#FFACFFFF>Daño Electro</color> de forma continua en función de la Vida Máx. de Kuki Shinobu contra los enemigos que se encuentren en el AdE de la barrera. Si al usar esta habilidad la Vida de Kuki Shinobu es igual o inferior al 50%, la duración de la barrera será mayor.  <i>Tradicionalmente, esta técnica se usaba para desbrozar, y también, en ciertos rituales como plegaria de abundancia para las cosechas venideras. Sin embargo, Shinobu no la ha olvidado, ni siquiera tras haber dejado atrás su vida como miko.</i>
+Designio liberador
+Cuando la Vida de Kuki Shinobu sea igual o inferior al 50%, su Bono de Curación aumenta en un 15%.
+Retiro espiritual
+<color=#FFD780FF>Anillo purificador herboatronador</color> recibe las siguientes bonificaciones en función de la Maestría Elemental de Kuki Shinobu: ·Aumenta la curación en una cantidad equivalente al 75% de su Maestría Elemental. ·Aumenta el daño infligido en una cantidad equivalente al 25% de su Maestría Elemental.
+Plegaria perpetua
+Aumenta en un 25% las recompensas de las expediciones de 20 h en Inazuma.

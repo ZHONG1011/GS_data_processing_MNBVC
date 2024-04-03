@@ -1,0 +1,12 @@
+Ojo de cuervo penetrante
+Cuando Oz no está en el campo de batalla, seguirá vigilando a Fischl a través de su ojo de cuervo. Cuando Fischl ataca a un enemigo con Ataque Normal, Oz atacará simultáneamente con su ojo e infligirá un 22% de daño.
+Devorador de pecados
+<color=#FFD780FF>Vigía de la noche</color> inflige un 200% de daño adicional, y su AdE aumenta en un 50%.
+Alas sombrías
+Aumenta el nivel de habilidad de <color=#FFD780FF>Vigía de la noche</color> +3. Puede ser aumentado hasta Niv. 15.
+Fantasía de la princesa
+Al lanzar <color=#FFD780FF>Ilusión nocturna</color>, inflige un 222% de daño de ATQ como <color=#FFACFFFF>Daño Electro</color> a los enemigos cercanos. Cuando termina la duración de la habilidad, Fischl recupera el 20% de su Vida.
+Noche silenciosa
+Aumenta el nivel de habilidad de <color=#FFD780FF>Ilusión nocturna</color> +3. Puede ser aumentado hasta Niv. 15.
+Ave de la Noche Eterna
+Aumenta la duración de la invocación de Oz en 2 s. Mientras Oz esté presente, atacará junto a tu personaje en uso, e infligirá un 30% del ATQ de Fischl como <color=#FFACFFFF>Daño Electro</color>.

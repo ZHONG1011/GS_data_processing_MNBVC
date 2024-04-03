@@ -1,0 +1,13 @@
+Juramento del Arquero
+Este sublime arco perteneció una vez a un maestro arquero. Emite un fuerte olor, por lo que no es apto para la caza.
+ Esta es una historia que ocurrió en un lugar y tiempo lejanos. Una historia de hermanos que tomaron armas unos contra otros. Entre ellos, había un gran arquero que había sido humillado. El arquero juró que, antes de que la flecha atravesara la garganta del enemigo, antes de que la sangre enemiga se secara, no se lavaría los pies. Se dice que el arquero murió de una infección en los pies. 
+Precisión
+Aumenta en un <color=#99FFFFFF>24%</color> el daño contra los puntos débiles.
+Precisión
+Aumenta en un <color=#99FFFFFF>30%</color> el daño contra los puntos débiles.
+Precisión
+Aumenta en un <color=#99FFFFFF>36%</color> el daño contra los puntos débiles.
+Precisión
+Aumenta en un <color=#99FFFFFF>42%</color> el daño contra los puntos débiles.
+Precisión
+Aumenta en un <color=#99FFFFFF>48%</color> el daño contra los puntos débiles.

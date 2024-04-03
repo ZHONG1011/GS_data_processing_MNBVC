@@ -1,0 +1,12 @@
+Offrande des yakan
+Lorsque <color=#FFD780FF>Technique secrète : Incarnation de tenko</color> déclenche un éclair de tenko, Yae Miko récupère 8 pts d'énergie élémentaire.
+Glapissement sous la lune
+Les <color=#FFD780FF>sakura dévastateurs</color> commencent au Niv.2 et peuvent monter jusqu'au Niv.4, et leur portée d'attaque augmente de 60 %.
+Les sept glamours
+Niveau d'aptitude <color=#FFD780FF>Évocation des yakan : Sakura dévastateur</color> +3. Niveau max : 15
+Canalisation de sakura
+Lorsque l'éclair d'un <color=#FFD780FF>sakura dévastateur</color> a touché un ennemi, tous les membres de l'équipe à proximité obtiennent un <color=#FFACFFFF>bonus de DGT Électro</color> de 20 % pendant 5 s.
+Moquerie implacable
+Niveau d'aptitude <color=#FFD780FF>Technique secrète : Incarnation de tenko</color> +3. Niveau max : 15
+Art tabou : Daisesshou
+Les attaques des <color=#FFD780FF>sakura dévastateurs</color> ignorent 60 % de la DÉF de l'ennemi.
