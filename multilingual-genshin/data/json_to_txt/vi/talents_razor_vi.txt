@@ -1,0 +1,12 @@
+Tấn Công Thường: Nanh Thép
+<color=#FFD780FF>Tấn Công Thường</color> Thực hiện tối đa 4 lần chém liên tiếp.  <color=#FFD780FF>Trọng Kích</color> Tiêu hao thể lực để xoay kiếm tấn công địch xung quanh. Khi ngừng quay, sẽ bổ một nhát cực mạnh.  <color=#FFD780FF>Tấn Công Khi Đáp</color> Đáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.
+Vuốt Và Sấm
+Dùng cách mà thầy và người nhà đã dạy, để giải quyết con mồi.  <color=#FFD780FF>Nhấn</color> Vung móng vuốt của sói về phía trước, gây cho địch phía trước <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>. Nếu đánh trúng kẻ địch, sẽ tạo ra một Ấn Lôi cho Razor, nâng cao hiệu quả nạp nguyên tố của Razor. Cùng lúc chỉ xuất hiện tối đa 3 Ấn Lôi, cộng dồn sẽ làm mới thời gian kéo dài.  <color=#FFD780FF>Nhấn Giữ</color> Tích tụ sức mạnh sấm sét gây nổ quy mô nhỏ, gây lượng lớn <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>, và xóa bỏ Ấn Lôi đã có. Mỗi Ấn Lôi bị xóa bỏ, đều sẽ chuyển thành năng lượng nguyên tố của Razor.  <i>Trong khoảnh khắc sét đánh xuống, thi thoảng thoáng thấy sâu trong linh hồn của Razor ẩn chứa ánh mắt của sói quan sát con mồi.</i>
+Răng Sét
+Đánh thức sói vô hình để bảo vệ bản thân, gây cho địch xung quanh <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>, và tiêu hao tất cả Ấn Lôi, hồi năng lượng nguyên tố cho Razor. Trong thời gian Sói tồn tại, sẽ chiến đấu cùng Razor.  <color=#FFD780FF>Sói</color> ·sẽ cùng Razor tấn công thường, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>; ·Tăng tốc độ tấn công của Razor và <color=#FFACFFFF>Kháng Nguyên Tố Lôi</color>; ·Giúp Razor miễn nhiễm với sát thương phản ứng <color=#FFACFFFF>Điện Cảm</color>; ·Không thể thi triển Trọng Kích; ·Tăng khả năng chống gián đoạn cho Razor.  Hiệu quả sẽ mất khi Razor rời khỏi trận. Khi rời khỏi trận, sẽ căn cứ theo thời gian còn để hoàn trả tối đa 10 điểm Năng Lượng Nguyên Tố.  <i>Sói đã tỉnh lại. Giờ đi săn đến rồi.</i>
+Thức Tỉnh
+Thời gian CD <color=#FFD780FF>Vuốt Và Sấm</color> giảm 18%. Khi thi triển <color=#FFD780FF>Răng Sét</color>, làm mới thời gian CD <color=#FFD780FF>Vuốt Và Sấm</color>.
+Đói Khát
+Khi năng lượng Nguyên Tố của Razor dưới 50%, hiệu quả nạp Nguyên Tố tăng 30%.
+Lang
+Giảm 20% tiêu hao thể lực khi xung kích cho nhân vật trong đội của bản thân. Không thể cộng dồn với buff Thiên Phú cố định có cùng hiệu quả.

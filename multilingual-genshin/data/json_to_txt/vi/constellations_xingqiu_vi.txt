@@ -1,0 +1,12 @@
+Mùi Hương Vương Vấn
+Số lượng tối đa của Vũ Liêm Kiếm tăng thêm 1.
+Cầu Vồng Trời Xanh
+Kéo dài thời gian <color=#FFD780FF>Cổ Hoa Kiếm - Tài Vũ Lưu Hồng</color> thêm 3s; Ngoài ra, kẻ địch chịu sát thương từ Mưa Kiếm giảm 15% kháng <color=#80C0FFFF>sát thương Nguyên Tố Thủy</color>, kéo dài 4s.
+Dệt Thơ Thành Lụa
+Cấp kỹ năng <color=#FFD780FF>Cổ Hoa Kiếm - Tài Vũ Lưu Hồng</color> +3. Tăng tối đa đến cấp 15.
+Cô Châu Trảm Giao
+Trong thời gian <color=#FFD780FF>Cổ Hoa Kiếm - Tài Vũ Lưu Hồng</color> còn hiệu lực, sát thương <color=#FFD780FF>Cổ Hoa Kiếm - Họa Vũ Lung Sơn</color> gây ra tăng 50%.
+Đóng Cửa Trong Mưa
+Cấp kỹ năng <color=#FFD780FF>Cổ Hoa Kiếm - Họa Vũ Lung Sơn</color> +3. Tăng tối đa đến cấp 15.
+Sách Đều Ở Đây
+Mỗi khi <color=#FFD780FF>Cổ Hoa Kiếm - Tài Vũ Lưu Hồng</color> phát động 2 lần mưa kiếm, sẽ tăng sát thương của lần mưa kiếm tiếp theo, đồng thời khi đánh trúng địch sẽ hồi phục 3 điểm Năng Lượng Nguyên Tố cho Xingqiu.

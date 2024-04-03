@@ -1,0 +1,12 @@
+Từ Gốc Rễ Định Ban Sơ
+Tỉ lệ bạo kích từ trọng kích của Tighnari tăng 15%.
+Từ Mầm Chồi Hiểu Ngọn Nguồn
+Khi có kẻ địch trong Khu Vực Vijnana-Khanda từ kỹ năng <color=#FFD780FF>Hạt Giống Vijnana-Phala</color>, Tighnari nhận được 20%<color=#99FF88FF>Buff Sát Thương Nguyên Tố Thảo</color>. Khi Khu Vực Vijnana-Khanda kết thúc hoặc không còn kẻ địch, hiệu ứng này tối đa duy trì 6s.
+Từ Thân Nhánh Biết Vạn Vật
+Cấp kỹ năng <color=#FFD780FF>Dây Leo Sinh Trưởng</color> +3. Tăng tối đa đến cấp 15.
+Từ Phiến Lá Giải Thịnh Suy
+Khi thi triển <color=#FFD780FF>Dây Leo Sinh Trưởng</color>, Tinh Thông Nguyên Tố của tất cả nhân vật trong đội gần đó tăng 60 điểm, duy trì 8s. Nếu Dây Leo Sinh Trưởng kích hoạt phản ứng Thiêu Đốt, Sum Suê, Sinh Trưởng hoặc Lan Tràn, Tinh Thông Nguyên Tố sẽ tăng thêm 60 điểm, đồng thời làm mới thời gian duy trì của trạng thái này.
+Từ Cánh Hoa Tìm Giác Ngộ
+Cấp kỹ năng <color=#FFD780FF>Hạt Giống Vijnana-Phala</color> +3. Tăng tối đa đến cấp 15.
+Từ Cây Trái Luận Nhân Quả
+Thời gian tụ lực cần thiết của <color=#FFD780FF>Mũi Tên Hoa</color> giảm 0.9s, đồng thời khi đánh trúng kẻ địch sẽ sản sinh thêm 1 Mũi Tên Bung Tỏa, gây lượng sát thương bằng 150% tấn công của Tighnari.

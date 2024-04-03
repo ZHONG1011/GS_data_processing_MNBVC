@@ -1,0 +1,12 @@
+Splitting Gales
+เมื่อ<color=#FFD780FF>เล็งโจมตี</color> จะทำการยิงลูกศรแยกเพิ่มเติมอีกสองลูก โดยที่แต่ละลูก จะทำให้เกิดความเสียหาย 33% ของความเสียหายเดิม
+Breeze of Reminiscence
+<color=#FFD780FF>Skyward Sonnet</color> จะทำให้<color=#80FFD7FF>ความต้านทานลม</color>และ ความต้านทานทางกายภาพ ของศัตรูลดลง 12% เป็นเวลา 10 วินาที ช่วงเวลาก่อนที่ศัตรูซึ่งถูก <color=#FFD780FF>Skyward Sonnet</color> พัดให้ลอยร่วงลงสู่พื้น <color=#80FFD7FF>ความต้านทานลม</color>และความต้านทานกายภาพจะลดเพิ่มอีก 12%
+Ode to Thousand Winds
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Wind's Grand Ode</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Hurricane of Freedom
+เมื่อ Venti ได้รับลูกแก้วธาตุ หรืออณูธาตุแล้ว จะได้รับ <color=#80FFD7FF>โบนัสความเสียหายลม</color> 25% เป็นเวลา 10 วินาที
+Concerto dal Cielo
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Skyward Sonnet</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Storm of Defiance
+ศัตรูที่ได้รับความเสียหายจาก <color=#FFD780FF>Wind's Grand Ode</color> จะถูกลด <color=#80FFD7FF>ความต้านทานลม</color> ลง 20%; หากเกิดการเปลี่ยนแปลงธาตุ ความต้านทานธาตุที่เปลี่ยน จะลดลงด้วย 20%

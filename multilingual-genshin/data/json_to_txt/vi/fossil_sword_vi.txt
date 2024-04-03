@@ -1,0 +1,13 @@
+Kiếm Tế Lễ
+Kiếm bị hóa đá theo năm tháng, nhưng độ tinh xảo của trang sức treo trên đó vẫn lấp lánh. Có sức mạnh chúc phúc của gió thời gian.
+ Trên vách núi phía đông hướng về biển, thuở ban đầu người dân cúng tế cho chủ nhân của thời gian và chủ nhân của gió. Họ tin rằng "Sự tích được gió mang đến, sinh sôi là do thời gian", hai thứ thường lẫn vào nhau. Thanh kiếm nói lên câu chuyện về sự bảo vệ, tượng trưng cho dũng khí. Vốn không cần mài dũa, thế nhưng gió thời gian khiến gang thép trở nên sắc bén.  Thanh kiếm này thuộc quyền sở hữu của gia tộc ôn hòa Gunnhildr. Trong lễ tế, họ diễn vai người bảo vệ.  Vở kịch buổi lễ hiến tế gió thời gian, tổng cộng có ba màn. Màn cuối nói về người thủ vệ, câu chuyện bảo vệ sinh mệnh và tự do.  Truyền thống tế lễ và lịch sử đến nay đã đi vào quên lãng. Nhưng gia tộc Gunnhildr vẫn giữ vai trò bảo vệ. 
+Khí Định Thần
+Khi kỹ năng Nguyên Tố tạo thành sát thương, có tỷ lệ <color=#99FFFFFF>40%</color> làm mới thời gian CD kỹ năng đó, mỗi <color=#99FFFFFF>30</color>s mới thi triển 1 lần.
+Khí Định Thần
+Khi kỹ năng Nguyên Tố tạo thành sát thương, có tỷ lệ <color=#99FFFFFF>50%</color> làm mới thời gian CD kỹ năng đó, mỗi <color=#99FFFFFF>26</color>s mới thi triển 1 lần.
+Khí Định Thần
+Khi kỹ năng Nguyên Tố tạo thành sát thương, có tỷ lệ <color=#99FFFFFF>60%</color> làm mới thời gian CD kỹ năng đó, mỗi <color=#99FFFFFF>22</color>s mới thi triển 1 lần.
+Khí Định Thần
+Khi kỹ năng Nguyên Tố tạo thành sát thương, có tỷ lệ <color=#99FFFFFF>70%</color> làm mới thời gian CD kỹ năng đó, mỗi <color=#99FFFFFF>19</color>s mới thi triển 1 lần.
+Khí Định Thần
+Khi kỹ năng Nguyên Tố tạo thành sát thương, có tỷ lệ <color=#99FFFFFF>80%</color> làm mới thời gian CD kỹ năng đó, mỗi <color=#99FFFFFF>16</color>s mới thi triển 1 lần.

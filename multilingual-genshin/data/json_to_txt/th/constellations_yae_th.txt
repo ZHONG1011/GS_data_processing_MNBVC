@@ -1,0 +1,12 @@
+Yakan Offering
+ฟื้นฟูพลังงานธาตุ 8 หน่วย ให้แก่ตัวของ Yae Miko เอง ในแต่ละครั้งที่ <color=#FFD780FF>Great Secret Art: Tenko Kenshin</color> ทำให้เกิด Tenko Thunderbolt
+Fox's Mooncall
+เมื่อสร้าง <color=#FFD780FF>Sesshou Sakura</color> ระดับเริ่มต้นจะถูกเพิ่มขึ้นเป็นระดับ 2 และระดับสูงสุดจะถูกเพิ่มขึ้นเป็นระดับ 4 ขอบเขตการโจมตีเพิ่มขึ้น 60%
+The Seven Glamours
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Yakan Evocation: Sesshou Sakura</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Sakura Channeling
+หลังจากที่สายฟ้าของ <color=#FFD780FF>Sesshou Sakura</color> ฟาดลงมาถูกศัตรู ตัวละครทั้งหมดในทีม ที่อยู่ในบริเวณใกล้เคียง จะได้รับ<color=#FFACFFFF>โบนัสความเสียหายไฟฟ้า</color> 20% เป็นเวลา 5 วินาที
+Mischievous Teasing
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Great Secret Art: Tenko Kenshin</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Forbidden Art: Daisesshou
+ในตอนที่ <color=#FFD780FF>Sesshou Sakura</color> โจมตีจะไม่สนใจพลังป้องกัน 60% ของศัตรู

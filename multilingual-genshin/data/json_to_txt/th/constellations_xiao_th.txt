@@ -1,0 +1,12 @@
+Dissolution Eon: Destroyer of Worlds
+จำนวนครั้งที่สามารถใช้ <color=#FFD780FF>Lemniscatic Wind Cycling</color> ได้ เพิ่มขึ้น 1 ครั้ง
+Annihilation Eon: Blossom of Kaleidos
+เมื่ออยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้ ประสิทธิภาพการฟื้นฟูพลังงานธาตุของ Xiao จะเพิ่มขึ้น 25%
+Conqueror of Evil: Wrath Deity
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Lemniscatic Wind Cycling</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Transcension: Extinction of Suffering
+เมื่อพลังชีวิตของ Xiao ต่ำกว่า 50% พลังป้องกันจะเพิ่มขึ้น 100%
+Evolution Eon: Origin of Ignorance
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Bane of All Evil</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Conqueror of Evil: Guardian Yaksha
+ภายใต้สภาวะของ <color=#FFD780FF>Bane of All Evil</color> เมื่อการโจมตีพุ่งลงจากอากาศถูกศัตรูอย่างน้อย 2 ตัว จะได้รับจำนวนการใช้ <color=#FFD780FF>Lemniscatic Wind Cycling</color> เพิ่มขึ้น 1 ครั้ง โดยทันที และจะได้รับการยกเว้นช่วงเวลาคูลดาวน์ ของ Lemniscatic Wind Cycling เป็นเวลา 1 วินาที หลังจากนั้น

@@ -1,0 +1,12 @@
+Nhất Tâm Nhị Dụng Thuật
+Hành động của Muji-Muji Daruma <color=#FFD780FF>Trường Phái Yoohoo - Mujina Bối Rối</color> sẽ bỏ qua hạn chế về HP, có thể cùng lúc tấn công kẻ địch ở gần và hồi HP cho nhân vật.
+Mở Đường Thoát Thân
+<color=#FFD780FF>Trường Phái Yoohoo - Fuuin Lăn Tròn</color> nhận hiệu quả sau: ·Khi nhấn thi triển, sát thương Cú Đá Lốc Xoáy gây ra sẽ tăng 3.3%; ·Khi ở trạng thái bánh xe gió sau khi nhấn giữ thi triển, mỗi 0.5s sẽ tăng 3.3% sát thương Cú Đá Lốc Xoáy gây ra lần này. Bằng cách này, sát thương do Cú Đá Lốc Xoáy gây ra có thể tăng tối đa đến 66%.
+Hãy Giao Cho Phân Thân
+Cấp kỹ năng <color=#FFD780FF>Trường Phái Yoohoo - Mujina Bối Rối</color> +3. Tăng tối đa đến cấp 15.
+Cách Lười Biếng Mới Mẻ
+Khi Sayu kích hoạt phản ứng khuếch tán trong trận sẽ hồi 1.2 Năng Lượng Nguyên Tố. Hiệu quả này mỗi 2s chỉ kích hoạt 1 lần.
+Tốc Độ Là Tiên Quyết
+Cấp kỹ năng <color=#FFD780FF>Trường Phái Yoohoo - Fuuin Lăn Tròn</color> +3. Tăng tối đa đến cấp 15.
+Thời Gian Ngủ Khò
+Tấn công và lượng hồi phục của Muji-Muji Daruma được Sayu triệu hồi thông qua <color=#FFD780FF>Trường Phái Yoohoo - Mujina Bối Rối</color> phụ thuộc vào Tinh Thông Nguyên Tố của Sayu. Mỗi điểm Tinh Thông Nguyên Tố của Sayu có thể sinh ra hiệu quả sau: ·Khiến tấn công của Muji-Muji Daruma gây thêm sát thương bằng 0.2% tấn công. Bằng cách này, tối đa có thể gây thêm sát thương bằng 400% tấn công; ·Lượng hồi phục của Muji-Muji Daruma tăng 3 điểm. Bằng cách này, tối đa tăng 6000 điểm hồi phục.

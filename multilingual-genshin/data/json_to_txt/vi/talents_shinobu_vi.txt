@@ -1,0 +1,12 @@
+Tấn Công Thường - Lưỡi Kiếm Shinobu
+<color=#FFD780FF>Tấn Công Thường</color> Thực hiện tối đa 4 lần đánh kiếm liên tiếp.  <color=#FFD780FF>Trọng Kích</color> Tiêu hao thể lực nhất định, đánh ra hai kiếm về phía trước trong chớp mắt.  <color=#FFD780FF>Tấn Công Khi Đáp</color> Đáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.
+Vòng Cỏ Sấm Thánh Hóa
+Kết Vòng Cỏ Thánh Hóa, tiêu hao một lượng HP để gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> cho kẻ địch xung quanh.  <color=#FFD780FF>Vòng Cỏ Thánh Hóa</color> Sẽ đi theo nhân vật trong trận. Mỗi 1.5s sẽ gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> cho kẻ địch xung quanh, đồng thời hồi phục HP cho nhân vật đang chiến đấu trong đó, lượng hồi phục sẽ căn cứ vào giới hạn HP của Kuki Shinobu.  Lượng HP tiêu hao để thi triển kỹ năng này tối đa chỉ khiến HP của Kuki Shinobu giảm đến 20%.  <i>Vòng cỏ Naku kết bên hông, có tác dụng xua đuổi tà ma.</i>
+Nghi Lễ Gyoei Narukami Kariyama
+Cắm thanh kiếm đuổi tà xuống đất, tạo kết giới thanh tẩy tà ma ở phía trước, căn cứ vào giới hạn HP của Kuki Shinobu để liên tục gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> cho kẻ địch trong đó. Khi thi triển, nếu HP của Shinobu thấp hơn hoặc bằng 50% sẽ tăng thời gian tồn tại của kết giới.  <i>Đây vốn chỉ là kỹ thuật cắt cỏ dại để cầu cho năm sau bội thu, nhưng Shinobu cũng không hề quên, dù cho cuộc đời làm pháp sư của cô đã kết thúc.</i>
+Ý Chí Đột Phá
+Khi HP của Shinobu không cao hơn 50%, lượng trị liệu tăng 15%.
+Nơi An Lòng
+<color=#FFD780FF>Vòng Cỏ Sấm Thánh Hóa</color> sẽ tăng sức mạnh dựa vào Tinh Thông Nguyên Tố của Shinobu: ·Tăng lượng trị liệu dựa trên 75% Tinh Thông Nguyên Tố; ·Tăng sát thương dựa trên 25% Tinh Thông Nguyên Tố.
+Lời Cầu Nguyện Lâu Dài
+Khi làm nhiệm vụ Phái Đi Thám Hiểm có thời gian là 20 giờ ở Inazuma, phần thưởng nhận được tăng 25%.

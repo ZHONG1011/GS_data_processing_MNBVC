@@ -1,0 +1,12 @@
+Tâm Trai
+Số lần sử dụng của <color=#FFD780FF>Triệu Tướng Dịch Chú</color> tăng thêm 1
+Định Mông
+Thời gian duy trì của <color=#FFD780FF>Thần Nữ Khiển Linh Quyết</color> kéo dài thêm 6s. Nhân vật trong trận hiện tại đang trong vùng ảnh hưởng sẽ tăng 15% sát thương bạo kích của <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>.
+Tiềm Hư
+Cấp kỹ năng <color=#FFD780FF>Triệu Tướng Dịch Chú</color> +3. Tăng tối đa đến cấp 15.
+Quan Sát
+Nhân vật trong trạng thái <color=#FFD780FF>"Băng Linh"</color> của Shenhe, khi kích hoạt tăng sát thương từ "Băng Linh" sẽ khiến Shenhe nhận 1 tầng "Sương Tiêu Quyết": ·Shenhe khi thi triển <color=#FFD780FF>Triệu Tướng Dịch Chú</color> sẽ xóa bỏ tất cả "Sương Tiêu Quyết", đồng thời căn cứ vào số tầng xóa bỏ, mỗi tầng tăng 5% sát thương cho Triệu Tướng Dịch Chú lần này; ·Hiệu quả này tối đa cộng dồn 50 lần, duy trì 60s.
+Hóa Thần
+Cấp kỹ năng <color=#FFD780FF>Thần Nữ Khiển Linh Quyết</color> +3. Tăng tối đa đến cấp 15.
+Vong Huyền
+Khi nhân vật kích hoạt hiệu quả <color=#FFD780FF>"Băng Linh"</color> bằng sát thương tấn công thường và sát thương trọng kích, sẽ không còn giảm số lần kích hoạt "Băng Linh" nữa.

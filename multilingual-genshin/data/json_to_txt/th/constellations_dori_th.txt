@@ -1,0 +1,12 @@
+Additional Investment
+จำนวน After-Sales Service Round ที่เกิดขึ้นหลังจาก <color=#FFD780FF>Troubleshooter Shot</color> ถูกเป้าหมาย เพิ่มขึ้น 1 อัน
+Special Franchise
+ในขณะที่อยู่ในสถานะต่อสู้ เมื่อ <color=#FFD780FF>Jinni</color> ทำการรักษาตัวละครที่เชื่อมโยงอยู่ จะยิง Jinni Toop ออกมาจากตำแหน่งของตัวละครดังกล่าวหนึ่งลูก ซึ่งจะสร้างความเสียหายเป็น 50% ของพลังโจมตีของ Dori
+Wonders Never Cease
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Alcazarzaray's Exactitude</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Discretionary Supplement
+ตัวละครที่เชื่อมโยงกับ <color=#FFD780FF>Jinni</color> จะได้รับบัฟต่อไปนี้ โดยขึ้นกับค่าพลังชีวิตและพลังงานธาตุในขณะนั้น: ·เมื่อค่าพลังชีวิตต่ำกว่า 50% โบนัสการรักษาที่ได้รับจะเพิ่มขึ้น 50%; ·พลังงานธาตุต่ำกว่า 50% ประสิทธิภาพการฟื้นฟูพลังงานธาตุจะเพิ่มขึ้น 30%
+Value for Mora
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Spirit-Warding Lamp: Troubleshooter Cannon</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Sprinkling Weight
+หลังจากที่ Dori ใช้ <color=#FFD780FF>Spirit-Warding Lamp: Troubleshooter Cannon</color> ภายใน 3 วินาที จะได้รับเอฟเฟกต์ต่อไปนี้: ·<color=#FFACFFFF>พลังแห่งไฟฟ้า</color>; ·เมื่อการโจมตีปกติถูกศัตรู จะฟื้นฟูพลังชีวิต 4% ของพลังชีวิตสูงสุดของ Dori ให้แก่ตัวละครทั้งหมดในทีม ที่อยู่ในบริเวณใกล้เคียง โดยที่ทุก 0.1 วินาที จะฟื้นฟูพลังชีวิตด้วยวิธีนี้ได้มากสุดหนึ่งครั้ง

@@ -1,0 +1,12 @@
+Cắt Đứt Tội Lỗi
+Đối với địch có HP trên 50%, sát thương Diluc tạo ra tăng 15%.
+Than Hồng
+Khi Diluc bị thương, tấn công tăng 10%, tốc độ tấn công tăng 5%, kéo dài 10s. Hiệu quả cộng dồn tối đa 3 lần, mỗi 1,5s chỉ thi triển 1 lần.
+Ngọn Lửa Thép
+Cấp kỹ năng <color=#FFD780FF>Lưỡi Kiếm Tấn Công</color> +3. Tăng tối đa đến cấp 15.
+Lòng Như Lửa Đốt
+Phóng <color=#FFD780FF>Lưỡi Kiếm Tấn Công</color> theo từng nhịp và có thể tăng sát thương tạo thành. Sau 2s thi triển <color=#FFD780FF>Lưỡi Kiếm Tấn Công</color> tăng 40% sát thương đòn đánh tiếp theo của Lưỡi Kiếm Tấn Công, kéo dài 2s.
+Phượng Hoàng Lúc Bình Minh
+Cấp kỹ năng <color=#FFD780FF>Lê Minh</color> +3. Tăng tối đa đến cấp 15.
+Kiếm Lửa Diệt Trừ Tà Ác
+Sau khi thi triển <color=#FFD780FF>Lưỡi Kiếm Tấn Công</color> tăng 30% tốc độ cho 2 lần đánh tấn công thường tiếp theo trong 6s, sát thương tạo thành tăng 30%. Ngoài ra, Lưỡi Kiếm Tấn Công sẽ không làm mới các đoạn liên kích tấn công thường.

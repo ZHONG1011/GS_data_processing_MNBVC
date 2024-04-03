@@ -1,0 +1,12 @@
+Cột Cờ
+Dự Phòng
+Chờ
+Khi đánh bại kẻ địch, hồi <color=#99FFFFFF>8%</color> HP.
+Chờ
+Khi đánh bại kẻ địch, hồi <color=#99FFFFFF>10%</color>HP
+Chờ
+Khi đánh bại kẻ địch, hồi <color=#99FFFFFF>12%</color>HP
+Chờ
+Khi đánh bại kẻ địch, hồi <color=#99FFFFFF>14%</color>HP
+Chờ
+Khi đánh bại kẻ địch, hồi <color=#99FFFFFF>16%</color>HP

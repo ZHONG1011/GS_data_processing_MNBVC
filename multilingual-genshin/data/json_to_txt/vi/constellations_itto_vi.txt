@@ -1,0 +1,12 @@
+Đứng Lại, Ta Nói Cho Nghe
+Sau khi thi triển <color=#FFD780FF>Siêu Cấp Quỷ Vương - Itto Giáng Lâm!</color>, Arataki Itto nhận 2 tầng hiệu ứng "Quỷ Lực Vô Song". Sau 1s, Arataki Itto mỗi 0.5s sẽ nhận thêm 1 tầng "Quỷ Lực Vô Song", duy trì 1.5s.
+Gọi Anh Em, Đánh Hội Đồng
+Sau khi thi triển <color=#FFD780FF>Siêu Cấp Quỷ Vương - Itto Giáng Lâm!</color>, trong đội cứ mỗi nhân vật có thuộc tính nguyên tố là <color=#FFE699FF>Nham</color>, đều sẽ khiến Itto giảm 1.5s CD kỹ năng nộ, đồng thời khiến Arataki Itto hồi phục 6 điểm năng lượng nguyên tố. Thông qua cách này, tối đa giảm 4.5s CD và hồi phục 18 điểm năng lượng nguyên tố.
+Có Ta Ở Đây, Đừng Sợ
+Cấp kỹ năng <color=#FFD780FF>Tuyệt Kỹ Masatsu - Akaushi Công Phá!</color> +3. Tăng tối đa đến cấp 15.
+Cơm Nước Trại Giam Ngon Thật!
+Sau khi kết thúc trạng thái "Nộ Mục Quỷ Vương" của kỹ năng <color=#FFD780FF>Siêu Cấp Quỷ Vương - Itto Giáng Lâm!</color>, sức phòng ngự của tất cả nhân vật trong đội gần đó tăng 20%, sức tấn công tăng 20%, duy trì 10s.
+Mười Năm Vang Danh Hanamizaka
+Cấp kỹ năng <color=#FFD780FF>Siêu Cấp Quỷ Vương - Itto Giáng Lâm!</color> +3. Tăng tối đa đến cấp 15.
+Bổn Đại Gia Là Arataki Itto
+Tăng 70% sát thương bạo kích của trọng kích của Arataki Itto; Ngoài ra, khi thi triển "Arataki Kesagiri" sẽ có 50% xác suất không tiêu hao "Quỷ Lực Vô Song".

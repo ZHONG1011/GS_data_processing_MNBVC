@@ -1,0 +1,12 @@
+Hoa Địa Đàng
+Khi Hoa Khoảnh Khắc được tạo ra từ <color=#FFD780FF>Thuật Sáng Thế - Chế Tạo Mặt Trời</color> của Albedo bung nở, sẽ hồi 1,2 điểm Năng Lượng Nguyên Tố cho Albedo.
+Liên Đại Hiển Sinh
+Khi Hoa Khoảnh Khắc từ <color=#FFD780FF>Thuật Sáng Thế - Chế Tạo Mặt Trời</color> nở, sẽ ban hiệu quả Sinh Tử cho Albedo, kéo dài 30s: ·Khi thi triển <color=#FFD780FF>Chiêu Giáng Sinh - Sóng Vỗ Đại Lục</color> sẽ xóa tất cả hiệu quả Sinh Tử và tăng sát thương nổ của Chiêu Giáng Sinh - Sóng Vỗ Đại Lục cũng như sát thương do Hoa Sinh Tử gây ra theo số tầng bị xóa. ·Mỗi tầng Sinh Tử sẽ tăng sát thương bằng 30% phòng ngự của Albedo. ·Hiệu quả này tối đa cộng dồn 4 lần.
+Ánh Sáng Mặt Trời
+Cấp kỹ năng <color=#FFD780FF>Thuật Sáng Thế - Chế Tạo Mặt Trời</color> +3. Tăng tối đa đến cấp 15.
+Sự Giáng Thế Của Thần
+Nhân vật trong đội trên trận ở khu vực Hoa Mặt Trời sẽ tăng 30% sát thương tấn công khi đáp tạo ra.
+Thủy Triều Cổ Đại
+Cấp kỹ năng <color=#FFD780FF>Chiêu Giáng Sinh - Sóng Vỗ Đại Lục</color> +3. Tăng tối đa đến cấp 15.
+Đất Tinh Khiết
+Nhân vật trong đội trên trận ở khu vực Hoa Mặt Trời, nếu đang được bảo vệ bởi khiên sinh ra từ phản ứng kết tinh, thì sát thương tạo thành sẽ tăng 17%.

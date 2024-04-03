@@ -1,0 +1,12 @@
+Tấn Công Thường - Bằng Bằng
+<color=#FFD780FF>Tấn Công Thường</color> Ném ra những thứ phát nổ khi va chạm! Tấn công nổ tối đa 3 lần, gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>.  <color=#FFD780FF>Trọng Kích</color> Tiêu hao thể lực nhất định, sau khi tụ lực sẽ bắn phá kẻ địch, gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>.  <color=#FFD780FF>Tấn Công Khi Đáp</color> Ngưng tụ sức mạnh của lửa, lao xuống mặt đất từ trên không, tấn công kẻ địch trên đường và gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color> khi chạm đất.
+Bom Nảy
+Ném Bom Nảy mang đến niềm vui bất tận! Bom Nảy sẽ nảy liên tiếp 3 lần, mỗi lần đều sẽ kích hoạt nổ, gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>.  Sau khi nảy lần 3, sẽ tách thành nhiều Quỷ Lôi. Quỷ Lôi sẽ nổ sau một khoảng thời gian hoặc sau khi tiếp xúc kẻ địch, gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>.  Ban đầu có 2 lần sử dụng.  <i>Bom nảy là "người bạn thân" của Klee... Klee luôn muốn giới thiệu chúng với mọi người xung quanh.</i>
+Tia Lửa Mãnh Liệt
+Klee phát huy toàn bộ hỏa lực! Trong thời gian duy trì, liên tục triệu hồi Tia Lửa Mãnh Liệt tấn công kẻ địch lân cận, gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>.  <i>Người trong Đội Kỵ Sĩ tin rằng, Klee xưa nay chưa từng bị thương bởi thuốc nổ của mình nhất định là do ngôi sao may mắn nào đó luôn chiếu cố cô bé...</i>
+Món Quà Bằng Bằng
+Khi <color=#FFD780FF>Bom Nảy</color> và tấn công thường tạo thành sát thương, có tỷ lệ 50% tạo thành một đoá Hoa Tia Lửa cho Klee. Thi triển trọng kích sẽ tiêu hao Hoa Tia Lửa, khiến lần trọng kích này không tiêu hao thể lực, đồng thời tăng 50% sát thương gây ra.
+Tia Lửa Vô Hạn
+Trọng Kích của Klee sau khi gây ra bạo kích, hồi phục 2 điểm Năng Lượng Nguyên Tố cho tất cả các nhân vật trong đội.
+Toàn Là Báu Vật
+Hiển thị vị trí <color=#FFD780FF>đặc sản khu vực Mondstadt</color> ở xung quanh trên bản đồ nhỏ.

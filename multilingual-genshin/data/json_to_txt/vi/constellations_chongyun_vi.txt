@@ -1,0 +1,12 @@
+Phóng Thích Đao Băng
+Lần đánh cuối trong tấn công thường sẽ phóng ra 3 đạo băng đao về phía trước, mỗi đao băng sẽ gây ra <color=#99FFFFFF>sát thương Nguyên Tố Băng</color> bằng tấn công 50% của Chongyun cho kẻ địch trên đường đi.
+Nghịch Chuyển Đất Trời
+CD của kỹ năng nguyên tố và kỹ năng nộ khi thi triển trong khu vực <color=#FFD780FF>Linh Đao - Sương Bạc Trùng Điệp</color> giảm 15%
+Vân Tận Quang Sinh
+Cấp kỹ năng <color=#FFD780FF>Linh Đao - Vân Khai Tinh Lạc</color> +3. Tăng tối đa đến cấp 15.
+Phù Vân Sương Thiên
+Khi Chongyun tấn công địch bị <color=#99FFFFFF>Nguyên Tố Băng</color> ảnh hưởng, bản thân sẽ được hồi 1 điểm Năng Lượng Nguyên Tố. Hiệu quả này tối đa mỗi 2s thi triển một lần.
+Chính Đạo Chân Lý
+Cấp kỹ năng <color=#FFD780FF>Linh Đao - Sương Bạc Trùng Điệp</color> +3. Tăng tối đa đến cấp 15.
+Tứ Linh Bổng Thánh
+<color=#FFD780FF>Linh Đao - Vân Khai Tinh Lạc</color> khi gây sát thương cho kẻ địch có tỷ lệ HP thấp hơn Chongyun, sát thương tăng 15%; Ngoài ra, khi thi triển sẽ triệu hồi thêm một linh đao.

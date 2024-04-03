@@ -1,0 +1,12 @@
+Ca Dao Sắc Màu
+Cứ 10s sẽ hồi phục 1 điểm năng lượng Nguyên Tố cho Barbara.
+Bùng Nổ Nguyên Khí
+CD của <color=#FFD780FF>Buổi Diễn,Bắt Đầu♪</color> giảm 15%; Trong thời gian kỹ năng tồn tại, <color=#80C0FFFF>sát thương Nguyên Tố Thủy</color> của nhân vật của bản thân trong trận hiện tại tăng 15%.
+Ngôi Sao Ngày Mai
+Cấp kỹ năng <color=#FFD780FF>Kỳ Tích Vinh Diệu♪</color> +3. Tăng tối đa đến cấp 15.
+Nỗ Lực Là Ma Thuật
+Khi Barbara dùng trọng kích, mỗi khi đánh trúng 1 kẻ địch, sẽ hồi phục 1 điểm năng lượng nguyên tố. Tối đa hồi 5 điểm Năng Lượng Nguyên Tố.
+Liên Kết Thuần Khiết
+Cấp kỹ năng <color=#FFD780FF>Buổi Diễn,Bắt Đầu♪</color> +3. Tăng tối đa đến cấp 15.
+Dành Cho Em Thứ Tốt Đẹp Nhất
+Khi Barbara ở trạng thái chờ, nếu có nhân vật của bản thân trong đội ngã xuống sẽ lập tức: Hồi sinh nhân vật đó; Hồi phục 100% HP cho nhân vật. Hiệu quả này mỗi 15 phút chỉ thi triển một lần.

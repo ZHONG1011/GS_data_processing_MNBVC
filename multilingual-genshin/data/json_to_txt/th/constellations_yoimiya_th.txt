@@ -1,0 +1,12 @@
+Agate Ryuukin
+ช่วงเวลาต่อเนื่องของ Aurous Blaze ที่สร้างขึ้นโดย <color=#FFD780FF>Ryuukin Saxifrage</color> นานขึ้น 4 วินาที นอกจากนี้ เมื่อศัตรูที่อยู่ภายใต้ผลกระทบของ Aurous Blaze ที่สร้างขึ้นโดยตัวของ Yoimiya เองถูกจัดการภายในช่วงเวลาต่อเนื่อง พลังโจมตีของ Yoimiya จะเพิ่มขึ้น 20% เป็นเวลา 20 วินาที
+A Procession of Bonfires
+ภายใน 6 วินาที หลังจากที่ <color=#FF9999FF>ความเสียหายไฟ</color>ของ Yoimiya เกิดคริติคอล Yoimiya จะได้รับ <color=#FF9999FF>โบนัสความเสียหายไฟ</color> 25% เอฟเฟกต์ดังกล่าวยังคงเกิดขึ้น แม้ Yoimiya อยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้ก็ตาม
+Trickster's Flare
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Niwabi Fire-Dance</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Pyrotechnic Professional
+เมื่อ Aurous Blaze ของตัว Yoimiya เองเกิดการระเบิด เวลาคูลดาวน์ของ <color=#FFD780FF>Niwabi Fire-Dance</color> จะลดลง 1.2 วินาที
+A Summer Festival's Eve
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Ryuukin Saxifrage</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Naganohara Meteor Swarm
+ภายในช่วงเวลาต่อเนื่องของ <color=#FFD780FF>Niwabi Fire-Dance</color> เมื่อ Yoimiya ใช้การโจมตีปกติ จะมีโอกาส 50% ที่จะยิง Blazing Arrow ที่สร้างความเสียหายเป็น 60% จากของเดิมเพิ่มอีกหนึ่งดอก โดยที่ความเสียหายนี้จะถูกมองว่าเป็นความเสียหายจากการโจมตีปกติ

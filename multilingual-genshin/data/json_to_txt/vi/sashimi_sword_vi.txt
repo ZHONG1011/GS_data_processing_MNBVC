@@ -1,0 +1,13 @@
+Đao Săn Cá
+Đao bằng thép sắc bén dùng để làm cá, thân thon dài, cực kỳ sắc bén.
+ Truyền thuyết kể rằng, Liyue từng rất mạnh trong việc sản xuất loài cá Li Hổ, cũng là món ăn ưa thích của người dân. Thế nhưng người truyền người, tai truyền tai khắp đầu đường ngõ hẻm nên đọc sai thành "ăn cá Hổ". Đến nay, loài cá Li Hổ rất hiếm gặp, Ăn cá hổ cũng trở thành từ đồng nghĩa với việc người dân Liyue ăn thịt cá. 
+Quyết
+Khi đánh trúng, có 50% cơ hội tạo thành <color=#99FFFFFF>240%</color> sát thương tấn công vào mục tiêu đơn. Hiệu quả này <color=#99FFFFFF>15</color>s xuất hiện một lần.
+Quyết
+Khi đánh trúng, có 50% cơ hội tạo thành <color=#99FFFFFF>280%</color> sát thương tấn công vào mục tiêu đơn. Hiệu quả này <color=#99FFFFFF>14</color>s xuất hiện một lần.
+Quyết
+Khi đánh trúng, có 50% cơ hội tạo thành <color=#99FFFFFF>320%</color> sát thương tấn công vào mục tiêu đơn. Hiệu quả này <color=#99FFFFFF>13</color>s xuất hiện một lần.
+Quyết
+Khi đánh trúng, có 50% cơ hội tạo thành <color=#99FFFFFF>360%</color> sát thương tấn công vào mục tiêu đơn. Hiệu quả này <color=#99FFFFFF>12</color>s xuất hiện một lần.
+Quyết
+Khi đánh trúng, có 50% cơ hội tạo thành <color=#99FFFFFF>400%</color> sát thương tấn công vào mục tiêu đơn. Hiệu quả này <color=#99FFFFFF>11</color>s xuất hiện một lần.

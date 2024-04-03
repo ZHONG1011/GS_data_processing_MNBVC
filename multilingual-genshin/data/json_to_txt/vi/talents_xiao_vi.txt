@@ -1,0 +1,12 @@
+Tấn Công Thường - Cuốn Quét Bụi Trần
+<color=#FFD780FF>Tấn Công Thường</color> Thực hiện tối đa 6 lần đánh liên tiếp.  <color=#FFD780FF>Trọng Kích</color> Tiêu hao thể lực nhất định để tấn công hướng lên trên.  <color=#FFD780FF>Tấn Công Khi Đáp</color> Đáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất. Khi Xiao tiến hành tấn công khi đáp, sẽ không phải chịu sát thương rơi.
+Đôi Bánh Xe Gió
+Lao đến cực nhanh, gây <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color> cho kẻ địch trên đường. Có thể thi triển trên không trung. Ban đầu có 2 lần sử dụng.  <i>Theo truyền thuyết của nơi nào đó, thế giới sẽ bị nghiền nát bởi hai bánh xe gió. Thương pháp của Xiao đã đạt trình độ xuất thần nhập quỷ, đi lại giống như hai cỗ bánh xe gió xé nát phe địch.</i>
+Vũ Điệu Trừ Yêu
+Phơi bày Mặt Nạ Dạ Xoa mà hàng nghìn năm trước đã khiến yêu ma quỷ quái run sợ.  <color=#FFD780FF>Mặt Nạ Dạ Xoa</color> ·Tăng khả năng nhảy của Xiao;  ·Tăng phạm vi tấn công và sát thương;  ·Chuyển sát thương thành <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color>, chuyển hóa nguyên tố này không thể bị đính kèm thay thế.  Ở trạng thái này, Xiao sẽ liên tục mất HP. Hiệu quả sẽ mất khi Xiao rời trận.  <i>Đeo lên mặt nạ Hàng Ma, Hộ Pháp Dạ Xoa xuất hiện khiến tất cả yêu ma run sợ, hàng ma diệt quái. Nhận được sức mạnh to lớn, cũng đem đến đau đớn cùng cực. Tên gọi là Vũ Điệu Trừ Yêu.</i>
+Hàng Ma - Bình Yêu Đại Thánh
+Trong trạng thái <color=#FFD780FF>Vũ Điệu Trừ Yêu</color>, tất cả sát thương Xiao gây ra tăng 5%. Sau đó, trong thời gian duy trì của kỹ năng, mỗi 3s, sát thương gây ra sẽ tăng thêm 5%. Tối đa nhận 25% sát thương tăng thêm.
+Hoại Kiếp - Quốc Thổ
+Sau khi thi triển <color=#FFD780FF>Đôi Bánh Xe Gió</color>, trong vòng 7s sau đó sẽ khiến cho sát thương của Đôi Bánh Xe Gió tăng 15%. Hiệu quả kéo dài 7s, tối đa cộng dồn 3 lần, khi cộng dồn sẽ làm mới thời gian kéo dài.
+Thần Thông - Không Trung Tự Tại
+Giảm 20% tiêu hao thể lực khi leo trèo cho nhân vật trong đội của bản thân. Không thể cộng dồn với buff Thiên Phú cố định có cùng hiệu quả.

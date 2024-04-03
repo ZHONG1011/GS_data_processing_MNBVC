@@ -1,0 +1,12 @@
+I Got Your Back
+ในขณะที่อยู่ในสภาวะของ <color=#FFD780FF>Sweeping Time</color> และ <color=#FFD780FF>Breastplate</color> เอฟเฟกต์การคืนพลังชีวิตของ Breastplate จะมีโอกาสเกิด 100%
+Combat Maid
+ลดการใช้พลังงานการชาร์จ โจมตีของ Noelle ลง 20% และเพิ่มความเสียหายขึ้น 15%
+Invulnerable Maid
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Breastplate</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+To Be Cleaned
+เมื่อเอฟเฟกต์ของ <color=#FFD780FF>Breastplate</color> จบลงหรือได้รับความเสียหาย จนสลายไป จะสร้าง <color=#FFE699FF>ความเสียหายหิน</color> เป็น 400% ของพลังโจมตี กับศัตรูโดยรอบ
+Favonius Sweeper Master
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Sweeping Time</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Must Be Spotless
+<color=#FFD780FF>Sweeping Time</color> จะเสริมพลังโจมตีให้ Noelle เป็น 50% ของพลังป้องกัน; นอกจากนี้ในช่วงเวลาที่สกิลคงอยู่ ทุกครั้งที่โค่นศัตรูลงได้ 1 ตัว การคงอยู่จะนานขึ้น 1 วินาที โดยสูงสุดไม่เกิน 10 วินาที

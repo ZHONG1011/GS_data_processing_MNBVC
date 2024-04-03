@@ -1,0 +1,12 @@
+Tấn Công Thường: Xạ Thủ Thần
+<color=#FFD780FF>Tấn Công Thường</color> Thực hiện tối đa 5 lần bắn tên liên tiếp.  <color=#FFD780FF>Trọng Kích</color> Sát thương càng cao, <color=#FFD780FF>ngắm bắn</color> càng chuẩn. Khi ngắm bắn, ngọn lửa sẽ tích tụ trên mũi tên. Mũi tên đầy lửa sẽ gây <color=#FF9999FF>Sát Thương Nguyên Tố Hỏa</color>.  <color=#FFD780FF>Tấn Công Khi Đáp</color> Bắn mưa tên liên tiếp xuống mặt đất, gây sát thương phạm vi khi chạm đất.
+Con Rối Nổ
+Mời Bá Tước Thỏ ra trận.  <color=#FFD780FF>Bá Tước Thỏ</color> ·Khiêu khích địch xung quanh, thu hút hỏa lực; ·Độ bền sẽ kế thừa giới hạn HP của Amber theo tỷ lệ nhất định; ·Nếu bị hủy diệt hoặc hết thời gian, Bá Tước Thỏ sẽ nổ, gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>.  <color=#FFD780FF>Nhấn Giữ</color> Điều chỉnh hướng ném. Khoảng cách ném sẽ tăng theo thời gian nhấn giữ.  <i>Bá tước thỏ có dòng dõi lâu đời. Nhưng bắt đầu từ đời thỏ thứ 893, Amber đã ngừng tính số.</i>
+Mưa Tên
+Bắn ra cơn mưa tên lửa, duy trì gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>.  <i>Trái tim tràn đầy nhiệt huyết của Amber thật sự nóng bỏng.</i>
+Bách Phát Bách Trúng!
+Tỷ lệ bạo kích <color=#FFD780FF>Mưa Tên</color> tăng 10%, phạm vi ảnh hưởng tăng 30%.
+Bắn Áp Chế
+Khi ngắm bắn trúng nhược điểm, tấn công tăng 15%, kéo dài 10s.
+Quán Quân Bay Lượn
+Giảm 20% tiêu hao thể lực nhân vật của bản thân trong đội khi bay lượn. Đối với buff Thiên Phú cố định có hiệu quả hoàn toàn giống sẽ không thể cộng dồn.

@@ -1,0 +1,12 @@
+Phi Thân Thang Mã
+<color=#FFD780FF>Toàn Vân Khai Tương</color> giảm 18% thời gian CD.
+Chư Bàn Thiết Mạt
+Sau khi thi triển <color=#FFD780FF>Phá Chướng Kiến Tinh Nghi</color>, sát thương đánh thường tạo ra từ tất cả nhân vật trong đội gần đó tăng 15%, duy trì 12s.
+Nha Đạo Thám Hải
+Cấp kỹ năng <color=#FFD780FF>Phá Chướng Kiến Tinh Nghi</color> +3. Tăng tối đa đến cấp 15.
+Thăng Đường Điếu Vân
+Sau khi Yun Jin kích hoạt phản ứng kết tinh, sức phòng ngự tăng 20%, duy trì 12s.
+Kiều Sở Danh Khôn
+Cấp kỹ năng <color=#FFD780FF>Toàn Vân Khai Tương</color> +3. Tăng tối đa đến cấp 15.
+Trang Hài Tịnh Cử
+Nhân vật trong trạng thái <color=#FFD780FF>"Phi Vân Kỳ Trận"</color> sẽ tăng 12% tốc độ tấn công thường.

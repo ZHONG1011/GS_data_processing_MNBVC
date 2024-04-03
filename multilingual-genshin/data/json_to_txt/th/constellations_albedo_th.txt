@@ -1,0 +1,12 @@
+Flower of Eden
+เมื่อ Transient Blossom ที่เกิดขึ้นจาก <color=#FFD780FF>Abiogenesis: Solar Isotoma</color> ของ Albedo เบ่งบาน จะฟื้นฟูพลังงานธาตุ 1.2 หน่วย ให้แก่ตัวของ Albedo เอง
+Opening of Phanerozoic
+เมื่อ Transient Blossom ที่เกิดจาก <color=#FFD780FF>Abiogenesis: Solar Isotoma</color> เบ่งบาน จะมอบเอฟเฟกต์ Fatal Reckoning ให้แก่ Albedo เป็นเวลา 30 วินาที: ·เมื่อปล่อย <color=#FFD780FF>Rite of Progeniture: Tectonic Tide</color> จะเป็นการล้างเอฟเฟกต์ทั้งหมดของ Fatal Reckoning และเพิ่มความเสียหายของ Rite of Progeniture: Tectonic Tide และ Fatal Blossom ตามจำนวนชั้นของเอฟเฟกต์ที่ถูกล้าง; ·Fatal Reckoning แต่ละชั้นที่ถูกใช้ จะเพิ่มความเสียหายเท่ากับ 30% ของพลังป้องกันของ Albedo ให้กับ Rite of Progeniture: Tectonic Tide และ Fatal Blossom; ·เอฟเฟกต์ดังกล่าวสามารถซ้อนทับได้มากสุด 4 ครั้ง
+Grace of Helios
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Abiogenesis: Solar Isotoma</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Descent of Divinity
+ตัวละครในทีมที่เข้าร่วมการต่อสู้ในขณะนั้น และอยู่ในพื้นที่ของ Solar Isotoma จะสร้างความเสียหายจากการโจมตีพุ่งลงจากอากาศเพิ่มขึ้น 30%
+Tide of Hadean
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Rite of Progeniture: Tectonic Tide</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Dust of Purification
+เมื่อตัวละครในทีมที่เข้าร่วมการต่อสู้ในขณะนั้น และอยู่ในพื้นที่ของ Solar Isotoma ได้รับการปกป้องโดยโล่ที่เกิดจากปฏิกิริยาตกผลึก ความเสียหายที่สร้างจะเพิ่มขึ้น 17%

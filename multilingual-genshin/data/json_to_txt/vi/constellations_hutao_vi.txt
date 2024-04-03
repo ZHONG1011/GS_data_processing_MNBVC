@@ -1,0 +1,12 @@
+Cánh Bướm Bay Nghiêng Về Chân Trời
+Khi ở trạng thái <color=#FFD780FF>Bỉ Ngạn Điệp Vũ</color> mà <color=#FFD780FF>Điệp Dẫn Lai Sinh</color> mang đến, trọng kích của Hu Tao sẽ không tiêu hao thể lực.
+Mưa Về Bất An
+Tăng sát thương <color=#FFD780FF>Huyết Mai Hương</color> gây ra, mức tăng tương đương với 10% giới hạn HP của Hu Tao khi hiệu quả này diễn ra. Ngoài ra, <color=#FFD780FF>An Thần Bí Pháp</color> sẽ gây thêm hiệu quả <color=#FFD780FF>Huyết Mai Hương</color> cho kẻ địch bị đánh trúng.
+Huyết Sắc Vấn Vương
+Cấp kỹ năng <color=#FFD780FF>Điệp Dẫn Lai Sinh</color> +3. Tăng tối đa đến cấp 15.
+Hoa Phòng Bầu Bạn
+Khi kẻ địch bị ảnh hưởng bởi trạng thái <color=#FFD780FF>Huyết Mai Hương</color> của Hu Tao bị đánh bại, tất cả nhân vật trong đội ở gần (Không bao gồm Hu Tao) sẽ tăng 12% tỷ lệ bạo kích, kéo dài 15s.
+Đốt Hoa Làm Hương
+Cấp kỹ năng <color=#FFD780FF>An Thần Bí Pháp</color> +3. Tăng tối đa đến cấp 15.
+U Điệp Lưu Lại Một Chút Hương
+Khi HP của Hu Tao giảm xuống dưới 25% hoặc chịu sát thương đủ để khiến cô ấy ngã xuống, sẽ kích hoạt: Sát thương lần này sẽ không đánh gục Hu Tao, và trong 10s kế tiếp, tất cả Kháng Nguyên Tố và Kháng Vật Lý của Hu Tao sẽ tăng 200%, tỷ lệ bạo kích tăng 100% và khả năng kháng gián đoạn tăng mạnh. Hiệu quả này sẽ tự động kích hoạt khi HP của Hu Tao còn 1. Mỗi 60s chỉ kích hoạt 1 lần.

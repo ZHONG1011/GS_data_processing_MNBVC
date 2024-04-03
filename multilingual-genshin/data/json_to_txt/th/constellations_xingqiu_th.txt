@@ -1,0 +1,12 @@
+The Scent Remained
+จำนวนมากสุดของ Rain Sword เพิ่มขึ้น 1 เล่ม
+Rainbow Upon the Azure Sky
+ระยะเวลาคงอยู่ของ <color=#FFD780FF>Guhua Sword: Raincutter</color> นานขึ้น 3 วินาที; นอกจากนี้ ศัตรูที่ถูกฝนดาบโจมตี จะถูกลด<color=#80C0FFFF>ความต้านทานน้ำ</color>ลง 15% เป็นเวลา 4 วินาที
+Weaver of Verses
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Guhua Sword: Raincutter</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Evilsoother
+ในระยะเวลาคงอยู่ของ <color=#FFD780FF>Guhua Sword: Raincutter</color> ความเสียหายที่สร้างขึ้นจาก <color=#FFD780FF>Guhua Sword: Fatal Rainscreen</color> เพิ่มขึ้น 50%
+Embrace of Rain
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Guhua Sword: Fatal Rainscreen</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Hence, Call Them My Own Verses
+ทุกการปล่อยการโจมตีด้วยฝนดาบ 2 ครั้ง <color=#FFD780FF>Guhua Sword: Raincutter</color> จะเพิ่มความเสียหายของฝนดาบครั้งต่อไปขึ้นในปริมาณมาก และฟื้นฟูพลังงานธาตุของ Xingqiu ขึ้น 3 หน่วย ในตอนที่โจมตีโดนศัตรู

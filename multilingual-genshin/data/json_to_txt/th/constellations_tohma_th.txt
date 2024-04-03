@@ -1,0 +1,12 @@
+A Comrade's Duty
+เมื่อตัวละครที่ได้รับการปกป้องจาก <color=#FFD780FF>Blazing Barrier</color> ของตัว Thoma เองถูกโจมตี ช่วงเวลาคูลดาวน์ของ <color=#FFD780FF>Blazing Blessing</color> ของตัว Thoma เองจะลดลง 3 วินาที และช่วงเวลาคูลดาวน์ของ <color=#FFD780FF>Crismon Ooyoroi</color> ของตัว Thoma เองจะลดลง 3 วินาที เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 20 วินาที
+A Subordinate's Skills
+ช่วงเวลาต่อเนื่องของ <color=#FFD780FF>Crimson Ooyoroi</color> เพิ่มขึ้น 3 วินาที
+Fortified Resolve
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Blazing Blessing</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Long-Term Planning
+หลังจากปล่อย <color=#FFD780FF>Crimson Ooyoroi</color> จะทำการฟื้นฟูพลังงานธาตุให้ Thoma 15 หน่วย
+Raging Wildfire
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Crimson Ooyoroi</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Burning Heart
+เมื่อได้รับหรือรีเฟรช <color=#FFD780FF>Blazing Barrier</color> การโจมตีปกติ, ชาร์จโจมตี และโจมตีพุ่งลงจากอากาศ ของตัวละครทั้งหมดในทีม จะสร้างความเสียหายเพิ่มขึ้น 15% เป็นเวลา 6 วินาที

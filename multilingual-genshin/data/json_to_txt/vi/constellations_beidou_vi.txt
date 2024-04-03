@@ -1,0 +1,12 @@
+Ngư Long Trầm Tứ Phương
+Khi thi triển <color=#FFD780FF>Chước Lôi</color>:  Hình thành tấm khiên hấp thu sát thương tương đương với 16% giới hạn HP, kéo dài 15s. Khiên có hiệu quả hấp thụ 250% <color=#FFACFFFF>sát thương Nguyên Tố Lôi</color>.
+Tia Sét Chói Lọi
+Sấm sét của <color=#FFD780FF>Chước Lôi</color> có thể đánh bật thêm 2 kẻ địch.
+Thủy Triều Dẫn Điện
+Cấp kỹ năng <color=#FFD780FF>Bắt Sóng</color> +3. Tăng tối đa đến cấp 15.
+Sao Trời Dẫn Lối
+Trong vòng 10s sau khi bị tấn công, tấn công thường của Beidou tăng thêm 20% <color=#FFACFFFF>sát thương Nguyên Tố Lôi</color>.
+Đạp Lãng Liên Cấp
+Cấp kỹ năng <color=#FFD780FF>Chước Lôi</color> +3. Tăng tối đa đến cấp 15.
+Beidou Diệt Ác
+Trong thời gian <color=#FFD780FF>Chước Lôi</color> tồn tại, <color=#FFACFFFF>kháng Nguyên Tố Lôi</color> của địch xung quanh giảm 15%.

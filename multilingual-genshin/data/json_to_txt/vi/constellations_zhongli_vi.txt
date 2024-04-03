@@ -1,0 +1,12 @@
+Nham, Lục Hợp Dẫn Thành Cốt
+Vách đá tạo thành từ <color=#FFD780FF>Tâm Trái Đất</color> có thể tồn tại cùng lúc 2 cái.
+Thạch, Bát Hoang Ngọc Minh
+Khi <color=#FFD780FF>Thiên Tinh</color> rơi xuống, các nhân vật trong trận hiện tại ở lân cận sẽ nhận được Khiên Ngọc bảo vệ.
+Khuê Chương, Khó Khăn Không Lùi Bước
+Cấp kỹ năng <color=#FFD780FF>Tâm Trái Đất</color> +3. Tăng tối đa đến cấp 15.
+Hoàng Tông, Phá Nhưng Không Mất Kiên Cường
+Tăng 20% phạm vi ảnh hưởng của <color=#FFD780FF>Thiên Tinh</color>. Đồng thời hiệu quả Hóa Thạch của Thiên Tinh sẽ kéo dài thêm 2s.
+Thương Bích, Kiên Cường Như Lẽ Trời
+Cấp kỹ năng <color=#FFD780FF>Thiên Tinh</color> +3. Tăng tối đa đến cấp 15.
+Thiên Ngọc, Lễ Thiên Địa Tứ Phương
+Khi Khiên Ngọc chịu sát thương, sẽ hồi HP cho nhân vật hiện tại, lượng hồi phục bằng 40% sát thương. Lượng hồi phục của 1 lần không vượt quá 8% HP tối đa của nhân vật.

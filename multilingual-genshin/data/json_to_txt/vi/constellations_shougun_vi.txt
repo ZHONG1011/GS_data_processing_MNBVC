@@ -1,0 +1,12 @@
+Lời Tiên Tri Đen Tối
+<color=#FFD780FF>Ước Nguyện Chakra</color> có thể tích tụ Ý Lực nhanh hơn. Nhân vật <color=#FFACFFFF>Nguyên Tố Lôi</color> sau khi thi triển Kỹ Năng Nộ sẽ tăng 80% tích lũy Ý Lực; nhân vật nguyên tố khác sau khi thi triển Kỹ Năng Nộ sẽ tăng 20% tích lũy Ý Lực.
+Càn Quét Thiên Hạ
+Khi trong trạng thái Mộng Tưởng Nhất Đao và Mộng Tưởng Nhất Tâm của <color=#FFD780FF>Bí Kỹ - Mộng Tưởng Chân Thuyết</color>, tấn công của Raiden Shogun sẽ bỏ qua 60% phòng ngự của địch.
+Chuyện Xưa Kể Lại
+Cấp kỹ năng <color=#FFD780FF>Bí Kỹ - Mộng Tưởng Chân Thuyết</color> +3. Tăng tối đa đến cấp 15.
+Thờ Phụng Lẽ Phải
+<color=#FFD780FF>Mộng Tưởng Nhất Tâm</color> của <color=#FFD780FF>Bí Kỹ - Mộng Tưởng Chân Thuyết</color> sau khi kết thúc, tất cả nhân vật trong đội gần đó (Không bao gồm Raiden Shogun) sẽ tăng 30% tấn công, duy trì 10s.
+Shogun Giáng Lâm
+Cấp kỹ năng <color=#FFD780FF>Thần Biến - Ánh Chớp Tà Ác</color> +3. Tăng tối đa đến cấp 15.
+Kế Thừa Ước Nguyện
+Khi trong trạng thái <color=#FFD780FF>Mộng Tưởng Nhất Tâm</color> của <color=#FFD780FF>Bí Kỹ - Mộng Tưởng Chân Thuyết</color>, sát thương Kỹ Năng Nộ của Raiden Shogun trúng kẻ địch sẽ giảm 1s CD Kỹ Năng Nộ của tất cả nhân vật trong đội ở gần đó (Không bao gồm Raiden Shogun). Hiệu quả này mỗi giây tối đa kích hoạt 1 lần, trong thời gian duy trì tối đa kích hoạt 5 lần.

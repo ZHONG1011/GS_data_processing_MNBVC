@@ -1,0 +1,13 @@
+Nỏ Kéo
+Thực chất là một cây cung. Trải qua vô số lần cải tiến và thực nghiệm, người làm ra nó phát hiện mình đã làm một cây nỏ.
+ Trước kia có người muốn cải thiện tầm bắn và độ tinh chuẩn của nỏ kéo. Anh nhận ra rằng: Nếu tăng sức mạnh nỏ kéo để cải thiện tầm bắn, thì quỹ đạo sẽ bị lệch hướng. Vậy là anh đã thay các viên bi bằng một cây gỗ dài, phía sau dính lông chim để thích nghi với luồng không khí. Sau đó tiếp tục bỏ đi phần tay cầm, hai bên tay cung được kéo dài và uốn ngược với lòng cung để tăng sức kéo. Cuối cùng anh biết được mình đang làm một cây nỏ. 
+Nỏ Kéo
+Khi đánh thường hoặc trọng kích, nếu mũi tên bắn trúng kẻ địch trong 0.3s sau khi phóng, sát thương tạo thành sẽ tăng <color=#99FFFFFF>36%</color>; Nếu không, sát thương tạo thành giảm 10%.
+Nỏ Kéo
+Khi đánh thường hoặc trọng kích, nếu mũi tên bắn trúng kẻ địch trong 0.3s sau khi phóng, sát thương tạo thành sẽ tăng <color=#99FFFFFF>42%</color>; Nếu không, sát thương tạo thành giảm 10%.
+Nỏ Kéo
+Khi đánh thường hoặc trọng kích, nếu mũi tên bắn trúng kẻ địch trong 0.3s sau khi phóng, sát thương tạo thành sẽ tăng <color=#99FFFFFF>48%</color>; Nếu không, sát thương tạo thành giảm 10%.
+Nỏ Kéo
+Khi đánh thường hoặc trọng kích, nếu mũi tên bắn trúng kẻ địch trong 0.3s sau khi phóng, sát thương tạo thành sẽ tăng <color=#99FFFFFF>54%</color>; Nếu không, sát thương tạo thành giảm 10%.
+Nỏ Kéo
+Khi đánh thường hoặc trọng kích, nếu mũi tên bắn trúng kẻ địch trong 0.3s sau khi phóng, sát thương tạo thành sẽ tăng <color=#99FFFFFF>60%</color>; Nếu không, sát thương tạo thành giảm 10%.

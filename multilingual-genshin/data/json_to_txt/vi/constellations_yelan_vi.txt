@@ -1,0 +1,12 @@
+Kẻ Toan Tính, Lâm Trận Cẩn Thận
+Tăng 1 lần sử dụng cho <color=#FFD780FF>Dây Sinh Mệnh Quanh Quẩn</color>.
+Kẻ Nhập Cuộc, Càng Đông Càng Tốt
+<color=#FFD780FF>"Xúc Xắc Tinh Tế"</color> khi hỗ trợ tấn công sẽ bắn thêm một mũi tên nước, gây lượng Sát Thương Nguyên Tố Thủy tương ứng với 14% giới hạn HP của Yelan. Hiệu quả này mỗi 1.8s tối đa kích hoạt một lần.
+Kẻ Nâng Ly, Cẩn Thận Chiêu Trò
+Cấp kỹ năng <color=#FFD780FF>Xúc Xắc Toan Tính</color> +3. Tăng tối đa đến cấp 15.
+Kẻ Giảo Hoạt, Đánh Lận Con Đen
+Dựa theo số lượng kẻ địch mà <color=#FFD780FF>"Lạc Mệnh Tơ"</color> đánh dấu, mỗi dấu ấn khi phát nổ sẽ tăng 10% giới hạn HP cho toàn bộ nhân vật trong đội, duy trì 25s. Thông qua cách này, giới hạn HP tăng thêm tối đa tăng đến 40%.
+Kẻ Làm Cái, Biến Hóa Ảo Diệu
+Cấp kỹ năng <color=#FFD780FF>Dây Sinh Mệnh Quanh Quẩn</color> +3. Tăng tối đa đến cấp 15.
+Kẻ Thắng Cuộc, Gom Sạch Tất Cả
+Sau khi thi triển <color=#FFD780FF>Xúc Xắc Toan Tính</color>, Yelan sẽ vào trạng thái "Bàn Luận Chiến Lược": Tấn công thường của Yelan sẽ chuyển thành "Mũi Tên Phá Trận" đặc biệt. Mũi tên này có đặc tính tương tự với Mũi Tên Phá Trận, sát thương gây ra được tính là sát thương trọng kích, gây ra 156% sát thương so với Mũi Tên Phá Trận.  Trạng thái "Bàn Luận Chiến Lược" tồn tại tối đa 20s và sẽ biến mất khi Yelan bắn ra 5 mũi tên.

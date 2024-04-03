@@ -1,0 +1,12 @@
+Wolf's Instinct
+หลังจากเก็บลูกแก้วธาตุ หรืออณูธาตุ จะเพิ่มความเสียหายที่สร้างได้ ของ Razor ขึ้น 10% เป็นเวลา 8 วินาที
+Suppression
+เมื่อ Razor โจมตีศัตรูที่มีพลังชีวิตต่ำกว่า 30% อัตราคริจะเพิ่มขึ้น 10%
+Soul Companion
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Lightning Fang</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Bite
+#เมื่อ{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด} <color=#FFD780FF>Claw and Thunder</color> จะทำให้พลังป้องกันของศัตรูที่ถูกโจมตีลดลง 15% เป็นเวลา 7 วินาที
+Sharpened Claws
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Claw and Thunder</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Lupus Fulguris
+ทุก 10 วินาที ดาบใหญ่ของ Razor จะทำการชาร์จตัวเอง โดยจะทำให้เกิดสายฟ้าฟาดในการโจมตีปกติครั้งต่อไป สร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>เป็น 100% ของพลังการโจมตี ในตอนที่ไม่อยู่ในสภาวะ <color=#FFD780FF>Lightning Fang</color> หากสายฟ้าโจมตีถูกศัตรู จะทำการรวบรวมลูกแก้วไฟฟ้าของ <color=#FFD780FF>Claw and Thunder</color> ให้ Razor หนึ่งลูก

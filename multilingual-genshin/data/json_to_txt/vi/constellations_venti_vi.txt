@@ -1,0 +1,12 @@
+Mũi Tên Gió
+<color=#FFD780FF>Ngắm bắn</color> sẽ phóng thêm 2 mũi tên, lần lượt gây sát thương bằng 33% sát thương gốc.
+Tình Yêu Gió Lạnh
+<color=#FFD780FF>Bài Ca Trời Cao</color> sẽ khiến <color=#80FFD7FF>kháng Nguyên Tố Phong</color> và kháng vật lý của địch giảm 12%, kéo dài 10s. Địch bị <color=#FFD780FF>Bài Ca Trời Cao</color> đánh bay trước khi rơi xuống đất, <color=#80FFD7FF>kháng Nguyên Tố Phong</color> và kháng vật lý giảm thêm 12%.
+Tập Thơ Thiên Phong
+Cấp kỹ năng <color=#FFD780FF>Bài Thơ Thần Gió</color> +3. Tăng tối đa đến cấp 15.
+Cơn Gió Tự Do
+Sau khi Venti nhận Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân, sẽ nhận được 25% <color=#80FFD7FF>Buff Sát Thương Nguyên Tố Phong</color>, kéo dài 10s.
+Hợp Tấu Trời Cao
+Cấp kỹ năng <color=#FFD780FF>Bài Ca Trời Cao</color> +3. Tăng tối đa đến cấp 15.
+Bão Chiến Tranh
+Kẻ địch bị <color=#FFD780FF>Bài Thơ Thần Gió</color> sát thương, <color=#80FFD7FF>kháng Nguyên Tố Phong</color> giảm 20%. Nếu chuyển hoá nguyên tố xảy ra, sẽ giảm 20% kháng nguyên tố đã chuyển.

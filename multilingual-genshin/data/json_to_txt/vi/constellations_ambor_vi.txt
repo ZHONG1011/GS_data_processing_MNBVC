@@ -1,0 +1,12 @@
+Bắn Một Được Hai Hilichurl!
+Khi <color=#FFD780FF>ngắm bắn</color>, sẽ bắn ra 2 mũi tên liên tiếp. Mũi tên thứ hai tạo ra 20% sát thương so với sát thương gốc.
+Thỏ Xông Lên
+Bá Tước Thỏ bản cải tiến! Khi hoàn thành tụ lực ngắm bắn trúng chân Bá Tước Thỏ, sẽ gây nổ ngay. Chủ động làm nổ Bá Tước Thỏ, sẽ gây thêm 200% sát thương.
+Cháy Lên Nào!
+Cấp kỹ năng <color=#FFD780FF>Mưa Tên</color> +3. Tăng tối đa đến cấp 15.
+Không Phải Con Rối Thường
+CD của <color=#FFD780FF>Con Rối Nổ</color> giảm 20%, và tăng thêm 1 lần sử dụng.
+Là Bá Tước Thỏ!
+Cấp kỹ năng <color=#FFD780FF>Con Rối Nổ</color> +3. Tăng tối đa đến cấp 15.
+Nhanh Như Lửa
+Sau khi sử dụng <color=#FFD780FF>Mưa Tên</color>, 10s tiếp theo tăng 15% tốc độ di chuyển của tất cả thành viên trong đội, tấn công tăng 15%.

@@ -1,0 +1,12 @@
+Tấn Công Thường - Bốn Cách Diệt Tà
+<color=#FFD780FF>Tấn Công Thường</color> Thực hiện tối đa 4 lần chém liên tiếp.  <color=#FFD780FF>Trọng Kích</color> Tiêu hao thể lực để xoay kiếm tấn công địch xung quanh. Khi ngừng quay, sẽ bổ một nhát cực mạnh.  <color=#FFD780FF>Tấn Công Khi Đáp</color> Đáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.
+Linh Đao - Sương Bạc Trùng Điệp
+Chongyun vung cự kiếm đập mạnh xuống mặt đất, gây ra vụ nổ băng ở phạm vi hình tròn phía trước và gây cho địch <color=#99FFFFFF>sát thương Nguyên Tố Băng</color>. Sau khi gây ngưng trệ ngắn hạn, hàn khí tích tụ thành khu vực Sương Bạc Trùng Điệp, khiến cho nhân vật dùng kiếm đơn, đại kiếm, vũ khí cán dài nhận <color=#99FFFFFF>Nguyên Tố Băng đính kèm</color>.  <i>"Ngọc vỡ chấn động, bốn bề im ắng. Sông nước bất động, mây trời ngưng tụ. Lập đàn thi pháp, tà ác rút lui."</i>
+Linh Đao - Vân Khai Tinh Lạc
+Chongyun kết ấn, triệu hồi liên tục ba thanh linh kiếm ở khoảng không phía trước, rồi lần lượt rơi xuống mặt đất và nổ tung. Khi linh kiếm nổ sẽ gây <color=#99FFFFFF>sát thương phạm vi nguyên tố băng</color> đồng thời đánh bay kẻ địch.  <i>"Trác kiếm thiên địa động, băng lăng sương hàn sinh. Như luật lệnh!"</i>
+Hơi Thở Bình Yên
+Tất cả nhân vật dùng kiếm đơn, trọng kiếm, vũ khí cán dài đứng trong <color=#FFD780FF>Linh Đao - Sương Bạc Trùng Điệp</color> tăng 8% tốc độ tấn công của các đòn tấn công thường.
+Truy Băng Kiếm Quyết
+Khi khu vực <color=#FFD780FF>Linh Đao - Sương Bạc Trùng Điệp</color> biến mất, sẽ gọi ra 1 thanh Linh Đao tự động tấn công địch xung quanh, tạo thành 100% <color=#99FFFFFF>sát thương phạm vi Nguyên Tố Băng</color> tương đương với kỹ năng sát thương của Linh Đao - Sương Bạc Trùng Điệp. Địch bị đánh trúng <color=#99FFFFFF>kháng Nguyên Tố Băng</color> giảm 10%, kéo dài 8s.
+Chu Du Sông Núi
+Khi làm nhiệm vụ Phái Đi thám Hiểm ở Liyue, thời gian tiêu hao rút ngắn 25%.

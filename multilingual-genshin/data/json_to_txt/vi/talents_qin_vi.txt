@@ -1,0 +1,12 @@
+Tấn Công Thường - Tây Phong Kiếm Thuật
+<color=#FFD780FF>Tấn Công Thường</color> Thực hiện tối đa 5 lần đánh kiếm liên tiếp.  <color=#FFD780FF>Trọng Kích</color> Tiêu hao thể lực nhất định, đánh một đòn tràn đầy sức mạnh của gió. Địch bị đánh bay sẽ rơi chậm trong thời gian ngắn.  <color=#FFD780FF>Tấn Công Khi Đáp</color> Đáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.
+Gió Cuộn Kiếm
+Hội tụ sức mạnh của gió vô hình lên kiếm, thi triển cơn bão nhỏ, đánh bay địch ở hướng ngắm bắn, gây lượng lớn <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color>.  <color=#FFD780FF>Nhấn Giữ</color> Tiếp tục tiêu hao thể lực để trả giá, tạo lốc xoáy kéo địch và vật thể xung quanh đến trước mặt. Có thể điều chỉnh phương hướng. Trong khi sử dụng kỹ năng không thể di chuyển.  <i>Đồng hành cùng với Jean, là cơn gió bảo vệ đồng đội khỏi nguy hiểm.</i>
+Gió Bồ Công Anh
+Bảo hộ triệu hồi gió, tạo ra Vùng Đất Bồ Công Anh hỗn loạn, đánh lui địch xung quanh và gây <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color>. Đồng thời hồi nhanh lượng lớn HP cho tất cả nhân vật trong đội, lượng hồi được hưởng từ tấn công của Jean.  <color=#FFD780FF>Vùng Đất Bồ Công Anh</color> ·Duy trì hồi phục HP cho nhân vật trong đó; ·Khiến nhân vật trong đó tiếp tục chịu <color=#80FFD7FF>ảnh hưởng Nguyên Tố Phong</color>; ·Đối với địch ra vào khu vực, gây <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color>.  <i>Ân trạch của gió như bồ công anh trải rộng, là căn nguyên và lòng tốt của sự thủ hộ từ Jean.</i>
+Đi Cùng Với Gió
+Khi tấn công thường của Jean đánh trúng, có 50% tỷ lệ hồi HP bằng với 15% tấn công của Jean cho tất cả thành viên đội.
+Nghe Theo Hướng Gió
+Sau khi sử dụng <color=#FFD780FF>Gió Bồ Công Anh</color>, sẽ hồi phục 20% Năng Lượng Nguyên Tố
+Ngọn Gió Dẫn Đường
+Nấu hoàn mỹ món ăn thuộc loại hồi phục, có tỷ lệ 12% x2 sản lượng.

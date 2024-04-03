@@ -1,0 +1,12 @@
+Crow's Eye
+เมื่อ Tengu Juurai มอบเอฟเฟกต์เพิ่มพลังโจมตีให้แก่ตัวละคร หรือโจมตีถูกศัตรู ช่วงเวลาคูลดาวน์ของ <color=#FFD780FF>Tengu Stormcall</color> จะลดลง 1 วินาที เอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้ง ในทุก 3 วินาที
+Dark Wings
+เมื่อใช้ <color=#FFD780FF>Tengu Stormcall</color> จะปล่อย "Crowfeather" ที่สามารถทำให้เกิด Tengu Juurai: Ambush ที่มีพลังเบากว่าของเดิมได้หนึ่งครั้ง ตรงตำแหน่งเดิมของ Kujou Sara โดยจะสร้างความเสียหายเท่ากับ 30% ของความเสียหายเดิม
+The War Within
+เพิ่มเลเวลของสกิล <color=#FFD780FF>Subjugation: Koukou Sendou</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Conclusive Proof
+<color=#FFD780FF>Subjugation: Koukou Sendou</color> ปล่อย Tengu Juurai: Stormcluster เพิ่มขึ้นเป็น 6 ครั้ง
+Spellsinger
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Tengu Stormcall</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Sin of Pride
+<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>ของตัวละคร ที่อยู่ภายใต้สภาวะของเอฟเฟกต์เพิ่มพลังโจมตีของ Tengu Juurai จะมีความแรงคริเพิ่มขึ้น 60%

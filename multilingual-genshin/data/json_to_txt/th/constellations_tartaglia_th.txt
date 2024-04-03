@@ -1,0 +1,12 @@
+Foul Legacy: Tide Withholder
+ลดเวลาคูลดาวน์ของ <color=#FFD780FF>Foul Legacy: Raging Tide</color> ลง 20%
+Foul Legacy: Understream
+ฟื้นฟูพลังงานธาตุ 4 หน่วยให้ Tartaglia เมื่อศัตรูที่อยู่ภายใต้เอฟเฟกต์ Riptide ตาย
+Abyssal Mayhem: Vortex of Turmoil
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Foul Legacy: Raging Tide</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Abyssal Mayhem: Hydrospout
+เมื่อมีการใช้เอฟเฟกต์ Riptide ของ Tartaglia ในการต่อสู้ หาก Tartaglia อยู่ในรูปแบบการต่อสู้ระยะประชิดของ <color=#FFD780FF>Foul Legacy: Raging Tide</color> จะปล่อย Riptide Slash ไม่เช่นนั้นก็จะปล่อย Riptide Flash ในทุก ๆ 4 วินาที  Riptide Slash และ Riptide Flash ที่ปล่อยโดยกลุ่มดาว จะไม่ถูกจำกัดช่วงการปล่อยโดยเอฟเฟกต์ Riptide ของทั้งสอง และจะไม่มีผลต่อช่วงการปล่อยเอฟเฟกต์ดังกล่าว
+Havoc: Formless Blade
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Havoc: Obliteration</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Havoc: Annihilation
+ภายใต้รูปแบบการต่อสู้ระยะประชิด เมื่อใช้ <color=#FFD780FF>Havoc: Obliteration</color> จะลบล้างเวลาคูลดาวน์ของ <color=#FFD780FF>Foul Legacy: Raging Tide</color> เอฟเฟกต์ดังกล่าวจะถูกปล่อย เมื่อกลับสู่รูปแบบการต่อสู้ระยะไกล

@@ -1,0 +1,12 @@
+Cơn Bão Gió Lốc
+Nhấn giữ <color=#FFD780FF>Gió Cuộn Kiếm</color> trong hơn 1s để tăng tốc độ kéo, sát thương tạo thành cũng tăng 40%.
+Lá Khiên Bảo Vệ
+Khi Jean nhận được Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân, tất cả nhân vật trong đội tăng 15% tốc độ tấn công và 15% tốc độ di chuyển, kéo dài 15s.
+Khi Gió Tây Về
+Cấp kỹ năng <color=#FFD780FF>Gió Bồ Công Anh</color> +3. Tăng tối đa đến cấp 15.
+Lãnh Thổ Bồ Công Anh
+Trong vùng đất <color=#FFD780FF>Gió Bồ Công Anh</color>, <color=#80FFD7FF>Kháng Nguyên Tố Phong</color> của địch giảm 40%.
+Ngọn Gió Mạnh Thổi Qua
+Cấp kỹ năng <color=#FFD780FF>Gió Cuộn Kiếm</color> +3. Tăng tối đa đến cấp 15.
+Nanh Sư Tử Chăm Lo Muôn Dân!
+Trong <color=#FFD780FF>Gió Bồ Công Anh</color> sát thương phải nhận giảm 35%. Rời khỏi vùng đất, hiệu quả này sẽ biến mất sau 3 lần tấn công hoặc sau 10S.

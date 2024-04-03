@@ -1,0 +1,12 @@
+Sấm Sét Trừng Phạt
+Trong thời gian Đá Lôi tồn tại, khi thi triển <color=#FFD780FF>Tinh Đẩu Quy Vị</color> lần nữa, ở nơi Keqing biến mất và xuất hiện gây ra <color=#FFACFFFF>sát thương phạm vi nguyên tố Lôi</color> bằng 50% tấn công.
+Nghiêm Nghị Hà Khắc
+Khi Keqing tấn công thường và trọng kích trúng kẻ địch bị ảnh hưởng bởi <color=#FFACFFFF>Nguyên Tố Lôi</color>, có tỷ lệ 50% tạo 1 Nguyên Tố Hạt Nhân. Hiệu quả này mỗi 5s chỉ kích hoạt 1 lần.
+Trèo Tháp
+Cấp kỹ năng <color=#FFD780FF>Tuần Du Thiên Nhai</color> +3. Tăng tối đa đến cấp 15.
+Điều Luật
+Trong vòng 10s sau khi Keqing kích hoạt <color=#FFACFFFF>phản ứng Nguyên Tố Lôi</color>, lực tấn công tăng 25%.
+Đèn Di Chuyển
+Cấp kỹ năng <color=#FFD780FF>Tinh Đẩu Quy Vị</color> +3. Tăng tối đa đến cấp 15.
+Sao Liêm Trinh
+Khi tấn công thường, trọng kích, thi triển kỹ năng nguyên tố hoặc kỹ năng nộ, Keqing sẽ nhận 6% <color=#FFACFFFF>buff sát thương nguyên tố Lôi</color>, kéo dài 8s. Hiệu quả xuất phát từ tấn công thường, trọng kích, kỹ năng nguyên tố hoặc kỹ năng nộ tồn tại độc lập với nhau.

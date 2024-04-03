@@ -1,0 +1,12 @@
+Ordinance: Unceasing Vigil
+หลังจากใช้ <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color> ความเร็วการโจมตีปกติของ Cyno จะเพิ่มขึ้น 20% เป็นเวลา 10 วินาที และหากทำให้เกิดเอฟเฟกต์ Judication ของพรสวรรค์ติดตัว "Featherfall Judgment" ระหว่างช่วงเวลาของ <color=#FFD780FF>Secret Rite: Chasmic Soulfarer</color> ระยะต่อเนื่องของความสามารถที่เพิ่มขึ้นมาจะถูกรีเฟรช ต้องปลดล็อกพรสวรรค์ติดตัว "Featherfall Judgment" ก่อน
+Ceremony: Homecoming of Spirits
+หลังจากที่การโจมตีปกติของ Cyno ถูกศัตรู โบนัส<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>จะเพิ่มขึ้น 10% เป็นเวลา 4 วินาที โดยที่ทุก 0.1 วินาที เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ซ้อนทับได้มากสุด 5 ชั้น
+Precept: Lawful Enforcer
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Austerity: Forbidding Guard
+เมื่อ Cyno อยู่ในสภาวะ Pactsworn Pathclearer ของ <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color> หลังจากทำให้เกิดปฏิกิริยาชาร์จไฟฟ้า, นำไฟฟ้า, โอเวอร์โหลด, ปลุกเร้า, บีบอัด, ไฮเปอร์บลูม และการกระจายธาตุไฟฟ้าแล้ว จะฟื้นฟูพลังงานธาตุ 3 หน่วย ให้ตัวละครทั้งหมดในทีมที่อยู่ในบริเวณใกล้เคียง (ไม่รวมตัวของ Cyno เอง) ในระหว่าง <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color> หนึ่งครั้ง เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุด 5 ครั้ง
+Funerary Rite: The Passing of Starlight
+เพิ่มเลเวลของสกิล <color=#FFD780FF>Secret Rite: Chasmic Soulfarer</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Raiment: Just Scales
+หลังจากใช้ <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color> หรือทำให้เกิดเอฟเฟกต์ "Judication" ของพรสวรรค์ติดตัว "Featherfall Judgment" Cyno จะได้รับเอฟเฟกต์ "Day of the Jackal" 4 ชั้น โดยเมื่อการโจมตีปกติของ Cyno ถูกศัตรู จะใช้เอฟเฟกต์ Day of the Jackal หนึ่งชั้น และปล่อย Duststalker Bolt ออกมาหนึ่งอัน Day of the Jackal จะคงอยู่เป็นเวลา 8 วินาที ซ้อนทับได้มากสุด 8 ชั้น และจะถูกลบล้างหลังจากที่สภาวะ Pactsworn Pathclearer ของ Sacred Rite: Wolf's Swiftness สิ้นสุดลง ในทุก 0.4 วินาที จะสามารถปล่อย Duststalker Bolt ออกมาด้วยวิธีนี้ได้มากสุดหนึ่งอัน ต้องปลดล็อกพรสวรรค์ติดตัว "Featherfall Judgment" ก่อน

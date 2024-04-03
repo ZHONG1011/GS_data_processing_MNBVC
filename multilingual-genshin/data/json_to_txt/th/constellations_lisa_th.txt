@@ -1,0 +1,12 @@
+Infinite Circuit
+#เมื่อ{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด} <color=#FFD780FF>Violet Arc</color> ค้างจนเต็มแล้วปล่อย ศัตรูแต่ละตัวที่โดนการโจมตี จะทำให้ Lisa ฟื้นฟูพลังงานขึ้น 2 หน่วย ด้วยวิธีนี้จะสามารถฟื้นฟู พลังงานธาตุได้มากสุดถึง 10 หน่วย
+Electromagnetic Field
+#เมื่อ{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด} <color=#FFD780FF>Violet Arc</color> ค้าง จะเกิดเอฟเฟกต์ดังนี้: พลังป้องกันเพิ่มขึ้น 25%; ·ความสามารถในการต้านทานการหยุดชะงักของ Lisa จะเพิ่มขึ้น
+Resonant Thunder
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Lightning Rose</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Plasma Eruption
+เมื่อโจมตีโดย <color=#FFD780FF>Lightning Rose</color> การปล่อยสายฟ้าจะเพิ่มเป็น 1~3 สาย
+Electrocute
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Violet Arc</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Pulsating Witch
+เมื่อ Lisa เข้าสู่การต่อสู้ จะทำให้เกิดเอฟเฟกต์นำไฟฟ้าของ <color=#FFD780FF>Violet Arc</color> 3 ชั้น แก่ศัตรูในบริเวณใกล้เคียง เอฟเฟกต์นี้จะเกิดขึ้นได้ 1 ครั้ง ในทุก 5 วินาที

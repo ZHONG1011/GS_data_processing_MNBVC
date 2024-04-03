@@ -1,0 +1,12 @@
+Tấn công thường - Thương Thuật Giáo Hội
+<color=#FFD780FF>Tấn Công Thường</color> Thực hiện tối đa 5 lần đánh liên tiếp.  <color=#FFD780FF>Trọng Kích</color> Tiêu hao thể lực nhất định, xông về phía trước, gây sát thương cho địch trên đường đi.  <color=#FFD780FF>Tấn Công Khi Đáp</color> Đáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.
+Lời Cáo Tội
+Rosaria nhanh chóng di chuyển đến phía sau kẻ địch, dùng thương để đâm xuyên và chém, gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>. Không thể di chuyển nhanh đến phía sau kẻ địch có thể hình lớn.  <i>Lời thú tội với nữ tu Rosaria sẽ không được tha thứ. Ngược lại, tội càng nặng thì hình phạt càng giá lạnh.</i>
+Thánh Lễ Cuối Cùng
+Đây là nghi thức riêng của Rosaria. Vung vũ khí lên quét sạch kẻ địch, sau đó ngưng tụ hàn băng găm vào mặt đất, gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>. Khi băng thương tồn tại, nó sẽ liên tục phát ra hơi lạnh, gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color> cho kẻ địch gần đó.  <i>Quá trình phán xử rất phiền phức, vì vậy cứ trực tiếp thực thi buổi lễ cho cái chết thôi. Rosaria vốn không tin vào Phong Thần nên vấn đề này rất dễ dàng với cô ấy.</i>
+Nghe U Ảnh Sám Hối
+Khi <color=#FFD780FF>Lời Cáo Tội</color> tấn công từ phía sau của mục tiêu, tỷ lệ bạo kích của Rosaria tăng 12%, kéo dài 5s.
+Chi Viện Bóng Tối
+Khi thi triển <color=#FFD780FF>Thánh Lễ Cuối Cùng</color>, dựa trên 15% tỷ lệ bạo kích của bản thân, tăng tỷ lệ bạo kích cho tất cả các nhân vật trong đội ở gần (không bao gồm Rosaria), kéo dài 10s. Tỷ lệ bạo kích tăng thêm bằng cách này không thể vượt quá 15%.
+Dạ Hành
+Buổi tối (18h đến 6h), tốc độ di chuyển của nhân vật trong đội của bản thân tăng 10%. Hiệu quả này vô hiệu trong Bí Cảnh, Vùng Đất Thảo Phạt, La Hoàn Thâm Cảnh, không thể cộng dồn với thiên phú cố định có hiệu quả tương đồng.

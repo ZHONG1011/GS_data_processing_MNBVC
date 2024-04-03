@@ -1,0 +1,12 @@
+Hậu Duệ Cát Đỏ
+Thời gian duy trì trạng thái Lời Chúc Vương Miện Đỏ của <color=#FFD780FF>Nghi Thức Thần Thánh - Thủy Triều Chìa Vôi</color> kéo dài thêm 3s.
+Tia Sáng Xuyên Trăng
+<color=#FFD780FF>Nghi Thức Thần Thánh - Vạc Trời Bảo Hộ</color> khi đánh trúng kẻ địch, giới hạn HP của Candace sẽ tăng 20%, duy trì 15s.
+Tế Lễ Thợ Săn
+Cấp kỹ năng <color=#FFD780FF>Nghi Thức Thần Thánh - Thủy Triều Chìa Vôi</color> +3. Tăng tối đa đến cấp 15.
+Lời Thề Thủ Hộ
+Rút ngắn thời gian chờ Nhấn Giữ của kỹ năng <color=#FFD780FF>Nghi Thức Thần Thánh - Vạc Trời Bảo Hộ</color> đến tương đồng với thời gian chờ của Nhấn.
+Con Ngươi Ánh Vàng
+Cấp kỹ năng <color=#FFD780FF>Nghi Thức Thần Thánh - Vạc Trời Bảo Hộ</color> +3. Tăng tối đa đến cấp 15.
+Thủy Triều Dâng Trào
+Nhân vật đang trong trận hiện tại khi trong trạng thái Lời Chúc Vương Miện Đỏ của <color=#FFD780FF>Nghi Thức Thần Thánh - Thủy Triều Chìa Vôi</color> (không bao gồm bản thân Candace), nếu tấn công thường trúng kẻ địch gây sát thương nguyên tố, sẽ thi triển Thủy Triều Xung Kích, gây <color=#80C0FFFF>Sát Thương Phạm Vi Nguyên Tố Thủy</color> tương đương 15% giới hạn HP của Candace. Hiệu quả này mỗi 2.3s tối đa kích hoạt một lần, sát thương gây ra được tính là sát thương kỹ năng nộ.

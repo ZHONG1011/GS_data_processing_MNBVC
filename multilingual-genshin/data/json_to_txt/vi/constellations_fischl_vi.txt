@@ -1,0 +1,12 @@
+Mắt Quạ Huyền Bí
+Oz vẫn luôn theo dõi bảo vệ cho Fischl mặc dù không ở trên chiến trường. Khi Fischl tấn công thường với kẻ địch, Oz sẽ hỗ trợ tấn công qua mắt quạ và tạo ra sát thương bằng 22% tấn công.
+Đôi Cánh Phán Quyết
+Khi thi triển <color=#FFD780FF>Cánh Chim Đêm</color>, có thể gây thêm sát thương bằng 200% tấn công, phạm vi ảnh hưởng tăng 50%.
+Đôi Cánh Đen Huyền
+Cấp kỹ năng <color=#FFD780FF>Cánh Chim Đêm</color> +3. Tăng tối đa đến cấp 15.
+Truyền Thuyết Công Chúa Huyền Bí
+Khi thi triển <color=#FFD780FF>Ảo Ảnh Bóng Đêm</color> sẽ tạo ra 222% <color=#FFACFFFF>sát thương Nguyên Tố Lôi</color> cho kẻ địch xung quanh; Khi hiệu quả kỹ năng kết thúc, sẽ hồi phục 20% HP cho Fischl.
+Ghi Chú Khải Huyền
+Cấp kỹ năng <color=#FFD780FF>Ảo Ảnh Bóng Đêm</color> +3. Tăng tối đa đến cấp 15.
+Quạ Bóng Đêm
+Thời gian Oz tồn tại kéo dài thêm 2s. Ngoài ra,Oz kết hợp với nhân vật của bản thân trong trận hiện tại cùng tấn công, gây <color=#FFACFFFF>sát thương Nguyên Tố Lôi</color> bằng 30% tấn công của Fischl.

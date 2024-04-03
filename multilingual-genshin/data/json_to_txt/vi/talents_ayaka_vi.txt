@@ -1,0 +1,14 @@
+Tấn Công Thường - Trường Phái Kamisato: Naname
+<color=#FFD780FF>Tấn công thường</color> Thực hiện tối đa 5 lần đánh kiếm liên tiếp.  <color=#FFD780FF>Trọng Kích</color> Tiêu hao thể lực nhất định, liên tiếp phóng ra kiếm gió ở chính giữa.  <color=#FFD780FF>Tấn công khi đáp</color> Đáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.
+Trường Phái Kamisato - Hyouka
+Đánh thức đóa hoa băng nở rộ, đánh bay kẻ địch bên cạnh và gây <color=#99FFFFFF>sát thương phạm vi Nguyên Tố Băng</color>.  <i>"Mây lãng đãng, trăng nhạt nhòa, sương mù mờ ảo, trái tim say đắm miền rong ruổi."</i>
+Trường Phái Kamisato - Senho
+<color=#FFD780FF>Thay thế xung kích</color> Ẩn vào vụn băng, tiêu hao thể lực để hóa thành dòng chảy cực nhanh.  Ở trạng thái Senho, Kamisato Ayaka có thể di chuyển nhanh trên mặt nước. Khi dừng trạng thái Senho và hiện thân, sẽ sinh ra hiệu quả sau: ·Thi triển sức mạnh hàn băng, <color=#99FFFFFF>đính kèm Nguyên Tố Băng</color> lên kẻ địch xung quanh; ·Ngưng tụ khí lạnh trên kiếm, khiến Kamisato Ayaka nhận <color=#99FFFFFF>Nguyên Tố Băng đính kèm</color> trong thời gian ngắn.  <i>"Nước đọng trên cánh vụt tan biến, hạc trắng đạp nước oán hận chi?"</i>
+Trường Phái Kamisato - Soumetsu
+Triệu hồi băng giá với dáng vẻ hoàn hảo, thi triển Cổng Băng Tuyết liên tục về phía trước.  <color=#FFD780FF>Cổng Băng Tuyết</color> ·Dùng gió tuyết sắc như đao nhọn chém liên tục vào kẻ địch tiếp xúc, gây <color=#99FFFFFF>sát thương Nguyên Tố Băng</color>; ·Khi hết thời gian sẽ bung tỏa, gây <color=#99FFFFFF>sát thương phạm vi Nguyên Tố Băng</color>.  <i>"Tuyết phủ thân hạc, vùi lấp tâm tư, tận đáy lòng nặng trĩu nỗi bi ai."</i>
+Lời Phán Amatsumi Kunitsumi
+Trong vòng 6s sau khi thi triển <color=#FFD780FF>Trường Phái Kamisato - Hyouka</color>, sát thương gây ra bởi tấn công thường và trọng kích của Kamisato Ayaka tăng 30%.
+Lời Chúc Kanten Senmyou
+Khi <color=#FFD780FF>Trường Phái Kamisato - Senho</color> kết thúc sẽ thi triển hàn băng, nếu đánh trúng địch, Kamisato Ayaka sẽ nhận hiệu quả sau: ·Hồi 10 điểm thể lực; ·Nhận 18% <color=#99FFFFFF>buff sát thương Nguyên Tố Băng</color>, duy trì 10s.
+Bí Kíp Kiểm Tra
+Khi ghép nguyên liệu đột phá vũ khí sẽ có 10% tỷ lệ nhận x2 thành phẩm.

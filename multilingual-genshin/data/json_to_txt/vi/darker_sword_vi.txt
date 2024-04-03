@@ -1,0 +1,13 @@
+Kiếm Sắt Đen
+Kiếm sắt hơi bị đen một chút
+ "Vì sao chú lại đặt kiếm trên mặt đất vậy?" "Để thanh kiếm được tắm nắng." "Vì sao phải tắm nắng cho thanh kiếm?" "Câu hỏi rất hay người bạn nhỏ à, vậy cái gì là màu đen?" "Loài quạ đen?" "Không sai! Còn gì không?" "Uhm...nồi thép?" "Rất tốt! phía dưới nồi thép là gì?" "Lửa!" "Lửa từ đâu mà ra?" Cô bé nghĩ một lúc rồi đột nhiên nhận ra. "Chính là than củi! Là than củi! Than củi có màu đen!" "Đúng vậy, chính nhờ than mà gang thép trở nên cứng và mạnh nhất. Đó cũng chính là lý do vì sao chú lại tắm nắng cho thanh kiếm này." Nói xong, ông lật mặt còn lại của thanh kiếm lên. 
+Quá Tải
+Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Siêu Dẫn, Điệm Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ hoặc Khuếch Tán nguyên tố Lôi, tấn công tăng <color=#99FFFFFF>20%</color>.
+Quá Tải
+Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Siêu Dẫn, Điệm Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ hoặc Khuếch Tán nguyên tố Lôi, tấn công tăng <color=#99FFFFFF>25%</color>.
+Quá Tải
+Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Siêu Dẫn, Điệm Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ hoặc Khuếch Tán nguyên tố Lôi, tấn công tăng <color=#99FFFFFF>30%</color>.
+Quá Tải
+Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Siêu Dẫn, Điệm Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ hoặc Khuếch Tán nguyên tố Lôi, tấn công tăng <color=#99FFFFFF>35%</color>.
+Quá Tải
+Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Siêu Dẫn, Điệm Cảm, Sinh Trưởng, Tăng Cường, Nở Rộ hoặc Khuếch Tán nguyên tố Lôi, tấn công tăng <color=#99FFFFFF>40%</color>.

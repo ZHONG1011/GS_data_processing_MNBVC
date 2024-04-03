@@ -1,0 +1,12 @@
+Được Nước Làm Tới
+Khi Yanfei thực hiện trọng kích, mỗi khi sở hữu 1 Đan Hỏa Ấn sẽ tăng khả năng kháng gián đoạn trong thời gian tụ lực, đồng thời giảm thêm thể lực tiêu hao bằng với 10% Trọng Kích của lần này.
+Quyền Giải Thích Cuối Cùng
+Khi Yanfei thi triển trọng kích lên kẻ địch có HP dưới 50%, tỷ lệ bạo kích tăng 20%.
+Chân Hỏa Luyện Bảo Ấn
+Cấp kỹ năng <color=#FFD780FF>Sắc Lệnh Đã Ký</color> +3. Tăng tối đa đến cấp 15.
+Đan Thư Kim Thiết Quyển
+Khi thi triển <color=#FFD780FF>Khế Ước Đã Định</color>: Hình thành tấm khiên hấp thu sát thương tương đương với 45% giới hạn HP, kéo dài 15s. Khiên có hiệu quả hấp thụ 250% <color=#FF9999FF>sát thương Nguyên Tố Hỏa</color>.
+Tuân Pháp Thiết Kết Thư
+Cấp kỹ năng <color=#FFD780FF>Khế Ước Đã Định</color> +3. Tăng tối đa đến cấp 15.
+Điều Khoản Đi Kèm
+Số lượng tối đa của Đan Hỏa Ấn mà Yanfei sở hữu tăng thêm 1.

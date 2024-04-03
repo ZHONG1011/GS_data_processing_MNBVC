@@ -1,0 +1,12 @@
+Tấn Công Thường - Viêm Vũ
+<color=#FFD780FF>Tấn Công Thường</color> Thực hiện tối đa 4 lần chém liên tiếp.  <color=#FFD780FF>Trọng Kích</color> Tiêu hao thể lực để xoay kiếm tấn công địch xung quanh. Khi ngừng quay, sẽ bổ một nhát cực mạnh.  <color=#FFD780FF>Tấn Công Khi Đáp</color> Đáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.
+Khuấy Động Nhiệt Huyết
+Xinyan vung nhạc cụ gây <color=#FF9999FF>sát thương nguyên tố hỏa</color> cho kẻ địch xung quanh và hình thành khiên với sự cuồng nhiệt của khán giả. Lượng hấp thụ sát thương của khiên được hưởng từ sức phòng thủ của Xinyan, và dựa trên số kẻ địch bị đánh trúng: ·Chưa trúng hoặc trúng 1 địch: Khiên Cấp 1 - Nhịp Điệu Phân Tán. ·Trúng 2 địch: Khiên Cấp 2 - Nhịp Điệu Mở Đầu. ·Trúng từ 3 địch trở lên, sẽ tạo Khiên Cấp 3 - Nhịp Điệu Nhảy Múa. Ngoài việc hấp thụ sát thương còn gây <color=#FF9999FF>sát thương nguyên tố hỏa</color> cho kẻ địch xung quanh theo từng quãng.  Khiên có đặc tính sau: ·Khi thi triển sẽ tăng thêm cho Xinyan <color=#FF9999FF>nguyên tố hỏa kèm theo</color>. ·Hấp thụ 250% <color=#FF9999FF>sát thương nguyên tố hỏa</color>.  <i>Xinyan quả quyết những tia lửa này là sự biểu hiện của kỹ thuật trình diễn đỉnh cao, là hiện tượng vật lý, không liên quan đến Vision.</i>
+Cung Đàn Ngỗ Ngược
+Lướt nhanh qua dây đàn phát ra sóng âm đánh lui kẻ địch, gây sát thương vật lý cho địch xung quanh và khơi dậy bầu không khí trên sân khấu. Vì bầu không khí quá cháy bỏng, nên sẽ phát ra lửa, gây <color=#FF9999FF>sát thương nguyên tố hỏa</color> liên tục cho kẻ địch xung quanh.  <i>Xưa kia mỗi lần diễn xong, Xinyan đều có màn kết như vậy. Sau này không làm vậy nữa, không phải do nguy hiểm, mà là vì, nếu như bị bắt phải "diễn lại", thì cô ấy không thể làm ra trận hạ màn bùng nổ hơn được.</i>
+"Không có thính giả cũng phải diễn..."
+Giảm số lượng địch cần đánh trúng mà khiên <color=#FFD780FF>Khuấy Động Nhiệt Huyết</color> cần: ·Khiên Cấp 2 - Nhịp Điệu Mở Đầu: Trúng 1 địch. ·Khiên Cấp 3 - Nhịp Điệu Nhảy Múa: Trúng từ 2 địch trở lên.
+"...Đây mới là Rock and Roll!"
+Nhân vật được bảo vệ bởi khiên <color=#FFD780FF>Khuấy Động Nhiệt Huyết</color> sẽ tăng 15% sát thương vật lý gây ra.
+Công Thức Rock
+Nấu hoàn mỹ món ăn thuộc loại phòng ngự, có tỷ lệ 12% x2 sản lượng.

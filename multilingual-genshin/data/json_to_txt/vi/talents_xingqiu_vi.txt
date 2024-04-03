@@ -1,0 +1,12 @@
+Tấn Công Thường: Cổ Hoa Kiếm Pháp
+<color=#FFD780FF>Tấn Công Thường</color> Thực hiện tối đa 5 lần đánh kiếm liên tiếp.  <color=#FFD780FF>Trọng Kích</color> Tiêu hao thể lực nhất định, đánh ra hai kiếm về phía trước trong chớp mắt.  <color=#FFD780FF>Tấn Công Khi Đáp</color> Đáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.
+Cổ Hoa Kiếm - Họa Vũ Lung Sơn
+Thi triển hai đợt kiếm, gây <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color> cho địch phía trước. Đồng thời, tạo ra "Vũ Liêm Kiếm" với số lượng tối đa bay xung quanh nhân vật của bản thân trong trận hiện tại. Đặc tính: ·Khi nhân vật chịu sát thương sẽ vỡ và giảm sát thương phải chịu;  ·Tăng khả năng kháng gián đoạn của nhân vật 20% <color=#80C0FFFF>buff Sát Thương Nguyên Tố Thủy</color> của Xingqiu sẽ chuyển đổi thành giảm sát thương của Vũ Liêm Kiếm.  Thông qua cách này tối đa sẽ được 24% giảm sát thương thêm. Số lượng Vũ Liêm Kiếm ban đầu nhiều nhất là 3. Trong thời gian thi triển, tạo trạng thái <color=#80C0FFFF>Ẩm Ướt</color> cho nhân vật.  <i>"Giao Long dễ trảm, mưa rơi khó vẽ".</i>
+Cổ Hoa Kiếm - Tài Vũ Lưu Hồng
+Thi triển thế kiếm cầu vồng, điều khiển ảo ảnh mưa kiếm để chiến đấu, tăng số lượng Vũ Liêm Kiếm lên mức cao nhất.  <color=#FFD780FF>Kiếm Cầu Vồng</color> ·Khi nhân vật của bản thân thi triển tấn công thường, tạo ra mưa kiếm kết hợp tấn công, gây <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color>;  ·Số lượng Vũ Liêm Kiếm sẽ duy trì ở số lượng cao nhất.  <i>[Tài Vũ Pháp] là một trong những bí kíp của phái Cổ Hoa.</i>
+Sinh Thủy Yêu Quyết
+Vũ Liêm Kiếm bị phá vỡ hoặc hết thời gian, dựa trên 6% HP tối đa của Xingqiu, trị liệu HP cho nhân vật hiện tại.
+Ngòi Bút Thực Hư
+Xingqiu nhận 20% <color=#80C0FFFF>buff sát thương Nguyên Tố Thủy</color>.
+Ánh Sáng Lấp Lánh
+Khi ghép nguyên liệu thiên phú nhân vật, có 25% tỷ lệ hoàn trả một phần nguyên liệu ghép.

@@ -1,0 +1,12 @@
+Ngoài Giòn Trong Mềm
+Địch bị Guoba tấn công <color=#FF9999FF>kháng Nguyên Tố Hỏa</color> giảm 15%, kéo dài 6s.
+Thêm Dầu Vào Lửa
+Đòn tấn công thường cuối cùng có hiệu quả khiến kẻ địch nổ tung trong vòng 2s, khi kết thúc sẽ gây ra vụ nổ, tạo thành 75% <color=#FF9999FF>sát thương phạm vi Nguyên Tố Hoả </color>.
+Nấu Ăn Cấp Bách
+Cấp kỹ năng <color=#FFD780FF>Bánh Xe Lửa</color> +3. Tăng tối đa đến cấp 15.
+Hầm Lửa Nhỏ
+Thời gian kéo dài <color=#FFD780FF>Bánh Xe Lửa</color> tăng 40%.
+Guoba Hung Dữ
+Cấp kỹ năng <color=#FFD780FF>Guoba Xuất Kích</color> +3. Tăng tối đa đến cấp 15.
+Bánh Xe Lửa Rồng Cuộn
+Trong thời gian <color=#FFD780FF>Bánh Xe Lửa</color> tồn tại, tất cả thành viên trong đội tăng 15% <color=#FF9999FF>sát thương Nguyên Tố Hoả</color>.

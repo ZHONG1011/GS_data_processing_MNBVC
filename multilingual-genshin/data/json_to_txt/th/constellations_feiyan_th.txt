@@ -1,0 +1,12 @@
+The Law Knows No Kindness
+ขณะที่ Yanfei ชาร์จโจมตีแล้วมี Scarlet Seal ทุก ๆ หนึ่งอัน จะเพิ่มความต้านทานการหยุดชะงักระหว่างที่ Yanfei ร่าย และลดการใช้พลังกายของการชาร์จโจมตีครั้งนี้ลง 10%
+Right of Final Interpretation
+เมื่อ Yanfei ทำการชาร์จโจมตีใส่ศัตรูที่มีพลังชีวิตต่ำกว่า 50% อัตราคริจะเพิ่มขึ้น 20%
+Samadhi Fire-Forged
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Signed Edict</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Supreme Amnesty
+เมื่อปล่อย <color=#FFD780FF>Done Deal</color>:  จะสร้างโล่ดูดซับความเสียหาย เท่ากับ 45% ของพลังชีวิต 1 อัน ต่อเนื่อง 15 วินาที ซึ่งโล่นี้มีเอฟเฟกต์ดูดซับ <color=#FF9999FF>ความเสียหายธาตุไฟ</color> 250%
+Abiding Affidavit
+เพิ่มเลเวลของสกิล <color=#FFD780FF>Done Deal</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Extra Clause
+เพิ่มขีดจำกัดของ Scarlet Seal ของ Yanfei ขึ้น 1 อัน

@@ -1,0 +1,12 @@
+Vệt Nước Sắc Bén
+Khi trong trạng thái Lễ Phục Nghi Thức của <color=#FFD780FF>Nghi Lễ Nereid</color>, đòn tấn công thường cuối cùng của Sangonomiya Kokomi sẽ tạo ra một con cá, gây <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color> bằng 30% giới hạn HP của Sangonomiya Kokomi. Sát thương này không được tính là sát thương tấn công thường.
+Sóng Cuộn Dâng Trào
+Dựa vào giới hạn HP của Sangonomiya Kokomi để tăng lượng trị liệu cho nhân vật có lượng HP bằng hoặc thấp hơn 50% như sau: ·Vầng Trăng Biển của <color=#FFD780FF>Lời Thề Ánh Trăng Biển</color>: 4.5% giới hạn HP. ·Tấn công thường và trọng kích của <color=#FFD780FF>Nghi Lễ Nereid</color>: 0.6% giới hạn HP.
+Con Thuyền Dưới Ánh Trăng
+Cấp kỹ năng <color=#FFD780FF>Nghi Lễ Nereid</color> +3. Tăng tối đa đến cấp 15.
+Vầng Trăng Ngắm Biển
+Khi trong trạng thái Lễ Phục Nghi Thức của <color=#FFD780FF>Nghi Lễ Nereid</color>, tốc độ tấn công thường của Sangonomiya Kokomi tăng 10%, đồng thời khi tấn công thường trúng kẻ địch sẽ hồi phục 0.8 Năng Lượng Nguyên Tố. Hiệu quả này mỗi 0.2s tối đa kích hoạt một lần.
+Nước Tụ Về Nguồn
+Cấp kỹ năng <color=#FFD780FF>Lời Thề Ánh Trăng Biển</color> +3. Tăng tối đa đến cấp 15.
+Trái Tim San Hô
+Khi trong trạng thái Lễ Phục Nghi Thức của <color=#FFD780FF>Nghi Lễ Nereid</color>, lúc đòn tấn công thường và trọng kích của Sangonomiya Kokomi trị liệu cho nhân vật có HP từ 80% trở lên, sẽ nhận 40% <color=#80C0FFFF>buff sát thương Nguyên Tố Thủy</color>, kéo dài 4s.

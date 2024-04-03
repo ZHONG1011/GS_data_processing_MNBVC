@@ -1,0 +1,12 @@
+Returning Heiress of the Scarlet Sands
+ช่วงเวลาต่อเนื่องของสภาวะ Prayer of the Crimson Crown ที่เกิดจาก <color=#FFD780FF>Sacred Rite: Wagtail's Tide</color> เพิ่มขึ้น 3 วินาที
+Moon-Piercing Brilliance
+เมื่อ <color=#FFD780FF>Sacred Rite: Heron's Sanctum</color> ถูกศัตรู พลังชีวิตสูงสุดของ Candace จะเพิ่มขึ้น 20% เป็นเวลา 15 วินาที
+Hunter's Supplication
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Sacred Rite: Wagtail's Tide</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Sentinel Oath
+#ลดช่วงเวลาคูลดาวน์ในการ{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}ของ <color=#FFD780FF>Sacred Rite: Heron's Sanctum</color> ลงให้เท่ากับช่วงเวลาคูลดาวน์ของการ{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}
+Heterochromatic Gaze
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Sacred Rite: Heron's Sanctum</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+The Overflow
+เมื่อตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้น (ไม่รวมตัวของ Candace เอง) อยู่ภายใต้สภาวะ Prayer of the Crimson Crown ของ <color=#FFD780FF>Sacred Rite: Wagtail's Tide</color> สร้างความเสียหายธาตุแก่ศัตรูด้วยการโจมตีปกติ จะปล่อยคลื่นโจมตีออกมา ซึ่งจะทำให้เกิด<color=#80C0FFFF>ความเสียหายน้ำวงกว้าง</color>เท่ากับ 15% ของพลังชีวิตสูงสุดของ Candace ในทุก 2.3 วินาที เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง และความเสียหายที่สร้าง จะถูกมองว่าเป็นความเสียหายท่าไม้ตาย

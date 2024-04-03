@@ -1,0 +1,12 @@
+Sắc Đỏ Vạn Dặm
+Thời gian CD <color=#FFD780FF>Chihayaburu</color> giảm 10%. Khi thi triển <color=#FFD780FF>Kazuha Nhất Đao Trảm</color>, làm mới thời gian CD <color=#FFD780FF>Chihayaburu</color>.
+Bão Tố Yamaarashi
+Một Khắc Gió Thu của <color=#FFD780FF>Kazuha Nhất Đao Trảm</color> có hiệu quả sau: ·Trong thời gian duy trì, Tinh Thông Nguyên Tố của Kaedehara Kazuha tăng 200 điểm; ·Tinh Thông Nguyên Tố của nhân vật ra trận tăng 200 điểm.  Hiệu quả tăng Tinh Thông Nguyên Tố mà Cung Mệnh này mang đến sẽ không thể cộng dồn.
+Phong Tụ Kỳ Đàm
+Cấp kỹ năng <color=#FFD780FF>Chihayaburu</color> +3. Tăng tối đa đến cấp 15.
+Oozora Genpou
+Khi năng lượng nguyên tố của Kaedehara Kazuha thấp hơn 45 điểm sẽ có những hiệu ứng sau: ·Nhấn, nhấn giữ thi triển <color=#FFD780FF>Chihayaburu</color> sẽ lần lượt hồi phục 3 điểm, 4 điểm năng lượng nguyên tố cho Kazuha; ·Khi trong trạng thái lượn, mỗi giây sẽ giúp Kazuha hồi phục 2 điểm năng lượng nguyên tố.
+Trí Tuệ Bansei
+Cấp kỹ năng <color=#FFD780FF>Kazuha Nhất Đao Trảm</color> +3. Tăng tối đa đến cấp 15.
+Lá Phong Đỏ Thẫm
+Trong 5s sau khi Kazuha thi triển <color=#FFD780FF>Chihayaburu</color> hoặc <color=#FFD780FF>Kazuha Nhất Đao Trảm</color> sẽ nhận được <color=#80FFD7FF>đính kèm nguyên tố Phong</color>, hơn nữa mỗi điểm tinh thông nguyên tố của Kazuha sẽ khiến sát thương tạo thành từ đánh thường, trọng kích, tấn công khi đáp của anh ấy tăng 0.2%.

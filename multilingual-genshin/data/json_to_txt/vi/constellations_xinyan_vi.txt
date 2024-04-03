@@ -1,0 +1,12 @@
+Gia Tốc Của Tuyệt Mệnh
+Trong 5s sau khi Xinyan tạo thành bạo kích, tốc độ tấn công của tấn công thường và trọng kích tăng 12%. Hiệu quả này mỗi 5s chỉ kích hoạt 1 lần.
+Khúc Ngẫu Hứng Mở Màn
+Tỉ lệ bạo kích của sát thương vật lý mà <color=#FFD780FF>Cung Đàn Ngỗ Ngược</color> gây ra tăng 100%, đồng thời khi thi triển sẽ hình thành Lớp Khiên Cấp 3 - Vũ Điệu Tiết Tấu.
+Phương Pháp Phân Giải
+Cấp kỹ năng <color=#FFD780FF>Khuấy Động Nhiệt Huyết</color> +3. Tăng tối đa đến cấp 15.
+Tiết Tấu Gây Nghiện
+Sát thương từ vũ điệu hất tay <color=#FFD780FF>Khuấy Động Nhiệt Huyết</color> làm giảm 15% kháng sát thương vật lý của kẻ địch. kéo dài 12s.
+Tiếng Vọng Khi Quay Về
+Cấp kỹ năng <color=#FFD780FF>Cung Đàn Ngỗ Ngược</color> +3. Tăng tối đa đến cấp 15.
+Khuấy Động Từ Địa Ngục
+Xinyan giảm 30% tiêu hao thể lực khi dùng trọng kích; Đồng thời khi thi triển, tăng sức tấn công bằng 50% phòng ngự.

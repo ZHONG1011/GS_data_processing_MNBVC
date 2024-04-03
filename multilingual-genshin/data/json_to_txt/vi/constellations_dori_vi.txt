@@ -1,0 +1,12 @@
+Thêm Vốn Thêm Lời
+<color=#FFD780FF>Pháo Cắt Đứt Phiền Não</color> khi bắn trúng kẻ địch sẽ sản sinh ra thêm 1 Tên Lửa Hậu Mãi.
+Kinh Doanh Đặc Biệt
+Trong trạng thái chiến đấu, khi <color=#FFD780FF>Linh Hồn Đèn</color> trị liệu cho nhân vật được kết nối sẽ bắn Pháo Trấn Linh về phía đó, gây lượng sát thương bằng 50% tấn công của Dori.
+Muốn Gì Cũng Có
+Cấp kỹ năng <color=#FFD780FF>Alcazarzaray Tinh Xảo</color> +3. Tăng tối đa đến cấp 15.
+Bổ Sung Tùy Ý
+Nhân vật liên kết với <color=#FFD780FF>Linh Hồn Đèn</color> sẽ căn cứ vào HP và Năng Lượng Nguyên Tố hiện tại để nhận được lợi ích sau: ·Khi HP thấp hơn 50%, tăng 50% lượng trị liệu nhận được; ·Khi Năng Lượng Nguyên Tố thấp hơn 50%, tăng 30% Hiệu Quả Nạp Nguyên Tố.
+Hàng Siêu Giá Trị
+Cấp kỹ năng <color=#FFD780FF>Đèn Trấn Linh - Pháo Giải Trừ Phiền Não</color> +3. Tăng tối đa đến cấp 15.
+Sức Nặng Thương Hiệu
+Trong 3s sau khi Dori thi triển <color=#FFD780FF>Đèn Trấn Linh - Pháo Giải Trừ Phiền Não</color> sẽ nhận được hiệu quả sau: ·<color=#FFACFFFF>Đính kèm nguyên tố Lôi</color>; ·Đánh thường trúng kẻ địch sẽ hồi phục cho tất cả thành viên trong đội gần đó một lượng HP bằng 4% HP tối đa của Dori. Mỗi 0.1s tối đa hồi phục một lần thông qua cách này.

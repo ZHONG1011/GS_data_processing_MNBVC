@@ -1,0 +1,12 @@
+Tấn Công Thường - Xạ Thuật Thợ Săn
+<color=#FFD780FF>Tấn Công Thường</color> Thực hiện tối đa 5 lần bắn tên liên tiếp.  <color=#FFD780FF>Trọng Kích</color> Sát thương càng cao, <color=#FFD780FF>ngắm bắn</color> càng chuẩn. Khi ngắm bắn, hơi lạnh sẽ tích tụ trên mũi tên. Mũi tên mang đầy hơi lạnh sẽ gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>.  <color=#FFD780FF>Tấn Công Khi Đáp</color> Bắn mưa tên liên tiếp xuống mặt đất, gây sát thương phạm vi khi chạm đất.
+Móng Mèo Lạnh Giá
+Bắn móng mèo lạnh giá gây cho địch <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color> và hình thành khiên khi đánh trúng. Lượng hấp thụ sát thương của khiên chịu ảnh hưởng từ giới hạn HP của Diona, thời gian duy trì dựa vào số lượng Móng Mèo Lạnh Giá đánh trúng.  <color=#FFD780FF>Nhấn</color> Bắn nhanh 2 Móng Mèo Lạnh Giá.  <color=#FFD780FF>Nhấn Giữ</color> Lùi về sau và bắn 5 Móng Mèo Lạnh Giá. Nhấn giữ hình thành Khiên, hấp thụ thêm 75% sát thương.  Khiên sẽ hấp thụ 250% <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>, và khi hình thành, sẽ tăng thêm cho nhân vật <color=#99FFFFFF>Nguyên Tố Băng Kèm Theo</color>.  <i>Có thêm bao nhiêu đá vào rượu cũng không thể làm tổn hại đến kẻ say, cho đến khi Diona có được Vision, và rồi những viên đá lạnh đến nỗi khiến người ta buốt óc bắt đầu xuất hiện. Hay!</i>
+Đặc Chế Mãnh Liệt
+Ném những viên đá được điều chế đặc biệt, gây <color=#99FFFFFF>Sát Thương Phạm Vi Nguyên Tố Băng</color> và tạo thành khu vực Hơi Rượu Băng.  <color=#FFD780FF>Khu Vực Hơi Rượu Băng</color> ·Gây cho kẻ địch trong đó <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color> liên tục. ·Hồi HP liên tục cho nhân vật trong đó.  <i>Công thức kinh khủng khiến Diona cũng tự cảm thấy vô nhân đạo. Mùi vị đầu kinh khủng nên để cho kẻ địch trước, về sau thì thanh mát, tiếc rằng chỉ có thể dùng mũi và da để cảm nhận.</i>
+Thực Đơn Bí Mật Đuôi Mèo
+Nhân vật được Khiên <color=#FFD780FF>Móng Mèo Lạnh Giá</color> bảo vệ, tốc độ di chuyển tăng 10%, thể lực tiêu hao giảm 10%.
+Kẻ Say Rượu Khôi Hài
+Trong 15 giây sau khi địch vào khu vực <color=#FFD780FF>Đặc Chế Mãnh Liệt</color> giảm 10% tấn công.
+Đồ Nhắm Tặng Kèm
+Nấu hoàn mỹ món ăn thuộc loại hồi phục, có tỷ lệ 12% x2 sản lượng.

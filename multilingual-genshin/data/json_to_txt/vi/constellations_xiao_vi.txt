@@ -1,0 +1,12 @@
+Hoại Kiếp - Hủy Hoại Tam Giới
+Số lần dùng <color=#FFD780FF>Đôi Bánh Xe Gió</color> tăng thêm 1.
+Không Kiếp - Hư Không Hoa Khai
+Khi ở trong đội nhưng không ra trận, hiệu quả nạp nguyên tố của Xiao sẽ tăng 25%.
+Hàng Ma - Phẫn Nộ Hiện Rõ
+Cấp kỹ năng <color=#FFD780FF>Đôi Bánh Xe Gió</color> +3. Tăng tối đa đến cấp 15.
+Thần Thông - Chư Khổ Diệt Tận
+Khi HP của Xiao dưới 50%, tăng 100% phòng ngự.
+Thành Kiếp - Vô Minh Tăng Trưởng
+Cấp kỹ năng <color=#FFD780FF>Vũ Điệu Trừ Yêu</color> +3. Tăng tối đa đến cấp 15.
+Hàng Ma - Hộ Pháp Dạ Xoa
+Trong trạng thái <color=#FFD780FF>Vũ Điệu Trừ Yêu</color>, khi tấn công khi đáp đánh trúng ít nhất 2 kẻ địch, <color=#FFD780FF>Đôi Bánh Xe Gió</color> lập tức nhận được 1 lần sử dụng, và trong 1s tiếp theo, có thể bỏ qua CD thi triển Đôi Bánh Xe Gió.

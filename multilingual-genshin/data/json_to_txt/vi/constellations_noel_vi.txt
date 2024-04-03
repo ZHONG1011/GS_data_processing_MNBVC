@@ -1,0 +1,12 @@
+Chi viện cứ giao cho tôi
+Khi cùng ở trạng thái <color=#FFD780FF>Quét Sạch</color> và <color=#FFD780FF>Giáp Hộ Tâm</color>, kích hoạt hiệu quả hồi HP của Giáp Hộ Tâm tăng lên 100%.
+Hầu Gái Lốc Xoáy
+Thể lực mà trọng kích của Noelle tiêu hao sẽ giảm 20%, sát thương tăng 15%.
+Hầu Gái Không Đau
+Cấp kỹ năng <color=#FFD780FF>Giáp Hộ Tâm</color> +3. Tăng tối đa đến cấp 15.
+Sẽ Dọn Dẹp Sạch Sẽ
+Khi hiệu quả <color=#FFD780FF>Giáp Hộ Tâm</color> kết thúc hoặc do sát thương đánh vỡ, sẽ tạo thành <color=#FFE699FF>sát thương Nguyên Tố Nham</color> với lực tấn công 400% cho kẻ địch xung quanh.
+Chuyên Gia Quét Dọn Đội Kỵ Sĩ
+Cấp kỹ năng <color=#FFD780FF>Quét Sạch</color> +3. Tăng tối đa đến cấp 15.
+Phải Sạch Bong Kin Kít
+<color=#FFD780FF>Quét Sạch</color> tăng thêm sức tấn công tương đương 50% phòng ngự của Noelle. Ngoài ra, trong thời gian duy trì mỗi lần đánh bại 1 kẻ địch, thời gian sẽ kéo dài thêm 1s, tối đa 10s.

@@ -1,0 +1,12 @@
+Kyouka Fuushi
+<color=#FFD780FF>Shunsuiken</color> จะสร้างความเสียหายเพิ่มขึ้น 40% ต่อศัตรูที่มีพลังชีวิตเหลือต่ำกว่าหรือเท่ากับ 50%
+World Source
+จำนวนครั้งการซ้อนทับสูงสุดของ <color=#FFD780FF>Namisen</color> เพิ่มเป็น 5 ชั้น และเมื่อ Kamisato Ayato อยู่ในสภาวะที่มี Namisen อย่างน้อย 3 ชั้น พลังชีวิตสูงสุดจะเพิ่มขึ้น 50%
+To Admire the Flowers
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Kamisato Art: Kyouka</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Endless Flow
+หลังจากที่ใช้ <color=#FFD780FF>Kamisato Art: Suiyuu</color> ความเร็วในการโจมตีปกติของตัวละครในทีมที่อยู่ในบริเวณใกล้เคียง จะเพิ่มขึ้น 15% เป็นเวลา 15 วินาที
+Bansui Ichiro
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Kamisato Art: Suiyuu</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Boundless Origin
+หลังจากใช้ <color=#FFD780FF>Kamisato Art: Kyouka</color> เมื่อการโจมตีด้วย Shunsuiken ครั้งต่อไปของ Kamisato Ayato ถูกศัตรู จะทำการโจมตีด้วย Shunsuiken เพิ่มอีก 2 ครั้ง โดยที่แต่ละครั้ง จะสร้างความเสียหายเป็น 450% ของพลังโจมตีของ Kamisato Ayato การโจมตีของ Shunsuiken ทั้งสองครั้งนี้ จะไม่ได้รับเอฟเฟกต์บัฟจาก Namisen

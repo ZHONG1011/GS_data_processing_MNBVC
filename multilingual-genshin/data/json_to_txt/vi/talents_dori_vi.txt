@@ -1,0 +1,12 @@
+Tấn Công Thường - Kiếm Vũ Kỳ Ảo (Cải Tiến)
+<color=#FFD780FF>Tấn Công Thường</color> Thực hiện tối đa 3 lần chém liên tiếp.  <color=#FFD780FF>Trọng Kích</color> Tiêu hao thể lực để xoay kiếm tấn công địch xung quanh. Khi ngừng quay, sẽ bổ một nhát cực mạnh.  <color=#FFD780FF>Tấn Công Khi Đáp</color> Đáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.
+Đèn Trấn Linh - Pháo Giải Trừ Phiền Não
+Điều khiển Đèn Trấn Linh bắn Pháo Cắt Đứt Phiền Não về phía kẻ địch, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>. Pháo Cắt Đứt Phiền Não sau khi trúng sẽ sản sinh 2 Tên Lửa Hậu Mãi đuổi theo kẻ địch gần đó, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>.  <i>Nghe nói, cho dù là giải quyết phiền phức gì đi nữa, chỉ cần giá cả hợp lý là Dori đều sẽ làm được.</i>
+Alcazarzaray Tinh Xảo
+Triệu hồi Linh Hồn Đèn để cung cấp các loại dịch vụ cho khách.  <color=#FFD780FF>Linh Hồn Đèn</color> Kết nối với nhân vật gần đó. Nhân vật kết nối với Linh Hồn Đèn sẽ: ·Hồi phục HP liên tục, lượng hồi phục dựa vào giới hạn HP của Dori; ·Liên tục nhận được Năng Lượng Nguyên Tố. ·Vào trạng thái <color=#FFACFFFF>đính kèm nguyên tố Lôi</color>.  Ngoài ra, dây liên kết giữa Linh Hồn Đèn và nhân vật khi chạm phải kẻ địch, mỗi 0.4s sẽ gây 1 lần <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> cho kẻ địch.  Cùng lúc chỉ có thể tồn tại một Linh Hồn Đèn.  <i>"Hửm? Quý khách chọn ngọn đèn này sao? Ây dà... biết coi hàng đó! Nhưng mà, đây là báu vật vô giá. Hoặc có thể nói là, cho dù có trả bao nhiêu đi nữa thì quý khách cũng đâu có bán vật may mắn bay bay bên cạnh đâu đúng không?"</i>
+Đãi Cát Tìm Vàng
+Nhân vật kết nối với <color=#FFD780FF>Linh Hồn Đèn</color> khi kích hoạt phản ứng Điện Cảm, Siêu Dẫn, Quá Tải, Sinh Trưởng, Tăng Cường, Nở Rộ, Khuếch Tán nguyên tố Lôi hoặc Kết Tinh nguyên tố Lôi, CD của <color=#FFD780FF>Đèn Trấn Linh - Pháo Giải Trừ Phiền Não</color> sẽ rút ngắn 1s. Hiệu quả này mỗi 3s tối đa kích hoạt một lần.
+Lợi Chồng Lợi
+Pháo Cắt Đứt Phiền Não hoặc Tên Lửa Hậu Mãi của <color=#FFD780FF>Đèn Trấn Linh - Pháo Giải Trừ Phiền Não</color> khi trúng kẻ địch sẽ căn cứ vào mỗi 100% Hiệu Quả Nạp Nguyên Tố của Dori để hồi phục cho Dori 5 điểm Năng Lượng Nguyên Tố. Mỗi lần thi triển Đèn Trấn Linh - Pháo Giải Trừ Phiền Não chỉ có thể hồi phục 1 lần Năng Lượng Nguyên Tố bằng cách này, và tối đa hồi phục 15 điểm Năng Lượng Nguyên Tố.
+Đơn Hàng Bất Ngờ
+Khi ghép nguyên liệu bồi dưỡng vũ khí và nhân vật, có 25% tỷ lệ hoàn trả một phần nguyên liệu ghép.

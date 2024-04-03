@@ -1,0 +1,12 @@
+Tiên Tri Chìm Đắm
+Trong vòng 8s sau khi nhân vật của bản thân trong đội tấn công địch ở trạng thái Tinh Dị, sẽ tăng hiệu quả <color=#80C0FFFF>phản ứng với Nguyên Tố Thủy</color>: ·Tăng 15% sát thương phản ứng Điện Cảm gây ra, tăng 15% sát thương phản ứng Bốc Hơi gây ra, tăng 15% sát thương phản ứng khuếch tán Nguyên Tố Thủy gây ra. ·Thời gian duy trì phản ứng đóng băng kéo dài 15%.
+Tinh Nguyệt Liên Châu
+Khi tấn công thường đánh trúng có 20% tỷ lệ tự động thi triển trọng kích 1 lần. Hiệu quả này mỗi 5s chỉ kích hoạt 1 lần.
+Thiên Văn Trường Tồn
+Cấp kỹ năng <color=#FFD780FF>Quỹ Đạo Tinh Mệnh</color> +3. Tăng tối đa đến cấp 15.
+Tiên Tri Diệt Chủng
+Khi tất cả nhân vật trong đội tấn công địch ở trạng thái Tinh Dị, tỷ lệ bạo kích tăng 15%.
+Số Phận Trêu Ngươi
+Cấp kỹ năng <color=#FFD780FF>Ảo Vọng Dưới Nước</color> +3. Tăng tối đa đến cấp 15.
+Tình Cảnh Đen Đủi
+Sau khi vào trạng thái <color=#FFD780FF>Dòng Chảy Ảo</color>, mỗi 1s di chuyển, sát thương trọng kích ở lần sau của Mona tăng 60%, Tối đa có thể nhận buff sát thương trọng kích 180%, hiệu quả kéo dài 8s.

@@ -1,0 +1,12 @@
+Xích Ngọc Lưu Kim
+Thời gian kéo dài Lưu Kim Hỏa Quang của <color=#FFD780FF>Cỏ Ryuukin</color> tăng 4s. Ngoài ra, khi kẻ địch chịu ảnh hưởng bởi Lưu Kim Hỏa Quang của Yoimiya bị hạ gục trong thời gian duy trì, tấn công của Yoimiya sẽ tăng 20%, kéo dài 20s.
+Biển Đèn Đưa Lửa
+Trong vòng 6s sau khi <color=#FF9999FF>sát thương Nguyên Tố Hỏa</color> của Yoimiya gây ra bạo kích, Yoimiya sẽ nhận 25% <color=#FF9999FF>buff sát thương Nguyên Tố Hỏa</color>. Khi Yoimiya ở trong đội nhưng không ra trận cũng sẽ nhận hiệu quả này.
+Ảo Thuật Che Mắt
+Cấp kỹ năng <color=#FFD780FF>Điệu Nhảy Niwabi Cháy Bỏng</color> +3. Tăng tối đa đến cấp 15.
+Chuyên Viên Pháo Hoa
+Khi Lưu Kim Hỏa Quang của Yoimiya phát nổ, CD của <color=#FFD780FF>Điệu Nhảy Niwabi Cháy Bỏng</color> giảm 1.2s.
+Đêm Hội Mùa Hè
+Cấp kỹ năng <color=#FFD780FF>Cỏ Ryuukin</color> +3. Tăng tối đa đến cấp 15.
+Chòm Sao Băng Naganohara
+Trong thời gian duy trì của <color=#FFD780FF>Điệu Nhảy Niwabi Cháy Bỏng</color>, khi Yoimiya chủ động thực hiện tấn công thường sẽ có 50% tỷ lệ bắn thêm 1 mũi tên lửa, gây sát thương bằng 60% sát thương ban đầu. Sát thương này xem như sát thương tấn công thường.

@@ -1,0 +1,12 @@
+Tầm Nhìn Phiêu Lưu
+Buff hiệu quả tấn công của <color=#FFD780FF>Hành Trình Kỳ Diệu</color> sẽ không bị giới hạn bởi HP, tăng thêm 20% tấn công cơ bản của Bennett vào chỉ số.
+Vượt Qua Nghịch Cảnh
+Khi HP của Bennett dưới 70%, tăng 30% hiệu quả nạp Nguyên Tố.
+Đam Mê Rực Cháy
+Cấp kỹ năng <color=#FFD780FF>Nhiệt Tình Quá Độ</color> +3. Tăng tối đa đến cấp 15.
+Nhiệt Huyết Bất Diệt
+Khi thi triển <color=#FFD780FF>Nhiệt Tình Quá Độ</color> tụ lực lần 1, sẽ tấn công thường trong lúc tấn công kỹ năng lần 2, kèm theo truy kích. Sát thương truy kích bằng 135% của tấn công lần 2.
+Mở Rộng Tâm Hồn
+Cấp kỹ năng <color=#FFD780FF>Hành Trình Kỳ Diệu</color> +3. Tăng tối đa đến cấp 15.
+Lửa Và Can Đảm
+Nhân vật sử dụng kiếm đơn, trọng kiếm, vũ khí cán dài trong đội hiện đang trong trận ở khu vực <color=#FFD780FF>Hành Trình Kỳ Diệu</color> được nhận 15% <color=#FF9999FF>tăng sát thương Nguyên Tố Hỏa</color> và nhận <color=#FF9999FF>Nguyên Tố Hỏa đính kèm</color>.

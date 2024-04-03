@@ -1,0 +1,12 @@
+Tấn Công Thường: Đại Dương
+<color=#FFD780FF>Tấn Công Thường</color> Thực hiện tối đa 5 lần chém liên tiếp.  <color=#FFD780FF>Trọng Kích</color> Duy trì tiêu hao thể lực, chém nhanh liên tiếp. Sau khi Trọng Kích kết thúc, sẽ bổ một nhát cực mạnh.  <color=#FFD780FF>Tấn Công Khi Đáp</color> Đáp xuống đất từ trên không, tấn công kẻ địch trên đường, đồng thời gây sát thương phạm vi khi chạm đất.
+Bắt Sóng
+Không có gì phải lo lắng. Nếu có ai dám ra tay với cô hoặc người của cô, thì sẽ phải trả giá gấp 10 lần bằng sấm sét và kiếm.  <color=#FFD780FF>Nhấn</color> Tích tụ sức mạnh sấm sét, chém mạnh kiếm lớn về phía trước, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>.  <color=#FFD780FF>Nhấn Giữ</color> Nhấc vũ khí lên hình thành khiên, hấp thụ lượng sát thương căn cứ theo giới hạn HP của Beidou. Sau khi thả giữ kỹ năng hoặc hết thời gian, sẽ vung kiếm giải phóng sức mạnh tích lũy để phản công, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>. Dựa vào số lần bị tấn công trong thời gian kỹ năng, tăng sát thương tạo thành. Kích hoạt 2 lần sẽ đạt buff sát thương cao nhất. Khiên có hiệu quả như sau: ·Đối với <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> có 250% hiệu quả hấp thu; ·Khi thi triển, có thêm <color=#FFACFFFF>Nguyên Tố Lôi kèm theo</color> cho Beidou.  <i>Thuyền Meo Meo đuổi theo sóng biển.</i>
+Chước Lôi
+Nhớ lại trận chiến diệt Cự Thú Hải Sơn, triệu hồi cự thú và sức mạnh lôi điện, tạo ra Khiên Lôi Thú bao quanh, đồng thời gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> cho kẻ địch xung quanh.  <color=#FFD780FF>Khiên Lôi Thú</color> ·Khi tấn công thường và trọng kích đánh trúng địch, giải phóng sức mạnh sấm sét, tạo 1 tia sét chạy giữa địch, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>; ·Tăng khả năng kháng gián đoạn của nhân vật và giảm sát thương phải chịu.  Mỗi giây tối đa kích hoạt 1 tia sét.  <i>Sấm sét chói lọi, dời non lấp bể.</i>
+Hào Quang Rực Rỡ
+Khi <color=#FFD780FF>Bắt Sóng</color> phản đòn vào đúng lúc nhân vật bị tấn công, sẽ có buff sát thương cao nhất.
+Sấm Sét Đầy Trời
+Trong 10s sau khi thi triển <color=#FFD780FF>Bắt Sóng</color> có buff sát thương cao nhất, nhận được hiệu quả như sau: Sát thương trọng kích và tấn công thường tạo thành tăng 15%, tốc độ tấn công tăng 15%; Giảm thời gian chuẩn bị cần thiết cho trọng kích.
+Sóng Vỗ Dào Dạt
+Giảm 20% tiêu hao thể lực khi bơi cho nhân vật trong đội của bản thân. Không thể cộng dồn với buff Thiên Phú cố định có cùng hiệu quả.

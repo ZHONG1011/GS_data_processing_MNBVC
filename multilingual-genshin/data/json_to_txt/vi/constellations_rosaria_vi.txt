@@ -1,0 +1,12 @@
+Nguồn Gốc Tội Lỗi
+Đòn tấn công của Rosaria sau khi tạo thành bạo kích sẽ tăng 10% tốc độ tấn công cho bản thân, sát thương tấn công thường tạo thành tăng 10%, kéo dài 4s.
+Vùng Đất Bất Hạnh
+Thời gian Thương Băng do <color=#FFD780FF>Thánh Lễ Cuối Cùng</color> tạo ra kéo dài thêm 4s
+Buổi Lễ Xưng Tội
+Cấp kỹ năng <color=#FFD780FF>Lời Cáo Tội</color> +3. Tăng tối đa đến cấp 15.
+Ân Điển Đau Khổ
+Khi <color=#FFD780FF>Lời Cáo Tội</color> tạo thành bạo kích, hồi 5 điểm năng lượng nguyên tố cho bản thân Rosaria. Mỗi lần Lời Cáo Tội nhiều nhất kích hoạt 1 lần hiệu quả này.
+Lời Nguyện Lúc Lâm Chung
+Cấp kỹ năng <color=#FFD780FF>Thánh Lễ Cuối Cùng</color> +3. Tăng tối đa đến cấp 15.
+Thay Trời Hành Đạo
+Đòn tấn công của <color=#FFD780FF>Thánh Lễ Cuối Cùng</color> sẽ khiến kháng vật lý của địch giảm 20%, kéo dài 10s.

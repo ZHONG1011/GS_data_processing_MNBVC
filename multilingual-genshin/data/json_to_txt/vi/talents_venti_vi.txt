@@ -1,0 +1,12 @@
+Tấn Công Thường: Xạ Thuật Của Thần
+<color=#FFD780FF>Tấn Công Thường</color> Thực hiện tối đa 6 lần bắn tên liên tiếp.  <color=#FFD780FF>Trọng Kích</color> Tiến hành <color=#FFD780FF>ngắm bắn</color> chuẩn hơn, có sát thương cao hơn. Khi ngắm bắn, gió sẽ tích tụ trên mũi tên. Mũi tên đầy gió sẽ gây <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color>.  <color=#FFD780FF>Tấn Công Khi Đáp</color> Bắn mưa tên liên tiếp xuống mặt đất, gây sát thương phạm vi khi chạm đất.
+Bài Ca Trời Cao
+Triệu hồi ngọn gió kết hợp thơ và nhạc, cuốn mọi thứ trong bụi mù lên không trung.  <color=#FFD780FF>Nhấn</color> Tại vị trí của mục tiêu gọi ra ngọn gió, gây <color=#80FFD7FF>Sát Thương Phạm Vi Nguyên Tố Phong</color>, và đánh bay địch.  <color=#FFD780FF>Nhấn Giữ</color> Lấy bản thân làm trung tâm gọi ra ngọn gió, gây <color=#80FFD7FF>Sát Thương Phạm Vi Nguyên Tố Phong</color>, và đánh bay địch. Sau khi nhấn giữ, Venti cưỡi gió bay lên không trung.  Địch bị Bài Ca Trời Cao đánh bay, trong thời gian ngắn sẽ rơi chậm.  <i>Trong thời đại mà thần cùng con người cùng sống trên trái đất, có vô số bài hát truyền khắp bốn phương. Đây là giai điệu đã sớm bị lãng quên.</i>
+Bài Thơ Thần Gió
+Bắn ra mũi tên được tạo thành từ hàng nghìn ngọn gió, tạo thành bão lớn, cuốn địch vào, duy trì gây <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color>.  <color=#FFD780FF>Chuyển hóa nguyên tố</color> Nếu cơn bão trong thời gian duy trì kỹ năng có tiếp xúc <color=#80C0FFFF>Nguyên Tố Thủy</color>/<color=#FF9999FF>Nguyên Tố Hỏa</color>/<color=#99FFFFFF>Nguyên Tố Băng</color>/<color=#FFACFFFF>Nguyên Tố Lôi</color>, sẽ nhận được thuộc tính nguyên tố tương ứng, tạo thêm sát thương thuộc tính. Chuyển hóa nguyên tố chỉ phát sinh 1 lần.  <i>Có rất nhiều bài thơ ca ngợi Phong Thần đã biến mất. Trong đó bài thơ này miêu tả sức mạnh của ngài ấy cùng với gió.</i>
+Cái Ôm Của Gió
+Nhấn giữ <color=#FFD780FF>Bài Ca Trời Cao</color>, sẽ tạo ra luồng gió lên cao, kéo dài 20s.
+Mắt Bão
+Sau khi kết thúc hiệu quả <color=#FFD780FF>Bài Thơ Thần Gió</color>, hồi phục 15 điểm năng lượng Nguyên Tố cho Venti;  Nếu xảy ra chuyển hoá nguyên tố, hồi phục 15 điểm năng lượng Nguyên Tố cho tất cả nhân vật trong đội có nguyên tố tương ứng.
+Đi Theo Cơn Gió
+Giảm 20% tiêu hao thể lực nhân vật của bản thân trong đội khi bay lượn. Đối với buff Thiên Phú cố định có hiệu quả hoàn toàn giống sẽ không thể cộng dồn.

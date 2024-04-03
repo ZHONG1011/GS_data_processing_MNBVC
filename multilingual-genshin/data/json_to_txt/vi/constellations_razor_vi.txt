@@ -1,0 +1,12 @@
+Bản Chất Của Sói
+8s sau khi Razor nhận được Nguyên Tố tinh cầu hoặc Nguyên Tố hạt nhân, sát thương tạo thành sẽ tăng 10%.
+Áp Chế
+Khi Razor tấn công địch có HP dưới 30%, tỷ lệ bạo kích tăng 10%.
+Hồn Thú
+Cấp kỹ năng <color=#FFD780FF>Răng Sét</color> +3. Tăng tối đa đến cấp 15.
+Cắn Xé
+Khi nhấn <color=#FFD780FF>Vuốt Và Sấm</color>, làm cho phòng ngự của địch bị đánh trúng giảm 15%, kéo dài 7s.
+Móng Vuốt
+Cấp kỹ năng <color=#FFD780FF>Vuốt Và Sấm</color> +3. Tăng tối đa đến cấp 15.
+Thiên Lang
+Mỗi 10s, kiếm của Razor sẽ tự động nạp, tấn công thường sau đó sẽ gây ra sấm sét, tạo ra 100% tấn công <color=#FFACFFFF>sát thương Nguyên Tố Lôi</color>. Khi không ở trong trạng thái <color=#FFD780FF>Răng Sét</color>, nếu sét đánh trúng địch, sẽ tích luỹ cho Razor 1 Ấn Lôi <color=#FFD780FF>Vuốt Và Sấm</color>.

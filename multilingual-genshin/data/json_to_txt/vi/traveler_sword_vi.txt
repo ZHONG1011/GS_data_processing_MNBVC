@@ -1,0 +1,13 @@
+Kiếm Lữ Hành
+Kiếm làm bằng gang thép rất chắc tay, trên thanh kiếm có ẩn giấu kéo, kính lúp, dây dẫn lửa v.v, rất tiện lợi cho việc lữ hành.
+ Vốn là một thanh kiếm thép, cầm tay chắc nịch, được luyện từ chất thép cứng. Thế nhưng khuyết điểm lớn nhất của nó chính là kết cấu kém chắc chắn, tính chiến đấu cũng giảm đi đáng kể. Để bổ sung cho khuyết điểm, tại những lỗ hổng của tay cầm được nhét vào những đồ dùng nhỏ như dao tỉa, kéo, mũi tên. Vì vậy được gọi là Kiếm Lữ Hành là do bên trong chứa những dụng cụ được dùng trong một cuộc lữ hành...? 
+Hành Trình
+Khi nhận được Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân, hồi phục <color=#99FFFFFF>1%</color>HP
+Hành Trình
+Khi nhận được Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân, hồi phục <color=#99FFFFFF>1.25%</color>HP
+Hành Trình
+Khi nhận được Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân, hồi phục <color=#99FFFFFF>1.5%</color>HP
+Hành Trình
+Khi nhận được Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân, hồi phục <color=#99FFFFFF>1.75%</color>HP
+Hành Trình
+Khi nhận được Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân, hồi phục <color=#99FFFFFF>2%</color>HP

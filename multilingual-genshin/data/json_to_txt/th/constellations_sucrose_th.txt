@@ -1,0 +1,12 @@
+Clustered Vacuum Field
+เพิ่มจำนวนการใช้ <color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color> ขึ้น 1 ครั้ง
+Beth: Unbound Form
+เพิ่มระยะเวลา <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color> ขึ้น 2 วินาที
+Flawless Achemistress
+เพิ่มเลเวลของสกิล <color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Alchemania
+เมื่อการโจมตีปกติหรือชาร์จโจมตีของ Sucrose ถูกศัตรูทุก ๆ 7 ครั้ง จะสุ่มลดเวลาคูลดาวน์ของ <color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color> ลง 1-7 วินาที ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นมากสุดหนึ่งครั้ง ในทุก 0.1 วินาที
+Caution: Standard Flask
+เพิ่มเลเวลของสกิล <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Chaotic Entropy
+หาก <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color> ทำให้เกิดการเปลี่ยนแปลงธาตุ ในช่วงระยะเวลาต่อเนื่องของ สกิล ตัวละครทั้งหมดในทีม จะได้รับโบนัสความเสียหายของธาตุที่เกี่ยวข้อง 20%

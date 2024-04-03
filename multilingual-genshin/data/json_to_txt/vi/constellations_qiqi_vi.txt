@@ -1,0 +1,12 @@
+Trở Lại Nghèo Khổ
+Khi Hàn Bệnh Quỷ Sai đánh trúng kẻ địch đang bị Bùa Độ Ách Chân đánh dấu, sẽ hồi 2 điểm năng lượng nguyên tố cho Qiqi.
+Giá Rét Thấu Xương
+Đối với địch bị ảnh hưởng bởi <color=#99FFFFFF>Nguyên Tố Băng</color>, sát thương tấn công thường và trọng kích mà Qiqi gây ra tăng 15%.
+Thăng Thiên Bảo Cáo
+Cấp kỹ năng <color=#FFD780FF>Tiên Pháp - Cứu Khổ Độ Ách</color> +3. Tăng tối đa đến cấp 15.
+Thiên Uy Áp Chúng
+Mục tiêu bị Bùa Độ Ách Chân đánh dấu, lực tấn công giảm 20%.
+Sen Hồng Chớm Nở
+Cấp kỹ năng <color=#FFD780FF>Tiên Pháp - Hàn Bệnh Quỷ Sai</color> +3. Tăng tối đa đến cấp 15.
+Khởi Tử Hồi Sinh
+Khi thi triển <color=#FFD780FF>Tiên Pháp - Cứu Khổ Độ Ách</color> hồi sinh và phục hồi 50% HP cho tất cả các nhân vật trong đội ngã xuống. Hiệu quả này mỗi 15 phút chỉ thi triển 1 lần.

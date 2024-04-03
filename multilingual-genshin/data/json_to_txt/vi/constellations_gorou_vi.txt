@@ -1,0 +1,12 @@
+Chạy: Nhanh Nhẹn Như Gió
+Khi nhân vật trong trận hiện tại (trừ Gorou) đứng trong khu vực <color=#FFD780FF>Đại Tướng Chiến Kỳ</color> hoặc <color=#FFD780FF>Uy Nghi Đại Tướng</color> gây Sát Thương Nguyên Tố Nham cho kẻ địch, sẽ giảm 2s CD kỹ năng <color=#FFD780FF>Trận Hình Phòng Thủ - Inuzaka</color> của Gorou. Hiệu quả này mỗi 10s tối đa kích hoạt 1 lần.
+Ngồi: Vững Vàng Như Chuông
+Trong thời gian duy trì <color=#FFD780FF>Uy Nghi Đại Tướng</color>, sau khi nhân vật trong trận gần đó nhận mảnh kết tinh tạo ra từ phản ứng kết tinh, thì Uy Nghi Đại Tướng của Gorou sẽ kéo dài thêm 1s. Hiệu quả này mỗi 0.1s tối đa kích hoạt 1 lần, tối đa kéo dài thêm 3s bằng cách này.
+Cào: Dữ Dội Như Lửa
+Cấp kỹ năng <color=#FFD780FF>Trận Hình Phòng Thủ - Inuzaka</color> +3. Tăng tối đa đến cấp 15.
+Liếm: Ấm Áp Như Nước
+<color=#FFD780FF>Uy Nghi Đại Tướng</color> khi có hiệu quả "Trụ Vững" hoặc "Phá Hủy", mỗi 1.5s sẽ hồi phục HP cho nhân vật trong khu vực, lượng hồi phục tương đương 50% phòng ngự của bản thân Gorou.
+Cắn: Kinh Động Như Sấm
+Cấp kỹ năng <color=#FFD780FF>Chiến Pháp Đột Kích - Juuga</color> +3. Tăng tối đa đến cấp 15.
+Dũng: Trung Nghĩa Như Núi
+Trong 12s sau khi thi triển <color=#FFD780FF>Trận Hình Phòng Thủ - Inuzaka</color> hoặc <color=#FFD780FF>Chiến Pháp Đột Kích - Juuga</color>, dựa vào cấp độ khu vực lúc thi triển để tăng <color=#FFE699FF>Sát Thương Bạo Kích Nguyên Tố Nham</color> cho toàn bộ nhân vật trong đội ở gần: ·"Kiên Cố": Tăng 10%; ·"Trụ Vững": Tăng 20%; ·"Phá Hủy": Tăng 40%.  Hiệu quả này không thể cộng dồn, lấy hiệu ứng sau cùng làm chuẩn.

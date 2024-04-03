@@ -1,0 +1,12 @@
+Piercing Fragments
+เมื่อโจมตีปกติถูกศัตรู จะทำให้ เกิดความเสียหายวงกว้าง
+Shock Effect
+เมื่อ <color=#FFD780FF>Jade Screen</color> สลายไป จะทำการลบล้าง ช่วงเวลาคูลดาวน์ ซึ่งเอฟเฟกต์นี้จะเกิดขึ้น หนึ่งครั้งในทุก 6 วินาที
+Majesty be the Array of Stars
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Starshatter</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Exquisite be the Jade, Outshining All the Beneath
+<color=#FFD780FF>Jade Screen</color> จะเพิ่ม ความต้านทานธาตุทั้งหมด ของตัวละครที่อยู่โดยรอบขึ้น 10%
+Invincible be the Jade Screen
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Jade Screen</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Grandeur be the Seven Stars
+เมื่อใช้ <color=#FFD780FF>Starshatter</color> จะสร้าง Star Jade ให้ Ningguang เจ็ดดวง

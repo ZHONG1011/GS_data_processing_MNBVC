@@ -1,0 +1,132 @@
+Lần đầu gặp mặt...
+Mùi của bạn... thơm. Cùng đi săn nào!
+Nói chuyện phiếm - Mùi vị
+Hừm, mùi của lũ thỏ...
+Nói chuyện phiếm - Đói
+Đi thôi, bụng đói rồi.
+Nói chuyện phiếm - Trông chừng
+Tôi canh chừng, đi thì gọi tôi.
+Khi có sấm sét - Nhắc nhở
+Sợ thì mau trốn đi.
+Khi có sấm sét - Dẫn đường
+Tránh cây, đi theo tôi!
+Khi gió nổi lên...
+Gió... ừm... mát.
+Gió lớn quá...
+Gió... ừm... quật, đau.
+Chào buổi sáng...
+Mặt trời lên rồi. Đi săn cùng nhau?
+Chào buổi trưa...
+Ăn miếng thịt lớn, hạnh phúc!
+Chào buổi tối...
+Bạn ngủ đi, tôi ngắm trăng.
+Chúc ngủ ngon...
+Bạn ngủ, tôi canh gác. Ngày mai cùng nhau đi săn.
+Về bản thân Razor...
+Tôi là sói. Con người bố, mẹ, không có.
+Về chúng tôi - Bạn bè
+Bạn của bạn. Tôi và bạn cùng đi săn.
+Về chúng tôi - Vũ khí
+Tôi có móng sắt và răng sét. Tôi bảo vệ bạn.
+Về Vision...
+Vision, sư phụ giúp. Răng sét đánh nhau, bảo vệ Lupical.
+Có gì muốn chia sẻ không...
+Buổi tối, sao rất đẹp. Bầu trời, trong hồ, đều có rất nhiều sao.  Buổi tối, trong thành, cũng có rất nhiều sao.
+Những kiến thức thú vị...
+Những con sói Lupical của tôi. Họ là người thân.
+Về Lisa...
+Sét của sư phụ, bầu trời biến thành màu đen. Rất đáng sợ, rất mạnh.
+Về Barbara...
+Barbara, cô gái toả sáng. Rất tốt bụng.
+Về Diluc...
+Diluc, đỏ đỏ, đen đen. Vừa lạnh vừa nóng.
+Về Venti...
+Thơ... ừm, không hiểu. Mặc dù không hiểu, Lupical thích.
+Về Bennett...
+Bennett, rất nhiều lời, cùng với cậu ấy, ăn không no.
+Về Klee...
+Klee, bạn! Bạn, nhưng, đau đầu.
+Về Varka - Lạ mặt
+Varka? Không quen...
+Về Varka - Hồi ức
+Hả... Varka, là tên. Ông ấy cao lớn. Cái tên Razor, móng sắt, ông ấy cho. Ừm... muốn gặp ông ấy.
+Muốn tìm hiểu Razor - Điều thứ 1
+Mùi của bạn, mùi lương thiện. Thích ăn thịt?
+Muốn tìm hiểu Razor - Điều thứ 2
+Bạn rất mạnh. Giống như sói. Thích săn bắt với bạn. Thu hoạch rất nhiều.
+Muốn tìm hiểu Razor - Điều thứ 3
+Lupical là "nhà của sói". Không đúng, là "người nhà của sói". Lupical của tôi ở trong khu rừng. Họ bảo vệ tôi, gọi tôi là Lupical.
+Muốn tìm hiểu Razor - Điều thứ 4
+Tôi chỉ có Lupical.  Nhưng, cho dù là Lupical, tôi không có bốn chân, không phải là con sói thật sự. Đôi khi cảm thấy buồn.
+Muốn tìm hiểu Razor - Điều thứ 5
+Nô đùa với bạn rất vui, đi săn với bạn rất vui. Cùng với bạn, tôi là sói, tôi là người, đều không quan trọng.   Bạn là bạn bè, bạn là Lupical của tôi. Tôi muốn bạn cũng vui vẻ.
+Sở thích của Razor...
+Thích Lupical. Thích rừng cây. Thích bạn bè. Thích chạy nhảy.
+Nỗi buồn của Razor...
+Nói chuyện rất mệt, rất khó. Nhưng, không nói không được.
+Món ăn yêu thích...
+Thích thịt. Thích khoai tây.
+Món ăn ghét...
+Rau không ngon. Thịt mà tôi ăn mới ăn rau.
+Nhận Được Quà I
+Mùi thơm, hương vị cũng ngon. Rất thích.
+Nhận Được Quà II
+Ăn vào có sức. Rất vui.
+Nhận Được Quà III
+Ăn, không ngon. Không ăn, không ngon. Hơi buồn.
+Sinh nhật...
+Hôm nay là của bạn... bạn được sinh ra ngày hôm nay của rất nhiều rất nhiều tháng trước. Muốn cùng bạn chúc mừng. Hôm nay cùng nhau ăn thịt.
+Cảm Giác Đột Phá - Khởi
+Cánh tay, to hơn rồi...?
+Cảm Giác Đột Phá - Thừa
+Mài móng, mài răng, phải mạnh hơn!
+Cảm Giác Đột Phá - Chuyển
+Chạy, săn. Không đủ, không được! Tôi phải... mạnh hơn.
+Cảm Giác Đột Phá - Hợp
+Răng, móng, chân. Mạnh hơn, có sức hơn... bảo vệ bạn!
+Kỹ Năng Nguyên Tố I
+Tránh ra!
+Kỹ Năng Nguyên Tố II
+A!
+Kỹ Năng Nguyên Tố III
+Ow!
+Kỹ Năng Nguyên Tố IV
+Đừng qua đây!
+Kỹ Năng Nộ I
+Raaaarrr!
+Kỹ Năng Nộ II
+Blitz!
+Kỹ Năng Nộ III
+Gào...
+Kỹ Năng Nộ IV
+Rar!
+Mở Rương I
+Những thứ này, có ích?
+Mở Rương II
+Rương, trống, có thể đựng đồ.
+Mở Rương III
+Mùi của kho báu...kỳ lạ.
+HP Thấp I
+Đau.
+HP Thấp II
+A-a-aw!
+HP Thấp III
+Phải giết ngươi!
+HP Đồng Hành Thấp I
+Không được.
+HP Đồng Hành Thấp II
+Sống lại!
+Ngã Xuống I
+Khó thở quá...
+Ngã Xuống II
+Muốn trở về...
+Ngã Xuống III
+...Lupical...của ta
+Bị Trọng Kích I
+Trong miệng ta, mùi máu...
+Vào Đội I
+Tôi sẽ đi đầu.
+Vào Đội II
+Muốn đi đâu?
+Vào Đội III
+Đằng sau cứ giao cho tôi.

@@ -1,0 +1,12 @@
+At Water's Edge
+เมื่ออยู่ในสภาวะ Ceremonial Garment ของ <color=#FFD780FF>Nereid's Ascension</color> การโจมตีปกติครั้งสุดท้ายของ Sangonomiya Kokomi จะปล่อยปลาออกมาเพิ่มอีกหนึ่งตัว เพื่อสร้าง<color=#80C0FFFF>ความเสียหายน้ำ</color>เท่ากับ 30% ของพลังชีวิตสูงสุดของ Sangonomiya Kokomi ความเสียหายนี้จะไม่ถูกนับว่าเป็นความเสียหายของการโจมตีปกติ
+The Clouds Like Waves Rippling
+ปริมาณการฟื้นฟูพลังชีวิตของ Sangonomiya Kokomi ที่มีต่อตัวละครที่มีพลังชีวิตต่ำกว่าหรือเท่ากับ 50% จะเพิ่มขึ้นโดยขึ้นกับพลังชีวิตสูงสุดของเธอเอง ผ่านทางช่องทางต่อไปนี้: ·Bake-Kurage ของ <color=#FFD780FF>Kurage's Oath</color>: 4.5% ของพลังชีวิตสูงสุด ·การโจมตีปกติและชาร์จโจมตีของ <color=#FFD780FF>Nereid's Ascension</color>: 0.6% ของพลังชีวิตสูงสุด
+The Moon, A Ship O'er the Seas
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Nereid's Ascension</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+The Moon Overlooks the Waters
+เมื่ออยู่ในสภาวะ Ceremonial Garment ของ <color=#FFD780FF>Nereid's Ascension</color> ความเร็วการโจมตีปกติของ Sangonomiya Kokomi จะเพิ่มขึ้น 10% และจะฟื้นฟูพลังงานธาตุ 0.8 หน่วย เมื่อการโจมตีปกติถูกศัตรู เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 0.2 วินาที
+All Streams Flow to the Sea
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Kurage's Oath</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Sango Isshin
+เมื่ออยู่ในสภาวะ Ceremonial Garment ของ <color=#FFD780FF>Nereid's Ascension</color> เมื่อการโจมตีปกติหรือชาร์จโจมตีของ Sangonomiya Kokomi ทำการรักษาตัวละครที่มีพลังชีวิตเท่ากับ 80% หรือมากกว่าแล้ว จะได้รับ<color=#80C0FFFF>โบนัสความเสียหายน้ำ</color> 40% เป็นเวลา 4 วินาที

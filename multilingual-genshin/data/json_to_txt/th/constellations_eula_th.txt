@@ -1,0 +1,12 @@
+Tidal Illusion
+หลังจากใช้เอฟเฟกต์ Grimheart ของ <color=#FFD780FF>Icetide Vortex</color> โบนัสความเสียหายกายภาพของ Eula จะเพิ่มขึ้น 30% เป็นเวลา 6 วินาที ทุกการใช้ Grimheart 1 ชั้น จะเป็นการเพิ่มระยะเวลาต่อเนื่องของเอฟเฟกต์นี้ 6 วินาที โดยจะเพิ่มได้มากสุดไม่เกิน 18 วินาที
+Lady of Seafoam
+#ลดเวลาคูลดาวน์ของการ{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}ของ <color=#FFD780FF>Icetide Vortex</color> ลง เท่ากับการคูลดาวน์ของการ{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}
+Lawrence Pedigree
+เพิ่มเลเวลของสกิล <color=#FFD780FF>Glacial Illumination</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+The Obstinacy of One's Inferiors
+Lightfall Sword สร้างความเสียหายเพิ่มขึ้น 25% แก่ศัตรูที่มีพลังชีวิตต่ำกว่า 50%
+Chivalric Quality
+เพิ่มเลเวลของสกิล <color=#FFD780FF>Icetide Vortex</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Noble Obligation
+Lightfall Sword ที่สร้างขึ้นโดย <color=#FFD780FF>Glacial Illumination</color> จะได้รับพลังงาน 5 ชั้น โดยทันที และเมื่อความเสียหายของการโจมตีปกติ สกิลธาตุ หรือท่าไม้ตายทำให้เกิดการสะสมชั้นพลังงาน จะมีโอกาส 50% ที่จะได้รับพลังงานเพิ่ม 1 ชั้น

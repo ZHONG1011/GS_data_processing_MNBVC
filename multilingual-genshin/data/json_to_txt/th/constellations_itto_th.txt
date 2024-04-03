@@ -1,0 +1,12 @@
+Stay a While and Listen Up
+หลังจากใช้ <color=#FFD780FF>Royal Descent: Behold, Itto the Evil!</color> Arataki Itto จะได้รับเอฟเฟกต์ "Superlative Superstrength" 2 ชั้น และ 1 วินาที หลังจากนั้น ในทุก 0.5 วินาที Arataki Itto จะได้รับเอฟเฟกต์ "Superlative Superstrength" อีก 1 ชั้น เป็นเวลา 1.5 วินาที
+Gather 'Round, It's a Brawl!
+หลังจากใช้ <color=#FFD780FF>Royal Descent: Behold, Itto the Evil!</color> ตัวละครแต่ละตัวในทีมที่มีชนิดของธาตุเป็น<color=#FFE699FF>ธาตุหิน</color> จะทำให้ช่วงเวลาคูลดาวน์ของสกิลดังกล่าวลดลง 1.5 วินาที และฟื้นฟูพลังงานธาตุของ Arataki Itto ขึ้น 6 หน่วย ด้วยวิธีนี้ จะสามารถลดเวลาคูลดาวน์ได้มากสุด 4.5 วินาที และฟื้นฟูพลังงานธาตุได้มากสุด 18 หน่วย
+Horns Lowered, Coming Through
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Masatsu Zetsugi: Akaushi Burst!</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Jailhouse Bread and Butter
+หลังจากสถานะ "Raging Oni King" ที่เกิดจาก <color=#FFD780FF>Royal Descent: Behold, Itto the Evil!</color> สิ้นสุดลง ตัวละครทั้งหมดในทีม ที่อยู่ในบริเวณใกล้เคียง จะมีพลังป้องกันเพิ่มขึ้น 20% พลังโจมตีเพิ่มขึ้น 20% เป็นเวลา 10 วินาที
+10 Years of Hanamizaka Fame
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Royal Descent: Behold, Itto the Evil!</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Arataki Itto, Present!
+ความแรงคริของชาร์จโจมตีของ Arataki Itto เพิ่มขึ้น 70%; นอกจากนี้เมื่อใช้ "Arataki Kesagiri" จะมีโอกาส 50% ที่จะไม่ใช้ Superlative Superstrength

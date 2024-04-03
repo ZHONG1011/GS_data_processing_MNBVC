@@ -1,0 +1,12 @@
+Huyền Tinh Tán Mây
+Khi tấn công thường đánh trúng kẻ địch, sẽ tạo ra sát thương phạm vi.
+Toàn Cơ Kết Hợp Trấn Côn Lôn
+Khi <color=#FFD780FF>Vách Toàn Cơ</color> vỡ tan, sẽ xóa thời gian chờ. Mỗi 6s mới thi triển hiệu quả 1 lần.
+Liệt Thiên Quyền Lâm
+Cấp kỹ năng <color=#FFD780FF>Thiên Quyền Băng Ngọc</color> +3. Tăng tối đa đến cấp 15.
+Thần Cơ Công Thủ
+<color=#FFD780FF>Vách Toàn Cơ</color> sẽ tăng 10% kháng tất cả các nguyên tố xung quanh nhân vật.
+Thiên Phiến Chính Thiên Hoành
+Cấp kỹ năng <color=#FFD780FF>Vách Toàn Cơ</color> +3. Tăng tối đa đến cấp 15.
+Thất Tinh Lưu Quang
+Khi thi triển <color=#FFD780FF>Thiên Quyền Băng Ngọc</color>, sẽ tạo ra 7 viên Tinh Thạch cho Ningguang.

@@ -1,0 +1,12 @@
+Ice Unleashed
+ครั้งสุดท้ายของการโจมตีปกติ จะทำการปล่อยมีดน้ำแข็ง สามเล่มไปข้างหน้า โดยมีดแต่จะเล่มจะสร้าง <color=#99FFFFFF>ความเสียหายน้ำแข็ง</color> เป็น 50% ของพลังการโจมตีของ Chongyun แก่ศัตรูที่อยู่ในเส้นทาง
+Atmospheric Revolution
+ช่วงเวลาคูลดาวน์เมื่อใช้สกิลธาตุและท่าไม้ตาย ภายในพื้นที่ของ <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color> จะลดลง 15%
+Cloudburst
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Spirit Blade: Cloud-parting Star</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Frozen Skies
+เมื่อ Chongyun โจมตีถูกศัตรูที่ได้รับผลกระทบจาก <color=#99FFFFFF>ธาตุน้ำแข็ง</color> จะได้รับการฟื้นฟูพลังธาตุ 1 หน่วย เอฟเฟกต์นี้จะใช้ได้หนึ่งครั้งในทุก 2 วินาที
+The True Path
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Rally of Four Blades
+เมื่อ <color=#FFD780FF>Spirit Blade: Cloud-parting Star</color> สร้างความเสียหายแก่ศัตรูที่มีเปอร์เซ็นต์พลังชีวิตต่ำกว่า Chongyun ความเสียหายจะเพิ่มขึ้น 15%; นอกจากนี้ในตอนที่ใช้งาน จะเรียกใบมีดวิญญาณเพิ่มขึ้นมาอีกหนึ่งเล่ม

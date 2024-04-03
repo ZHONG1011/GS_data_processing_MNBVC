@@ -1,0 +1,12 @@
+Tấn Công Thường: Tài Nghệ Làm Bánh
+<color=#FFD780FF>Tấn Công Thường</color> Thực hiện tối đa 5 lần đánh liên tiếp.  <color=#FFD780FF>Trọng Kích</color> Tiêu hao thể lực nhất định, xông về phía trước, gây sát thương cho địch trên đường đi.  <color=#FFD780FF>Tấn Công Khi Đáp</color> Đáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.
+Guoba Xuất Kích
+Triệu hồi Guoba phun lửa, trong thời gian tồn tại, không ngừng phun lửa vào địch, gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>.  <i>Guoba thích ăn thực phẩm cay. Nhưng lại chịu không nổi thực phẩm cay như vậy.</i>
+Bánh Xe Lửa
+Với kỹ năng tinh tế điều khiển lửa và thương, vung ra Bánh Xe Lửa xoay tròn quanh mình. Trong thời gian tồn tại, Bánh Xe Lửa sẽ đi theo nhân vật, gây cho địch trên đường <color=#FF9999FF>Sát Thương Nguyên Tố Hỏa</color>.  <i>Hỏa lực vĩnh viễn không đủ. Vĩnh viễn không đủ.</i>
+Hỏa Lực Đan Chéo
+Cự ly Guoba phun lửa tăng 20%.
+Ớt Chỉ Thiên Cay Xè
+Khi hiệu quả của <color=#FFD780FF>Guoba Xuất Kích</color> kết thúc, nơi Guoba biến mất sẽ bỏ lại quả ớt. Thu thập ớt sẽ tăng 10% tấn công, kéo dài 10s.
+Đầu Bếp Vạn Dân Đường
+Nấu hoàn mỹ món ăn thuộc loại tấn công, có tỷ lệ 12% x2 sản lượng.

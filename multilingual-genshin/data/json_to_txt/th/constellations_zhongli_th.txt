@@ -1,0 +1,12 @@
+Rock, the Backbone of Earth
+Stone Stele ที่ <color=#FFD780FF>Dominus Lapidis</color> สร้างขึ้น จะสามารถคงอยู่ได้มากสุด 2 แท่ง ในเวลาเดียวกัน
+Stone, the Cradle of Jade
+เมื่อ <color=#FFD780FF>Planet Befall</color> ตกลงมา จะมอบ Jade Shield ให้กับตัวละครที่เข้าร่วมการต่อสู้ และอยู่ในบริเวณใกล้เคียงในขณะนั้น
+Jade, Shimmering through Darkness
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Dominus Lapidis</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Topaz, Unbreakable and Fearless
+พื้นที่ผลกระทบของ <color=#FFD780FF>Planet Befall</color> ขยายขึ้น 20% นอกจากนี้ เอฟเฟกต์กลายเป็นหินของ Planet Befall จะนานขึ้น 2 วินาที
+Lazuli, Herald of the Order
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Planet Befall</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Chrysos, Bounty of Dominator
+เมื่อ Jade Shield ได้รับความเสียหาย ตัวละครในขณะนั้นจะได้รับการฟื้นฟูพลังชีวิตเท่ากับ 40% ของความเสียหาย ซึ่งปริมาณการฟื้นฟูในหนึ่งครั้ง จะไม่เกิน 8% ของพลังชีวิตสูงสุดของตัวละครในขณะนั้น

@@ -1,0 +1,13 @@
+Sông Cạn
+Loài cá dường như đã tuyệt chủng, thân của chúng có độ đàn hồi cao, gắn thêm dây vào sẽ có thể dùng như cung.
+ Từng có dòng nước chảy vào trong cát vàng, nhưng đó là chuyện xảy ra từ rất lâu trước đây rồi. Sau đó, người vĩ đại đi theo tiếng gọi của đất và mệnh lệnh của trời bước vào sa mạc, nhưng người sống sót trở về chẳng còn mấy ai. Con cá vốn sống trong hồ nước khổng lồ giữa cao nguyên, như mũi tên thẳng tắp xuyên thủng không gian, Nó từng thẳng tắp như ngọn giáo, bơi theo dòng thánh tích, Dòng suối lại dần ngấm vào cát, hồ nước rút thành vũng nước, Cuối cùng chỉ đành cuộn mình trong vũng nước, kết quả là trở thành con mồi của những người hành hương.  Câu chuyện này nói cho chúng ta biết một đạo lý: Chỉ cần thành tâm hướng thiện, dù ở giữa sa mạc cũng có thể bắt được cá.
+Phá Lưới
+Thi triển Kỹ Năng Nguyên Tố sẽ kích hoạt hiệu ứng "Xuôi Dòng", khi đánh trúng kẻ địch sẽ gây sát thương diện rộng bằng <color=#99FFFFFF>80%</color> tấn công, hiệu quả này sẽ bị xóa sau 15s hoặc kích hoạt 3 lần sát thương diện rộng. Mỗi 2s tối đa gây một lần sát thương diện rộng bằng cách này, mỗi 12s tối đa kích hoạt một lần "Xuôi Dòng".
+Phá Lưới
+Thi triển Kỹ Năng Nguyên Tố sẽ kích hoạt hiệu ứng "Xuôi Dòng", khi đánh trúng kẻ địch sẽ gây sát thương diện rộng bằng <color=#99FFFFFF>100%</color> tấn công, hiệu quả này sẽ bị xóa sau 15s hoặc kích hoạt 3 lần sát thương diện rộng. Mỗi 2s tối đa gây một lần sát thương diện rộng bằng cách này, mỗi 12s tối đa kích hoạt một lần "Xuôi Dòng".
+Phá Lưới
+Thi triển Kỹ Năng Nguyên Tố sẽ kích hoạt hiệu ứng "Xuôi Dòng", khi đánh trúng kẻ địch sẽ gây sát thương diện rộng bằng <color=#99FFFFFF>120%</color> tấn công, hiệu quả này sẽ bị xóa sau 15s hoặc kích hoạt 3 lần sát thương diện rộng. Mỗi 2s tối đa gây một lần sát thương diện rộng bằng cách này, mỗi 12s tối đa kích hoạt một lần "Xuôi Dòng".
+Phá Lưới
+Thi triển Kỹ Năng Nguyên Tố sẽ kích hoạt hiệu ứng "Xuôi Dòng", khi đánh trúng kẻ địch sẽ gây sát thương diện rộng bằng <color=#99FFFFFF>140%</color> tấn công, hiệu quả này sẽ bị xóa sau 15s hoặc kích hoạt 3 lần sát thương diện rộng. Mỗi 2s tối đa gây một lần sát thương diện rộng bằng cách này, mỗi 12s tối đa kích hoạt một lần "Xuôi Dòng".
+Phá Lưới
+Thi triển Kỹ Năng Nguyên Tố sẽ kích hoạt hiệu ứng "Xuôi Dòng", khi đánh trúng kẻ địch sẽ gây sát thương diện rộng bằng <color=#99FFFFFF>160%</color> tấn công, hiệu quả này sẽ bị xóa sau 15s hoặc kích hoạt 3 lần sát thương diện rộng. Mỗi 2s tối đa gây một lần sát thương diện rộng bằng cách này, mỗi 12s tối đa kích hoạt một lần "Xuôi Dòng".

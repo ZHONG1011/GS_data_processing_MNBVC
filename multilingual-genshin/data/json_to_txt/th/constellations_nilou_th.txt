@@ -1,0 +1,12 @@
+Dance of the Waning Moon
+<color=#FFD780FF>Dance of Haftkarsvar</color> ได้รับการเสริมพลังดังนี้: ·Luminous Illusion สร้างความเสียหายเพิ่มขึ้น 65%; ·ช่วงเวลาต่อเนื่องของ Tranquility Aura ยาวนานขึ้น 6 วินาที
+The Starry Skies Their Flowers Rain
+หลังจากที่ตัวละครที่อยู่ภายใต้สภาวะ "Golden Chalice's Bounty" สร้าง<color=#80C0FFFF>ความเสียหายน้ำ</color>แก่ศัตรู <color=#80C0FFFF>ความต้านทานน้ำ</color>ของศัตรูดังกล่าวจะลดลง 35% เป็นเวลา 10 วินาที; หลังจากปฏิกิริยางอกเงยที่สร้างทำให้เกิดความเสียหายแก่ศัตรู <color=#99FF88FF>ความต้านทานไม้</color>ของศัตรูดังกล่าวจะลดลง 35% เป็นเวลา 10 วินาที ต้องปลดล็อกพรสวรรค์ติดตัว "Court of Dancing Petals" ก่อน
+Beguiling Shadowstep
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Dance of Abzendegi: Distant Dreams, Listening Spring</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Fricative Pulse
+หลังจากการเต้นรำขั้นที่สามของสภาวะ Pirouette จาก <color=#FFD780FF>Dance of Haftkarsvar</color> ถูกเป้าหมาย จะฟื้นฟูพลังงานธาตุให้แก่ Nilou 15 หน่วย และทำให้ <color=#FFD780FF>Dance of Abzendegi: Distant Dreams, Listening Spring</color> ของเธอสร้างความเสียหายเพิ่มขึ้น 50% เป็นเวลา 8 วินาที
+Twirling Light
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Dance of Haftkarsvar</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Frostbreaker's Melody
+ทุก 1,000 หน่วย ของค่าพลังชีวิตสูงสุด จะทำให้อัตราคริของ Nilou เพิ่มขึ้น 0.6% และความแรงคริเพิ่มขึ้น 1.2% ด้วยวิธีนี้ อัตราคริของ Nilou จะเพิ่มได้มากสุดถึง 30% และความแรงคริเพิ่มได้มากสุดถึง 60%

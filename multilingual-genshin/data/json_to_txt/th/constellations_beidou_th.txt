@@ -1,0 +1,12 @@
+Sea Beast's Scourge
+เมื่อใช้ <color=#FFD780FF>Stormbreaker</color>: จะสร้างโล่ที่สามารถดูดซับ ความเสียหายได้ 16% ของพลังชีวิตสูงสุด เป็นเวลา 15 วินาที โล่ป้องกันนี้จะมีเอฟเฟกต์ การดูดซับ<color=#FFACFFFF>ความเสียหายไฟฟ้า</color> 250%
+Upon the Turbulent Sea, the Thunder Arises
+สายฟ้าของ <color=#FFD780FF>Stormbreaker</color> สามารถดีดศัตรูเพิ่มได้อีก 2 ตัว
+Summoner of Storm
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Tidecaller</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Stunning Revenge
+ภายใน 10 วินาที หลังจากถูกโจมตี โจมตีปกติของ Beidou จะแนบ<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>เพิ่มไปด้วย 20%
+Crimson Tidewalker
+เพิ่มเลเวลสกิลของ <color=#FFD780FF>Stormbreaker</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Bane of Evil
+ช่วงเวลาของ <color=#FFD780FF>Stormbreaker</color> <color=#FFACFFFF>ความต้านทานไฟฟ้า</color>ของ ศัตรูโดยรอบจะลดลง 15%

@@ -1,0 +1,12 @@
+Lập Nghi - Phủ Lãm Trú Minh
+Sau khi thi triển <color=#FFD780FF>Nghi Thức Thần Thánh - Nhanh Như Sói</color>, tốc độ đánh thường của Cyno tăng 20%, duy trì 10s. Nếu kích hoạt hiệu quả "Phán Quyết" của thiên phú Lạc Vũ Phán Quyết khi thi triển <color=#FFD780FF>Nghi Thức Bí Ẩn - Dẫn Hồn Đáy Vực</color>, sẽ làm mới thời gian duy trì hiệu quả này. Cần mở khóa thiên phú cố định "Lạc Vũ Phán Quyết".
+Lệnh Nghi - Dẫn Yết Quy Linh
+Sau khi Cyno dùng tấn công thường đánh trúng kẻ địch, sẽ tăng 10% buff <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>, duy trì 4s. Hiệu quả này mỗi 0.1s tối đa kích hoạt một lần, tối đa cộng dồn 5 tầng.
+Luật Nghi - Hành Độ Thệ Trừng
+Cấp kỹ năng <color=#FFD780FF>Nghi Thức Thần Thánh - Nhanh Như Sói</color> +3. Tăng tối đa đến cấp 15.
+Tuần Nghi - Siển Hộ Cấm Võng
+Khi Cyno trong trạng thái Sứ Giả Dẫn Lối của <color=#FFD780FF>Nghi Thức Thần Thánh - Nhanh Như Sói</color>, sau khi kích hoạt phản ứng Điện Cảm, Siêu Dẫn, Quá Tải, Sinh Trưởng, Tăng Cường, Nở Rộ, Khuếch Tán Nguyên Tố Lôi, sẽ khiến tất cả nhân vật trong đội gần đó (trừ bản thân Cyno) hồi phục 3 điểm Năng Lượng Nguyên Tố. Hiệu quả này trong một lần <color=#FFD780FF>Nghi Thức Thần Thánh - Nhanh Như Sói</color> tối đa kích hoạt 5 lần.
+U Nghi - Thệ Vãng Tinh Mang
+Cấp kỹ năng <color=#FFD780FF>Nghi Thức Bí Ẩn - Dẫn Hồn Đáy Vực</color> +3. Tăng tối đa đến cấp 15.
+Vũ Nghi - Tài Lạc Quân Hành
+Sau khi thi triển <color=#FFD780FF>Nghi Thức Thần Thánh - Nhanh Như Sói</color> hoặc kích hoạt hiệu quả "Phán Quyết" của thiên phú cố định "Lạc Vũ Phán Quyết", Cyno sẽ nhận được 4 tầng hiệu quả "Nghi Thức Sói". Khi tấn công thường của Cyno đánh trúng kẻ địch, sẽ tiêu hao một tầng "Nghi Thức Sói", và bắn ra một Tia Sét Xuyên Thấu. Hiệu quả "Nghi Thức Sói" duy trì 8s, tối đa cộng dồn 8 tầng, đồng thời sẽ xóa bỏ sau khi trạng thái Sứ Giả Dẫn Lối của Nghi Thức Thần Thánh - Nhanh Như Sói kết thúc. Mỗi 0.4s tối đa bắn ra một Tia Sét Xuyên Thấu bằng cách này. Cần mở khóa thiên phú cố định "Lạc Vũ Phán Quyết".

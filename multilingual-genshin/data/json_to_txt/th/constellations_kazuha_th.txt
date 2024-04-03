@@ -1,0 +1,12 @@
+Scarlet Hills
+ลดเวลาคูลดาวน์ของสกิล <color=#FFD780FF>Chihayaburu</color> ลง 10% และเมื่อใช้สกิล <color=#FFD780FF>Kazuha Slash</color> จะรีเซ็ตเวลาคูลดาวน์ของสกิล <color=#FFD780FF>Chihayaburu</color>
+Yamaarashi Tailwind
+Autumn Whirlwind ของสกิล <color=#FFD780FF>Kazuha Slash</color> มีเอฟเฟกต์ดังต่อไปนี้: ·ภายในระยะเวลาต่อเนื่อง ความชำนาญธาตุของตัว Kaedehara Kazuha เองจะเพิ่มขึ้น 200 หน่วย; ·ความชำนาญธาตุของตัวละครที่เข้าร่วมการต่อสู้และอยู่ในพื้นที่จะเพิ่มขึ้น 200 หน่วย  เอฟเฟกต์การเพิ่มความชำนาญธาตุของกลุ่มดาวดังกล่าวจะไม่ซ้อนทับกัน
+Maple Monogatari
+เพิ่มเลเวลของสกิล <color=#FFD780FF>Chihayaburu</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Oozora Genpou
+#เมื่อพลังงานธาตุของ Kaedehara Kazuha ต่ำกว่า 45 หน่วย จะมีเอฟเฟกต์ดังนี้: เมื่อใช้สกิล <color=#FFD780FF>Chihayaburu</color> โดยการ{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด} หรือ {LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง} จะฟื้นฟูพลังงานธาตุ 3 และ 4 หน่วยให้กับ Kaedehara Kazuha ตามลำดับ; ·เมื่ออยู่ในสภาวะการบินร่อน จะฟื้นฟูพลังงานธาตุให้กับ Kaedehara Kazuha 2 หน่วยต่อวินาที
+Wisdom of Bansei
+เพิ่มเลเวลของสกิล <color=#FFD780FF>Kazuha Slash</color> ขึ้น 3 ระดับ เพิ่มได้สูงสุดถึงระดับ 15
+Crimson Momiji
+ภายใน 5 วินาที หลังจาก Kaedehara Kazuha ใช้สกิล <color=#FFD780FF>Chihayaburu</color> หรือ <color=#FFD780FF>Kazuha Slash</color> จะได้รับ<color=#80FFD7FF>พลังแห่งธาตุลม</color> และความชำนาญธาตุแต่ละหน่วยของ Kaedehara Kazuha จะทำให้ความเสียหายจากการโจมตีปกติ, ชาร์จโจมตี และโจมตีพุ่งลงจากอากาศของเขาเพิ่มขึ้น 0.2%

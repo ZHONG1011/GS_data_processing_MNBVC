@@ -1,0 +1,12 @@
+Nghĩa Vụ Của Đồng Bào
+Khi nhân vật (Ngoại trừ bản thân Thoma) được bảo vệ bởi <color=#FFD780FF>Khiên Lửa Hộ Mệnh</color> của Thoma bị tấn công, sẽ giảm 3 giây CD <color=#FFD780FF>Liệt Hỏa Hộ Mệnh</color>, giảm 3 giây CD <color=#FFD780FF>Chiến Giáp Rực Cháy</color> của Thoma. Hiệu quả này mỗi 20 giây tối đa kích hoạt 1 lần.
+Tài Cán Của Trợ Thủ
+Thời gian duy trì <color=#FFD780FF>Chiến Giáp Rực Cháy</color> kéo dài thêm 3 giây.
+Định Luật Của Chiến Đấu
+Cấp kỹ năng <color=#FFD780FF>Liệt Hỏa Hộ Mệnh</color> +3. Tăng tối đa đến cấp 15.
+Mưu Kế Của Gia Thần
+Sau khi thi triển <color=#FFD780FF>Chiến Giáp Rực Cháy</color> sẽ hồi 15 điểm Năng Lượng Nguyên Tố cho Thoma.
+Sức Nóng Của Lửa Đỏ
+Cấp kỹ năng <color=#FFD780FF>Chiến Giáp Rực Cháy</color> +3. Tăng tối đa đến cấp 15.
+Trái Tim Của Nhiệt Huyết
+Khi nhận hoặc làm mới <color=#FFD780FF>Khiên Lửa Hộ Mệnh</color>, sát thương gây ra bởi tấn công thường, trọng kích, tấn công khi đáp của tất cả nhân vật trong đội tăng 15%, duy trì 6 giây.

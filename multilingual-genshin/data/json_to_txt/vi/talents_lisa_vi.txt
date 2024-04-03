@@ -1,0 +1,12 @@
+Tấn Công Thường: Sấm Sét Cảm Ứng
+<color=#FFD780FF>Tấn Công Thường</color> Thực hiện tối đa 4 lần chích điện, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>.  <color=#FFD780FF>Trọng Kích</color> Tiêu hao thể lực nhất định, sau khi tụ lực, gây <color=#FFACFFFF>Sát Thương Phạm Vi Nguyên Tố Lôi</color>.  <color=#FFD780FF>Tấn Công Khi Đáp</color> Ngưng tụ sức mạnh lôi điện, từ trên trời tấn công xuống mặt đất, tấn công kẻ địch trên đường, gây <color=#FFACFFFF>sát thương phạm vi Nguyên Tố Lôi</color> khi chạm đất.
+Sấm Giội
+Dẫn sức mạnh lôi điện, quét sạch những thứ gây rắc rối.  <color=#FFD780FF>Nhấn</color> Phóng ra tia điện hình cầu có khả năng tự tìm địch. Sau khi đánh trúng, tạo ra <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> cho mục tiêu, có thêm hiệu quả dẫn điện đối với địch trong phạm vi nhỏ, cộng dồn tối đa 3 tầng.  <color=#FFD780FF>Nhấn Giữ</color> Sau khi tụ lực, triệu hồi sấm sét từ trên trời xuống, tạo thành <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> đối với tất cả địch ở gần. Nếu địch đang trong trạng thái dẫn điện, sẽ căn cứ theo số tầng cộng dồn mà gây thêm lượng lớn sát thương, và xóa hiệu quả dẫn điện.  <i>Màu sắc của lôi điện là màu sắc đầy mê hoặc của ma nữ tường vi.</i>
+Tường Vi Sấm Sét
+Triệu hồi Tường Vi Sấm Sét, phóng ra sấm sét cường đại, đánh lui địch xung quanh và gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>. Trong thời gian tồn tại, Tường Vi Sấm Sét sẽ tiếp tục phóng điện công kích vào phạm vi công kích của địch, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>.  <i>Đóa tường vi này thật đẹp, nhưng lại có gai chết người.</i>
+Dư Chấn Điện Cảm
+Khi trọng kích đánh trúng, sẽ kèm theo hiệu ứng dẫn điện của <color=#FFD780FF>Sấm Giội</color>.
+Lực Tĩnh Điện
+Địch bị <color=#FFD780FF>Tường Vi Sấm Sét</color> tấn công, giảm phòng ngự 15%, kéo dài 10s.
+Thông Thạo Thuốc
+Khi tạo ra thuốc, có tỷ lệ 20% hoàn trả một phần nguyên liệu ghép ra.

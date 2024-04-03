@@ -1,0 +1,12 @@
+Đường Điện Vô Hạn
+Khi nhấn giữ <color=#FFD780FF>Sấm Giội</color>, mỗi khi đánh trúng địch sẽ hồi phục 2 điểm năng lượng Nguyên Tố cho Lisa. Tối đa hồi phục 10 điểm Năng Lượng Nguyên Tố mỗi lần.
+Kết Giới Lưới Điện
+Khi nhấn giữ <color=#FFD780FF>Sấm Giội</color>, có hiệu quả như sau: Phòng ngự tăng 25%; Tăng khả năng kháng gián đoạn của Lisa.
+Sấm Sét Cộng Hưởng
+Cấp kỹ năng <color=#FFD780FF>Tường Vi Sấm Sét</color> +3. Tăng tối đa đến cấp 15.
+Dòng Điện Như Mưa
+Khi <color=#FFD780FF>Tường Vi Sấm Sét</color> tấn công, sét bắn ra sẽ tăng từ 1-3 tia.
+Sét Đồng Phân
+Cấp kỹ năng <color=#FFD780FF>Sấm Giội</color> +3. Tăng tối đa đến cấp 15.
+Rung Động Của Ma Nữ
+Khi Lisa tham chiến, tạo thêm 3 lớp dẫn điện của <color=#FFD780FF>Sấm Giội</color>với địch ở gần. Hiệu quả này 5s xuất hiện 1 lần.

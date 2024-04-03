@@ -1,0 +1,12 @@
+Dư Âm Đặc Chế
+Khi kết thúc hiệu quả <color=#FFD780FF>Đặc Chế Mãnh Liệt</color>, Diona được hồi 15 điểm Năng Lượng Nguyên Tố.
+Vuốt Mèo Lắc Đá
+Sát thương gây ra bởi <color=#FFD780FF>Móng Mèo Lạnh Giá</color> tăng 15%, khả năng hấp thụ sát thương của lớp khiên tăng 15%; Ngoài ra, khi đánh trúng sẽ tạo thành lớp khiên cho các nhân vật trên trận khác hiện ở gần có khả năng hấp thụ sát thương bằng 50% <color=#FFD780FF>Móng Mèo Lạnh Giá</color> và kéo dài 5s.
+Vẫn Muốn Thêm Một Ly?
+Cấp kỹ năng <color=#FFD780FF>Đặc Chế Mãnh Liệt</color> +3. Tăng tối đa đến cấp 15.
+[Sát Thủ Ngành Rượu]
+Khi ở trong khu vực <color=#FFD780FF>Đặc Chế Mãnh Liệt</color>, thời gian tụ lực cần khi ngắm bắn của Diona giảm 60%.
+Hai Cốc Thêm Đá
+Cấp kỹ năng <color=#FFD780FF>Móng Mèo Lạnh Giá</color> +3. Tăng tối đa đến cấp 15.
+Khi Quán Đuôi Mèo Đóng Cửa
+Khi ở trong khu vực <color=#FFD780FF>Đặc Chế Mãnh Liệt</color> sẽ nhận được các hiệu quả dưới đây tùy theo HP nhân vật: ·HP thấp hơn hoặc bằng 50%, tăng nhận trị liệu 30%;  ·Khi HP cao hơn 50%, Tinh Thông Nguyên Tố tăng 200.

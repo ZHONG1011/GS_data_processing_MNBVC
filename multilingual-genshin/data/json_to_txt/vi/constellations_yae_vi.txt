@@ -1,0 +1,12 @@
+Biên Niên Sử Hồ Ly
+<color=#FFD780FF>Đại Bí Pháp - Tenko Kenshin</color> mỗi khi kích hoạt 1 lần Thiên Hồ Lôi Đình, đều sẽ hồi 8 điểm năng lượng nguyên tố cho bản thân Yae Miko.
+Tiếng Gọi Đêm Trăng
+Cấp bậc ban đầu của <color=#FFD780FF>Sesshou Sakura</color> khi vừa được tạo ra sẽ tăng ngay đến bậc 2, tối đa có thể tăng đến bậc 4, phạm vi tấn công tăng 60%.
+Thất Diệu Biến Hóa
+Cấp kỹ năng <color=#FFD780FF>Thần Chú Yakan - Sesshou Sakura</color> +3. Tăng tối đa đến cấp 15.
+Anh Đào Dẫn Lôi Chương
+Sau khi sấm sét của <color=#FFD780FF>Sesshou Sakura</color> đánh trúng kẻ địch, tất cả nhân vật trong đội ở gần sẽ nhận được 20% <color=#FFACFFFF>Buff Sát Thương Nguyên Tố Lôi</color>, duy trì 5s.
+Giễu Cợt Nham Hiểm
+Cấp kỹ năng <color=#FFD780FF>Đại Bí Pháp - Tenko Kenshin</color> +3. Tăng tối đa đến cấp 15.
+Cấm Thuật Daisesshou
+<color=#FFD780FF>Sesshou Sakura</color> khi tấn công sẽ bỏ qua 60% phòng ngự của kẻ địch.

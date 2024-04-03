@@ -1,0 +1,12 @@
+Trang Phục Ma Vương - Ngăn Sóng
+Giảm 20% CD của <color=#FFD780FF>Trang Phục Ma Vương - Thủy Triều</color>.
+Trang Phục Ma Vương - Sóng Ngầm
+Khi kẻ địch bị đánh bại và chịu ảnh hưởng của hiệu ứng Đoạn Lưu, sẽ hồi phục 4 điểm Năng Lượng Nguyên Tố cho Tartaglia.
+Tai Họa Vực Sâu - Nguồn Gốc Tranh Giành
+Cấp kỹ năng <color=#FFD780FF>Trang Phục Ma Vương - Thủy Triều</color> +3. Tăng tối đa đến cấp 15.
+Tai Họa Vực Sâu - Bắn Nước
+Mỗi 4s, khi trong trận xuất hiện hiệu quả Đoạn Lưu do Tartaglia thi triển, nếu Tartaglia đang trong trạng thái cận chiến của <color=#FFD780FF>Trang Phục Ma Vương - Thủy Triều</color>, sẽ kích hoạt Đoạn Lưu - Chém; Nếu không Đoạn Lưu - Né sẽ được kích hoạt. Đoạn Lưu - Né và Đoạn Lưu - Chém được kích hoạt bằng cung mệnh này sẽ không bị giới hạn bởi thời gian kích hoạt của hai loại Đoạn Lưu này và cũng không ảnh hưởng đến thời gian kích hoạt của chúng.
+Kỹ Năng Thượng Thừa - Chém Nước Chặt Mưa
+Cấp kỹ năng <color=#FFD780FF>Kỹ Năng Thượng Thừa - Ánh Sáng Tận Diệt</color> +3. Tăng tối đa đến cấp 15.
+Kỹ Năng Thượng Thừa - Thiên Sứ Tai Ương
+Khi thi triển <color=#FFD780FF>Kỹ Năng Thượng Thừa - Ánh Sáng Tận Diệt</color> trong trạng thái cận chiến, hủy CD của <color=#FFD780FF>Trang Phục Ma Vương - Thủy Triều</color>. Hiệu quả này sẽ được kích hoạt khi anh quay trở lại trạng thái đánh xa.

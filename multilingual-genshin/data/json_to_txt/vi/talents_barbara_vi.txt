@@ -1,0 +1,12 @@
+Tấn Công Thường: Giọng Ca Của Nước
+<color=#FFD780FF>Tấn Công Thường</color> Thực hiện tối đa 4 lần tấn công hoa nước, gây <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color>.  <color=#FFD780FF>Trọng Kích</color> Tiêu hao thể lực nhất định, sau khi tụ lực, gây <color=#80C0FFFF>Sát Thương Phạm Vi Nguyên Tố Thủy</color>.  <color=#FFD780FF>Tấn Công Khi Đáp</color> Ngưng tụ sức mạnh nguyên tố Thủy, từ trên trời tấn công xuống mặt đất, tấn công kẻ địch trên đường đi, gây <color=#80C0FFFF>sát thương phạm vi Nguyên Tố Thủy</color> khi chạm đất.
+Buổi Diễn, Bắt Đầu♪
+Triệu hồi những giọt nước nhảy nhót như tiếng hát, tạo thành vòng âm thanh, gây cho địch xung quanh <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color>, và thi triển trạng thái <color=#80C0FFFF>Ẩm Ướt</color>.  <color=#FFD780FF>Vòng Âm Thanh</color> ·Khi Barbara tấn công thường trúng địch, thì nhân vật của bản thân trong đội và các nhân vật cùng phe gần đó sẽ được hồi HP, lượng hồi phụ thuộc vào giới hạn HP của Barbara; ·Khi trọng kích trúng, có thể hồi x4; ·Mỗi một khoảng thời gian, sẽ hồi HP cho nhân vật của bản thân trong trận hiện tại; ·Thi triển trạng thái <color=#80C0FFFF>Ẩm Ướt</color> cho nhân vật và địch có tiếp xúc.  <i>Âm nhạc của Barbara là phép thuật trị liệu cho mọi người.</i>
+Kỳ Tích Vinh Diệu♪
+Hồi lượng lớn HP cho các nhân vật của bản thân trong đội ở gần và tất cả nhân vật trong đội của bản thân, lượng hồi phụ thuộc vào giới hạn HP của Barbara.  <i>Chữa lành trái tim cho mọi người là sức mạnh để Barbara chiến đấu và ca hát.</i>
+Mùa Huy Hoàng
+Khi nhân vật đang trong vòng âm thanh của <color=#FFD780FF>Buổi Diễn, Bắt Đầu♪</color>, giảm 12% thể lực tiêu hao.
+Lập Lại
+Khi nhân vật của bản thân trong trận hiện tại nhận được Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân, vòng âm thanh của <color=#FFD780FF>Buổi Diễn,Bắt Đầu♪</color> sẽ kéo dài thêm 1s. Bằng cách này có thể kéo dài nhiều nhất 5s.
+Tập Trung Ý Trí♪
+Nấu hoàn mỹ món ăn thuộc loại hồi phục, có tỷ lệ 12% x2 sản lượng.

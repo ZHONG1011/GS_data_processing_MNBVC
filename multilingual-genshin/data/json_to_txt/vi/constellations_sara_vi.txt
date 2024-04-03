@@ -1,0 +1,12 @@
+Mắt Quạ
+Tengu Juurai khi tăng tấn công cho nhân vật hoặc đánh trúng kẻ địch sẽ giảm đi 1s CD của <color=#FFD780FF>Bão Sét Tengu</color>. Hiệu quả này mỗi 3s tối đa kích hoạt 1 lần.
+Hắc Vũ
+Khi thi triển <color=#FFD780FF>Bão Sét Tengu</color>, sẽ để lại "Lông Quạ" có thể kích hoạt Bão Sét Tengu ở vị trí ban đầu của Kujou Sara, gây 30% sát thương gốc.
+Tâm Ma
+Cấp kỹ năng <color=#FFD780FF>Bí Thức - Koukou Sendou</color> +3. Tăng tối đa đến cấp 15.
+Quán Triệt
+Số lượng Tengu Juurai - Tụ Sấm của <color=#FFD780FF>Bí Thức - Koukou Sendou</color> tăng lên 6.
+Ca Tụng
+Cấp kỹ năng <color=#FFD780FF>Bão Sét Tengu</color> +3. Tăng tối đa đến cấp 15.
+Bản Ngã
+Khi nhân vật ở trạng thái tăng tấn công nhờ Tengu Juurai, sát thương bạo kích <color=#FFACFFFF>Nguyên Tố Lôi</color> tăng 60%.

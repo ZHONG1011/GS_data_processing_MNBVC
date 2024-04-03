@@ -1,0 +1,12 @@
+Tấn Công Thường - Lưu Thiên Xạ Thuật
+<color=#FFD780FF>Tấn Công Thường</color> Liên tục bắn tên, tối đa 6 lần.  <color=#FFD780FF>Trọng kích</color> Có thể <color=#FFD780FF>ngắm bắn</color> chính xác hơn, sát thương cao hơn. Khi ngắm bắn, dòng không khí lạnh sẽ ngưng tụ liên tục trên mũi tên và bắn ra cùng lúc tấn công. Căn cứ thời gian tụ lực dài hay ngắn sẽ gây ra hiệu quả khác nhau: ·Tụ lực lần 1: Bắn mũi tên có khí lạnh gây <color=#99FFFFFF>sát thương Nguyên Tố Băng</color>; ·Tụ lực lần 2: Bắn Cung Sương Hoa gây <color=#99FFFFFF>sát thương Nguyên Tố Băng</color>; sau khi bắn trúng, sương giá tung bay, gây thêm <color=#99FFFFFF>Sát Thương Phạm Vi Nguyên Tố Băng</color>.  <color=#FFD780FF>Tấn Công Khi Đáp</color> Bắn mưa tên từ trên không, đồng thời lao nhanh xuống mặt đất, gây sát thương phạm vi khi chạm đất.
+Sơn Trạch Lân Tích
+Ganyu để lại một đóa sen băng rồi lùi nhanh về phía sau, tránh xa tất cả yêu ma, gây <color=#99FFFFFF>Sát Thương Phạm Vi Nguyên Tố Băng</color>.  <color=#FFD780FF>Băng Liên</color> ·Liên tục khiêu khích kẻ địch xung quanh, thu hút địch tấn công; ·Độ bền sẽ kế thừa căn cứ theo tỷ lệ giới hạn HP của Ganyu; ·Khi bị phá hủy hoặc hết thời gian sẽ nở rộ, gây <color=#99FFFFFF>Sát Thương Phạm Vi Nguyên Tố Băng</color>.  <i>"Bạn nhìn thấy tôi à? Chắc chỉ là ảo giác thôi, lúc đó tôi đang tăng ca mà."</i>
+Thiên Hoa Hạ Phàm
+Ngưng tụ sương tuyết trong không khí, triệu hồi Linh Châu Băng diệt ma. Trong thời gian tồn tại, Linh Châu Băng sẽ không ngừng giáng Nhũ Băng xuống, tấn công kẻ địch trong phạm vi, gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>.  <i>Đương nhiên Ganyu có thể giáng cơn mưa mát lành xuống, nhưng đối với tà ma ngoại đạo, những thứ này đều sẽ hóa thành bông tuyết khổ đau.</i>
+Duy Thử Nhất Tâm
+Trong vòng 5s sau khi Cung Sương Hoa bắn ra, sẽ khiến cho Cung Sương Hoa được bắn ra tiếp theo và Sương Giá Tung Bay được tạo ra từ những Cung Sương Hoa này tăng 20% tỷ lệ bạo kích.
+Thiên Địa Giao Hòa
+Nhân vật trong đội đang trong trận ở khu vực <color=#FFD780FF>Thiên Hoa Hạ Phàm</color> sẽ nhận 20% <color=#99FFFFFF>tăng sát thương Nguyên Tố Băng</color>.
+Cất Cung Đợi Dùng
+Khi rèn vũ khí loại cung, hoàn trả 15% Khoáng Thạch tiêu hao.

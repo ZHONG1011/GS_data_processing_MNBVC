@@ -1,0 +1,13 @@
+Cung Trừ Ma
+Cây cung từng thuộc về một pháp sư nào đó, tạo hình tinh xảo nhưng rất dễ sử dụng.
+ "Mau xuống đi. Nữ nhân ở trên thuyền chỉ làm vướng tay vướng chân!"  Tên cướp có tên Ako Domeki quay lưng lại nói.  Nhưng nghe thấy điều này, nữ pháp sư lại không nhịn được nhếch môi. Nếu người dạy tôi bắn cung không xuất chinh cùng với tướng quân,  vậy thì bây giờ con trai chúng tôi có lẽ cũng bằng tuổi Dozaemon. Và có lẽ tôi sẽ lấy họ là Takamine, hoặc anh ấy theo họ Asase cũng nên...  Giọng điệu của Dozaemon, và cái cách cố tình quay lưng về phía ta, hệt như cái cách mà anh ấy bỏ đi cùng với thanh đao. Vì vậy lần này, tôi tuyệt đối sẽ không bao giờ để cho người này chết. Ngay cả khi phải đối đầu với lá cờ của "Tam Trùng Lôi"...  "Thời khắc giương buồm đã đến, vũ khí và đao đều đã được mài sắc." "Hãy để cho đám quan binh kia thấy được khí phách của chúng ta!"  Lắng nghe bài hát ra khơi, nữ pháp sư hạ xuống chiến cung. Những "phép thuật" chân chính đã lén học được trong quá khứ ở núi Yougou,  mặc dù rất xin lỗi thầy Tengu, nhưng tôi sẽ dùng nó ở đây. Mở ra kết giới vĩ đại đã tồn tại hàng nghìn năm,  và hãy để sự phẫn uất của diều hâu sấm sét đang chết dần,  tàn phá các con tàu mang cờ hiệu của Lôi Thần. Chỉ mong con mèo già đó, đừng lao vào sấm sét...
+Dòng Chảy Tịch Diệt
+Tăng <color=#99FFFFFF>16%</color> sát thương tấn công thường, tăng <color=#99FFFFFF>12%</color> sát thương trọng kích. Khi Năng Lượng Nguyên Tố đạt 100%, tăng 100% hiệu quả cho nhân vật trang bị vũ khí này.
+Dòng Chảy Tịch Diệt
+Tăng <color=#99FFFFFF>20%</color> sát thương tấn công thường, tăng <color=#99FFFFFF>15%</color> sát thương trọng kích. Khi Năng Lượng Nguyên Tố đạt 100%, tăng 100% hiệu quả cho nhân vật trang bị vũ khí này.
+Dòng Chảy Tịch Diệt
+Tăng <color=#99FFFFFF>24%</color> sát thương tấn công thường, tăng <color=#99FFFFFF>18%</color> sát thương trọng kích. Khi Năng Lượng Nguyên Tố đạt 100%, tăng 100% hiệu quả cho nhân vật trang bị vũ khí này.
+Dòng Chảy Tịch Diệt
+Tăng <color=#99FFFFFF>28%</color> sát thương tấn công thường, tăng <color=#99FFFFFF>21%</color> sát thương trọng kích. Khi Năng Lượng Nguyên Tố đạt 100%, tăng 100% hiệu quả cho nhân vật trang bị vũ khí này.
+Dòng Chảy Tịch Diệt
+Tăng <color=#99FFFFFF>32%</color> sát thương tấn công thường, tăng <color=#99FFFFFF>24%</color> sát thương trọng kích. Khi Năng Lượng Nguyên Tố đạt 100%, tăng 100% hiệu quả cho nhân vật trang bị vũ khí này.

@@ -1,0 +1,14 @@
+Tấn Công Thường: Hình Dạng Nước Trong
+<color=#FFD780FF>Tấn Công Thường</color> Dùng cá tạo thành bởi nước để thực hiện tối đa 3 lần tấn công, gây <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color>.  <color=#FFD780FF>Trọng Kích</color> Tiêu hao thể lực nhất định, sau khi tụ lực, gây <color=#80C0FFFF>Sát Thương Phạm Vi Nguyên Tố Thủy</color>.  <color=#FFD780FF>Tấn Công Khi Đáp</color> Ngưng tụ sức mạnh nguyên tố Thủy, từ trên trời tấn công xuống mặt đất, tấn công kẻ địch trên đường đi, gây <color=#80C0FFFF>sát thương phạm vi Nguyên Tố Thủy</color> khi chạm đất.
+Lời Thề Ánh Trăng Biển
+Triệu hồi "Vầng Trăng Biển" chữa trị cho đồng đội. Khi thi triển sẽ khiến Sangonomiya Kokomi vào trạng thái <color=#80C0FFFF>Ẩm Ướt</color>.  <color=#FFD780FF>Vầng Trăng Biển</color> Cứ cách một khoảng thời gian sẽ gây <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color> cho kẻ địch xung quanh và hồi HP cho nhân vật đang trong trận ở xung quanh, lượng hồi phục dựa vào giới hạn HP của Sangonomiya Kokomi.  <i>Để đảm bảo trạng thái tốt nhất cho công việc, Kokomi cần bổ sung "năng lượng" kịp thời.</i>
+Nghi Lễ Nereid
+Triệu hồi sức mạnh của Watatsumi, gây <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color> cho kẻ địch xung quanh, đồng thời giúp Kokomi khoác lên "Lễ Phục Nghi Thức" được ngưng tụ từ nước của Sangonomiya.  <color=#FFD780FF>Lễ Phục Nghi Thức</color> ·Giúp Sangonomiya Kokomi tăng sát thương tấn công thường, trọng kích và sát thương do kỹ năng nguyên tố "Vầng Trăng Biển" gây ra, mức gia tăng sẽ dựa vào giới hạn HP của Kokomi; ·Khi tấn công thường và trọng kích trúng kẻ địch sẽ hồi HP cho tất cả nhân vật trong đội gần đó, lượng hồi phục sẽ dựa vào giới hạn HP của Kokomi; ·Tăng khả năng kháng gián đoạn của Sangonomiya Kokomi, đồng thời khiến cô ấy có thể di chuyển trên mặt nước.  Hiệu quả sẽ mất khi Sangonomiya Kokomi rời trận.  <i>Ánh sáng xung quanh tạo thành lễ phục khoác lên người Sangonomiya Kokomi, tô điểm thêm vẻ đẹp tuyệt mỹ của đại nhân.</i>
+Rương Báu Tamanooya
+Khi thi triển <color=#FFD780FF>Nghi Lễ Nereid</color>, nếu trong trận có Vầng Trăng Biển của Sangonomiya Kokomi thì sẽ tái lập thời gian tồn tại của Vầng Trăng Biển.
+Khúc Ca Trân Châu
+Khi trong trạng thái Lễ Phục Nghi Thức của <color=#FFD780FF>Nghi Lễ Nereid</color>, tăng sát thương tấn công thường và trọng kích của Sangonomiya Kokomi dựa vào giới hạn HP, mức độ tăng thêm tương đương 15% lượng tăng trị liệu.
+Công Chúa Watatsumi
+Giảm 20% tiêu hao thể lực khi bơi cho nhân vật trong đội của bản thân. Không thể cộng dồn với Thiên Phú cố định có cùng hiệu quả.
+Chiến Lược Hoàn Hảo
+Mức trị liệu của Sangonomiya Kokomi tăng 25%, tỷ lệ bạo kích giảm 100%.

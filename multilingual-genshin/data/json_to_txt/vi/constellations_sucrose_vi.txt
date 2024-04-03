@@ -1,0 +1,12 @@
+Vùng Chân Không
+Số lần sử dụng <color=#FFD780FF>Gió Thần Sáng Tạo 6308</color> tăng thêm 1.
+Beth Ngỗ Ngược
+Thời gian kéo dài <color=#FFD780FF>Cấm-Gió Thần Sáng Tạo-75 Loại 2</color> tăng 2s.
+Thiếu Nữ Hoàn Hảo
+Cấp kỹ năng <color=#FFD780FF>Gió Thần Sáng Tạo 6308</color> +3. Tăng tối đa đến cấp 15.
+Ảo Tưởng Giả Kim
+Tấn công thường hoặc trọng kích của Sucrose tích lũy đánh trúng kẻ địch 7 lần, CD của <color=#FFD780FF>Gió Thần Sáng Tạo 6308</color> sẽ giảm ngẫu nhiên 1-7s. Mỗi 0.1s tối đa tính 1 lần.
+Bình Chăm Chỉ
+Cấp kỹ năng <color=#FFD780FF>Cấm-Gió Thần Sáng Tạo-75 Loại 2</color> +3. Tăng tối đa đến cấp 15.
+Thuyết Hỗn Loạn
+Nếu <color=#FFD780FF>Cấm-Gió Thần Sáng Tạo-75 Loại 2</color> xảy ra chuyển hóa nguyên tố thì tất cả đội sẽ nhận buff sát thương nguyên tố 20% trong khoảng thời gian kĩ năng duy trì.
