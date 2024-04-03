@@ -1,0 +1,12 @@
+Beginnings Determined at the Roots
+Tighnari's Charged Attack CRIT Rate is increased by 15%.
+Origins Known From the Stem
+When there are opponents within the Vijnana-Khanda Field created by <color=#FFD780FF>Vijnana-Phala Mine</color>, Tighnari gains 20% <color=#99FF88FF>Dendro DMG Bonus</color>. The effect will last up to 6s if the field's duration ends or if it no longer has opponents within it.
+Fortunes Read Amongst the Branches
+Increases the Level of <color=#FFD780FF>Fashioner's Tanglevine Shaft</color> by 3. Maximum upgrade level is 15.
+Withering Glimpsed in the Leaves
+When <color=#FFD780FF>Fashioner's Tanglevine Shaft</color> is unleashed, all nearby party members gain 60 Elemental Mastery for 8s. If the Fashioner's Tanglevine Shaft triggers a Burning, Bloom, Quicken, or Spread reaction, their Elemental Mastery will be further increased by 60. This latter case will also refresh the buff state's duration.
+Comprehension Amidst the Flowers
+Increases the Level of <color=#FFD780FF>Vijnana-Phala Mine</color> by 3. Maximum upgrade level is 15.
+Karma Adjudged From the Leaden Fruit
+<color=#FFD780FF>Wreath Arrow</color>'s charging time is decreased by 0.9s, and will produce 1 additional Clusterbloom Arrow upon hit. This arrow deals 150% of Tighnari's ATK as DMG.

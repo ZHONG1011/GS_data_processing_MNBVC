@@ -1,0 +1,12 @@
+One Arrow to Rule Them All
+Fires 2 arrows per <color=#FFD780FF>Aimed Shot</color>. The second arrow deals 20% of the first arrow's DMG.
+Bunny Triggered
+Baron Bunny, new and improved! Hitting Baron Bunny's foot with a fully-charged Aimed Shot manually detonates it. Explosion via manual detonation deals 200% additional DMG.
+It Burns!
+Increases the Level of <color=#FFD780FF>Fiery Rain</color> by 3. Maximum upgrade level is 15.
+It's Not Just Any Doll...
+Decreases <color=#FFD780FF>Explosive Puppet</color>'s CD by 20%. Adds 1 additional charge.
+It's Baron Bunny!
+Increases the Level of <color=#FFD780FF>Explosive Puppet</color> by 3. Maximum upgrade level is 15.
+Wildfire
+<color=#FFD780FF>Fiery Rain</color> increases all party members' Movement SPD by 15% and ATK by 15% for 10s.

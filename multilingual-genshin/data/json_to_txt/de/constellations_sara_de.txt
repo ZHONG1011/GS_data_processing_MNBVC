@@ -1,0 +1,12 @@
+Krähenauge
+Verkürzt beim Verleihen von ANG-Boni für Figuren oder Treffen von Gegnern durch Tengu Juurai die Abklingzeit von <color=#FFD780FF>Tengu-Sturmbeschwörung</color> um 1 s. 3 s Abklingzeit.
+Schwarze Flügel
+Hinterlässt beim Auslösen von <color=#FFD780FF>Tengu-Sturmbeschwörung</color> eine schwächere Krähenfeder an Kujou Saras ursprünglicher Stelle, die Schaden in Höhe von 30 % des eigentlichen Schadens verursacht.
+Innerer Dämon
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Unterwerfung – Koukou Sendou</color> um 3. Höchststufe 15.
+Schlüssiger Beweis
+Erschafft beim Angriff mit <color=#FFD780FF>Unterwerfung – Koukou Sendou</color> 6 Juurai – Blitzbündel.
+Beschwörungsgesang
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Tengu-Sturmbeschwörung</color> um 3. Höchststufe 15.
+Sünde des Stolzes
+Erhöht den Kritischen Schaden von <color=#FFACFFFF>Elektro-SCH</color> der Figuren mit dem ANG-Bonus von Tengu Juurai um 60 %.

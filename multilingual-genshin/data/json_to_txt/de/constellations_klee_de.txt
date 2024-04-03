@@ -1,0 +1,12 @@
+Kettenreaktion
+Erschafft beim Angriff und beim Einsetzen von Fähigkeiten mit gewisser Wahrscheinlichkeit Funken, die Gegner angreifen und Schaden in Höhe von 120 % des Schadens von <color=#FFD780FF>Funkelfunken</color> verursachen.
+Splitterbombe
+Die Sprengfallen von <color=#FFD780FF>Bimm-Bamm-Bombe</color> verringern die VTD von Gegnern 10 s lang um 23 %.
+Klees Sonderanfertigung
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Bimm-Bamm-Bombe</color> um 3. Höchststufe 15.
+Manuelle Explosion
+Löst beim Auswechseln der Figur während der Wirkungsdauer von <color=#FFD780FF>Funkelfunken</color> eine Explosion aus, die <color=#FF9999FF>Pyro-Flächenschaden</color> in Höhe von 555 % ANG verursacht.
+Explodierender Stern
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Funkelfunken</color> um 3. Höchststufe 15.
+Feuer frei!
+Klee stellt allen Truppenmitgliedern (außer sich selbst) während der Wirkungsdauer von <color=#FFD780FF>Funkelfunken</color> alle 3 s 3 Punkte Elementarenergie wieder her. Erhöht den <color=#FF9999FF>Pyro-Schaden</color> aller Truppenmitglieder nach Anwenden von <color=#FFD780FF>Funkelfunken</color> 25 s lang um 10 %.

@@ -1,0 +1,12 @@
+Berstende Splitter
+Verursacht bei Treffern mit Standardangriffen Flächenschaden.
+Erschütterung
+Überspringt die Abklingzeit, wenn der <color=#FFD780FF>Jadeschirm</color> zerspringt. 6 s Abklingzeit.
+Anordnung der Sterne
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Sternensplitter</color> um 3. Höchststufe 15.
+Verteidigungsformation
+Erhöht den WDS der Figuren in der Umgebung gegen alle Elemente bei Anwendung von <color=#FFD780FF>Jadeschirm</color> um 10 %.
+Majestätischer Jadeschirm
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Jadeschirm</color> um 3. Höchststufe 15.
+Leuchten der Sieben Sterne
+Erschafft bei Anwendung von <color=#FFD780FF>Sternensplitter</color> sieben Stück Sternjade für Ningguang.

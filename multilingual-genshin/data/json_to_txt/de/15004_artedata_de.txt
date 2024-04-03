@@ -1,0 +1,18 @@
+Eisbäche und Schneewüsten
+Erhöht den Kryo-Schaden um 15 %.
+Erhöht den mit der Reaktion Supraleiter verursachten Schaden um 100 % und den von der Reaktion Schmelzen betroffenen Gegnern zugefügten Schaden um 15 %. Erhöht den Kryo-SCH-Bonus bei Anwendung von Spezialfähigkeiten 10 s lang zusätzlich um 30 %.
+Herz des Frosts
+Eine lautlose Blume aus Eis, die ihre Form nicht mehr veränderte, nachdem sie gepflückt worden war. Sie diente einem Ritter, der sie immer bei sich trug, als Andenken.
+ 
+Vereiste Feder
+Die von einem mit dem Nordwind ziehenden Ritter aus dem Schnee aufgelesene Vogelfeder. Bis zum heutigen Tage ist sie von einer Eisschicht bedeckt.
+ 
+Gefrorener Sand
+Eine Uhr, die ein mit dem Nordwind ziehender Ritter benutzte. In ihrem Innern befinden sich eisige Sandkörner und kalter Wind.
+
+Kelch des Aquilo
+Ein leeres Gefäß, zurückgelassen von einem Ritter, der mit dem Nordwind zog. Der eisige Atem des Winters durchströmt noch immer diesen Becher.
+
+Gletscherkrone
+Die Kopfbedeckung eines mit dem Nordwind ziehenden Ritters, gefertigt aus Silber und dem Eis des härtesten Winters.
+

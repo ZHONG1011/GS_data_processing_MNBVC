@@ -1,0 +1,13 @@
+Quarzgroßschwert
+Ein einfaches, aber schweres Großschwert, das aus hartem schwarzem Quarz geschnitten und dann poliert wurde. Die Verzierungen sind vergoldet, was der Waffe eine gewisse Eleganz verleiht.
+ Als der Geo-Archon damals gegen die wilden Monster kämpfte, waren die Steine aus der Erde seine Schwerter und die Felsen seine Speere. Mit den Schwertern aus Stein wurden unzählige Monster geschlachtet. Die Schwarzsteinschmiede fertigte diese Schwerter zu Ehren des Geo-Archons an. Dafür nahmen sie schwarzen Quarz. 
+Restwärme
+Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Schmelzen“, „In Flammen“, „Verdampfen“, „Flammenspross“ und „Pyro-Verwirbelung“ 12 s lang um <color=#99FFFFFF>20 %</color>.
+Restwärme
+Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Schmelzen“, „In Flammen“, „Verdampfen“, „Flammenspross“ und „Pyro-Verwirbelung“ 12 s lang um <color=#99FFFFFF>25 %</color>.
+Restwärme
+Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Schmelzen“, „In Flammen“, „Verdampfen“, „Flammenspross“ und „Pyro-Verwirbelung“ 12 s lang um <color=#99FFFFFF>30 %</color>.
+Restwärme
+Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Schmelzen“, „In Flammen“, „Verdampfen“, „Flammenspross“ und „Pyro-Verwirbelung“ 12 s lang um <color=#99FFFFFF>35 %</color>.
+Restwärme
+Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Schmelzen“, „In Flammen“, „Verdampfen“, „Flammenspross“ und „Pyro-Verwirbelung“ 12 s lang um <color=#99FFFFFF>40 %</color>.

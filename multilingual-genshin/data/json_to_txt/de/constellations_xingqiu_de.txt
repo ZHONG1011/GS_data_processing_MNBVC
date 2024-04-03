@@ -1,0 +1,12 @@
+Nachgeschmack
+Erhöht die Höchstmenge an Regenschwertern um 1.
+Klarer Himmel
+Verlängert die Dauer von <color=#FFD780FF>Guhua-Schwert – Regen und Bogen</color> um 3 s. Verringert außerdem den <color=#80C0FFFF>Hydro-WDS</color> von mit Schwertregen angegriffenen Gegnern 4 s lang um 15 %.
+Reimemacher
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Guhua-Schwert – Regen und Bogen</color> um 3. Höchststufe 15.
+Vernichter des Bösen
+Erhöht den mit <color=#FFD780FF>Guhua-Schwert – Wolkenbruch</color> verursachten Schaden während der Wirkungsdauer von <color=#FFD780FF>Guhua-Schwert – Regen und Bogen</color> um 50 %.
+Tanz im Regen
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Guhua-Schwert – Wolkenbruchn</color> um 3. Höchststufe 15.
+Gesammelte Werke
+Verstärkt jeden dritten Schwertregenangriff von <color=#FFD780FF>Guhua-Schwert – Regen und Bogen</color> enorm und stellt Xingqiu bei einem Treffer damit 3 Punkte Elementarenergie wieder her.

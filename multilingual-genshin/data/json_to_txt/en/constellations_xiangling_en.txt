@@ -1,0 +1,12 @@
+Crispy Outside, Tender Inside
+Opponents hit by Guoba's attacks have their <color=#FF9999FF>Pyro RES</color> reduced by 15% for 6s.
+Oil Meets Fire
+The last attack in a Normal Attack sequence applies the Implode status onto the opponent for 2s. An explosion will occur once this duration ends, dealing 75% of Xiangling's ATK as <color=#FF9999FF>AoE Pyro DMG</color>.
+Deepfry
+Increases the Level of <color=#FFD780FF>Pyronado</color> by 3. Maximum upgrade level is 15.
+Slowbake
+<color=#FFD780FF>Pyronado</color>'s duration is increased by 40%.
+Guoba Mad
+Increases the Level of <color=#FFD780FF>Guoba Attack</color> by 3. Maximum upgrade level is 15.
+Condensed Pyronado
+For the duration of <color=#FFD780FF>Pyronado</color>, all party members receive a 15% <color=#FF9999FF>Pyro DMG Bonus</color>.

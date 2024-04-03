@@ -1,0 +1,13 @@
+Compound Bow
+An exotic metallic bow from a distant land. Though extremely difficult to maintain, it is easy to nock and fires with tremendous force.
+ The whole world flocks to the commercial port of Liyue, much to the city's pride. With the tides of people also come exotic treasures. This compound bow may be small in size, but its unique design and superior craftsmanship have made it more destructive than most common longbows. It is also harder to maintain than other bows. For it is not merely a weapon, but the culmination of the wisdom of a foreign kingdom.  Made by a foreign scholar, this compound bow has been modified with a pulley. The scholar had no heart for violence, and bore no desire to see blood drawn. But mesmerized by the curve of the drawn bow, and the quiver of arrows in flight, He was driven to transform the compound bow and make it more powerful.  The scholar knew from the onset of his endeavor what his creation would become — a tool of war, that would bring nothing but death. But he was lost in his pursuit to perfect both structure and materials, And there was to be no stopping him as he fled this reality.  Though one day the bow was taken up by a soldier, who promptly shot down a wild goose. "This is the bow I seek" Said the heartless soldier, commending the weapon in his hands, As the final cry of the bird he had murdered pierced his heart, just as his arrow had pierced the bird's. 
+Infusion Arrow
+Normal Attack and Charged Attack hits increase ATK by <color=#99FFFFFF>4%</color> and Normal ATK SPD by <color=#99FFFFFF>1.2%</color> for 6s. Max 4 stacks. Can only occur once every 0.3s.
+Infusion Arrow
+Normal Attack and Charged Attack hits increase ATK by <color=#99FFFFFF>5%</color> and Normal ATK SPD by <color=#99FFFFFF>1.5%</color> for 6s. Max 4 stacks. Can only occur once every 0.3s.
+Infusion Arrow
+Normal Attack and Charged Attack hits increase ATK by <color=#99FFFFFF>6%</color> and Normal ATK SPD by <color=#99FFFFFF>1.8%</color> for 6s. Max 4 stacks. Can only occur once every 0.3s.
+Infusion Arrow
+Normal Attack and Charged Attack hits increase ATK by <color=#99FFFFFF>7%</color> and Normal ATK SPD by <color=#99FFFFFF>2.1%</color> for 6s. Max 4 stacks. Can only occur once every 0.3s.
+Infusion Arrow
+Normal Attack and Charged Attack hits increase ATK by <color=#99FFFFFF>8%</color> and Normal ATK SPD by <color=#99FFFFFF>2.4%</color> for 6s. Max 4 stacks. Can only occur once every 0.3s.

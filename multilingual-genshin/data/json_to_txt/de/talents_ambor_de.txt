@@ -1,0 +1,12 @@
+Standardangriff: Scharfschütze
+<color=#FFD780FF>Standardangriff</color> Führt bis zu 5 Pfeilschüsse hintereinander aus.  <color=#FFD780FF>Heftiger Schlag</color> Führt einen <color=#FFD780FF>gezielten Schuss</color> mit höherem Schaden und höherer Genauigkeit aus. Konzentriert die Flammen während des Zielens an der Pfeilspitze, die voll aufgeladen <color=#FF9999FF>Pyro-Schaden</color> verursacht.  <color=#FFD780FF>Angriff aus dem Fall</color> Schießt in der Luft einen Pfeilregen ab, trifft schnell auf dem Boden auf und verursacht dort Flächenschaden.
+Sprengpuppe
+Ruft den zuverlässigen Grafen von Hoppel aufs Feld.  <color=#FFD780FF>Graf von Hoppel</color> · Verspottet Gegner in der Umgebung fortlaufend und zieht ihre Angriffe auf sich. · Beständigkeit hängt von Ambers max. LP ab. · Explodiert bei Zerstörung oder Ablauf der Dauer und verursacht <color=#FF9999FF>Pyro-Flächenschaden</color>.  <color=#FFD780FF>Gedrückt halten</color> Anpassung der Wurfrichtung. Wurfweite erhöht sich mit der Dauer des Gedrückthaltens.  <i>Graf von Hoppel ist der Abkömmling eines alten Adelsgeschlechts. Nach dem Tod des Grafen von Hoppel DCCCXCIII. hat Amber aber aufgehört zu zählen.</i>
+Pfeilregen
+Lässt einen Feuerpfeilregen fallen, der fortlaufend <color=#FF9999FF>Pyro-Flächenschaden</color> verursacht.  <i>Amber ist voller feuriger Leidenschaft bei allem, was sie tut.</i>
+Jeder Schuss ein Treffer!
+Erhöht die KT von <color=#FFD780FF>Pfeilregen</color> um 10 % und vergrößert den Wirkungsbereich um 30 %.
+Arbeit unter Druck
+Erhöht den ANG beim Treffen von Schwachstellen mit gezielten Schüssen 10 s lang um 15 %.
+Flugmeister
+Verringert die beim Gleiten verbrauchte Ausdauer aller eigenen Truppenmitglieder um 20 %. Nicht mit passiven Talenten mit völlig gleichen Effekten stapelbar.

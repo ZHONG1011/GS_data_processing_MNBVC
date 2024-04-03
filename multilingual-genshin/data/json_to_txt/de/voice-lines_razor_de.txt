@@ -1,0 +1,132 @@
+Schön, dich kennenzulernen.
+Dein Geruch ... gut. Wir jagen zusammen!
+Gespräch – Geruch
+*schnüffel*, Geruch von Kaninchen ...
+Gespräch – Hunger
+Los? Razor hungrig.
+Gespräch – Ausschau
+Ich passe auf. Wenn du gehst, ruf mich.
+Wenn es blitzt – Warnung
+Wenn du Angst hast, versteck dich.
+Wenn es blitzt – Begleitung
+Pass auf, Bäume, folge mir!
+Wenn es windig ist ...
+Wind ... hah, fühlt sich gut an.
+Ein Sturm zieht auf.
+Wind ... sticht ein wenig, tut ein bisschen weh.
+Guten Morgen.
+Sonne ist raus. Wir jagen zusammen?
+Guten Tag.
+Großes Stück Fleisch, glücklich!
+Guten Abend.
+Schlaf du, ich gucke Mond an.
+Gute Nacht.
+Du schläfst, ich wache. Morgen jagen wir zusammen.
+Über Razor ...
+Ich bin ein Wolf. Kein Papa, keine Mama, nichts.
+Über uns – Freundschaft
+Du bist ein Freund. Ich gehe mit dir jagen.
+Über uns – Waffe
+Ich habe Eisenklauen und Zähne aus Blitzen, ich beschütze dich.
+Über das „Göttliche Auge“ ...
+Das „Göttliche Auge“ hilft Razor. Gibt Razor Zähne aus Blitzen, beschützt Lupical.
+Willst du mir etwas mitteilen?
+Abends, Sterne sind so hübsch. Der Himmel wie ein Teich, so viele Sterne da.  Abend in der Stadt, auch viele Sterne.
+Interessante Vorkommnisse ...
+Die Wölfe sind meine Lupical, meine Familie.
+Über Lisa ...
+Lisas Blitze, sie machen Himmel dunkel. Wirklich unheimlich.
+Über Barbara ...
+Barbara, so strahlend, so nett.
+Über Diluc ...
+Diluc, rot und schwarz. Kalt und heiß.
+Über Venti ...
+Gedichte ... hmm, verstehen Razor nicht. Aber Lupical mag Gedichte.
+Über Bennett ...
+Bennett viel sprechen. Zusammen essen, nicht satt.
+Über Klee ...
+Klee, Freund! Freund, aber Kopfweh.
+Über Varka – Fremd
+Varka? Razor kennt nicht ...
+Über Varka – Erinnerung
+Ah ... Varka Name. Mann, sehr groß. Razor Name von Mann, Eisenklaue auch. Will ihn wiedersehen.
+Ich will mehr über Razor erfahren I
+Dein Geruch, Geruch von Güte. Du magst Fleisch?
+Ich will mehr über Razor erfahren II
+Du sehr stark, wie Wolf. Razor geht gern mit dir jagen. Viel zu lernen.
+Ich will mehr über Razor erfahren III
+„Lupical“ bedeutet Wolf zu Hause. Nein, es bedeutet Familie von Wolf. Meine Lupical in Wald. Sie beschützen Razor, sagen ich bin ihr Lupical.
+Ich will mehr über Razor erfahren IV
+Razor nur Lupical.  Aber keine vier Beine, kein echter Wolf. Macht Razor manchmal traurig.
+Ich will mehr über Razor erfahren V
+Mit dir rennen, mit dir jagen, Razor froh. Mit dir egal, ob Wolf oder Junge!  Du bist Freund, du bist meine Lupical. Hoffe, du bist auch froh.
+Razors Hobbys ...
+Razor mag Lupical. Mag Wald. Mag Freunde. Mag Laufen.
+Razors Sorgen ...
+Sprechen so anstrengend und schwer. Aber nicht sprechen geht auch nicht.
+Was er so mag ...
+Mag Fleisch. Mag Kartoffeln.
+Was er nicht mag ...
+Gemüse nicht gut. Tiere essen Gemüse, ich esse Tiere.
+Geschenk erhalten I
+Riecht gut und schmeckt ebenso gut. Hat mir gefallen.
+Geschenk erhalten II
+Dies zu essen, gibt mir Energie und macht mich glücklich.
+Geschenk erhalten III
+Essen, nicht gut. Nicht essen, nicht gut. Etwas traurig.
+Dein Geburtstag ...
+Heute vor langer Zeit ... du geboren! Heute zusammen fröhlich. Zusammen essen Fleisch!
+Gedanken über den Aufstieg – Beginn
+Arme, dicker geworden?
+Gedanken über den Aufstieg – Fortschritt
+Klauen, Zähne, stärker geworden!
+Gedanken über den Aufstieg – Höhepunkt
+Laufen, jagen. Nicht genug! Muss stärker werden.
+Gedanken über den Aufstieg – Ende
+Zähne, Klauen, Beine. Alles stärker, stärker, dich beschützen!
+Elementarfähigkeit I
+Geh weg!
+Elementarfähigkeit: II
+Ah!
+Elementarfähigkeit III
+Au!
+Elementarfähigkeit IV
+Bleib weg!
+Spezialfähigkeit I
+Au!
+Spezialfähigkeit II
+Blitz!
+Spezialfähigkeit III
+*brüll*
+Spezialfähigkeit IV
+Aah!
+Truhe öffnen I
+Diese Dinge ... sind nützlich?
+Truhe öffnen II
+Leere Truhe ... gut für Lagerung.
+Truhe öffnen III
+Der Geruch eines Schatzes ... seltsam.
+Niedrige LP I
+Das tut weh!
+Niedrige LP II
+Au!
+Niedrige LP III
+Bring dich um!
+Verbündeter hat niedrige LP I
+Das geht nicht.
+Verbündeter hat niedrige LP II
+Wach auf!
+Ohnmächtig I
+Kann nicht atmen ...
+Ohnmächtig II
+Ich will zurück ...
+Ohnmächtig III
+Meine Lucipal ...
+Schweren Treffer erlitten I
+Blut im Mund ...
+Truppenbeitritt I
+Ich vorausgehen.
+Truppenbeitritt II
+Wohin?
+Truppenbeitritt III
+Halte dir Rücken frei.

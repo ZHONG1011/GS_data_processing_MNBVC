@@ -1,0 +1,13 @@
+Quartz
+A simple but heavy greatsword made of polished black quartz with a golden gilt. It has an air of elegance and dignity about it.
+ The Archon War raged. Stone was his blade, rock was his spear. The Geo Archon cut down evil, Pinned down monsters. In his honor the Blackcliff Forge fashioned a new weapon: A greatsword made of black quartz. 
+Residual Heat
+Upon causing an Overloaded, Melt, Burning, Vaporize, Burgeon, or a Pyro-infused Swirl reaction, ATK is increased by <color=#99FFFFFF>20%</color> for 12s.
+Residual Heat
+Upon causing an Overloaded, Melt, Burning, Vaporize, Burgeon, or a Pyro-infused Swirl reaction, ATK is increased by <color=#99FFFFFF>25%</color> for 12s.
+Residual Heat
+Upon causing an Overloaded, Melt, Burning, Vaporize, Burgeon, or a Pyro-infused Swirl reaction, ATK is increased by <color=#99FFFFFF>30%</color> for 12s.
+Residual Heat
+Upon causing an Overloaded, Melt, Burning, Vaporize, Burgeon, or a Pyro-infused Swirl reaction, ATK is increased by <color=#99FFFFFF>35%</color> for 12s.
+Residual Heat
+Upon causing an Overloaded, Melt, Burning, Vaporize, Burgeon, or a Pyro-infused Swirl reaction, ATK is increased by <color=#99FFFFFF>40%</color> for 12s.

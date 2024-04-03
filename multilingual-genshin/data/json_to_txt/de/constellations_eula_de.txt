@@ -1,0 +1,12 @@
+Illusion der Lichtwelle
+Erhöht Eulas Bonus für physischen SCH 6 s lang um 30 %, sobald <color=#FFD780FF>Eisiger Strudel</color> den Effekt Kaltes Herz aufbraucht. Jede verbrauchte Stapelung von Kaltes Herz verlängert die Dauer des Bonus um 6 s und insgesamt um bis zu 18 s.
+Mädchen des Meeresschaums
+Verringert die Abklingzeit für Gedrückthalten von <color=#FFD780FF>Eisiger Strudel</color>, sodass sie ebenso lang wie die bei normalem Drücken ist.
+Blut des Lawrence-Klans
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Schwert der Brandung</color> um 3. Höchststufe 15.
+Kampf gegen Minderwertigkeitsgefühle
+Erhöht den Gegnern mit weniger als 50 % LP mit Schwert des Lichtfalls zugefügten Schaden um 25 %.
+Qualitäten eines Ritters
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Eisiger Strudel</color> um 3. Höchststufe 15.
+Pflichten der Adeligen
+Das mit <color=#FFD780FF>Schwert der Brandung</color> erstellte Schwert des Lichtfalls erhält sofort 5 Stapelungen Energie und bei Verursachen von Schaden durch Standardangriffe, Elementarfähigkeiten oder Spezialfähigkeiten mit einer Wahrscheinlichkeit von 50 % eine zusätzliche Stapelung.

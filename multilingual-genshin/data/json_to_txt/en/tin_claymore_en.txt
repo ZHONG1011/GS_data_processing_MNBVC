@@ -1,0 +1,13 @@
+White Iron Greatsword
+A claymore made from white iron. Lightweight without compromising on power. Effective even when wielded by one of average strength, it is extremely deadly in the hands of a physically stronger wielder.
+ A lightweight greatsword made of white iron with a silver sheen. When swung rapidly, the flashes of light can blind the enemy. However, this sword is not usually used as a weapon. According to the way of warriors of old, when a comrade falls in battle, polished weapons will line the ground where they fell. Though such rituals as these are no longer in fashion, some few still remember what they mean... 
+Cull the Weak
+Defeating an opponent restores <color=#99FFFFFF>8%</color> HP.
+Cull the Weak
+Defeating an opponent restores <color=#99FFFFFF>10%</color> HP.
+Cull the Weak
+Defeating an opponent restores <color=#99FFFFFF>12%</color> HP.
+Cull the Weak
+Defeating an opponent restores <color=#99FFFFFF>14%</color> HP.
+Cull the Weak
+Defeating an opponent restores <color=#99FFFFFF>16%</color> HP.

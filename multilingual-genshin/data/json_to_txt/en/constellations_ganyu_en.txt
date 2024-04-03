@@ -1,0 +1,12 @@
+Dew-Drinker
+Charge Level 2 Frostflake Arrows or Frostflake Arrow Blooms decrease opponents' <color=#99FFFFFF>Cryo RES</color> by 15% for 6s upon hit. A hit also regenerates 2 Energy for Ganyu. This effect can only occur once per Charge Level 2 Frostflake Arrow, regardless if Frostflake Arrow itself or its Bloom hits the target.
+The Auspicious
+<color=#FFD780FF>Trail of the Qilin</color> gains 1 additional charge.
+Cloud-Strider
+Increases the Level of <color=#FFD780FF>Celestial Shower</color> by 3. Maximum upgrade level is 15.
+Westward Sojourn
+Opponents standing within the AoE of <color=#FFD780FF>Celestial Shower</color> take increased DMG. This effect strengthens over time. Increased DMG taken begins at 5% and increases by 5% every 3s, up to a maximum of 25%. The effect lingers for 3s after the opponent leaves the AoE.
+The Merciful
+Increases the Level of <color=#FFD780FF>Trail of the Qilin</color> by 3. Maximum upgrade level is 15.
+The Clement
+Using <color=#FFD780FF>Trail of the Qilin</color> causes the next Frostflake Arrow shot within 30s to not require charging.

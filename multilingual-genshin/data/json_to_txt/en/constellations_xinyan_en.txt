@@ -1,0 +1,12 @@
+Fatal Acceleration
+Upon scoring a CRIT Hit, increases ATK SPD of Xinyan's Normal and Charged Attacks by 12% for 5s. Can only occur once every 5s.
+Impromptu Opening
+<color=#FFD780FF>Riff Revolution</color>'s Physical DMG has its CRIT Rate increased by 100%, and will form a shield at Shield Level 3: Rave when cast.
+Double-Stop
+Increases the Level of <color=#FFD780FF>Sweeping Fervor</color> by 3. Maximum upgrade level is 15.
+Wildfire Rhythm
+<color=#FFD780FF>Sweeping Fervor</color>'s swing DMG decreases opponent's Physical RES by 15% for 12s.
+Screamin' for an Encore
+Increases the Level of <color=#FFD780FF>Riff Revolution</color> by 3. Maximum upgrade level is 15.
+Rockin' in a Flaming World
+Decreases the Stamina Consumption of Xinyan's Charged Attacks by 30%. Additionally, Xinyan's Charged Attacks gain an ATK Bonus equal to 50% of her DEF.

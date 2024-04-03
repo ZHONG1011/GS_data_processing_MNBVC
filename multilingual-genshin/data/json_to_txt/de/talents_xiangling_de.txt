@@ -1,0 +1,12 @@
+Standardangriff: Gebäckgefecht
+<color=#FFD780FF>Standardangriff</color> Führt bis zu 5 Lanzenstiche hintereinander aus.  <color=#FFD780FF>Heftiger Schlag</color> Verbraucht eine gewisse Menge Ausdauer, sticht geschwind nach vorn und fügt den Gegnern in der Bahn Schaden zu.  <color=#FFD780FF>Angriff aus dem Fall</color> Schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.
+Guoba, erscheine!
+Ruft den Feuer spuckenden Guoba herbei, der Gegner vor ihm während der Wirkungsdauer immer wieder mit Feuer bespuckt und <color=#FF9999FF>Pyro-Flächenschaden</color> verursacht.  <i>Guoba mag sein Essen scharf. Ob er sein Essen so scharf verträgt, ist allerdings eine andere Sache.</i>
+Feuerrad
+Erschafft aufgrund ihrer Fähigkeit, Feuer zu kontrollieren, und ihrer Fertigkeit im Umgang mit dem Speer ein Feuerrad, das mit hoher Geschwindigkeit um sie kreist. Das Feuerrad bewegt sich während der Wirkungsdauer mit Xiangling und fügt allen Gegnern in seiner Bahn <color=#FF9999FF>Pyro-Schaden</color> zu.  <i>Das soll ein Feuer sein? Das ist höchstens ein Feuerchen!</i>
+Kreuzfeuer
+Erhöht die Reichweite des Feuers von Guoba um 20 %.
+Scharfes Teil!
+Guoba hinterlässt nach dem Ende des Effekts von <color=#FFD780FF>Guoba, erscheine!</color> eine Peperoni, die den ANG beim Einsammeln 10 s lang um 10 % erhöht.
+Chefköchin des Restaurants Wanmin
+Stellt bei der perfekten Zubereitung eines Gerichts mit offensiver Funktion mit einer Wahrscheinlichkeit von 12 % den 2-fachen Ertrag her.

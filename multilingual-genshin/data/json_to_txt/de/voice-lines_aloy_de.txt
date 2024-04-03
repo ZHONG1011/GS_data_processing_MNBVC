@@ -1,0 +1,114 @@
+Schön, dich kennenzulernen.
+Ich bin Aloy und obwohl ich noch nicht viel über diese Welt weiß, stehen meine Pfeile und mein Bogen immer zu deiner Verfügung. Wenn deine Truppe mich braucht, werde ich da sein und helfen.
+Gespräch – Aufbruch
+Hör auf dich auszuruhen. Los!
+Gespräch – Hilfe
+Wir sollten jetzt nicht aufhören, es gibt immer noch Menschen, die unsere Hilfe brauchen.
+Wenn es regnet ...
+Regen, mit ihm kann man den Schmutz abwaschen.
+Es hat aufgehört zu regnen ...
+Der Regen hat aufgehört. Wir sollten uns trocknen.
+Wenn es schneit ...
+Wenn es schneit, scheint es, als würde die ganze Welt verstummen.
+Wenn es windig ist ...
+Der Wind hat wieder aufgefrischt und es tut gut, in ihm einzuatmen.
+Ein Sturm zieht auf.
+Der Wind hat zugenommen und bläst mir schmerzhaft ins Gesicht.
+Guten Morgen.
+Guten Morgen. Die Welt ist wieder voller Leben und ich bin es auch.
+Guten Tag.
+Der Tag ist schon zur Hälfte vorbei und wir haben noch eine Menge zu tun.
+Guten Abend.
+Die Sonne geht unter und in Kürze werden die Sterne zu sehen sein.
+Gute Nacht.
+Guten Abend. Zeit, sich auszuruhen, es sei denn, du willst dich weiter im Sternenlicht bewegen
+Über Aloy ...
+Ich bin als Ausgestoßene aufgewachsen und es war eine schlimme Zeit. Aber hier sind die Menschen, selbst wenn sie auf eine Außenseiterin wie mich treffen, viel freundlicher als der Stamm, in den ich hineingeboren wurde. Es fühlt sich ... gut an.
+Über uns – Handlung
+Alles, was ich tue, dient dazu, Leben zu retten, und nicht, den Tod zu bringen. Deshalb kämpfe ich an deiner Seite.
+Über uns – Schwur
+Es ist ein bisschen zu sehr formell, Gelübde abzulegen. Aber wenn du mein Gelübde willst, dann gebe ich es dir.
+Über uns – Nach vorn
+Ich werde mein Bestes tun, um mit dir bis zum Ende voranzukommen. Ich werde nicht zögern und nicht versagen.
+Willst du mir etwas mitteilen?
+Wenn es etwas zu teilen gibt, dann sind es mein Bogen und meine Pfeile, die ich nur benutze, um anderen zu helfen.
+Interessante Vorkommnisse ...
+Wie meine eigene Welt ist auch die Vergangenheit dieser Welt voller Geheimnisse. Wenn ich genug Zeit habe, muss ich alle Geheimnisse lüften.
+Ich will mehr über Aloy erfahren I
+Ich bin nicht sehr gut darin, über meine eigenen Angelegenheiten zu reden, der aktuelle Auftrag ist am wichtigsten.
+Ich will mehr über Aloy erfahren II
+Ich habe keine Eltern und wurde von einem Mann namens Rost aufgezogen. Er war ein wenig streng, hatte aber ein gutes Herz und war großzügig. Er hat mir viel beigebracht und nun ja ... ich vermisse ihn sehr.
+Ich will mehr über Aloy erfahren III
+In der Vergangenheit habe ich viel Zeit mit der Suche nach meiner leiblichen Mutter verbracht, konnte sie aber nicht finden. Stattdessen fand ich einige entfernte Nachrichten, die von meiner „Klonmutter“ hinterlassen wurden. Als ich diese Nachrichten hörte, hatte ich den Eindruck, dass sie mich gut kannte und mich ermutigen wollte.
+Ich will mehr über Aloy erfahren IV
+Als ich aufwuchs, hatte ich nicht wirklich Freunde. Obwohl ich später auf meiner Reise einige Menschen traf, waren wir noch nicht sonderlich vertraut miteinander, als ich die Welt verließ. Deshalb bin ich wirklich froh, dass ich so viel Zeit mit dir verbracht habe und wir Freunde geworden sind.
+Ich will mehr über Aloy erfahren V
+Ich vertraue den Menschen nicht so leicht, aber ich bin sicher, dass man dir vertrauen kann. Du bist mein treuer Begleiter und ich urteile nicht oft so über Menschen.
+Aloys Hobbys ...
+Ich bin mir nicht ganz sicher, welche Hobbys ich habe, aber das Lesen über die Vergangenheit gehört dazu. Also ... Geschichte?
+Aloys sorgen ...
+Neben meiner eigenen Welt gibt es jetzt noch eine andere Welt zu retten. Puh ... es gibt nie genug Zeit.
+Was sie so mag ...
+Ich bin kein wählerischer Esser. Ich esse alles, damit ich nicht hungrig reisen muss.
+Was sie nicht mag ...
+Ich hatte einmal einen „Oseram-Eintopf“, der so dick war, dass man ihn für Asphalt hätte halten können.
+Dein Geburtstag ...
+Ich habe mir nie viel aus Geburtstagen gemacht. In der Welt, in der ich geboren wurde, ehrten alle ihre Mütter, und niemand feierte seinen eigenen Geburtstag. Aber lassen wir das erst einmal beiseite. Also ... ich wünsche dir alles Gute zum Geburtstag!
+Gedanken über den Aufstieg – Beginn
+Das ist gut, wir kommen gut voran. Doch dabei kann es nicht bleiben.
+Gedanken über den Aufstieg – Fortschritt
+Es ist gut, dass wir gewachsen und stärker geworden sind.
+Gedanken über den Aufstieg – Höhepunkt
+Ganz gleich, wie gut du als Jäger bist, du kannst immer besser werden. Lass dich nicht durch Selbstgefälligkeit vom Lernen abhalten.
+Gedanken über den Aufstieg – Ende
+#Als wir anfingen, gemeinsam zu reisen, warst du für mich ein{F#e} Fremde{M#r} aus einer Welt, die ich nicht kannte. Aber jetzt, da wir so viel zusammen erlebt haben, kann ich dir versichern, dass mein Bogen immer mit dir sein wird.
+Elementarfähigkeit I
+Dieses Ding wird in die Luft gehen.
+Elementarfähigkeit II
+Das ist ein Spielzeug für Jäger.
+Elementarfähigkeit III
+Hast du das gesehen?
+Spezialfähigkeit I
+Du kommst nicht weiter!
+Spezialfähigkeit II
+Ein kleiner neuer Trick.
+Spezialfähigkeit III
+Das ist mein Jagdgebiet!
+Windgleiter öffnen I
+Mit diesem Spielzeug kann man richtig Spaß haben.
+Truhe öffnen I
+Diese Dinger scheinen sehr nützlich zu sein.
+Truhe öffnen II
+Mal sehen, das sieht essbar aus ... und das sieht nützlich aus ...
+Truhe öffnen III
+Wer hat all diese Dinge hier gesteckt?
+Niedrige LP I
+Eine schwierige Beute ...
+Niedrige LP II
+Wo sind die Schwachstellen ...
+Niedrige LP III
+Zu unachtsam ...
+Verbündeter hat niedrige LP I
+Vorsicht!
+Verbündeter hat niedrige LP II
+Nicht zu voreilig!
+Ohnmächtig I
+Wo ist mir der Fehler unterlaufen ...
+Ohnmächtig II
+Das tut mir echt leid ...
+Ohnmächtig III
+Misslungene Jagd ...
+Leichten Treffer erlitten I
+Äh ...
+Leichten Treffer erlitten II
+Kleines Problem ...
+Schweren Treffer erlitten I
+Huch!
+Schweren Treffer erlitten II
+Schon etwas ärgerlich ...
+Truppenbeitritt I
+Wo willst du dieses Mal spazieren gehen?
+Truppenbeitritt II
+Ich bin Aloy und ich bin bereit für die Jagd.
+Truppenbeitritt III
+Brauchst du Hilfe?

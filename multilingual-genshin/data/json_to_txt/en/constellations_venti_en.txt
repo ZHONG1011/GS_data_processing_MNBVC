@@ -1,0 +1,12 @@
+Splitting Gales
+Fires 2 additional arrows per <color=#FFD780FF>Aimed Shot</color>, each dealing 33% of the original arrow's DMG.
+Breeze of Reminiscence
+<color=#FFD780FF>Skyward Sonnet</color> decreases opponents' <color=#80FFD7FF>Anemo RES</color> and Physical RES by 12% for 10s. Opponents launched by <color=#FFD780FF>Skyward Sonnet</color> suffer an additional 12% <color=#80FFD7FF>Anemo RES</color> and Physical RES decrease while airborne.
+Ode to Thousand Winds
+Increases the Level of <color=#FFD780FF>Wind's Grand Ode</color> by 3. Maximum upgrade level is 15.
+Hurricane of Freedom
+When Venti picks up an Elemental Orb or Particle, he receives a 25% <color=#80FFD7FF>Anemo DMG Bonus</color> for 10s.
+Concerto dal Cielo
+Increases the Level of <color=#FFD780FF>Skyward Sonnet</color> by 3. Maximum upgrade level is 15.
+Storm of Defiance
+Targets who take DMG from <color=#FFD780FF>Wind's Grand Ode</color> have their <color=#80FFD7FF>Anemo RES</color> decreased by 20%. If an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%.

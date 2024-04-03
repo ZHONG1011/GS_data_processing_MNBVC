@@ -1,0 +1,144 @@
+Schön, dich kennenzulernen.
+Löwenzahnritter Jean meldet sich zum Dienst. Von heute an gehört meine Ehre und Loyalität nur dir!
+Gespräch – Einsatz
+Jetzt komm schon! Wir sollten hier nicht verweilen.
+Gespräch – Ritterorden
+Mitglieder des Ritterordens ... habt ihr wirklich alle gewissenhaft gearbeitet?
+Gespräch – Ziel
+Weiter, auf zum nächsten Ziel!
+Wenn es regnet ...
+Regen kann mich nicht aufhalten.
+Es hat aufgehört zu regnen ...
+Dieses Wetter lädt gerade dazu ein, aktiv zu werden.
+Wenn es schneit ...
+Es schneit, achte auf gutes Schuhwerk.
+Wenn es windig ist ...
+Angenehmes Wetter heute.
+Ein Sturm zieht auf.
+Der Legende nach gab es an jenem Tag auch starken Wind ...
+Guten Morgen.
+Ein guter Tag hängt ganz vom Morgen ab. Heute strengen wir uns auch wieder an.
+Guten Tag.
+Gut, dann wollen wir mal mit der Arbeit beginnen.
+Guten Abend.
+Es sieht so aus, als ob Kaffee schon nicht mehr wirken würde. Frag einfach Lisa, wenn du Alternativen suchst.
+Gute Nacht.
+Das heutige Training ist hiermit beendet. Das hast du wirklich gut gemacht! Jetzt ruh dich erstmal aus.
+Über Jean ...
+Um die Bevölkerung zu schützen, musste ich heute fünf Ruinenwächter in Stücke hacken. Ich muss härter arbeiten und daran denken ... solch wertvolle Stücke und Kulturgut nicht einfach zu zerstören. Das nächste Mal muss ich einen anderen Weg finden ...
+Über uns – Glaubensbekenntnis
+Ich werde mein Bestes tun, um dir zu helfen und natürlich auch nicht davor zurückschrecken, dir zu sagen, wenn du vom Pfad der Tugend abkommen solltest.
+Über uns – Schwur
+Ich schwöre bei diesem Schwert, dass ich dir den glorreichen Sieg bescheren werde.
+Über uns – Auftrag
+Keine Aufgaben erledigen sich von selbst, aber eine kurze Pause hat noch keinem geschadet. Heute können wir uns ein paar Minuten ausruhen.
+Über das „Göttliche Auge“ ...
+„Immer für Mondstadt“ ist das Familienmotto der Gunnhildr-Familie. Jedes Mal, wenn ich mein Göttliches Auge benutze, denke ich an meine Mutter sowie an die Hoffnungen und Erwartungen der Bewohner von Mondstadt. Für Mondstadt, für Freiheit, dafür kämpfe ich.
+Willst du mir etwas mitteilen?
+Im Namen der Ritter des Ordo Favonius danke ich dir für alles, was du für Mondstadt getan hast. Bitte ruhe dich beim Arbeiten auch öfter aus und ... was ist? Warum lachst du auf einmal? Habe ich etwas Lustiges gesagt?
+Interessante Vorkommnisse ...
+„Löwenzahn, Löwenzahn, fliege mit dem Wind in die Ferne“. Er nutzt den Auftrieb des Windes und kann möglicherweise sogar Celestia erreichen.
+Über Barbara ...
+Barbara gibt sich sehr viel Mühe, nur manchmal gibt sie sich zu viel Mühe. Woher ich das weiß? Weil die Kathedrale auch zum Ritterorden gehört.
+Über Lisa ...
+Solange Lisa da ist, bin ich beruhigt.
+Über Amber ...
+Amber hat es in der kurzen Zeit wirklich zu etwas gebracht. Ich hoffe, eines Tages werden Barden auch von ihrer Geschichte singen.
+Über Kaeya ...
+Ist das so? Kaeya hat dir also auch eine Empfehlung gegeben. Er ist ein formidabler Ritter des Ordo Favonius, daran besteht kein Zweifel.
+Über Klee ...
+Spielen liegt in der Natur eines Kindes. Klees Spielzeuge jedoch sind ganz schön gefährlich. Man fühlt sich nie ganz sicher.
+Über Albedo ...
+Der Begriff „Talent“ wurde geradezu für Leute wie Albedo erfunden.
+Über Varka ...
+Großmeister Varka ist eine Legende des Ordo Favonius. Warte auf den Tag seiner triumphalen Rückkehr, um dich persönlich davon zu überzeugen.
+Über Noelle ...
+Noelle, das Mädchen, das versucht hat ein Ritter des Ordo Favonius zu werden. Sie hat noch ein paar Schwächen in ihrem Herzen. Daher wäre es nicht weise, sie zum jetzigen Zeitpunkt den Gefahren der Welt auszusetzen.
+Über Rosaria ...
+Schwester Rosaria beschwert sich oft über den Schweregrad ihrer Arbeit, dennoch führt sie sie tadellos aus. Gerade letztens noch habe ich zu ihr gesagt „Sag mir Bescheid, wenn du bei irgendetwas Hilfe brauchst.“ Darauf antwortete sie mir, „Das wäre ja noch mühseliger“. Anscheinend muss ich härter arbeiten, um eine wirkliche Hilfe zu sein.
+Über Diluc – Scham
+Es gibt einen Grund, weshalb Diluc dem Ordo Favonius so kritisch gegenüber steht. Selbst ein schulderfülltes Gewissen kann das Ergebnis nicht ändern ... Ich will, dass er durch meine Bemühungen seine Ansicht über den Ordo Favonius ändert ... Das allein ist meine Sorge.
+Über Diluc – Respekt
+Diluc ... wie soll ich sagen? Er ist ein sehr ehrwürdiger und respektabler Mann. Auch wenn wir unterschiedliche Pfade gewählt haben, so kann ich dennoch den Beschützerwunsch in seinem Herzen erkennen.
+Über Saccharose ...
+Saccharose ist ein Alchimisten-Naturtalent. Mit Albedo an ihrer Seite braucht sie sich auch nicht um ihre Zukunft zu sorgen. Es ist nur ... ach nichts. Es ist keine schlechte Sache, sich in seiner eigenen kleinen Welt aufzuhalten.
+Über Eula ...
+Eula? Ähem ... Bitte nehmt ihr ihre Vergangenheit nicht übel. Die Ritter des Ordo Favonius richten jeden gerecht. Eula kann sehr gut Richtig von Falsch unterscheiden. Sie hat brillantes Talent. Und ihre gelegentlichen gefährlichen Bemerkungen gehören einfach zu ihrem Charakter. Auch wenn sie immer sagt, dass sie mich herausfordern wird, macht mir das nichts aus.
+Über Mika ...
+Der Großmeister arrangierte Mika als Pfadfinder des Expeditionsteams, nicht nur, weil Mika die Anforderungen des Auftrags erfüllte, sondern, was noch wichtiger ist, Mikas fleißiger und bodenständiger Charakter hinterließ einen tiefen Eindruck bei ihm. Aus meiner Sicht ist es eine Ehre, mit jemandem wie ihm zusammenzuarbeiten.
+Ich will mehr über Jean erfahren I
+Ich schultere das Vertrauen des Ordo Favonius und die Erwartungen der Bewohner von Mondstadt. Aus diesem Grund kann ich mich nicht entspannen.
+Ich will mehr über Jean erfahren II
+Vennessa, der erste „Löwenzahnritter“, ist bis heute nicht vergessen. Die Ehre, diesen Namen zu tragen, wurde bisher einigen großartigen Rittern erwiesen. Ich darf diesen Titel nicht beschmutzen und mich ausruhen. Denn ich muss der Schild und das Schwert des Volkes sein.
+Ich will mehr über Jean erfahren III
+Legenden und Geschichtsbücher berichten nur von erfolgreichen Rittern. Sind die alten Ritter denn nie in Schwierigkeiten geraten?  O Wind, bitte weise mir den Weg.
+Ich will mehr über Jean erfahren IV
+Wenn du mit Leib und Seele dabei bist, vergisst du sowohl deine Schwierigkeiten als auch die Zeit. „Du bist am besten dafür geeignet.“ ... Das sagte Großmeister Varka vor seiner Abreise zu mir.
+Ich will mehr über Jean erfahren V
+Wenn ich so mit dir gehe, wird der Pfad vor mir immer klarer, klarer denn je. So, als ob ich endlich jemanden hätte, auf den ich mich im Notfall voll und ganz verlassen kann.  Nein, das heißt bestimmt, dass ich mich noch nicht genug angestrengt habe. Ich darf den Ordo Favonius und die Bewohner Mondstadts nicht im Stich lassen ... Dennoch, danke dir.
+Jeans Hobbys ...
+Vielleicht können wir uns über die Helden in dem Buch unterhalten. Hast du schon einmal die Geschichte vom heldenhaften König von Khaenri’ah gehört?
+Jeans Sorgen ...
+Wenn es doch nur eine Art Trank gäbe, der mich für immer wach halten würde, sodass ich nicht mehr zu schlafen bräuchte ... Morgen muss ich das wirklich mit Lisa besprechen.
+Was sie so mag ...
+Ich habe schon ewig nicht mehr die Pizza von der Taverne „Zum Katzenschwanz“ gegessen. Wenn sie nur zu mir ins Büro liefern würden ...
+Was sie nicht mag ...
+Ein wahrer Ritter darf nicht pingelig beim Essen sein.
+Geschenk erhalten I
+Es schmeckt nicht nur gut, sondern ist auch gesund. Vielen Dank für deine Aufmerksamkeit.
+Geschenk erhalten II
+Nun, meine Stimmung ist schon viel besser. Danke!
+Geschenk erhalten III
+Hmm ... Danke für deine Mühen.
+Dein Geburtstag ...
+#Heute ist ein Tag zum Feiern. Warum? Nun, weil heute der Tag ist, an dem du, {F#die vom}{M#der vom} Wind Gesegnete, in unsere Welt kamst. Da dies deine Art Geburtstag ist, kannst du es langsam angehen lassen.  Ähem, alles Gute für dich ... Bitte vergib mein nonchalantes Vorstoßen. Schau, ob dir dieses Geschenk gefällt.
+Gedanken über den Aufstieg – Beginn
+Gut, nun zum nächsten Ziel.
+Gedanken über den Aufstieg – Fortschritt
+Solange der Wind weht, werden wir auch nicht aufhören zu kämpfen.
+Gedanken über den Aufstieg – Höhepunkt
+Auch wenn wir in Friedenszeiten leben, dürfen wir nicht einrosten. Als stellvertretender Großmeister muss ich wachsam bleiben.
+Gedanken über den Aufstieg – Ende
+Noch bin ich nicht gut genug. Seit ich dich getroffen habe, bin ich sehr dankbar und stehe tief in deiner Schuld.  Wind, bitte vergib mir meine Selbstsucht. Nicht als stellvertretender Großmeister, sondern als Jean. Ich schwöre hiermit, dass mein Schwert immer mit dir sein wird.
+Elementarfähigkeit I
+Lasst uns den Sieg entscheiden!
+Elementarfähigkeit II
+Ha!
+Elementarfähigkeit III
+Hinfort!
+Spezialfähigkeit I
+Wind, gib mir Kraft!
+Spezialfähigkeit II
+Bei meinem Schwert!
+Spezialfähigkeit III
+O Archon des Windes, weise uns den Weg!
+Truhe öffnen I
+Was für eine angenehme Überraschung.
+Truhe öffnen II
+Hmm, die Dinge laufen heute ein wenig zu glatt ...
+Truhe öffnen III
+Ich hoffe die anderen finden welche.
+Niedrige LP I
+Mir ... geht’s gut!
+Niedrige LP II
+Ich muss meine Kameraden beschützen ...
+Niedrige LP III
+Ich kann nicht aufgeben ...
+Verbündeter hat niedrige LP I
+Du bist verletzt ... Geh in Deckung!
+Verbündeter hat niedrige LP II
+Überlasse es mir!
+Ohnmächtig I
+Mondstadt ...
+Ohnmächtig II
+Jeder hat seine Grenzen ...
+Ohnmächtig III
+Ich habe versagt ...
+Schweren Treffer erlitten I
+Kaum ein Kratzer!
+Truppenbeitritt I
+Wir können jederzeit gehen.
+Truppenbeitritt II
+Bereit für alles.
+Truppenbeitritt III
+Möge der Wind dich führen.

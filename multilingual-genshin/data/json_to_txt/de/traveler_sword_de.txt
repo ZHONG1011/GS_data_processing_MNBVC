@@ -1,0 +1,13 @@
+Reiseschwert
+Ein praktisches Schwert aus Stahl, in dessen Scheide sich unter anderem Schere, Fernglas und Zunder für die Reise befinden.
+ Ein verlässliches und gut ausbalanciertes Schwert aus feinstem Stahl. Einer der größten Nachteile dieses Schwertes ist jedoch die unvollständige Kielstruktur. Dies verringert seine Haltbarkeit. Jedoch bietet dies die Möglichkeit eines völlig ausgehöhlten Griffs, in dem man Miniaturmesser, Scheren und andere Kleinteile verstecken konnte. Nennt man es Reiseschwert, weil es so viel Platz für alle möglichen Dinge für eine Reise hat? 
+Reise
+Stellt beim Erhalten von Elementarkristallen oder Elementarteilchen <color=#99FFFFFF>1 %</color> LP wieder her.
+Reise
+Stellt beim Erhalten von Elementarkristallen oder Elementarteilchen <color=#99FFFFFF>1,25 %</color> LP wieder her.
+Reise
+Stellt beim Erhalten von Elementarkristallen oder Elementarteilchen <color=#99FFFFFF>1,5 %</color> LP wieder her.
+Reise
+Stellt beim Erhalten von Elementarkristallen oder Elementarteilchen <color=#99FFFFFF>1,75 %</color> LP wieder her.
+Reise
+Stellt beim Erhalten von Elementarkristallen oder Elementarteilchen <color=#99FFFFFF>2 %</color> LP wieder her.

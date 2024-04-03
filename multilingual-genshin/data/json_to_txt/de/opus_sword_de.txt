@@ -1,0 +1,13 @@
+Zinnoberspindel
+Ein Schwert aus Materialien, die nicht in diese Welt gehören. Die Kraft darin könnte sogar der Korruption eines Giftes widerstehen, das einen mächtigen Drachen zersetzen könnte.
+ Trenne mit Freude den Staub in den Flammen und ziehe das Erlesene aus dem Rohmaterial. Da alles im Universum aus einer einzigen Quelle stammt, kann auch alles aus einem einzigen Gedanken abgeleitet werden. Du musst das verfolgen, was dein älterer Bruder, das einhörnige weiße Pferd, nicht erreichen konnte. Erreiche die andere Seite der Philosophie und schaffe ein neues Schicksal für mich und deine Brüder ...
+Makelloses Herz
+Erhöht den mit Elementarfähigkeiten verursachten Schaden um <color=#99FFFFFF>40 %</color> VTD. Dieser Effekt erlischt 0,1 s nach dem Verursachen von Schaden mit der Elementarfähigkeit. 1,5 s Abklingzeit.
+Makelloses Herz
+Erhöht den mit Elementarfähigkeiten verursachten Schaden um <color=#99FFFFFF>50 %</color> VTD. Dieser Effekt erlischt 0,1 s nach dem Verursachen von Schaden mit der Elementarfähigkeit. 1,5 s Abklingzeit.
+Makelloses Herz
+Erhöht den mit Elementarfähigkeiten verursachten Schaden um <color=#99FFFFFF>60 %</color> VTD. Dieser Effekt erlischt 0,1 s nach dem Verursachen von Schaden mit der Elementarfähigkeit. 1,5 s Abklingzeit.
+Makelloses Herz
+Erhöht den mit Elementarfähigkeiten verursachten Schaden um <color=#99FFFFFF>70 %</color> VTD. Dieser Effekt erlischt 0,1 s nach dem Verursachen von Schaden mit der Elementarfähigkeit. 1,5 s Abklingzeit.
+Makelloses Herz
+Erhöht den mit Elementarfähigkeiten verursachten Schaden um <color=#99FFFFFF>80 %</color> VTD. Dieser Effekt erlischt 0,1 s nach dem Verursachen von Schaden mit der Elementarfähigkeit. 1,5 s Abklingzeit.

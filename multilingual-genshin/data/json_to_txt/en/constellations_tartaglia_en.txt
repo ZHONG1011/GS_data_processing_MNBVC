@@ -1,0 +1,12 @@
+Foul Legacy: Tide Withholder
+Decreases the CD of <color=#FFD780FF>Foul Legacy: Raging Tide</color> by 20%
+Foul Legacy: Understream
+When opponents affected by Riptide are defeated, Tartaglia regenerates 4 Elemental Energy.
+Abyssal Mayhem: Vortex of Turmoil
+Increases the Level of <color=#FFD780FF>Foul Legacy: Raging Tide</color> by 3. Maximum upgrade level is 15.
+Abyssal Mayhem: Hydrospout
+If Tartaglia is in <color=#FFD780FF>Foul Legacy: Raging Tide</color>'s Melee Stance, triggers Riptide Slash against opponents on the field affected by Riptide every 4s, otherwise, triggers Riptide Flash. Riptide Slashes and Riptide Flashes triggered by this Constellation effect are not subject to the time intervals that would typically apply to these two Riptide effects, nor do they have any effect on those time intervals.
+Havoc: Formless Blade
+Increases the Level of <color=#FFD780FF>Havoc: Obliteration</color> by 3. Maximum upgrade level is 15.
+Havoc: Annihilation
+When <color=#FFD780FF>Havoc: Obliteration</color> is cast in Melee Stance, the CD of <color=#FFD780FF>Foul Legacy: Raging Tide</color> is reset. This effect will only take place once Tartaglia returns to his Ranged Stance.

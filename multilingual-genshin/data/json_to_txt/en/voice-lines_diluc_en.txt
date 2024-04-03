@@ -1,0 +1,146 @@
+Hello
+Diluc, of Mondstadt. Not interested in idle chit-chat. If you have things you want to get done, let me know.
+Chat: Relax
+Guess we can rest a bit.
+Chat: Knights of Favonius
+You should really bring the Knights of Favonius with you next time.
+Chat: Wine Guild
+I still have a lot to do at the Guild. How about you take a rest while I go back?
+Chat: Preparation
+We should prepare while we can, then make a preemptive strike against the enemy.
+Chat: Planning
+Let's take a moment to rest and plan our next move.
+Chat: Warning
+Every course of action has its risks. Be careful.
+When It Rains: Umbrella
+I don't need an umbrella, but you can use one if you need.
+When It Rains: Cleansing
+Rain... If only it could cleanse the corrupt souls of this world.
+When the Sun Is Out
+Listen, as long as you stick to your own path, it doesn't matter what Mother Nature throws at you.
+When the Wind Is Blowing
+Some use the wind's whistling to drown out the sound of their crimes.
+Good Morning
+No need for small talk. All that matters is that you were safe last night.
+Good Afternoon
+Would you like to try the secret menu?
+Good Evening
+Night has fallen.
+Good Night
+Alright, see you next time. I'll make sure you leave safely.
+About Diluc
+The legend of the "Darknight Hero"? An interesting rumor.
+About Us: Needs
+Just say the word if you need anything. For reimbursements, ask Elzer.
+About Us: Proof
+You have already proven your determination. Well then, it is now time for you to witness my resolve.
+About the Vision
+Visions are a light in the sea of darkness that surrounds those who have lost their way. But for those who have faith, they are little more than badges of conviction.
+Something to Share
+Occasionally I'll work the bar at Angel's Share. The tavern is known for being the center of information in Mondstadt.
+Interesting Things
+What? Why do you ask? ...It's an owl, quietly watching its prey from the darkness, waiting for the perfect moment to strike... Flawless.
+About Kaeya
+Kaeya? You can only trust half of what he says... at best.
+About Lisa
+I believe Lisa has the potential to become the most reliable of the knights. If she's willing.
+About Jean: Enemies
+Trifling matters can become Jean's greatest enemy.
+About Jean: Responsibilities
+Her unparalleled sense of responsibility is the sole reason why she still hasn't found her true calling.
+About Mona
+The land of Mondstadt, by the Anemo Archon's grace, is bountiful. I see no need for the harvest forecasts of astrologers.
+About Diona
+Diona's attitude towards me is... how should I put it? Rather rigid. I've yet to find the opportunity to speak with her properly. I'm not sure if it's an issue with my family line or— Oh? It's not? She simply despises alcohol? Huh... I never thought I'd come across another bartender like myself in Mondstadt.
+About Varka
+Grand Master Varka... While I understand his disposition, I can make no sense of his actions. ...I—I've said too much already. I've long since left the Knights of Favonius. Forget I said anything.
+About Eula
+Ah, yes... I've heard about her. She has her own convictions. Her determination to liberate herself from the shackles of her clan is praiseworthy. But, she's... joined the Knights of Favonius.
+More About Diluc: I
+You have business to attend to?
+More About Diluc: II
+Huh? Knights of Favonius? ...I have nothing to say about them. We have different views is all.
+More About Diluc: III
+It's been a long while since I played chess with anyone but my butler. I just so happen to have a moment. Care to play a round?
+More About Diluc: IV
+Checkmate! ...Still, it's been a while since someone tested me this much.
+More About Diluc: V
+Not bad. Be it chess or combat, you always seem to surprise me. Hm, working with you is quite the novelty. So... I look forward to continuing to work with you, partner.
+Diluc's Hobbies
+The artwork in the manor? It's not mine. It's a collection that belonged to my late father.
+Diluc's Troubles
+The darkness that seethes with evil, full of demons that must be vanquished, will take more than a blade to be torn asunder.
+Favorite Food
+You want to know what's in my glass? It's... grape juice. My drink of choice.
+Least Favorite Food
+I don't like alcohol. It's just... I don't like how it feels in my mouth...
+Receiving a Gift: I
+Exquisite. Unforgettable flavors.
+Receiving a Gift: II
+I can see the chef put their heart into this one. A fine dish.
+Receiving a Gift: III
+...Umm, thanks.
+Birthday
+Happy birthday. This is an important day for you. So tell me, what is it you wish for? If it is within my power to bestow it upon you, I will give it my consideration.
+Feelings About Ascension: Intro
+Power is necessary if we are to meet our objectives.
+Feelings About Ascension: Building Up
+What lies in wait for us? I rarely stop to think about it.  No matter what dares to stand in my way, I must press forward.
+Feelings About Ascension: Climax
+I've become stronger... Though it is still not enough, I will always face the darkness.  For dawn to come, there must be those who dare to pierce the darkness with their light.
+Feelings About Ascension: Conclusion
+I used to believe... if I was to stamp out evil, I would have to walk alone in darkness. However, seeing your perseverance, I know I was wrong. Friend... I owe you my thanks.
+Elemental Skill: I
+Hmph.
+Elemental Skill: II
+Hah!
+Elemental Skill: III
+Haah!——
+Elemental Skill: I
+Huh!
+Elemental Skill: II
+Hyah!
+Elemental Skill: III
+Haah!—
+Elemental Burst: I
+Your verdict is...!
+Elemental Burst: II
+Burn!
+Elemental Burst: III
+Time for — retribution!
+Elemental Burst: I
+Flames, purge!
+Elemental Burst: II
+Lay waste to the wicked!
+Elemental Burst: III
+Dawn, break forth!
+Opening Treasure Chest: I
+Hmph, better than nothing.
+Opening Treasure Chest: II
+I suppose this will do.
+Opening Treasure Chest: III
+We'll need more where that came from.
+Low HP: I
+Is that all you've got?
+Low HP: II
+Darn you!
+Low HP: III
+You will pay for that!
+Ally at Low HP: I
+Careful!
+Ally at Low HP: II
+Don't burn yourself out! Retreat!
+Fallen: I
+Where did I go wrong...
+Fallen: II
+There can be no excuse... for defeat...
+Fallen: III
+My flame... has been... extinguished...
+Heavy Hit Taken: I
+Urgh!
+Joining Party: I
+Let's go.
+Joining Party: II
+What's our objective?
+Joining Party: III
+Let's finish this, swiftly.

@@ -1,0 +1,12 @@
+Kameradschaftliche Pflichten
+Verkürzt beim Schützen vor Angriffen durch <color=#FFD780FF>Schild des lodernden Segens</color> für Figuren außer Thoma die Abklingzeit von Thomas eigenem <color=#FFD780FF>Lodernder Segen</color> um 3 s und die Abklingzeit von <color=#FFD780FF>Rote Ooyoroi</color> um 3 s. 20 s Abklingzeit.
+Beflissener Assistent
+Verlängert die Dauer von <color=#FFD780FF>Rote Ooyoroi</color> um 3 s.
+Bestimmtheit vor dem Feind
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Lodernder Segen</color> um 3. Höchststufe 15.
+Längerfristige Planung
+Stellt Thoma nach Anwendung von <color=#FFD780FF>Rote Ooyoroi</color> 15 Punkte Elementarenergie wieder her.
+Weitreichende Flammen
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Rote Ooyoroi</color> um 3. Höchststufe 15.
+Brennendes Herz
+Erhöht beim Erhalten oder Aktualisieren von <color=#FFD780FF>Schild des lodernden Segens</color> den mit Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall aller Truppenmitglieder verursachten Schaden 6 s lang um 15 %.

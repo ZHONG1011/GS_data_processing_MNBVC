@@ -1,0 +1,12 @@
+Gebündeltes Vakuumfeld
+Ermöglicht 1 weitere Anwendung von <color=#FFD780FF>Windseelenschaffung – Experiment 6308</color>.
+Beth – Ungezügelt
+Verlängert die Wirkungsdauer von <color=#FFD780FF>Verbotene Windseelenschaffung – Isomorpher Typ 75-II</color> um 2 s.
+Bestnote
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Windseelenschaffung – Experiment 6308</color> um 3. Höchststufe 15.
+Besessenheit
+Verkürzt die Abklingzeit von <color=#FFD780FF>Windseelenschaffung – Experiment 6308</color> alle 7 Standardangriffe oder heftige Schläge, die Saccharose bei Gegnern erzielt, zufällig um 1 bis 7 s. Ein Treffer kann alle 0,1 s gezählt werden.
+Gewissenhaftes Handwerk
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Verbotene Windseelenschaffung – Isomorpher Typ 75-II</color> um 3. Höchststufe 15.
+Chaotische Entropie
+Erhöht den jeweiligen Elementar-SCH aller Truppenmitglieder bei einer Elementarumwandlung von <color=#FFD780FF>Verbotene Windseelenschaffung – Isomorpher Typ 75-II</color> während der Wirkungsdauer der Fähigkeit um 20 %.

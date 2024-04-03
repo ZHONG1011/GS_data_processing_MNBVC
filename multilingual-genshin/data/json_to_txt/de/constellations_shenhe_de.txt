@@ -1,0 +1,12 @@
+Klarheiten im Herzen
+Ermöglicht 1 weitere Anwendung von <color=#FFD780FF>Mantra der Geisterbeschwörung</color>.
+Fixierung des Geistes
+Verlängert die Wirkungsdauer von <color=#FFD780FF>Geisterbefehligung der göttlichen Jungfrau</color> um 6 s. Erhöht KSCH des <color=#99FFFFFF>Kryo-Schadens</color> aktueller Figuren im Wirkungsbereich um 15 %.
+Zurückgezogenheit
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Mantra der Geisterbeschwörung</color> um 3. Höchststufe 15.
+Durchdringender Blick
+Verleiht Shenhe beim Auslösen des Schadensbonus von „Eisfeder“ durch Figuren im von Shenhe selbst verliehenen Zustand <color=#FFD780FF>Eisfeder</color> eine Stapelung „Frosthimmelmantra“: · Entfernt beim Auslösen von <color=#FFD780FF>Mantra der Geisterbeschwörung</color> durch Shenhe alle Stapelungen von Frosthimmelmantra und erhöht den mit diesem Mantra der Geisterbeschwörung verursachten Schaden je nach der Menge an entfernten Stapelungen um 5 %. · Dieser Effekt ist 50-fach stapelbar und hält 60 s.
+Erlangung von Göttlichkeit
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Geisterbefehligung der göttlichen Jungfrau</color> um 3. Höchststufe 15.
+Mystische Verlassenheit
+Verringert beim Auslösen von <color=#FFD780FF>Eisfeder</color> mit dem Schaden von Standardangriffen und heftigen Schlägen von Figuren keine Stapelungen von Eisfeder mehr.

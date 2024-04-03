@@ -1,0 +1,12 @@
+Standardangriff: Teure Geschosse
+<color=#FFD780FF>Standardangriff</color> Verschießt Edelsteine, die <color=#FFE699FF>Geo-Schaden</color> verursachen. Gibt Ningguang bei Treffern eine Sternjade.  <color=#FFD780FF>Heftiger Schlag</color> Verbraucht Ausdauer und wirft einen gewaltigen Edelstein, der <color=#FFE699FF>Geo-Schaden</color> verursacht. Verschießt während eines heftigen Schlags bei Vorhandensein von Sternjade die gesamte Sternjade und verursacht zusätzlichen Schaden.  <color=#FFD780FF>Angriff aus dem Fall</color> Konzentriert die Kraft des Gesteins, schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen <color=#FFE699FF>Geo-Flächenschaden</color>.
+Jadeschirm
+Errichtet einen stabilen Jadeschirm aus Gold, Obsidian und dem Willen eines Kämpfers, der <color=#FFE699FF>Geo-Flächenschaden</color> verursacht.  <color=#FFD780FF>Jadeschirm</color> · Hält gegnerische Geschosse ab. · Beständigkeit hängt von Ninguangs max. LP ab.  Der Jadeschirm gilt als <color=#FFE699FF>Geo-Objekt</color>, hält einen Teil Angriffe ab und kann nicht erklommen werden. Zu einem Zeitpunkt kann nur ein Jadeschirm existieren.  <i>Leuchtend wie die Sterne am Himmel, zusammengesetzt aus wertvoller Jade.</i>
+Sternensplitter
+Ningguang sammelt unzählige Edelsteine, die auf einen Schlag auf Gegner in der Umgebung zufliegen und hohen <color=#FFE699FF>Geo-Schaden</color> verursachen. Lässt einen eventuell anwesenden Jadeschirm in der Nähe bei Anwendung von Sternensplitter zusätzlich viele kleine Edelsteine abschießen.  <i>Die Sterne zerbrechen in Tausende Teile.</i>
+Ausweichplan
+Ningguang verbraucht bei Vorhandensein von Sternjade für die Anwendung heftiger Schläge keine Ausdauer.
+Rücklagen für alle Fälle
+Erhöht den <color=#FFE699FF>Geo-Schaden</color> von Figuren, die den <color=#FFD780FF>Jadeschirm</color> durchdringen, 10 s lang um 12 %.
+Edelsteinhort
+Zeigt alle <color=#FFD780FF>Erzadern mit zum Schmieden geeignetem Erz</color> in der Nähe auf der Minikarte an.

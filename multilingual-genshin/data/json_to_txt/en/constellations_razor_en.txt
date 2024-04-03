@@ -1,0 +1,12 @@
+Wolf's Instinct
+Picking up an Elemental Orb or Particle increases Razor's DMG by 10% for 8s.
+Suppression
+Increases CRIT Rate against opponents with less than 30% HP by 10%.
+Soul Companion
+Increases the Level of <color=#FFD780FF>Lightning Fang</color> by 3. Maximum upgrade level is 15.
+Bite
+#When casting <color=#FFD780FF>Claw and Thunder</color> ({LAYOUT_MOBILE#Tap}{LAYOUT_PC#Press}{LAYOUT_PS#Press}), opponents hit will have their DEF decreased by 15% for 7s.
+Sharpened Claws
+Increases the Level of <color=#FFD780FF>Claw and Thunder</color> by 3. Maximum upgrade level is 15.
+Lupus Fulguris
+Every 10s, Razor's sword charges up, causing the next Normal Attack to release lightning that deals 100% of Razor's ATK as <color=#FFACFFFF>Electro DMG</color>. When Razor is not using <color=#FFD780FF>Lightning Fang</color>, a lightning strike on an opponent will grant Razor an Electro Sigil for <color=#FFD780FF>Claw and Thunder</color>.

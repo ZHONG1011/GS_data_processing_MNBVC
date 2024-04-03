@@ -1,0 +1,12 @@
+Normal Attack: Tempered Sword
+<color=#FFD780FF>Normal Attack</color> Performs up to 4 consecutive strikes.  <color=#FFD780FF>Charged Attack</color> Drains Stamina over time to perform continuous slashes. At the end of the sequence, performs a more powerful slash.  <color=#FFD780FF>Plunging Attack</color> Plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.
+Searing Onslaught
+Performs a forward slash that deals <color=#FF9999FF>Pyro DMG</color>.  This skill can be consecutively used 3 times. Enters CD if not cast again within a short period.  <i>The slashes represent the values that Diluc holds dear: one for justice, one for courage, and one for duty.</i>
+Dawn
+Releases intense flames to knock back nearby opponents, dealing <color=#FF9999FF>Pyro DMG</color>. The flames then converge into the weapon, summoning a Phoenix that flies forward and deals massive <color=#FF9999FF>Pyro DMG</color> to all opponents in its path. The Phoenix explodes upon reaching its destination, causing a large amount of <color=#FF9999FF>AoE Pyro DMG</color>. The searing flames that run down his blade cause it to be infused with <color=#FF9999FF>Pyro</color>.  <i>The only reason to walk in the darkness is to light it up. Behold, that fleeing light in the dead of night is the herald of the coming dawn.</i>
+Relentless
+Diluc's Charged Attack Stamina Cost is decreased by 50%, and its duration is increased by 3s.
+Blessing of Phoenix
+The <color=#FF9999FF>Pyro Infusion</color> provided by <color=#FFD780FF>Dawn</color> lasts for 4s longer. Additionally, Diluc gains 20% <color=#FF9999FF>Pyro DMG Bonus</color> during the duration of this effect.
+Tradition of the Dawn Knight
+Refunds 15% of the ore used when crafting Claymore-type weapons.

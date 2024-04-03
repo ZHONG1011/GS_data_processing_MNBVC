@@ -1,0 +1,114 @@
+Hello
+Aloy here. I don't know this world, but my arrows are sharp and my bow's ready. If your party needs help, I'll do what I can.
+Chat: Moving Out
+Come on. Enough standing around, let's keep moving.
+Chat: Help
+Let's get going. There are people who need our help.
+When It Rains
+Rain. One way to wash off the grime.
+After the Rain
+Sky's running out of rain for now. Time to dry off.
+When It Snows
+The world always seems quieter when it snows.
+When It's Windy
+Wind's kicking up again. Feels good to breathe it in.
+When the Wind Is Blowing
+Wind is really whipping now. My face feels raw.
+Good Morning
+Morning. World's starting to stir again. Me too, I guess.
+Good Afternoon
+Day's half over, but we still have a lot to do.
+Good Evening
+Sunset. We'll be under the stars soon.
+Good Night
+Night's here. Time to rest, unless we're going on by starlight.
+About Aloy
+I grew up an outcast, and it wasn't much fun. Even though I'm a stranger here, people are friendlier than the tribe that was supposed to raise me. It's... nice.
+About Us: Action
+Everything I do is in the service of life, not death. That's why I'm here with you.
+About Us: Oath
+An oath seems like a formality. But if you want mine, you've got it.
+About Us: Moving Forward
+I'll do whatever it takes to finish this with you. I won't hesitate. I won't falter.
+Something to Share
+If I have to share something, it'll be my bow... in the service of people who need the help.
+Interesting Things
+This land has a past full of secrets, just like my world. I'll uncover all of it, if I have enough time.
+More About Aloy: I
+I'm not much for talking about myself. The mission is what's important.
+More About Aloy: II
+I never had parents. But a man named Rost raised me. He was stern, but kind and generous. And he trained me well. I miss him.
+More About Aloy: III
+I spent my whole life looking for my mother and never found her, not really. But I found ancient messages from the woman I was... cloned from. It felt like she knew me. And how to inspire me.
+More About Aloy: IV
+When I grew up, I didn't have any friends. Later in my travels, I made some. But I left that world before we could grow close. That's why I'm glad to have spent time with you.
+More About Aloy: V
+Trust doesn't come easy for me, but I know I can trust you. You're a true friend, and I don't say that often.
+Aloy's Hobbies
+Not sure if I have a hobby, unless you count reading things from the past. So, history... I guess?
+Aloy's Troubles
+One world needed saving. Now another. There's never time to rest.
+Favorite Food
+I'm not picky. Anything's better than traveling on an empty stomach.
+Least Favorite Food
+Had an Oseram stew once that was so thick you could pave a road with it. Ugh.
+Birthday
+Never put much stock in birthdays. Where I come from, it's a time to celebrate your mother, not yourself. Even so, I wish you a, uh... happy day.
+Feelings About Ascension: Intro
+All right. Feels like we're making progress, but we can't stop now.
+Feelings About Ascension: Building Up
+Getting better. Getting stronger. Always a good thing.
+Feelings About Ascension: Climax
+No matter how good a hunter you are, you can always get better. Never rest. Never stop learning.
+Feelings about Ascension: Conclusion
+When we started out, you were just another stranger in a world I didn't understand. But after everything we've been through, I can say this for certain: My bow is yours, now and always.
+Elemental Skill: I
+This'll pack a punch!
+Elemental Skill: II
+Got something for you!
+Elemental Skill: III
+Ever seen one of these?
+Elemental Burst: I
+You're stuck now!
+Elemental Burst: II
+This is a new one.
+Elemental Burst: III
+The hunt is on!
+Deploying Wind Glider: I
+Ha! This thing is fun!
+Opening Treasure Chest: I
+These things look like they could come in handy.
+Opening Treasure Chest: II
+Let's see, that looks edible... and this looks useful.
+Opening Treasure Chest: III
+Who put all these things here?
+Low HP: I
+This one's a fighter...
+Low HP: II
+Come on, gotta find that weak spot...
+Low HP: III
+I'm out of my depth...
+Ally at Low HP: I
+Watch out!
+Ally at Low HP: II
+Don't get reckless!
+Fallen: I
+I failed...
+Fallen: II
+I'm down... I'm sorry...
+Fallen: III
+Can't get up... It's over...
+Light Hit Taken: I
+Ugh!
+Light Hit Taken: II
+I got this.
+Heavy Hit Taken: I
+Argh!
+Heavy Hit Taken: II
+Should've known this wouldn't be easy...
+Joining Party: I
+Where to this time?
+Joining Party: II
+I'm Aloy. Ready for the hunt.
+Joining Party: III
+Need help? I'm here.

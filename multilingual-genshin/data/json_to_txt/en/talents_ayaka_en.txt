@@ -1,0 +1,14 @@
+Normal Attack: Kamisato Art - Kabuki
+<color=#FFD780FF>Normal Attack</color> Performs up to 5 rapid strikes.  <color=#FFD780FF>Charged Attack</color> Consumes a certain amount of Stamina to unleash a flurry of sword ki.  <color=#FFD780FF>Plunging Attack</color> Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.
+Kamisato Art: Hyouka
+Summons blooming ice to launch nearby opponents, dealing <color=#99FFFFFF>AoE Cryo DMG</color>.  <i>"Clouds shroud the moonlit night. Longing descends like a fog, filling the one detained with wanderlust."</i>
+Kamisato Art: Senho
+<color=#FFD780FF>Alternate Sprint</color> Ayaka consumes Stamina and cloaks herself in a frozen fog that moves with her.  In Senho form, she moves swiftly upon water. When she reappears, the following effects occur: ·Ayaka unleashes frigid energy to apply <color=#99FFFFFF>Cryo</color> on nearby opponents. ·Coldness condenses around Ayaka's blade, infusing her attacks with <color=#99FFFFFF>Cryo</color> for a brief period.  <i>"Feathers fleeting wet / the white heron treads water / a sight without flaw"</i>
+Kamisato Art: Soumetsu
+Summons forth a snowstorm with flawless poise, unleashing a Frostflake Seki no To that moves forward continuously.  <color=#FFD780FF>Frostflake Seki no To</color> ·A storm of whirling icy winds that slashes repeatedly at every enemy it touches, dealing <color=#99FFFFFF>Cryo DMG</color>. ·The snowstorm explodes after its duration ends, dealing <color=#99FFFFFF>AoE Cryo DMG</color>.  <i>"The blizzard veils the heron's thoughts, pity heavy in its heart."</i>
+Amatsumi Kunitsumi Sanctification
+After using <color=#FFD780FF>Kamisato Art: Hyouka</color>, Kamisato Ayaka's Normal and Charged Attacks deal 30% increased DMG for 6s.
+Kanten Senmyou Blessing
+When the Cryo application at the end of <color=#FFD780FF>Kamisato Art: Senho</color> hits an opponent, Kamisato Ayaka gains the following effects: ·Restores 10 Stamina ·Gains 18% <color=#99FFFFFF>Cryo DMG Bonus</color> for 10s.
+Fruits of Shinsa
+When Ayaka crafts Weapon Ascension Materials, she has a 10% chance to receive double the product.

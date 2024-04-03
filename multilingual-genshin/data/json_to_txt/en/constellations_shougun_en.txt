@@ -1,0 +1,12 @@
+Ominous Inscription
+<color=#FFD780FF>Chakra Desiderata</color> will gather Resolve even faster. When <color=#FFACFFFF>Electro</color> characters use their Elemental Bursts, the Resolve gained is increased by 80%. When characters of other Elemental Types use their Elemental Bursts, the Resolve gained is increased by 20%.
+Steelbreaker
+While using Musou no Hitotachi and in the Musou Isshin state applied by <color=#FFD780FF>Secret Art: Musou Shinsetsu</color>, the Raiden Shogun's attacks ignore 60% of opponents' DEF.
+Shinkage Bygones
+Increases the Level of <color=#FFD780FF>Secret Art: Musou Shinsetsu</color> by 3. Maximum upgrade level is 15.
+Pledge of Propriety
+When the <color=#FFD780FF>Musou Isshin</color> state applied by <color=#FFD780FF>Secret Art: Musou Shinsetsu</color> expires, all nearby party members (excluding the Raiden Shogun) gain 30% bonus ATK for 10s.
+Shogun's Descent
+Increases the Level of <color=#FFD780FF>Transcendence: Baleful Omen</color> by 3. Maximum upgrade level is 15.
+Wishbearer
+While in the <color=#FFD780FF>Musou Isshin</color> state applied by <color=#FFD780FF>Secret Art: Musou Shinsetsu</color>, attacks by the Raiden Shogun that are considered part of her Elemental Burst will decrease all nearby party members' (not including the Raiden Shogun herself) Elemental Burst CD by 1s when they hit opponents. This effect can trigger once every 1s and can trigger a total of 5 times during Musou Isshin's duration.

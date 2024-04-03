@@ -1,0 +1,13 @@
+Magic Guide
+Version 12. A reprint featuring corrections to Version 11 and brand-new additions based on recent developments.
+ This version of the Magic Guide generated much controversy when published. In addition to the defiance of basic common sense seen in Chapter VII: Principles of the Anemo Element, errors can also be observed even concerning the basic principles of the Hydro and Electro elements. Evidently, the book was not peer-reviewed before publishing. Nevertheless, the book is still the most authoritative guide to magic in existence. 
+Bane of Storm and Tide
+Increases DMG against opponents affected by Hydro or Electro by <color=#99FFFFFF>12%</color>.
+Bane of Storm and Tide
+Increases DMG against opponents affected by Hydro or Electro by <color=#99FFFFFF>15%</color>.
+Bane of Storm and Tide
+Increases DMG against opponents affected by Hydro or Electro by <color=#99FFFFFF>18%</color>.
+Bane of Storm and Tide
+Increases DMG against opponents affected by Hydro or Electro by <color=#99FFFFFF>21%</color>.
+Bane of Storm and Tide
+Increases DMG against opponents affected by Hydro or Electro by <color=#99FFFFFF>24%</color>.

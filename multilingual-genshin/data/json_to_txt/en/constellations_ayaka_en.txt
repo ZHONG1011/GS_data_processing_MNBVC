@@ -1,0 +1,12 @@
+Snowswept Sakura
+When Kamisato Ayaka's Normal or Charged Attacks deal <color=#99FFFFFF>Cryo DMG</color> to opponents, it has a 50% chance of decreasing the CD of <color=#FFD780FF>Kamisato Art: Hyouka</color> by 0.3s. This effect can occur once every 0.1s.
+Blizzard Blade Seki no To
+When casting <color=#FFD780FF>Kamisato Art: Soumetsu</color>, unleashes 2 smaller additional Frostflake Seki no To, each dealing 20% of the original storm's DMG.
+Frostbloom Kamifubuki
+Increases the Level of <color=#FFD780FF>Kamisato Art: Soumetsu</color> by 3. Maximum upgrade level is 15.
+Ebb and Flow
+Opponents damaged by <color=#FFD780FF>Kamisato Art: Soumetsu</color>'s Frostflake Seki no To will have their DEF decreased by 30% for 6s.
+Blossom Cloud Irutsuki
+Increases the Level of <color=#FFD780FF>Kamisato Art: Hyouka</color> by 3. Maximum upgrade level is 15.
+Dance of Suigetsu
+Kamisato Ayaka gains Usurahi Butou every 10s, increasing her Charged Attack DMG by 298%. This buff will be cleared 0.5s after Ayaka's Charged ATK hits an opponent, after which the timer for this ability will restart.

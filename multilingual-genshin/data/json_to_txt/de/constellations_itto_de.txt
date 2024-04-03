@@ -1,0 +1,12 @@
+Hör gut zu!
+Verleiht Arataki Itto nach Anwendung von <color=#FFD780FF>Schrecklicher Oni-König – Itto bricht vor!</color> 2 Stapelungen des Effekts „superstarke Superkraft“. Verleiht Arataki Itto 1 s später 1,5 s lang alle 0,5 s jeweils 1 Stapelung des Effekts „superstarke Superkraft“.
+Sieh gut her!
+Verkürzt die Abklingzeit von <color=#FFD780FF>Schrecklicher Oni-König – Itto bricht vor!</color> nach dem Auslösen dieser Fähigkeit für jede Figur in der Truppe, die die <color=#FFE699FF>Geo-Kraft</color> beherrscht, um 1,5 s und stellt Arataki Itto 6 Punkte Elementarenergie wieder her. Verkürzt die Abklingzeit auf diese Weise um bis zu 4,5 s und stellt bis zu 18 Punkte Elementarenergie wieder her.
+Bulle im Anmarsch
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Masatsu Zetsugi – Akaushi-Wurf!</color> um 3. Höchststufe 15.
+Brot und Wasser
+Erhöht nach dem Ende des durch <color=#FFD780FF>Schrecklicher Oni-König – Itto bricht vor!</color> entstandenen Zustands „wütender Oni-König“ die VTD aller Truppenmitglieder in der Nähe 10 s lang um 20 % und ihren ANG um 20 %.
+Jahrzente des Ruhms in Hanamizaka
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Schrecklicher Oni-König – Itto bricht vor!</color> um 3. Höchststufe 15.
+Arataki Itto, höchstpersönlich!
+Erhöht den KSCH von heftigen Schlägen von Arataki Itto um 70 %. Verbraucht außerdem bei Anwendung von „Arataki Kesagiri“ mit einer Wahrscheinlichkeit von 50 % keine „superstarke Superkraft“.

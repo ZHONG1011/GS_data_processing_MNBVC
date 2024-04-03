@@ -1,0 +1,13 @@
+Traveler's Handy Sword
+A handy steel sword which contains scissors, a magnifying glass, tinder, and other useful items in its sheath.
+ A reliable and balanced sword made of fine steel. The one downside is that the partial-tang design renders it less durable than its full-tang counterparts. That said, the partial tang creates space in the hilt for hidden knives, scissors, tinder, and other objects. Hence the name, Traveler's Handy Sword. It contains all sorts of handy items for travelers. 
+Journey
+Each Elemental Orb or Particle collected restores <color=#99FFFFFF>1%</color> HP.
+Journey
+Each Elemental Orb or Particle collected restores <color=#99FFFFFF>1.25%</color> HP.
+Journey
+Each Elemental Orb or Particle collected restores <color=#99FFFFFF>1.5%</color> HP.
+Journey
+Each Elemental Orb or Particle collected restores <color=#99FFFFFF>1.75%</color> HP.
+Journey
+Each Elemental Orb or Particle collected restores <color=#99FFFFFF>2%</color> HP.

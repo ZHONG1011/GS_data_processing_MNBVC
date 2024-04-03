@@ -1,0 +1,12 @@
+Blick aus der Finsternis
+Oz wacht mithilfe der Krähenaugen über Fischl, selbst wenn er nicht anwesend ist. Oz greift über seine Krähenaugen an, wenn Fischl Gegner mit ihrem Standardangriff angreift, und verursacht Schaden in Höhe von 22 % ANG.
+Federn der Vollstreckung
+Verursacht bei Anwendung von <color=#FFD780FF>Schutz der Dunkelheit</color> zusätzlich Schaden in Höhe von 200 % ANG und vergrößert den Wirkungsbereich um 50 %.
+Tiefschwarze Flügel
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Schutz der Dunkelheit</color> um 3. Höchststufe 15.
+Fantastereien der Prinzessin
+Fügt allen Gegnern in der Umgebung bei Anwendung von <color=#FFD780FF>Mitternachtstraum</color> <color=#FFACFFFF>Elektro-Schaden</color> in Höhe von 222 % ANG zu. Stellt Fischl nach Ablauf der Dauer des Effekts 20 % LP wieder her.
+Offenbarung der Nacht
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Mitternachtstraum</color> um 3. Höchststufe 15.
+Vogel der ewigen Nacht
+Verlängert die Dauer des Vorhandenseins von Oz um 2 s, greift gemeinsam mit der aktuellen eigenen Figur an und verursacht <color=#FFACFFFF>Elektro-Schaden</color> in Höhe von 30 % von Fischls ANG.

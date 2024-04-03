@@ -1,0 +1,12 @@
+Tidal Illusion
+Every time <color=#FFD780FF>Icetide Vortex</color>'s Grimheart stacks are consumed, Eula's Physical DMG is increased by 30% for 6s. Each stack consumed will increase the duration of this effect by 6s up to a maximum of 18s.
+Lady of Seafoam
+#Decreases the CD of <color=#FFD780FF>Icetide Vortex</color>'s Holding Mode, rendering it identical to {LAYOUT_MOBILE#Tapping}{LAYOUT_PC#Press}{LAYOUT_PS#Press} CD.
+Lawrence Pedigree
+Increases the Level of <color=#FFD780FF>Glacial Illumination</color> by 3. Maximum upgrade level is 15.
+The Obstinacy of One's Inferiors
+Lightfall Swords deal 25% increased DMG against opponents with less than 50% HP.
+Chivalric Quality
+Increases the Level of <color=#FFD780FF>Icetide Vortex</color> by 3. Maximum upgrade level is 15.
+Noble Obligation
+Lightfall Swords created by <color=#FFD780FF>Glacial Illumination</color> start with 5 stacks of energy. Normal Attacks, Elemental Skills, and Elemental Bursts have a 50% chance to grant the Lightfall Sword an additional stack of energy.

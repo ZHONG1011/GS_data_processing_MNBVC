@@ -1,0 +1,13 @@
+End of the Line
+This seems to be a now-extinct fish. Its body is sufficiently elastic that a string may be attached to it to let it serve as a bow.
+ Gurgling water once flowed into the yellow sand, but that was a long time ago. The great being would follow the brontides and divine will into the desert in latter days, but few would survive in the end. The fish that once shot forth like an arrow across a huge lake on the plateau, That would stretch out as straight as a spear, cruising back and forth between the sacred sites, Would see its stream seep into the sand, its lake shrink into a puddle, Till at last, it wound up curled in a little plash, at the mercy of passing pilgrims.  The lesson of this story is as such: As long as you are pious and kind, you can get a fish even in the midst of the desert sands.
+Net Snapper
+Triggers the Flowrider effect after using an Elemental Skill, dealing <color=#99FFFFFF>80%</color> ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s.
+Net Snapper
+Triggers the Flowrider effect after using an Elemental Skill, dealing <color=#99FFFFFF>100%</color> ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s.
+Net Snapper
+Triggers the Flowrider effect after using an Elemental Skill, dealing <color=#99FFFFFF>120%</color> ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s.
+Net Snapper
+Triggers the Flowrider effect after using an Elemental Skill, dealing <color=#99FFFFFF>140%</color> ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s.
+Net Snapper
+Triggers the Flowrider effect after using an Elemental Skill, dealing <color=#99FFFFFF>160%</color> ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s.

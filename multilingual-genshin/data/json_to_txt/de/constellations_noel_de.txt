@@ -1,0 +1,12 @@
+Fürsorgliche Unterstützung
+Löst den Heileffekt von Brustpanzer mit einer Wahrscheinlichkeit von 100 % aus, wenn sowohl <color=#FFD780FF>Großreinigung</color> als auch <color=#FFD780FF>Brustpanzer</color> aktiv sind.
+Wirbelnde Magd
+Verringert Noelles Ausdauerverbrauch für heftige Schläge um 20 % und erhöht den Schaden um 15 %.
+Unverletzliche Magd
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Brustpanzer</color> um 3. Höchststufe 15.
+Zur Säuberung vorgesehen
+Fügt Gegnern in der Umgebung nach dem Ende des Effekts von <color=#FFD780FF>Brustpanzer</color> oder nach Zerstörung des Schildes <color=#FFE699FF>Geo-Schaden</color> in Höhe von 400 % ANG zu.
+Säuberungsexpertin des Ordens
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Großreinigung</color> um 3. Höchststufe 15.
+Putzfimmel
+<color=#FFD780FF>Großreinigung</color> erhöht den ANG zusätzlich um 50 % der VTD von Noelle. Verlängert die Wirkungsdauer für jeden während der Dauer besiegten Gegner um 1 s und insgesamt um bis zu 10 s.

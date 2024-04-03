@@ -1,0 +1,13 @@
+Eid des Scharfschützen
+Dieser perfekt ausgearbeitete Bogen gehörte angeblich einst einem meisterlichen Bogenschützen. Aufgrund seines starken Geruchs eignet er sich aber nicht gut zum Jagen.
+ Vor langer Zeit in einem weit entfernten Land trugen sich folgende Ereignisse zu, eine alte Tragödie, in der Brüder zu Waffen griffen und sich gegeneinander wandten. Einer von ihnen war ein guter Bogenschütze. Nachdem er eine demütigende Niederlage erlitten hatte, schwor er sich eins: Solange mein Pfeil meine Gegner nicht durchbohrt und der letzte Tropfen Blut sie nicht verlassen hat, werde ich meine Füße nicht waschen. Er verstarb eines Tages an einer Infektion aufgrund mangelnder Hygiene. 
+Präzision
+Erhöht den Schwachstellen zugefügten Schaden um <color=#99FFFFFF>24 %</color>.
+Präzision
+Erhöht den Schwachstellen zugefügten Schaden um <color=#99FFFFFF>30 %</color>.
+Präzision
+Erhöht den Schwachstellen zugefügten Schaden um <color=#99FFFFFF>36 %</color>.
+Präzision
+Erhöht den Schwachstellen zugefügten Schaden um <color=#99FFFFFF>42 %</color>.
+Präzision
+Erhöht den Schwachstellen zugefügten Schaden um <color=#99FFFFFF>48 %</color>.

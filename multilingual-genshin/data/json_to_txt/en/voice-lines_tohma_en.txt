@@ -1,0 +1,144 @@
+Hello
+It's good to meet you at last, Traveler. I've been hearing about you for a long time now. I'm your new buddy, Thoma — as long as that's okay with you, of course!
+Chat: Thoma's Treat
+Hey... how about we go for a nice meal some time? My treat, of course.
+Chat: Concern
+I feel like there's something I forgot to do... hmm, I tidied the courtyard, put the tea on... Eh, it's probably just my mind playing tricks on me.
+Chat: Mora
+I really did spend a lot recently, only 10 Mora left... Still, 10 Mora's better than no Mora!
+When It Rains
+Where'd this rain come from? Are you gonna be okay? Here, I'll lend you my coat...
+When Thunder Strikes
+You don't wanna be out in open country in this kind of weather. You'll get struck by lightning for sure.
+When It Snows
+Don't run on the ice... 'cause if you fall down, I won't help you up, you gotta learn somehow.
+When the Sun Is Out
+Lovely weather we're having! Will you join me for a walk?
+Good Morning
+Morning! If you're free, why not come with me to the market? The vegetables are freshest earlier in the day.
+Good Afternoon
+On the lunch menu today, we have Sakura Tempura and Tricolor Dango! Here, there's some for you, some for Paimon, and I also put some aside for milady and the man of the clan himself. Ah, wait, I forgot someone... There's none for me...
+Good Evening
+Come quick, we gotta get down to the market — they slash the prices on fish around this time of day. Oh, and if you find something that you just can't do without, I'll help you haggle the price down.
+Good Night
+Okay, good night. You had a busy day today, you should get some rest, too. Don't stay up late.
+About Thoma: Housekeeper
+It was never Ayaka or Ayato's intention to make me the housekeeper, I volunteered. I like this kind of work. Putting everything in order gives me a great sense of achievement, and based on everyone's reactions... Yeah, I think I do a pretty good job.
+About Thoma: Meaning
+For me, housework is about keeping a space clean and tidy, so that everyone who lives there has a smile on their face. And now... it looks like I'm responsible for another smile. I'll do my best to deliver!
+About Us: Eating Alone
+Hey, how come you're eating here all alone? ...Uh, is it okay if I join you? Or did you just want some space?
+About Us: Oath
+If you hadn't put yourself out there during the Vision Hunt Ceremony and taken on the Raiden Shogun all by yourself, I would've lost my Vision, and with it all my aspirations. I've been thinking about this a lot, and it seems like there's only one way I could ever properly repay you...   I, Thoma, give to you my weapon and my loyalty, and I promise to fight for you, no matter what.
+About the Vision
+Those that receive Visions should look after them. I certainly don't plan on losing mine.
+Something to Share
+I've gotten to know all kinds of people over the years, and I'd say that Inazumans are more particular about etiquette than Mondstadters. If you make sure you're always polite to people, it's much easier to get things done.
+Interesting Things: Tanuki
+I've always wanted to see a tanuki shapeshifting. They say it can change into all kinds of things, and that it likes to play pranks on passersby. It's a creature with a sense of humor, that's for sure.
+Interesting Things: Animals
+Are you an animal person, too? If you are, let me take you to the outskirts some time, it's great. I just need to give a whistle, and all these puppies and kittens will come out of nowhere and start strutting around your ankles, clamoring for your affection. Haha, just imagining it is already brightening my day.
+About Yae Miko
+Lady Miko? Wh—What about her? *sigh* Every time Miss Kamisato sends me out to deliver messages, my least-favorite destination is the Grand Narukami Shrine... Oh! N—Not because Lady Miko scares the bejeebers out of me, it's, uh... respect. Yes! She strikes respect deep into my heart, ahahahaha...
+About the Raiden Shogun: Comparison
+In my homeland of Mondstadt, almost everyone has great reverence for the Anemo Archon, Barbatos. But people in Inazuma feel a little differently toward the Shogun. How can I put this... They feel love, respect, gratitude... but also fear.
+About the Raiden Shogun: The Unknown
+Honestly, I don't harbor any resentment toward the Shogun. Yes, she almost took my Vision away, but ultimately that's just because of her unique perspective. Everyone has their own perspective, there's nothing strange about that.  The only thing I don't understand is her goal in doing so. What does she imagine eternity really looks like for Inazuma? And why is sacrificing her people's aspirations so necessary to achieve it? I can neither understand nor agree with her approach.
+About Beidou
+The captain of The Crux — a formidable woman indeed. She once promised to take me out onto the open ocean to get a look at the thunderstorm that seals off Inazuma from the outside world. It's a shame that to this day, I've never had the chance to take her up on the offer...
+About Kamisato Ayato
+As head of the Kamisato Clan, he's in a tough position. With all the political upheaval, he has to contend with public disquiet on one hand and a bunch of self-serving, degenerate public officials on the other. It's best not to dwell on it. All I can do is make sure to look out for him when he's at home.
+About Kamisato Ayaka
+Milady is in all respects a well-rounded person: erudite, compassionate, well-mannered, and elegant... The one thing she could do better is to speak her mind more. In fact, watch out for this the next time you're talking to her — sometimes, she looks like she's about to say something, but then she holds back. If that happens, keep asking her opinion, see if you can encourage her to open up a little.
+About Yoimiya
+Of Naganohara Fireworks fame? She's so easy to get along with. Super straightforward, just says whatever she thinks. Oh, and Naganohara fireworks are just incredible, you should take every chance you get to see them in action. Ah, on that note — here, have a coupon!
+About Sayu
+Ah Sayu, stubborn Sayu. I've asked her countless times to teach me ninjutsu, but she always refuses. She even goes out of her way to avoid me now... I'm just a student looking for a teacher, am I really that out of line?
+About Kujou Sara
+The Tenryou Commission General... Mm... Make sure to be extra careful if you have any dealings with her. She has a lot of power in her hands, and she's not very open to persuasion. Smiling and batting your eyelids certainly won't get you anywhere with her.
+About Arataki Itto
+Hmm... Word on the street is that he's quite a character — apparently, he even has youkai heritage. Have you met him? If you two are close, maybe you could introduce me sometime. It's good to make friends from all walks of life... youkai included!
+About Shikanoin Heizou
+Ho, that guy is a detective for the Tenryou Commission. He seems to have his own way of doing things — not the easiest person to get along with. Also... Any situation that involves a detective is probably not one that's going to end well. I think I'll keep on giving him a wide berth.
+About Jean
+Oh, so Jean from the Gunnhildr Clan is the Master of the Knights of Favonius now? She definitely deserves it, she's known all over for her impeccable conduct... Oh, just the "Acting" Grand Master? Haha, well, someone of her standing won't care about titles.
+About Eula
+You've had a run-in with Eula Lawrence before, huh? All I know is that their whole family are about the worst-tempered people you could ever meet. You're better off steering clear of them if you can help it. Ah, now I'm in a Mondstadt mood again... The memories.
+More About Thoma: I
+Anything I can lend a hand with? If something needs doing around the house or you're having some interpersonal strife, just say the word. Hmm? A conversation... I see, I see. That's a little different from what I'm used to, but I'm all for it.
+More About Thoma: II
+I'm not from Inazuma originally — I think I've told you that before, right? I took a boat all the way here from Mondstadt, found I liked the place, and was also lucky enough to meet the wonderful Kamisato siblings, so I just ended up staying.
+More About Thoma: III
+I get homesick once in a while, too, so I completely relate to all the international merchants on Ritou. I try to look out for them as much as I can. The difference between us is that they see themselves as just passing by, and have no intention of trying to integrate here. And because that's how they think, it becomes their reality. The majority of Inazumans will never see them as anything more than outsiders.
+More About Thoma: IV
+For some of the more conservatively minded people in Inazuma, the idea of an outlander working as a retainer for one of the Commissions is unthinkable. So there was a time when I was not that welcome here. I'm pretty sure I'd have been deported a long time ago without a couple of Kamisatos fighting my corner. I couldn't let the clan down after they'd been so kind to me, so I put in a lot of honest work, and eventually, everyone was finally able to accept me.
+More About Thoma: V
+I'm not sure if I should get into this, but... Ah, hopefully you won't mind. I went through a period where I really just wanted to go home — Mondstadt is my homeland, after all. But I was torn... It wouldn't be easy to leave Inazuma behind, either. I mean, just look how good the people here have been to me. The Kamisato Clan always has a room for me, and there are people I've met here that are like family. So, I went back and forth over it, and ultimately decided I'd stay in Inazuma. When I'm missing Mondstadt... I can just chat with you. You don't mind my rambling, do you?
+Thoma's Hobbies
+I've been really getting into stories about the unnatural recently. Especially ones about shapeshifting youkai — they're so fascinating. Before that, I was really into ninjutsu for a while, and before that... Hmm? You think I'm not dedicated enough? N—No! It's not like that, you got me all wrong!
+Thoma's Troubles
+I'm in a real pickle here. The chief is hosting a banquet for his friends tonight, and he says he wants me to splurge a little by cooking some Butter Crab. The only problem is that for the last two days, I haven't been able to buy crab anywhere! So, what, am I gonna have to dive into the ocean and grab them myself?
+Favorite Food
+Without a doubt, my favorite food is Rice Cake Soup. I like cooking up a big, delicious potful for everyone to share. It's a recipe for a good time.
+Least Favorite Food
+As far as food is concerned, I'm fine with anything. If we're counting beverages, though... I'm not very good with alcohol. Don't laugh, and before you say it — yes, I've wondered what this says about my identity as a Mondstadter. But, y'know... too much alcohol is bad for you, anyway. So not drinking is a good thing.
+Receiving a Gift: I
+Delicious! Could I get another bowl of rice?
+Receiving a Gift: II
+Um, are you free right now? Would you mind sharing some of your cooking tips with me?
+Receiving a Gift: III
+I don't think I've ever tasted anything like this... Oh, it's not too bad, though.
+Birthday
+Quick, come with me! I remembered it's your birthday, obviously, so I thought I'd throw you a proper party. There's food, there's drinks, and I invited a whole bunch of your friends, too. Hey, this is your birthday we're talking about! I wasn't about to let you spend it all alone!
+Feelings About Ascension: Intro
+Really? This'll make me stronger? You'd better not be kidding, I have stacks of laundry to do.
+Feelings About Ascension: Building Up
+It feels like... a fire inside of me has just begun to burn.
+Feelings About Ascension: Climax
+I have all of this power, but how should I use it? I need to give this one some serious thought.
+Feelings about Ascension: Conclusion
+Thank you for placing your trust in me. Your kindness warms my heart more than the brightest flame ever could. But not to worry, I've figured out what I want to do now. My strength is your shield, and I will always be here to protect you.
+Elemental Skill: I
+Fire it up!
+Elemental Skill: II
+Check this out~
+Elemental Skill: III
+Don't get too close!
+Elemental Burst: I
+Here's backup.
+Elemental Burst: II
+Supporting fire!
+Elemental Burst: III
+I got you covered.
+Opening Treasure Chest: I
+Ooh, what's in here?
+Opening Treasure Chest: II
+Mm! The fortune slip was right...
+Opening Treasure Chest: III
+Hehe, finders keepers.
+Low HP: I
+Hey! What was that for?
+Low HP: II
+I'm done for...
+Low HP: III
+*grimace* Right where it hurts...
+Ally at Low HP: I
+Don't despair, I'm here to help.
+Ally at Low HP: II
+What a mess... go on, take a rest.
+Fallen: I
+Time to go home...
+Fallen: II
+Take care, everyone...
+Fallen: III
+I couldn't save everybody...
+Heavy Hit Taken: I
+Ow ow ow...
+Heavy Hit Taken: II
+Stop it!
+Joining Party: I
+I guess the housework can wait.
+Joining Party: II
+Let's get out there and make some friends.
+Joining Party: III
+Where are we headed this time?

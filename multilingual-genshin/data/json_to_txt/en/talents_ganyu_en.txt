@@ -1,0 +1,12 @@
+Normal Attack: Liutian Archery
+<color=#FFD780FF>Normal Attack</color> Performs up to 6 consecutive shots with a bow.  <color=#FFD780FF>Charged Attack</color> Performs a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG. While aiming, an icy aura will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged: ·Charge Level 1: Fires off an icy arrow that deals <color=#99FFFFFF>Cryo DMG</color>. ·Charge Level 2: Fires off a Frostflake Arrow that deals <color=#99FFFFFF>Cryo DMG</color>. The Frostflake Arrow blooms after hitting its target, dealing <color=#99FFFFFF>AoE Cryo DMG</color>.  <color=#FFD780FF>Plunging Attack</color> Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+Trail of the Qilin
+Leaving a single Ice Lotus behind, Ganyu dashes backward, shunning all impurity and dealing <color=#99FFFFFF>AoE Cryo DMG</color>.  <color=#FFD780FF>Ice Lotus</color> ·Continuously taunts surrounding opponents, attracting them to attack it. ·Endurance scales based on Ganyu's Max HP. ·Blooms profusely when destroyed or once its duration ends, dealing <color=#99FFFFFF>AoE Cryo DMG</color>.  <i>"You saw me, you say? You must be mistaken. I was working overtime then."</i>
+Celestial Shower
+Coalesces atmospheric frost and snow to summon a Sacred Cryo Pearl that exorcises evil. During its ability duration, the Sacred Cryo Pearl will continuously rain down shards of ice, striking opponents within an AoE and dealing <color=#99FFFFFF>Cryo DMG</color>.  <i>Ganyu can bring down sweet rains as a matter of course. But against demons and heretics, they become bitter, freezing snow.</i>
+Undivided Heart
+After firing a Frostflake Arrow, the CRIT Rate of subsequent Frostflake Arrows and their resulting bloom effects is increased by 20% for 5s.
+Harmony Between Heaven and Earth
+<color=#FFD780FF>Celestial Shower</color> grants a 20% <color=#99FFFFFF>Cryo DMG Bonus</color> to active party members in the AoE.
+Preserved for the Hunt
+Refunds 15% of the ore used when crafting Bow-type weapons.

@@ -1,0 +1,12 @@
+Wiederkehrende Erbin der roten Sande
+Verlängert die Dauer des Effekts „Gebet der roten Krone“ der Fähigkeit <color=#FFD780FF>Heiliger Ritus – Bachstelzenflut</color> um 3 s.
+Monddurchdringender Glanz
+Erhöht Candaces max. LP beim Treffen von Gegnern mit der Fähigkeit <color=#FFD780FF>Heiliger Ritus – Heiligtum des Reihers</color> um 20 %, hält 15 s.
+Bittgesuch der Jäger
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Heiliger Ritus – Bachstelzenflut</color> um 3. Höchststufe 15.
+Eid der Grenzwächter
+Verringert die Abklingzeit für Gedrückthalten von <color=#FFD780FF>Heiliger Ritus – Heiligtum des Reihers</color>, sodass sie ebenso lang wie die bei normalem Drücken ist.
+Goldene Iris
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Heiliger Ritus – Heiligtum des Reihers</color> um 3. Höchststufe 15.
+Überlaufende Abendflut
+Verursacht die aktuelle Figur (außer Candace) unter dem Effekt „Gebet der roten Krone“ der Fähigkeit <color=#FFD780FF>Heiliger Ritus – Bachstelzenflut</color> mit Standardangriffen Elementar-Schaden, wird ein Flutstoß ausgelöst, der <color=#80C0FFFF>Hydro-Flächenschaden</color> in Höhe von 15 % der max. LP von Candace verursacht. 2,3 s Abklingzeit. Der damit verursachte Schaden gilt als Schaden der Spezialfähigkeit.

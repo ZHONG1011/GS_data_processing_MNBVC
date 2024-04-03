@@ -1,0 +1,13 @@
+Himmelsflug-Schwert
+Ein recht robustes Schwert. Der sagenumwobene „Schwertprinz“ hat einst versucht, mit ihm gen Himmel zu fliegen.
+ Der Schwertprinz, der ein gekonnter Fechter war, sprang von den Höhen des Jueyun-Karsts, sauste durch die Wolken und der Wind brauste um seine Ohren, bis das Geräusch von brechenden Knochen in seinem Kopf ankam. Erst dann wusste er, dass manche Dinge nur durch Schwertkünste nicht erreicht werden können. Er verpfändete das Schwert, um Medizin zu kaufen. Sein Traum vom Fliegen jedoch blieb weiterhin am Leben. 
+Zielstrebigkeit
+Erhöht den ANG und die Bewegungs-GSW nach Anwendung einer Spezialfähigkeit 15 s lang um <color=#99FFFFFF>12 %</color>.
+Zielstrebigkeit
+Erhöht den ANG und die Bewegungs-GSW nach Anwendung einer Spezialfähigkeit 15 s lang um <color=#99FFFFFF>15 %</color>.
+Zielstrebigkeit
+Erhöht den ANG und die Bewegungs-GSW nach Anwendung einer Spezialfähigkeit 15 s lang um <color=#99FFFFFF>18 %</color>.
+Zielstrebigkeit
+Erhöht den ANG und die Bewegungs-GSW nach Anwendung einer Spezialfähigkeit 15 s lang um <color=#99FFFFFF>21 %</color>.
+Zielstrebigkeit
+Erhöht den ANG und die Bewegungs-GSW nach Anwendung einer Spezialfähigkeit 15 s lang um <color=#99FFFFFF>24 %</color>.

@@ -1,0 +1,148 @@
+Elemental Skill: I
+Time for a light show!
+Elemental Skill: II
+The fuse is lit!
+Elemental Skill: III
+Fire hazard~
+Elemental Burst: I
+A festive reprise!
+Elemental Burst: II
+Goldfish of doom!
+Elemental Burst: III
+Here come the fireworks!
+Deploying Wind Glider: I
+Up, up, and away!
+Opening Treasure Chest: I
+Ooh! Will we find any firework materials in here?
+Opening Treasure Chest: II
+What do we have here?
+Opening Treasure Chest: III
+Ooh, let me open it!
+Low HP: I
+Uh-oh, uh-oh!
+Low HP: II
+Oh, that hurt...
+Low HP: III
+Gotta watch it...
+Ally at Low HP: I
+I've come to help!
+Ally at Low HP: II
+Never fear, Yoimiya's here!
+Fallen: I
+Burned... too... brightly...
+Fallen: II
+Ohh... fizzled out...
+Fallen: III
+The festival... ends.
+Light Hit Taken: I
+Lighter, please!
+Heavy Hit Taken: I
+That didn't count!
+Joining Party: I
+Are you going to hold a festival?
+Joining Party: II
+Let's go out and play!
+Joining Party: III
+More companions. Hooray!
+Hello
+Welcome to Naganohara! My name is Yoimiya — just let me know if you need anything! We have Kushikatsu, Egg Roll... Wait, no, we're not a restaurant. We make fireworks! Like these, see? Sparkling, crackling, little fireworks~
+Chat: Fireworks
+Fireworks are for now, but friends are forever.
+Chat: Telling Stories
+If we've got nothing else to do, why don't I tell you a story?
+Chat: Goldfish
+Have you ever kept goldfish as pets? They're very cute.
+When It Rains
+Ahh, the fireworks are going to get soaked! Let's find shelter, quick! Oh, we're not going to make it!
+When It Snows
+Haha, watch me make a snowball... pew!
+When the Sun Is Out
+Ah, this is great! I feel so relaxed all over, I could almost float away.
+When the Wind Is Blowing
+The wind's so strong—! It's blowing my voice back at me—! Hahaha...
+Good Morning
+Ah... *yawns* Good morning. The morning air is the freshest. Come on, take a few extra breaths — it'll make you smarter~
+Good Afternoon
+Time for lunch! ... Oh my, it's an egg with a double yolk. What wonderful luck!
+Good Evening
+Now's the best time to test our fireworks out, though I'm sure they'll look good whether they explode in the sky or on the ground... Hehe, just kidding. I'll pay attention to safety.
+Good Night
+Question time! So, what should you do after watching fireworks all day? Hehe, the answer is... to watch them again in your dreams, of course! Good night. See you tomorrow!
+About Yoimiya: Family Matters
+My father's hearing isn't very good. When I was young, he would always smile no matter what I said to him, and so I thought that everything I said was correct. So I kept talking, and he would keep smiling. Later, I found out that he was smiling because he couldn't hear clearly, but... as long as he's truly happy, I'll keep talking to him.
+About Yoimiya: Talking
+I don't worry about "loose lips sinking ships." The emotions contained in the words people say don't lie. Misunderstandings that arise from saying things wrongly can be resolved if you just talk more, but if you say nothing, the other person won't understand what you mean, and they can't get closer to you.
+About Us: Rock, Paper, Scissors
+Let's have a game of rock paper scissors! On my count, now — rock, paper, scissors! Woohoo, I won! I won! ... Hmm? I didn't change my choice halfway. Why would I ever do that?
+About Us: Companionship
+It actually doesn't matter what I do. What matters are the people I work with. When I'm with you, even simple things like watching the scenery or kicking a small jar about make me happy. Talking to you never gets old, after all.
+About the Vision
+Let me let you in on a little secret. When I first received my Vision, I used it as a flint to light fireworks and boil water, before returning home, chucking it into a storeroom, and forgetting all about it. In the end, it was my father who found it and told me that it was a precious item that I should keep safe. Haha, at least it didn't get taken back by our dear Archon.
+Something to Share: Lantern Rite
+Did you know? A lot of the fireworks used during Liyue's Lantern Rite were purchased from our shop. I made them to order before asking Beidou to ship them to Liyue. Exports like these aren't allowed under the Sakoku Decree, but... How can there be festivals without fireworks?
+Something to Share: Cycles
+"When the last sparks of the fireworks have disappeared into the sky, they turn into rain and snow, and will fall upon the earth again, nourishing the land and nurturing humanity, so that someday they can be sent up into the sky again and display their magnificence." Of the many stories my father told me, this one is my favorite.
+Something to Share: Spots of Light
+Did you ever try to step on a spot of light before as a child? You know, those patches on the ground created when the sunlight passes through the leaves. I once thought that it would disappear if I stepped on it, but it would always jump onto my foot instead. I tried and tried and tried, but I never succeeded... Quite the sore loser I was, then — sitting on a rock, sighing to myself and thinking, "Ah, so there are things in this world that can't be stepped on..."
+Interesting Things
+While squatting next to some children and watching them catch goldfish during one summer festival, I suddenly had a thought: could I make fireworks that could go off on the surface of the water? Thus, the "Goldfish Fireworks" were born! They can swim here and there, emit multi-colored lights, and they can even spit bubbles! I never thought that it would actually work, but I guess wonders never cease.
+About Beidou
+Beidou's been helping me ship my fireworks out ever since Inazuma was locked down. I prepared a huge boat-shaped firework just to surprise her — and when the Crux Fleet was about to leave, this firework went whoosh! Right in front of their eyes, straight into the sky. The sailors got such a huge fright — they thought one of their ships had somehow flown off! But Beidou liked that trick very much, saying that it was exactly what a pleasant surprise should be — very pleasant, and a surprise.
+About the Raiden Shogun
+Fireworks are probably the furthest thing from the "eternity" that the Shogun pursues. She probably feels that their transient glory has no practical purpose in Inazuma. *sigh* It's probably something that one who has "eternity" in their grasp will find hard to comprehend. It is precisely because we mortals are like fleeting shadows that we need to treasure such flickers of beauty.
+About Kamisato Ayaka: Seriousness
+We cooperate a lot due to work. Unlike people in the other two Commissions, she always lets me finish speaking and answers me seriously without showing any impatience. I'd say that the word "ladylike" was practically made just for her.
+About Kamisato Ayaka: Baths
+We once discussed matters concerning the summer festival deep into the night. We were both really tired, and I invited her to go take a bath. But when she heard that it involved many people bathing in the same pool, she went red in an instant! That was when I first learned that noble ladies can't use public baths.
+About Thoma
+He's quite the talker and has reasons behind every word that he says. Sometimes, it might seem like there's no connection, but as he goes on, everything will eventually dovetail nicely towards a single purpose. It's... quite different from how I do things. I ask him for help whenever I encounter a matter I can't settle.
+About Yae Miko
+Ayaka once asked me during a ritual at the shrine if I could prepare some fireworks for the Lady Guuji's leisure. I thought to myself, "isn't the Lady Guuji supposed to sit inside the shrine throughout the ritual?" So I watched her the whole time during the ritual, wondering how she'd like to release fireworks. I waited, and I waited, and then Ayaka came over at length to tell me that the Lady Guuji was most pleased. I mean, what? She'd already released the fireworks? Was the person sitting inside the shrine not her, then?
+About Arataki Itto: Duels
+Oh, he may look scary, but he is very popular with the children. However, he can be very competitive. Every time we play with the children, it always turns into a showdown between him and me. For example, we'd drink a bowl of ramen soup in one go, or try to eat sour plums without making any faces. The children will cheer us both on and try to guess the winner. And when that happens... well, then I can't let him beat me, right?
+About Arataki Itto: Arataki's Gang
+Arataki's gang? Huh!? So he isn't just someone with too much free time on his hands?
+About Kaedehara Kazuha
+People with no worries like myself speak plainly, while those with many cares often speak of ancient poetry or the scenery. They talk of flowers and birds, wind and moon, but never about the reality that confronts them. He's got quite the tale to tell, I'm sure.
+About Kujou Sara
+Due to public safety and fire hazard-related concerns, I often get whisked off to the Tenryou Commission's place for a lecture. Kujou Sara's probably the most reasonable of the bunch. At least she'll hear me out before passing any judgment. If I'm in the right, she'll acknowledge my perspective, and if I'm wrong... Hehe, then I'll get Thoma to come and help me apologize to her!
+About Sayu
+Let me know if you see her, alright? I'd really love to take her to one of the festivals and introduce her to lots of new friends. She always looks a little down, but if she meets some people she can hang out with, maybe she'll slowly pick herself up again!
+About Klee
+Wait, you said there was a kid in Mondstadt who was good at making bombs?... Now, they aren't much different from fireworks. In other words, she might be a genius... Ohh, I'd love to meet her. *sigh* But isn't it dangerous to let children play with explosives? Don't the people of Mondstadt worry about that?
+More about Yoimiya: I
+You wanna hear a story? Alright, alright. Sit here, and I shall tell you the story I'm most proud of — the story of the Naganohara family! You'll rarely ever hear me talk about something this serious, you know?
+More about Yoimiya: II
+Our family has a long tradition in which we will give every client who orders customized fireworks a note. Its contents can only be understood by our family, and it records the specific formula of the fireworks that were ordered. Whether ten years or a hundred years pass, our family can make exactly the same fireworks as they did in the past so long as the client brings us that note.
+More about Yoimiya: III
+The loveliest fireworks go along with the most wondrous moments. Tiny little emotions that can easily slip away are captured within these fireworks and passed down in a different form. The notes we give our clients are like a key that awaits those who wish to open a gate to commemorate the past. We at Naganohara are the keepers of that gate.
+More about Yoimiya: IV
+Every moment of the summer festival is a moving tale. Those who meet under the light of fireworks grow up, mature, and grow old. When they set off the same fireworks as they did in the beginning, the skies reflect that same image from years ago... Fireworks are not eternal, but I believe that the wonderful emotions behind them should walk alongside Inazuma into eternity.
+More about Yoimiya: V
+I shan't tell the final tale, I think. Instead, let's watch the fireworks together in silence. You can record the beautiful scenery and all the things you wanna say down. Not that this is the end, of course. On the contrary, I believe that our story is only just beginning.
+Yoimiya's Hobbies: Playing
+Fireworks! Wait, that doesn't count? Well then, let me think. Um... This one's a toughie. I like to chat with the neighbors, I like going to summer festivals with the children, swimming, picking wild fruits... Oh, I can't decide which I like most... Wait, I've got it! I love playing with everyone!
+Yoimiya's Hobbies: Copycat
+*Blubbering noises* Hah! I'm copying the sound that Paimon makes while disappearing!
+Yoimiya's Troubles
+The novel that I've been reading for a while finally reached its end. But the heroine lost her memory, and the planned wedding fell through... That's so... sad...
+Favorite Food
+I prefer snacks to entrees. I always go from stall to stall during festivals, eating as I go. By the way, are you any good at making snacks? I'll trade the dango I made with you. Here, have the big ones!
+Least Favorite Food
+Ugh... Milk never fails to start some real fireworks in my stomach — crackle, kaboom! Y'know what I mean? But I can handle dishes and snacks made with milk for some reason, hmm. Maybe the little Seelie in my stomach is just pickier than most.
+Receiving a Gift: I
+Wow, you've got a real knack for making tasty treats! You should totally set up a stall at a festival some time, oh it'd be a hit for sure!
+Receiving a Gift: II
+Good food really perks you up, and puts you in the mood to share some stories. Ooh, actually I got a good one, you've gotta hear this one...!
+Receiving a Gift: III
+Urgh, it feels like there's a Specter swirling around in my stomach... That can't be ideal.
+Birthday
+Birthdays are never occasions for yourself alone. Those who send you cakes, light candles, applaud, and cheer... They are all truly thankful that you were born into this world. That's why it must be a lively occasion, so that everyone can get their chance to thank you! Well then — happy birthday! Are you ready? I'm about to ignite the fireworks!
+Feelings about Ascension: Intro
+The higher they fly, the louder the explosion!
+Feelings about Ascension: Building Up
+Hehehe, let me give this "shooting fireworks straight into the skies with a bow" business a shot!
+Feelings About Ascension: Climax
+With all these combat skills I've learned from you, I should just become an adventurer on the side — apart from my day job making fireworks... Or... should I just become a hero instead?
+Feelings About Ascension: Conclusion
+"Never fear, Yoimiya is here! Evil begone! Justice prevails!"  Think this is a good way to introduce the powers you've taught me to the children? Isn't it cool? Hehe! Hey, tell me if anyone picks on you, too. I'll stick up for you!

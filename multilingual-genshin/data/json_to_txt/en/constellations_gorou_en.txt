@@ -1,0 +1,12 @@
+Rushing Hound: Swift as the Wind
+When characters (other than Gorou) within the AoE of Gorou's <color=#FFD780FF>General's War Banner</color> or <color=#FFD780FF>General's Glory</color> deal Geo DMG to opponents, the CD of Gorou's <color=#FFD780FF>Inuzaka All-Round Defense</color> is decreased by 2s. This effect can occur once every 10s.
+Sitting Hound: Steady as a Clock
+While <color=#FFD780FF>General's Glory</color> is in effect, its duration is extended by 1s when a nearby active character obtains an Elemental Shard from a Crystallize reaction.  This effect can occur once every 0.1s. Max extension is 3s.
+Mauling Hound: Fierce as Fire
+Increases the Level of <color=#FFD780FF>Inuzaka All-Round Defense</color> by 3. Maximum upgrade level is 15.
+Lapping Hound: Warm as Water
+When <color=#FFD780FF>General's Glory</color> is in the "Impregnable" or "Crunch" states, it will also heal active characters within its AoE by 50% of Gorou's own DEF every 1.5s.
+Striking Hound: Thunderous Force
+Increases the Level of <color=#FFD780FF>Juuga: Forward Unto Victory</color> by 3. Maximum upgrade level is 15.
+Valiant Hound: Mountainous Fealty
+For 12s after using <color=#FFD780FF>Inuzaka All-Round Defense</color> or <color=#FFD780FF>Juuga: Forward Unto Victory</color>, increases the CRIT DMG of all nearby party members' <color=#FFE699FF>Geo DMG</color> based on the buff level of the skill's field at the time of use: · "Standing Firm": +10% · "Impregnable": +20% · "Crunch": +40%  This effect cannot stack and will take reference from the last instance of the effect that is triggered.

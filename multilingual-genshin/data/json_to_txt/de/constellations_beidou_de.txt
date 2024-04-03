@@ -1,0 +1,12 @@
+Untergang der Ungeheuer
+Effekte bei Anwendung von <color=#FFD780FF>Blitzbrecher</color>: Erstellt einen Schutzschild, der Schaden in Höhe von 16 % der max. LP abhält, hält 15 s. Hält bei <color=#FFACFFFF>Elektro-Schaden</color> 250 % ab.
+Aufziehendes Unwetter
+Kettenblitze von <color=#FFD780FF>Blitzbrecher</color> springen auf 2 zusätzliche Gegner über.
+Spontane Induktion
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Wellenfänger</color> um 3. Höchststufe 15.
+Überwältigender Gegenschlag
+Beidous Standardangriffe verursachen nach dem Erleiden von Angriffen 10 s lang zusätzlich 20 % <color=#FFACFFFF>Elektro-SCH</color>.
+Gezeitenwanderer
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Blitzbrecher</color> um 3. Höchststufe 15.
+Schrecken des Bösen
+Verringert während der Wirkungsdauer von <color=#FFD780FF>Blitzbrecher</color> den <color=#FFACFFFF>Elektro-WDS</color> von Gegnern in der Umgebung um 15 %.

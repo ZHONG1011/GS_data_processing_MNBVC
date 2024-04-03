@@ -1,0 +1,12 @@
+Sturm der wirbelnden Klingen
+Erhöht die Anziehungsgeschwindigkeit der Fähigkeit <color=#FFD780FF>Luftdruckschwert</color> bei Gedrückthalten von mehr als 1 s und erhöht den verursachten Schaden um 40 %.
+Schild des Volkes
+Erhöht die Angriffs- und Bewegungs-GSW aller Truppenmitglieder, wenn Jean Elementarkristalle oder Elementarteilchen erhält, 15 s lang um je 15 %.
+Wehen des Westwinds
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Löwenzahnbrise</color> um 3. Höchststufe 15.
+Reich des Löwenzahns
+Verringert den <color=#80FFD7FF>Anemo-WDS</color> aller Gegner im Wirkungsbereich von <color=#FFD780FF>Löwenzahnbrise</color> um 40 %.
+Plötzlicher Windstoß
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Luftdruckschwert</color> um 3. Höchststufe 15.
+Löwenzahn, Beschützer des Volkes
+Verringert den im Wirkungsbereich von <color=#FFD780FF>Löwenzahnbrise</color> erlittenen Schaden um 35 %. Dieser Effekt hält nach Verlassen dieses Bereichs noch für 3 erlittene Angriffe oder 10 s.

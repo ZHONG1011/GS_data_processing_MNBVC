@@ -1,0 +1,13 @@
+Überbringer
+Ein einfacher Holzbogen, mit dem man früher wohl einmal Nachrichten übermittelt hat.
+ Es wird erzählt, dass in vergangenen Tagen sich die Bewohner Liyues die Post mit Pfeil und Bogen schickten. „Würden dabei keine Passanten verletzt werden?“ „Es ist nicht verwunderlich, dass dieser Bogen jetzt eine Antiquität ist.“ Der Antiquitätenhändler rieb sich das Kinn und grinste. 
+Flugpost
+Verursacht beim Treffen  von Schwachstellen mit heftigen Schlägen zusätzlichen Schaden in Höhe von <color=#99FFFFFF>100 %</color> ANG sowie auf jeden Fall einen KT. 10 s Abklingzeit.
+Flugpost
+Verursacht beim Treffen  von Schwachstellen mit heftigen Schlägen zusätzlichen Schaden in Höhe von <color=#99FFFFFF>125 %</color> ANG sowie auf jeden Fall einen KT. 10 s Abklingzeit.
+Flugpost
+Verursacht beim Treffen  von Schwachstellen mit heftigen Schlägen zusätzlichen Schaden in Höhe von <color=#99FFFFFF>150 %</color> ANG sowie auf jeden Fall einen KT. 10 s Abklingzeit.
+Flugpost
+Verursacht beim Treffen  von Schwachstellen mit heftigen Schlägen zusätzlichen Schaden in Höhe von <color=#99FFFFFF>175 %</color> ANG sowie auf jeden Fall einen KT. 10 s Abklingzeit.
+Flugpost
+Verursacht beim Treffen  von Schwachstellen mit heftigen Schlägen zusätzlichen Schaden in Höhe von <color=#99FFFFFF>200 %</color> ANG sowie auf jeden Fall einen KT. 10 s Abklingzeit.

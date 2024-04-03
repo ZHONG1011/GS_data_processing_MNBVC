@@ -1,0 +1,12 @@
+Infinite Circuit
+Lisa regenerates 2 Energy for every opponent hit while holding <color=#FFD780FF>Violet Arc</color>. A maximum of 10 Energy can be regenerated in this manner at any one time.
+Electromagnetic Field
+Holding <color=#FFD780FF>Violet Arc</color> has the following effects: ·Increases DEF by 25%. ·Increases Lisa's resistance to interruption.
+Resonant Thunder
+Increases the Level of <color=#FFD780FF>Lightning Rose</color> by 3. Maximum upgrade level is 15.
+Plasma Eruption
+Increases the number of lightning bolts released by <color=#FFD780FF>Lightning Rose</color> by 1-3.
+Electrocute
+Increases the Level of <color=#FFD780FF>Violet Arc</color> by 3. Maximum upgrade level is 15.
+Pulsating Witch
+When Lisa takes the field, she applies 3 stacks of <color=#FFD780FF>Violet Arc</color>'s Conductive status onto nearby opponents. This effect can only occur once every 5s.

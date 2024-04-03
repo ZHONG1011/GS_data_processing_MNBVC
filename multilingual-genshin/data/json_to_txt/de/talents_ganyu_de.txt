@@ -1,0 +1,12 @@
+Standardangriff: Himmlische Schießkunst
+<color=#FFD780FF>Standardangriff</color> Führt bis zu 6 Pfeilschüsse hintereinander aus.  <color=#FFD780FF>Heftiger Schlag</color> Führt einen <color=#FFD780FF>gezielten Schuss</color> mit höherem Schaden und höherer Genauigkeit aus. Konzentriert die Kälte während des Zielens an der Pfeilspitze und verursacht je nach Länge des Aufladens unterschiedliche Effekte: · Phase 1: Schießt einen Pfeil mit dem Zustand Kalt und verursacht <color=#99FFFFFF>Kryo-Schaden</color>. · Phase 2: Schießt einen Frostblütenpfeil und verursacht <color=#99FFFFFF>Kryo-Schaden</color>. Erblüht nach einem Treffer und verursacht erneut <color=#99FFFFFF>Kryo-Flächenschaden</color>.  <color=#FFD780FF>Angriff aus dem Fall</color> Schießt in der Luft einen Pfeilregen ab, trifft schnell auf dem Boden auf und verursacht dort Flächenschaden.
+Spuren des Qilins
+Ganyu hinterlässt einen Eislotos und geht in Deckung, um den bösen Geistern und Dämonen <color=#99FFFFFF>Kryo-Flächenschaden</color> zuzufügen.  <color=#FFD780FF>Eislotos</color> · Verspottet Gegner in der Umgebung fortlaufend und zieht ihre Angriffe auf sich. · Beständigkeit hängt von Ganyus max. LP ab. · Erblüht bei Zerstörung oder Ablauf der Dauer und verursacht <color=#99FFFFFF>Kryo-Flächenschaden</color>.  <i>„Du willst mich gesehen haben? Das musst du dir eingebildet haben. Ich war zu der Zeit noch auf Arbeit.“</i>
+Bändigender Niederschlag
+Konzentriert den Schnee und Frost in der Luft und beschwört eine Eisseelenperle, die das Böse vertreibt. Die Eisseelenperle lässt während der Wirkungsdauer fortlaufend Eiszapfen fallen, die den Gegnern im Wirkungsbereich <color=#99FFFFFF>Kryo-Schaden</color> zufügen.  <i>Ohne Frage kann Ganyu einen erfrischenden Sommerregen fallen lassen. Für böse Kräfte jedoch zieht ein rauer Schneesturm auf.</i>
+Eintracht
+Erhöht nach dem Abschießen von Frostblütenpfeilen die KT folgender Frostblütenpfeile sowie der im Anschluss erblühenden Frostblüten 5 s lang um 20 %.
+Frieden zwischen Himmel und Erde
+Erhöht den <color=#99FFFFFF>Kryo-Schaden</color> der aktuellen Figuren in der Truppe im Wirkungsbereich von <color=#FFD780FF>Bändigender Niederschlag</color> um 20 %.
+Versteckter Bogen
+Gibt beim Schmieden von Bögen 15 % des verbrauchten Erzes zurück.

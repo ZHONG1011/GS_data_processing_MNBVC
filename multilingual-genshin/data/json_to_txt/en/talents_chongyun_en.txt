@@ -1,0 +1,12 @@
+Normal Attack: Demonbane
+<color=#FFD780FF>Normal Attack</color> Performs up to 4 consecutive strikes.  <color=#FFD780FF>Charged Attack</color> Drains Stamina over time to perform continuous spinning attacks against all nearby opponents. At the end of the sequence, performs a more powerful slash.   <color=#FFD780FF>Plunging Attack</color> Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Spirit Blade: Chonghua's Layered Frost
+Chongyun strikes the ground with his greatsword, causing a Cryo explosion in a circular AoE in front of him that deals <color=#99FFFFFF>Cryo DMG</color>. After a short delay, the cold air created by the Cryo explosion will coalesce into a Chonghua Frost Field, within which all Sword, Claymore and Polearm-wielding characters' weapons will be infused with <color=#99FFFFFF>Cryo</color>.  <i>"A crystal-clear ring, and all is silent. The rivers move not, and the clouds are heavy with frost. The altar gates open, and evil is banished."</i>
+Spirit Blade: Cloud-Parting Star
+Performing the secret hand seals, Chongyun summons 3 giant spirit blades in mid-air that fall to the earth one by one after a short delay, exploding as they hit the ground. When the spirit blades explode, they will deal <color=#99FFFFFF>AoE Cryo DMG</color> and launch opponents.  <i>"As ice doth give the biting frost birth, My transcendent blade shakes heaven and earth. Heed my summons and come hence!"</i>
+Steady Breathing
+Sword, Claymore, or Polearm-wielding characters within the field created by <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color> have their Normal ATK SPD increased by 8%.
+Rimechaser Blade
+When the field created by <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color> disappears, another spirit blade will be summoned to strike nearby opponents, dealing 100% of Chonghua's Layered Frost's Skill DMG as <color=#99FFFFFF>AoE Cryo DMG</color>. Opponents hit by this blade will have their <color=#99FFFFFF>Cryo RES</color> decreased by 10% for 8s.
+Gallant Journey
+When dispatched on an expedition in Liyue, time consumed is reduced by 25%.

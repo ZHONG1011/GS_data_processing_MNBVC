@@ -1,0 +1,12 @@
+Dissolution Eon: Destroyer of Worlds
+Increases <color=#FFD780FF>Lemniscatic Wind Cycling</color>'s charges by 1.
+Annihilation Eon: Blossom of Kaleidos
+When in the party and not on the field, Xiao's Energy Recharge is increased by 25%.
+Conqueror of Evil: Wrath Deity
+Increases the Level of <color=#FFD780FF>Lemniscatic Wind Cycling</color> by 3. Maximum upgrade level is 15.
+Transcension: Extinction of Suffering
+When Xiao's HP falls below 50%, he gains a 100% DEF Bonus.
+Evolution Eon: Origin of Ignorance
+Increases the Level of <color=#FFD780FF>Bane of All Evil</color> by 3. Maximum upgrade level is 15.
+Conqueror of Evil: Guardian Yaksha
+While under the effects of <color=#FFD780FF>Bane of All Evil</color>, hitting at least 2 opponents with Xiao's Plunging Attack will immediately grant him 1 charge of <color=#FFD780FF>Lemniscatic Wind Cycling</color>, and for the next 1s, he may use Lemniscatic Wind Cycling while ignoring its CD.

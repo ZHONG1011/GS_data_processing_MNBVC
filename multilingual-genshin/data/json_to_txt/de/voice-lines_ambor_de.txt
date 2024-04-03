@@ -1,0 +1,158 @@
+Schön, dich kennenzulernen.
+Kundschafterin Amber meldet sich zum Dienst! Ich bin da, wenn mich jemand braucht, egal worum es geht!
+Gespräch – Interessen
+Ich hab Lust auf ein Läufchen.
+Gespräch – Sorgen
+Wenn Jean sieht, dass wir nur faulenzen, wird sie nicht gerade begeistert sein.
+Gespräch – Erkenntnisse
+Guck mal da! Da scheint sich was zu bewegen! Das müssen wir uns ansehen. Los!
+Wenn es regnet – Kummer
+Es regnet ja. Meine Schleife wird noch nass.
+Wenn es regnet – Hinweis
+Bei dem Regen wird die Sicht behindert. Da sollten wir vorsichtig sein.
+Es hat aufgehört zu regnen ...
+He, draußen ist so tolles Wetter!
+Wie sonnig ...
+Ja, wenn der Wind jetzt noch etwas stärker wäre ...
+Wenn es windig ist – Zufriedenheit
+Hach, ist das angenehm!
+Wenn es windig ist – Entspanntheit
+Ich mag dieses Wetter! Das ist so entspannend!
+Guten Morgen.
+Schönen guten Morgen! Hat jemand Lust auf einen Lauf in der frischen Morgenluft?
+Guten Tag.
+Gehst du allein zum Mittagessen oder könnte ich mitkommen?
+Guten Abend.
+Es ist ja schon dunkel. Soll ich eine Fackel anzünden?
+Gute Nacht.
+Genau, Schlaf ist wichtig! Dann sehen wir uns morgen! Tschühüs!
+Über Amber ...
+Der Flugmeister von Mondstadt, das bin ich!
+Über uns – Wettkampf
+Selbst gegen dich würde ich in einem Wettkampf keinen Gang runterschalten!
+Über uns – Fliegen
+Wenn ich dir zeige, wie man fliegt ... Also wenn wir zusammen fliegen, dann hab ich das Gefühl, das ich schneller sein kann als sonst ... Hm? Was lachst du denn da? Komm, ich zeig’s dir auf der Stelle!
+Über das „Göttliche Auge“ ...
+Mein Göttliches Auge zeigt mir die Anerkennung der Götter. Ja, ich werde die beste Kundschafterin sein, die die Welt je gesehen hat!
+Willst du mir etwas mitteilen?
+Jetzt komm! Der Ausblick vom Glockenturm der Kathedrale ist der Wahnsinn!
+Interessante Vorkommnisse ...
+Schau mal, da sind Tauben! Ich würde so gern mit ihnen fliegen.
+Über Jean – Hilfe
+Nachdem der Großmeister aufgebrochen war, musste Jean alle Angelegenheiten, ob groß oder klein, selbst übernehmen. Wenn ich doch mehr tun könnte, um ihr zu helfen ...
+Über Jean – Fürsorge
+Jean arbeitet vielleicht sogar noch. Ach, laden wir sie einfach auf eine Tasse ein!
+Über Lisa – Geschichte
+Sobald du Zeit hast, können wir Lisa einen Besuch abstatten! Letztens hat sie mir von einem Schatz auf dem Drachengrat erzählt, aber nur bis zur Hälfte. Ich will noch gern das Ende hören!
+Über Lisa – Bewunderung
+Ich hab das Gefühl, dass Lisa immer Bücher liest, wenn sie nicht gerade schläft. Das ginge bei mir nicht! Ich kann nicht so lange stillsitzen.
+Über Kaeya – Besorgnis
+Ich hab ein ungutes Gefühl bei dem Gedanken ... Warst du gerade bei Kaeya? Er hat doch keinen Ärger gemacht, oder?
+Über Kaeya – Rädelsführer
+Der Löwenzahn in den Beeten sieht ein bisschen verdorrt aus. Damit hat bestimmt Kaeya was zu tun!
+Über Bennett ...
+Hm? Bennett ... Den Namen kenne ich doch ... Genau! Das ist doch der Junge aus der Abenteurergilde, der immer voll bei der Sache ist. Hin und wieder begegne ich ihm in der Nähe von Sphären. Er scheint wirklich gern auf Schatzsuche zu gehen.
+Über Klee ...
+Ach, Klee ist manchmal echt frech. Und trotzdem mag sie jeder im Orden! Ich werf lieber doch ein Auge auf sie, damit sie nicht wieder von Jean eingesperrt wird.
+Über Albedo ...
+Albedo ist meistens in seiner Werkstatt und werkelt da an irgendwelchen Wahnsinnserfindungen herum. Jedes Mal, wenn ich ihn sehe, kommt er mir schon etwas geheimnisvoll vor. Ich weiß nicht, was ich davon halten soll ...
+Über Noelle ...
+Noelle? Sie tut wirklich immer, was sie kann. Als ihr Vorgesetzter solltest du gut auf sie aufpassen.
+Über Eula ...
+Eula ist meine beste Freundin! Wenn du dich erst einmal an ihre Scherze gewöhnt hast, wirst du sehen, dass sie eigentlich sehr nett und umgänglich ist. Allerdings wird Eula wegen ihres Nachnamens von vielen Menschen oft missverstanden. Was kann ich tun, damit die Leute sie besser verstehen ...
+Über Collei ...
+DATA NOT FOUND
+Über Mika ...
+Also, Mika ist ein altes Mitglied in Eulas Trupp. Wahrscheinlich, weil ich ein gutes Verhältnis zu Eula habe, nannte er mich anfangs immer Kommandant. Nachdem ich meine Erfahrungen als Kundschafter mit ihm geteilt hatte, fing er an, mich Senior zu nennen ... Das machte mich etwas peinlich berührt. Schließlich sind unsere Aufgaben unterschiedlich. Mit seinem Fachwissen in Kartografie kann ich beispielsweise absolut nicht mithalten.
+Ich will mehr über Amber erfahren I
+Ich bin supertoll im Jagen! Hast du Lust, mich mal in Aktion zu erleben? Oder besser noch, wir veranstalten einen kleinen Wettbewerb!
+Ich will mehr über Amber erfahren II
+Ich erzähl dir mein Geheimnis als Flugmeister! Das Wichtigste ist Mut!
+Ich will mehr über Amber erfahren III
+Ehrlich gesagt bin ich nicht gut im Rätselraten. Deswegen vermeide ich auch immer den Ratestand bei den Ludi Harpastum ... Und wie ist das bei dir?
+Ich will mehr über Amber erfahren IV
+Dem Ordo Favonius bin ich wegen Opa beigetreten. Wegen Jean bin ich so lange geblieben. Und jetzt zeigst du mir die Welt außerhalb von Mondstadt!.Ich könnte nicht glücklicher sein!
+Ich will mehr über Amber erfahren V
+Ich will mir die Welt noch weiter ansehen. Ich will bis zum Horizont! Du wirst doch weiter bei mir bleiben, oder? Oder?
+Ambers Hobbys ...
+Graf von Hoppel, heute ist ein weiterer strahlend sauberer Tag!
+Ambers Sorgen ...
+Ähm, weißt du, wie man richtig guten Mondkuchen zubereitet?
+Was sie so mag ...
+Der Kaffee, den Jean macht, ist der Hammer! Den musst du bei Gelegenheit probieren.
+Was sie nicht mag ...
+Solange ich keinen eisgekühlten Wolfshakensaft trinken muss, krieg ich alles gebacken!
+Geschenk erhalten I
+Ooh, das ist so gut. Du bist erstaunlich!
+Geschenk erhalten II
+Wenn ich nur so kochen könnte ...
+Geschenk erhalten III
+Ich bin den Geschmack nicht gewohnt, tut mir leid! Das ist nicht dein Problem!
+Dein Geburtstag ...
+He, alles Gute zum Geburtstag! Ich hab hier was für dich, eine Sonderanfertigung von Graf von Hoppel. Mach dir keine Sorgen, die explodiert nicht!
+Gedanken über den Aufstieg – Beginn
+Spitze! Das ging ja schnell wie der Wind!
+Gedanken über den Aufstieg – Fortschritt
+Mit dieser Geschwindigkeit wird mich keiner mehr einholen!
+Gedanken über den Aufstieg – Höhepunkt
+Der Himmel über Mondstadt scheint kleiner geworden zu sein ... Oder ist mein Sichtfeld einfach größer geworden?
+Gedanken über den Aufstieg – Ende
+Ich habe so viele Fortschritte gemacht, seit wir uns kennengelernt haben. Ich bin dir echt so dankbar! Komm, ich lade dich auf eine Honigmöhren-Fleischpfanne ein!
+Elementarfähigkeit I
+Hol sie dir!
+Elementarfähigkeit II
+Los, Graf von Hoppel!
+Elementarfähigkeit III
+Schubidubidu ...
+Spezialfähigkeit I
+Jeder Schuss ein Treffer!
+Spezialfähigkeit II
+Pfeilregen!
+Spezialfähigkeit III
+Das war’s für dich!
+Rennen – Start I
+Komm zum Wettkampf!
+Rennen – Start II
+Kannst du mich einholen?
+Rennen – Ende I
+Ich wusste, dass ich gewinne.
+Rennen – Ende II
+Das ist so wie ich es mag!
+Windgleiter öffnen I
+Mach Platz für den Flugmeister von Mondstadt!
+Windgleiter öffnen II
+Ich werde dich nicht im Stich lassen!
+Truhe öffnen I
+Das Öffnen einer Truhe ist wie das Auspacken eines Geschenks!
+Truhe öffnen II
+Ein weiteres Ziel, das von Kundschafterin Amber aufgespürt wurde!
+Truhe öffnen III
+Wow, die werden sich als nützlich erweisen!
+Niedrige LP I
+Ich werde nicht aufgeben!
+Niedrige LP II
+Das tut weh!
+Niedrige LP III
+Du wirst dafür bezahlen!
+Verbündeter hat niedrige LP I
+Pass auf!
+Verbündeter hat niedrige LP II
+He ... Brauchst du etwas Hilfe?
+Ohnmächtig I
+Müde ...
+Ohnmächtig II
+Das Training war nicht genug ...
+Ohnmächtig III
+Ich habe verloren ...
+Leichten Treffer erlitten I
+Das geht zu weit!
+Schweren Treffer erlitten I
+Das tut weh!
+Schweren Treffer erlitten II
+Das ist Betrug!
+Truppenbeitritt I
+Überlass das mir!
+Truppenbeitritt II
+Alles bereit!
+Truppenbeitritt III
+Kundschafter kommt!

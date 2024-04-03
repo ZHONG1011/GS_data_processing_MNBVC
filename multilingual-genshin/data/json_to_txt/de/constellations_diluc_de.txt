@@ -1,0 +1,12 @@
+Schuldspruch
+Erhöht den Schaden, den Diluc Gegnern mit mehr als 50 % LP zufügt, um 15 %.
+Heiße Asche
+Erhöht den ANG, wenn Diluc Schaden erleidet, 10 s lang um 10 % und die Angriffs-GSW um 5 % 3-fach stapelbar, 1,5 s Abklingzeit.
+Stahl und Feuer
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Sengende Klinge</color> um 3. Höchststufe 15.
+Fließende Flamme
+Erhöht den verursachten Schaden beim rhythmischen Anwenden von <color=#FFD780FF>Sengende Klinge</color> enorm. Erhöht den Schaden von <color=#FFD780FF>Sengende Klinge</color> bei erneuter Anwendung 2 s nach Anwendung dieser Fähigkeit 2 s lang um 40 %.
+Phönix, Bote der Dämmerung
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Dämmerung</color> um 3. Höchststufe 15.
+Flammendes Schwert, Vernichter der Dunkelheit
+Erhöht die Standardangriffs-GSW der nächsten 2 Standardangriffe innerhalb von 6 s nach Anwendung von <color=#FFD780FF>Sengende Klinge</color> um 30 % sowie den damit verursachten Schaden um 30 %. Sengende Klinge setzt die Standardangriffe nicht mehr zurück.

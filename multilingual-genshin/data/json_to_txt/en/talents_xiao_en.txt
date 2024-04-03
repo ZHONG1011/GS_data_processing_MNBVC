@@ -1,0 +1,12 @@
+Normal Attack: Whirlwind Thrust
+<color=#FFD780FF>Normal Attack</color> Performs up to 6 consecutive spear strikes.  <color=#FFD780FF>Charged Attack</color> Consumes a certain amount of Stamina to perform an upward thrust.  <color=#FFD780FF>Plunging Attack</color> Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact. Xiao does not take DMG from performing Plunging Attacks.
+Lemniscatic Wind Cycling
+Xiao lunges forward, dealing <color=#80FFD7FF>Anemo DMG</color> to opponents in his path. Can be used in mid-air. Starts with 2 charges.  <i>According to the legends of another land, the world will someday be crushed by two great wind wheels. Xiao's mastery over polearms is transcendent, ripping his foes apart like those legendary wind wheels.</i>
+Bane of All Evil
+Xiao dons the Yaksha Mask that set gods and demons trembling millennia ago.  <color=#FFD780FF>Yaksha's Mask</color> ·Greatly increases Xiao's jumping ability. ·Increases his attack AoE and attack DMG. ·Converts attack DMG into <color=#80FFD7FF>Anemo DMG</color>, which cannot be overridden by any other elemental infusion.  In this state, Xiao will continuously lose HP. The effects of this skill end when Xiao leaves the field.  <i>Donning the Mask of the Yaksha, Xiao takes the terrifying, demon-conquering form of the Vigilant Yaksha. But this great power has also brought him great suffering. Some call him "The Bane of All Evil."</i>
+Conqueror of Evil: Tamer of Demons
+While under the effects of <color=#FFD780FF>Bane of All Evil</color>, all DMG dealt by Xiao increases by 5%. DMG increases by a further 5% for every 3s the ability persists. The maximum DMG Bonus is 25%.
+Dissolution Eon: Heaven Fall
+Using <color=#FFD780FF>Lemniscatic Wind Cycling</color> increases the DMG of subsequent uses of Lemniscatic Wind Cycling by 15%. This effect lasts for 7s, and has a maximum of 3 stacks. Gaining a new stack refreshes the effect's duration.
+Transcension: Gravity Defier
+Decreases climbing Stamina consumption for your own party members by 20%. Not stackable with Passive Talents that provide the exact same effects.

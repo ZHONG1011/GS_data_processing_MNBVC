@@ -1,0 +1,150 @@
+Elementarfähigkeit I
+Tschüs ...
+Elementarfähigkeit II
+Ich bin weg ...
+Elementarfähigkeit III
+Hui, haha! ... Hehehe ...
+Elementarfähigkeit IV
+Ich haue ab.
+Elementarfähigkeit V
+Mich fängst du nicht.
+Elementarfähigkeit VI
+Und schon bin ich weg.
+Spezialfähigkeit I
+Doppelgänger-Technik!
+Spezialfähigkeit II
+Komm raus!
+Spezialfähigkeit III
+Schwupp und weg.
+Rennen – Start I
+Ich muss fliehen.
+Truhe öffnen I
+Sieht irgendwie gemütlich aus hier drin ... Zeit für ein Nickerchen!
+Truhe öffnen II
+Aufgabe erledigt! Kann ich jetzt zurückgehen und schlafen?
+Truhe öffnen III
+Oh, was ist hier drin? Vielleicht ein paar Wachstumstabletten?
+Niedrige LP I
+Mist, es gab sicher eine Fluchttechnik für diese Situation ...
+Niedrige LP II
+Ich fühle mich irgendwie benebelt.
+Niedrige LP III
+Uff, so müde.
+Verbündeter hat niedrige LP I
+Ich werde dich beschützen.
+Verbündeter hat niedrige LP II
+Tritt zurück und mach ein Nickerchen.
+Ohnmächtig I
+Ich konnte nicht fliehen ...
+Ohnmächtig II
+Schlaf gut ...
+Ohnmächtig III
+Ich hätte nicht so faul sein dürfen ...
+Leichten Treffer erlitten I
+Au.
+Schweren Treffer erlitten I
+Konnte nicht ausweichen.
+Schweren Treffer erlitten II
+Ich werde ohnmächtig.
+Truppenbeitritt I
+Ich muss schlafen.
+Truppenbeitritt II
+Kann ich schlafen?
+Truppenbeitritt III
+Verflixt, du hast mich erwischt.
+Schön, dich kennenzulernen.
+Sayu, Shuumatsuban, zu deiner Verfügung! Uff, aber wenn du mich jetzt nicht brauchst, werde ich ein bisschen schlafen gehen. Nein, du brauchst mich nicht ins Bett zu bringen.
+Gespräch – Schlaf
+*gähn* *schnarch*
+Gespräch – Arbeit
+Scheint so, als ob ich heute einfach im Bett hätte bleiben sollen.
+Gespräch – Größe
+Sollte ich nicht schon längst einen Wachstumsschub bekommen haben?
+Wenn es regnet ...
+Lass uns einen Unterschlupf finden, schnell! Gießen funktioniert bei Pflanzen, aber nicht bei Menschen ...
+Wenn es blitzt ...
+Puh, dieses Wetter ist wild! Das Beste, was man tun kann, ist, unter die Decke zu tauchen, wo es dunkel und kuschelig und warm ist und ... und ... *schnarch*
+Wenn es schneit ...
+Es ist wirklich einfach, sich bei solchem Wetter zu verstecken. Es gibt da diese Ninja-Technik namens „Schneemantel“, mit der man sich so gut wie unsichtbar machen kann. Alles, was andere Leute sehen, wenn sie einen anblicken, sind die Schneeflocken, die in der Luft tanzen. Moment, das ist aber vertraulich! Erzähl das bloß nicht dem Schreinjungfern ...
+Wie sonnig ...
+Ich liebe es, wenn das Wetter so ist, dann möchte man einfach ... *gäähn* eine Weile eindösen.
+Wenn es windig ist ...
+Ein windiger Tag ist ein guter Tag für einen Ausflug.
+Ein Sturm zieht auf.
+Ich weiß immer, dass es Zeit ist, eine Runde zu schlafen, wenn der Wind so stark ist, dass ich meine Augen sowieso nicht öffnen kann.
+Guten Morgen.
+Morgen? Jetzt schon? Na gut, ich werde nur noch etwa 10 Minuten dösen ... Bitte, nur 10 Minuten ... Nein? Na gut, dann 5 Minuten? *schnarch*
+Guten Tag.
+Ist es schon Mittag? Endlich, ich bin schon bereit für mein Nickerchen.
+Guten Abend.
+Aufklärung bestätigt, kein Zeichen der Schreinjungfern in einem 3-Meilen-Radius. Übergang zur nächsten Phase: Schlafenszeit!
+Gute Nacht.
+Es ist so spät in der Nacht, mein Verstand driftet ab, Schlafenszeit ... Gute Nacht ...
+Über Sayu – Shuumatsuban
+Ja, ich bin im Shuumatsuban, aber sie bringen mich dort immer nur dazu, Sachen wie Informationsbeschaffung und Diebstahl zu machen. Also, weißt du ... es ist nicht wirklich schlimm, wenn die Arbeit mal nicht erledigt wird.
+Über Sayu – Schwänzen
+Ich erledige im Shuumatsuban keine wichtigen Arbeiten und alles, was lange genug aufgeschoben wird, erledigt am Ende ohnehin jemand, der dafür besser geeignet ist. Schlaf hingegen, der ist von größter Wichtigkeit. Denn ich brauche genügend Schlaf, damit ich meinen Wachstumsschub bekomme.
+Über uns – Gefallen
+He, tust du mir einen Gefallen und sagst mir Bescheid, wenn du die Schreinjungfern kommen siehst? Ich werde nur, ähm ... meine Augen für einen Moment ausruhen.
+Über uns – Kopf streicheln
+Ich bin kein Haustier, weißt du? Hmm, aber da du es bist ... Na gut, du kannst meinen Kopf streicheln und ich verspreche, deine Hand nicht zu beißen. Aber nur ein bisschen! Wenn du den Kopf von jemandem zu oft tätschelst, hemmt das sein Wachstum.
+Über das „Göttliche Auge“ ...
+Mein Schwert ist wahnsinnig schwer, selbst mit meinem Ninja-Training könnte ich es nicht ohne die Hilfe meines Göttlichen Auges heben. Also ja, ein Göttliches Auge zu haben, ist eine große Hilfe für mich.
+Willst du mir etwas mitteilen?
+Der Sensei sagt, ich werde der letzte Ninja in unserer Linie sein. Ich schätze, es lässt sich nicht ändern, denn dieser Ninja-Stil wäre in einem Kampf sowieso keine große Hilfe. Alles, was mir beigebracht wurde, ist, wie man entkommt und wie man seine Spuren verwischt.
+Interessante Vorkommnisse ...
+Kennst du Mujina? Es sieht ähnlich aus wie ein Tanuki, ist aber viel niedlicher. Nächstes Mal bringe ich dich zu einem!
+Über Kamisato Ayaka ...
+Als älteste Tochter des Kamisato-Klans sieht sie immer sehr anmutig und elegant aus. Aber sie hat eine der Schreinjungfern dazu gebracht, auf mich aufzupassen und sicherzustellen, dass ich nicht faulenze ... Warum hat sie das gemacht?
+Über Kamisato Ayato ...
+Manchmal, wenn ich mich oben auf einem Baum ausruhe, höre ich, wie die Schreinjungfern über ihn reden. Klingt, als wäre er ziemlich wichtig und die meiste Zeit superbeschäftigt. Ich verstehe das nicht. Es ist doch nur Arbeit oder was auch immer, also warum macht er es nicht einfach ... nicht?
+Über Thoma ...
+Er hat ein Göttliches Auge, aber aus irgendeinem Grund nervt er mich jedes Mal, wenn ich ihn treffe, damit, dass er Ninja-Kunst lernen will. Ich weiß nicht, was er will. Ich hätte sowieso keine Zeit, ihm was beizubringen. Ich schlafe ja kaum genug.
+Über Yoimiya ...
+Jedes Mal, wenn sie mich sieht, sagt sie: „He, kleiner Tanuki! Lass uns auf dem Fest abhängen.“ Erstens: Ich bin kein Tanuki. Zweitens: Ich will nicht auf ein Fest gehen. Drittens sagt sie, sie wolle abhängen, aber in Wirklichkeit will sie nur, dass ich während des Feuerwerks eine Ninja-Kunst-Vorführung mache. Das hat nicht einmal etwas mit meiner Arbeit für den Shuumatsuban zu tun!
+Über den Shougun Raiden ...
+Ihre Exzellenz? Definitiv nicht jemand, den ich jemals kennenlernen würde. Wenn du Fragen hast, ist vielleicht Ayaka die richtige Person dafür.
+Über Yae Miko ...
+Sie streichelt mir immer den Kopf ... Ich habe sie aber nie gebissen oder auch nur etwas gesagt, weil ich Angst davor habe, wie sie reagieren würde, wenn ich mich ihr entgegenstelle. Aber was soll ich denn tun? Denn wenn sie mir weiterhin den Kopf tätschelt, werde ich für immer so klein bleiben ...
+Über Arataki Itto ...
+Warum muss er so einen Krach machen? Und wie ist er so groß geworden!?
+Über Kuki Shinobu ...
+Da klingelt nichts, ähm ... Was denn? Arataki Ittos kleiner Handlanger? Oh, nun, dann muss sie definitiv eine Schlafstörung sein. Gleich und Gleich gesellt sich gern ...
+Ich will mehr über Sayu erfahren I
+Hu ...
+Ich will mehr über Sayu erfahren II
+Hm? Du willst den Namen meiner Ninja-Kunst wissen? Ähm ... Weißt du was? Ich kann im Moment nicht klar denken, ich schlafe noch halb. Lass mich noch ein bisschen dösen, vielleicht bin ich nach dem Aufwachen klarer im Kopf.
+Ich will mehr über Sayu erfahren III
+Na gut, schön ... Ich sag’s dir. Aber lach lieber nicht, sonst rede ich nie wieder mit dir. Äh, also, meine Ninja-Kunst nennt sich ... ähm ... Juhu-Stil.  Der Grund ist angeblich, dass unser Stil sich darauf konzentriert, den Feind auszutricksen, aber trotzdem ... Ich meine ... *seufz*
+Ich will mehr über Sayu erfahren IV
+Weißt du, wie man auf Bäume klettert? Ich bin ein Experte, ich kann es dir beibringen. Da ist dieser Baum unten am Schrein. Es ist der perfekte Ort, du könntest buchstäblich den ganzen Tag dort schlafen, wenn du wolltest und niemand würde dich jemals finden ... Ich meine nur, es ist ein toller Ort für ein Nickerchen. Wenn du das nächste Mal ein Nickerchen machen willst, sag mir Bescheid, dann bringe ich dich hin.
+Ich will mehr über Sayu erfahren V
+Es war eigentlich der Sensei, der mir diese Aufmachung gab. Er sagte, sie wäre einem Mujina nachempfunden und könnte bei der Flucht helfen oder so ... und dann sagte der Sensei, dass ich jetzt erwachsen und bereit sei, allein loszuziehen, aber dass ich immer noch vorsichtig sein sollte, um mich zu schützen ... Dann verließ er mich. Bin ich wirklich bereit, allein zu sein, mit meiner Größe? Ähm ... Du wirst mir Gesellschaft leisten? Versprichst du, dass du mich nicht verlässt? Versprichst du, dass du mich nicht verlässt?
+Sayus Hobbys ...
+Wenn ich meine Kapuze aufsetze, kann ich nach Herzenslust dösen, ohne mir Sorgen machen zu müssen, dass die Schreinjungfern mich finden. *seufz* Ich glaube, das muss eines der besten Gefühle auf der ganzen Welt sein.
+Sayus Sorgen – Missverständnis
+Aus irgendeinem Grund nennen mich die Leute, wenn sie mich zum ersten Mal treffen, immer Tanuki oder Teddybär oder Kätzchen ... Aber Sayu ist einfach Sayu und definitiv kein Tanuki.
+Sayus Sorgen – Größe
+Wann wird mein Wachstumsschub kommen? Jeder in meinem Alter ist praktisch doppelt so groß wie ich und ich bin immer noch ... Äh, genug, ich brauche Schlaf, Schlaf ist die Antwort. Gute Nacht!
+Sayus Sorgen – Teufelskreis
+Kürzlich sagte mir jemand, dass, wenn man sich zu leicht ärgert, das auch das Wachstum hemmt! Hach, ich weiß nicht, was ich dagegen tun kann ...
+Was sie so mag ...
+Kohlenhydratreiche Lebensmittel, die dir sofortige Energie geben, wie Reisbällchen. Wenn du eins isst, sobald du aufwachst, fühlst du dich nicht mehr so abgehetzt und müde. Dann kannst du dich einfach entspannen und direkt wieder einschlafen.
+Was sie nicht mag ...
+Man kann nicht wählerisch beim Essen sein, wenn man noch wachsen muss! Abgesehen davon habe ich in letzter Zeit nicht zugenommen. Vielleicht esse ich nicht genug Gemüse? Aber Salat ist nicht sättigend genug und manchmal kann er wirklich bitter sein ... *seufz*
+Geschenk erhalten I
+Ich bin so satt. Jetzt kann ich in Ruhe schlafen.
+Geschenk erhalten II
+Nun bin ich satt und müde ...
+Geschenk erhalten III
+Es muss einen Weg geben, um zu ... verschwinden.
+Dein Geburtstag ...
+Willst du ein paar Ninja-Fähigkeiten lernen? Ich kann sie dir beibringen! Natürlich nur die, die ich kenne. Hm? Warum schlafe ich nicht? Öhm, weil ich nicht müde bin ... und auch weil heute ein besonderer Tag ist! Ich musste heute wach bleiben, damit ich die Chance habe, es dir persönlich zu sagen: Alles Gute zum Geburtstag!
+Gedanken über den Aufstieg – Beginn
+Bilde ich mir das nur ein oder bin ich ein wenig größer geworden?
+Gedanken über den Aufstieg – Fortschritt
+Toll, jetzt kann ich mich schneller denn je davonschleichen. Hehehe, jetzt können sie mich nicht mehr fangen.
+Gedanken über den Aufstieg – Höhepunkt
+He, danke, dass du hingegangen bist und all diese Materialien für mich gesammelt hast. Ich wäre ja selbst gegangen, aber ... ich wäre wahrscheinlich auf halbem Weg eingeschlafen.
+Gedanken über den Aufstieg – Ende
+Ich denke, ich bin jetzt endlich bereit, es alleine zu machen, so wie es der Sensei gesagt hat. Und ... vielleicht ist es jetzt keine so große Sache, wenn ich nicht größer werden kann. Denn was wirklich zählt ... ist, dass ich dich habe, um mir Gesellschaft zu leisten.

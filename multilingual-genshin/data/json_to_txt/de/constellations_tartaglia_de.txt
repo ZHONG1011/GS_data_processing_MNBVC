@@ -1,0 +1,12 @@
+Dämonengewand – Wellenbrecher
+Verkürzt die Abklingzeit für die Anwendung von <color=#FFD780FF>Dämonengewand – Stürmische Gezeiten</color> um 20 %.
+Dämonengewand – Unterströmung
+Stellt Tartaglia, wenn von Versiegen betroffene Gegner besiegt werden, 4 Punkte Elementarenergie wieder her.
+Katastrophe des Abgrunds – Strudel der Zwietracht
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Dämonengewand – Stürmische Gezeiten</color> um 3. Höchststufe 15.
+Katastrophe des Abgrunds – Sprudelndes Wasser
+Löst bei Anwesenheit des von Tartaglia verursachten Effekts Verisegen alle 4 s Versiegen – Hieb aus, wenn Tartaglia im Nahkampfmodus von <color=#FFD780FF>Dämonengewand – Stürmische Gezeiten</color> ist, löst andernfalls Versiegen – Blitz aus. Versiegen – Hieb und Versiegen – Blitz werden, wenn sie durch dieses Sternbild ausgelöst werden, nicht von der zeitlichen Beschränkung der beiden Zustände des Versiegens beeinflusst und wirken sich auch nicht auf die Zeitabstände zum Auslösen aus.
+Spezialangriff – Regenschlächter
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Spezialangriff – Totale Vernichtung</color> um 3. Höchststufe 15.
+Spezialangriff – Komplette Auslöschung
+Überspringt die Abklingzeit von <color=#FFD780FF>Dämonengewand – Stürmische Gezeiten</color> bei Anwendung von <color=#FFD780FF>Spezialangriff – Totale Vernichtung</color> im Nahkampf. Dieser Effekt wird nach dem Wechsel in den Fernkampf aktiv.

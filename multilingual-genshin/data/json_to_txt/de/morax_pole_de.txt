@@ -1,0 +1,13 @@
+Urzeitlicher Jadespeer
+Ein schwerer und spitzer Speer aus magischer Jade, mit dem man selbst die gewaltigen Meeresungeheuer der Urzeit überwältigen kann.
+ Als Liyue gegründet wurde, beherrschten immer noch Monster und Götter die Meere. Daher lebten die Urväter in ständiger Angst vor dem Ozean und kämpften dagegen mit aller Kraft.  Es vergingen viele Sommer und ein furchtbares Monster wurde zum Herrscher der Meere. Selbst der Wal des Herrschers über die Felsen konnte nichts gegen ihn ausrichten.  Die Bewohner Liyues nannten es Baqiu, eine Kreatur so fürchterlich, dass es selbst in den tiefsten Tiefen des Ozeans kein schlimmeres Ungetüm gab. Von Zeit zu Zeit drangen Riesenwellen aus dem bodenlosen Abgrund in die seichteren Gewässer vor und zerstörten ganze Siedlungen.  Der Geo-Archon fertigte daraufhin einen schwarzen Flugdrachen mit Jade und Steinen.  Der steinerne Vogel flog sofort nach seiner Schöpfung hoch in den Himmel. Er tauchte direkt in das Herz des Ozeans, mitten in das Schlachtfeld des Monsters und des Wales. Die Bestie wurde endlich bezwungen und sank tief in den Grund des Ozeans. Die Bewohner Liyues konnten endlich aufatmen. 
+Habichtlanze
+Erhöht den eigenen ANG bei einem Treffer 6 s lang um <color=#99FFFFFF>3,2 %</color>, 7-fach stapelbar. 0,3 s Abklingzeit. Erhöht den Schaden nach Erreichen des Stapellimits um <color=#99FFFFFF>12 %</color>.
+Habichtlanze
+Erhöht den eigenen ANG bei einem Treffer 6 s lang um <color=#99FFFFFF>3,9 %</color>, 7-fach stapelbar. 0,3 s Abklingzeit. Erhöht den Schaden nach Erreichen des Stapellimits um <color=#99FFFFFF>15 %</color>.
+Habichtlanze
+Erhöht den eigenen ANG bei einem Treffer 6 s lang um <color=#99FFFFFF>4,6 %</color>, 7-fach stapelbar. 0,3 s Abklingzeit. Erhöht den Schaden nach Erreichen des Stapellimits um <color=#99FFFFFF>18 %</color>.
+Habichtlanze
+Erhöht den eigenen ANG bei einem Treffer 6 s lang um <color=#99FFFFFF>5,3 %</color>, 7-fach stapelbar. 0,3 s Abklingzeit. Erhöht den Schaden nach Erreichen des Stapellimits um <color=#99FFFFFF>21 %</color>.
+Habichtlanze
+Erhöht den eigenen ANG bei einem Treffer 6 s lang um <color=#99FFFFFF>6 %</color>, 7-fach stapelbar. 0,3 s Abklingzeit. Erhöht den Schaden nach Erreichen des Stapellimits um <color=#99FFFFFF>24 %</color>.

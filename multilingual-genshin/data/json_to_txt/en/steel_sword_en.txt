@@ -1,0 +1,13 @@
+Cool Steel
+A reliable steel-forged weapon that serves as a testament to the great adventures of its old master.
+ A sturdy steel sword forged by the method of folding. It has a dull shine with a cold glimmer. It belonged to a famous adventurer who witnessed the vastness of the earth. With it, he severed the iron bones of monsters and crossed blades with bandits. But in the end, He gave up the vast earth, the boundless sky, His friends in the Guild, his trusty Cool Steel, and old pals, to be with the girl he loved. 
+Bane of Water and Ice
+Increases DMG against opponents affected by Hydro or Cryo by <color=#99FFFFFF>12%</color>.
+Bane of Water and Ice
+Increases DMG against opponents affected by Hydro or Cryo by <color=#99FFFFFF>15%</color>.
+Bane of Water and Ice
+Increases DMG against opponents affected by Hydro or Cryo by <color=#99FFFFFF>18%</color>.
+Bane of Water and Ice
+Increases DMG against opponents affected by Hydro or Cryo by <color=#99FFFFFF>21%</color>.
+Bane of Water and Ice
+Increases DMG against opponents affected by Hydro or Cryo by <color=#99FFFFFF>24%</color>.

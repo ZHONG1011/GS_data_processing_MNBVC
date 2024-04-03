@@ -1,0 +1,12 @@
+Normal Attack: Lightning Touch
+<color=#FFD780FF>Normal Attack</color> Performs up to 4 lightning attacks that deal <color=#FFACFFFF>Electro DMG</color>.  <color=#FFD780FF>Charged Attack</color> Consumes a certain amount of Stamina to deal <color=#FFACFFFF>AoE Electro DMG</color> after a short casting time.  <color=#FFD780FF>Plunging Attack</color> Gathering the might of Electro, Lisa plunges towards the ground from mid-air, damaging all opponents in her path. Deals <color=#FFACFFFF>AoE Electro DMG</color> upon impact with the ground.
+Violet Arc
+#Channels the power of lightning to sweep bothersome matters away.  <color=#FFD780FF>{LAYOUT_MOBILE#Tap}{LAYOUT_PC#Press}{LAYOUT_PS#Press}</color> Releases a homing Lightning Orb. On hit, it deals <color=#FFACFFFF>Electro DMG</color> and applies a stack of the Conductive status (max 3 stacks) to opponents in a small AoE.  <color=#FFD780FF>Hold</color> After an extended casting time, calls down lightning from the heavens, dealing massive <color=#FFACFFFF>Electro DMG</color> to all nearby opponents. Deals great amounts of extra damage to opponents based on the number of Conductive stacks applied to them, and clears their Conductive status.  <i>Electro Purple is the raiment of the Witch of Purple Rose.</i>
+Lightning Rose
+Summons a Lightning Rose that unleashes powerful lightning bolts, launching surrounding opponents and dealing <color=#FFACFFFF>Electro DMG</color>. The Lightning Rose will continuously emit lightning to knock back opponents and deal <color=#FFACFFFF>Electro DMG</color> throughout the ability's duration.  <i>This rose is beautiful, but beware its mortal thorns.</i>
+Induced Aftershock
+Hits by Charged Attacks apply <color=#FFD780FF>Violet Arc</color>'s Conductive status to opponents.
+Static Electricity Field
+Opponents hit by <color=#FFD780FF>Lightning Rose</color> have their DEF decreased by 15% for 10s.
+General Pharmaceutics
+When Lisa crafts a potion, she has a 20% chance to refund a portion of the crafting materials used.

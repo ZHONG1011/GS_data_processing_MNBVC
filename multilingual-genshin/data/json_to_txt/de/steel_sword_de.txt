@@ -1,0 +1,13 @@
+Kühle Klinge
+Eine stabile Waffe aus mehrfach gefaltetem Stahl, die ihrem ehemaligen Besitzer bei vielen Abenteuern nützlich war.
+ Ein stabiles Eisen, geschmiedet durch wiederholtes Falten. Es hat einen matten Schimmer mit ein wenig kaltem Glanz. Es gehörte einst einem berühmten Abenteurer, der die endlose Weite des Landes erlebt hatte. Er durchtrennte damit die eisernen Knochen der Monster und lieferte sich Klingenduelle mit anderen Banditen. Am Schluss jedoch gab er alles auf, die Weite, den endlosen Himmel, seine Gefährten in der Gilde, den verlässlichen Stahl und alte Freunde, das alles nur für ein Mädchen. 
+Bewährtheit von Wasser und Eis
+Erhöht den von Hydro- oder Kryo-Effekten betroffenen Gegnern zugefügten Schaden um <color=#99FFFFFF>12 %</color>.
+Bewährtheit von Wasser und Eis
+Erhöht den von Hydro- oder Kryo-Effekten betroffenen Gegnern zugefügten Schaden um <color=#99FFFFFF>15 %</color>.
+Bewährtheit von Wasser und Eis
+Erhöht den von Hydro- oder Kryo-Effekten betroffenen Gegnern zugefügten Schaden um <color=#99FFFFFF>18 %</color>.
+Bewährtheit von Wasser und Eis
+Erhöht den von Hydro- oder Kryo-Effekten betroffenen Gegnern zugefügten Schaden um <color=#99FFFFFF>21 %</color>.
+Bewährtheit von Wasser und Eis
+Erhöht den von Hydro- oder Kryo-Effekten betroffenen Gegnern zugefügten Schaden um <color=#99FFFFFF>24 %</color>.

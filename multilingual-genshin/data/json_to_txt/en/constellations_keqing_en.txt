@@ -1,0 +1,12 @@
+Thundering Might
+Recasting <color=#FFD780FF>Stellar Restoration</color> while a Lightning Stiletto is present causes Keqing to deal 50% of her ATK as <color=#FFACFFFF>AoE Electro DMG</color> at the start point and terminus of her Blink.
+Keen Extraction
+When Keqing's Normal and Charged Attacks hit opponents affected by <color=#FFACFFFF>Electro</color>, they have a 50% chance of producing an Elemental Particle. This effect can only occur once every 5s.
+Foreseen Reformation
+Increases the Level of <color=#FFD780FF>Starward Sword</color> by 3. Maximum upgrade level is 15.
+Attunement
+For 10s after Keqing triggers an <color=#FFACFFFF>Electro-related Elemental Reaction</color>, her ATK is increased by 25%.
+Beckoning Stars
+Increases the Level of <color=#FFD780FF>Stellar Restoration</color> by 3. Maximum upgrade level is 15.
+Tenacious Star
+When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental Burst, Keqing gains a 6% <color=#FFACFFFF>Electro DMG Bonus</color> for 8s. Effects triggered by Normal Attacks, Charged Attacks, Elemental Skills and Elemental Bursts are considered independent entities.

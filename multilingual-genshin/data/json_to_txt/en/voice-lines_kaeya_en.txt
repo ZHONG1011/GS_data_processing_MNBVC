@@ -1,0 +1,148 @@
+Hello
+Kaeya, Knight of Favonius. Please allow me to join you on your journey. Guarding you on your journey sounds far more entertaining than any of the usual Favonius stuff.
+Chat: Nothing to Do
+I didn't know you were such a slacker.
+Chat: Knights of Favonius
+Hehe, seems all the other knights already have their hands full.
+Chat: Laziness
+Come on, let's get moving. We're not frozen in place, after all.
+When It Rains
+Cryo is always far more effective in the rain. This is going to get interesting...
+When It Snows: Anecdote
+How about a ghost story to go with the snow?
+When It Snows: Cold
+What's wrong? Can't handle the cold?
+When It's Windy
+What a pleasant breeze. I wonder how long it'll last?
+Good Morning
+Seize the day.
+Good Afternoon
+Hey, fancy joining me at the tavern for a bit?
+Good Evening
+You're not scared of the dark, are you? That's... interesting.
+Good Night
+Leaving already? See you next time, then. Don't make me wait too long, though.
+About Kaeya
+Is the Abyss Order causing you trouble? If there's anything bothering you, you know you can talk to me.
+About Us: Employment Relationship
+If you ever need me, let me know. Let's not make this a transaction relationship.
+About Us: Strength
+Oh? Well, if you're concerned about keeping things professional, maybe you can find more use for me on the front lines. How 'bout it, boss? Haha, just don't feel intimidated by what I can do.
+About the Vision
+Still struggling with how Visions work? Let's see... How can I explain it... The apparatus that allows us to see is our eyes. A Vision is the apparatus by which we control the elements. Simple, is it not?
+Something to Share
+Do you drink wine? Dandelion wine has a unique body to it. Oh, you're underage? You should try Mondstadt's apple cider vinegar. I know just the place.
+Interesting Things
+Have you ever seen the owl of Dragonspine? If you look directly at it, it seems to see right through you, while letting go of none of its own secrets... Quite fascinating, don't you think?
+About Jean
+What? The Acting Grand Master? You need to give her your full support.
+About Lisa
+Oh Lisa. Hmm... You'd better not forget to return your books on time. I made that mistake once and boy was she angry. My arm is still numb from last time...
+About Amber
+That Outrider is a clever and righteous knight. Be careful not to step out of line in front of her.
+About Diluc
+Diluc? He was cute as a young lad. But nowadays he just seems to be in a world of his own... Overall, not much fun to hang out with.
+About Klee
+Klee. Seems she has failed to elude the Acting Grand Master's investigative skills, despite the pointers I gave her... Haha, I'm kidding, no need to go reporting me or anything.
+About Albedo
+Albedo, eh? Calm, collected, and incredibly talented. He's the type everybody likes, some even more so than others. What, you into him as well?
+About Diona
+Have you tried one of Diona's drinks? Oh right, you're still underage. Haha, such a shame, it truly is — to not be able to revel with you in such bliss. Hehe, I guess all we can do is wait for you to be old enough.
+About Varka
+Now that you mention him, it is a shame there is no one in the Knights of Favonius to inherit the Grand Master's approach to his work. *sigh* I must say I really do appreciate people like him.
+About Fischl
+What? You think Fischl having one eye covered is very fitting given her title of Prinzessin der Verurteilung. Hahaha, if that's the case, that must make me a future royal progeny too, no?
+About Noelle
+I was entrusted by the Acting Grand Master to work in the background to support Noelle. But there hasn't been much for me to concern myself with — she has a good head on her shoulders. Quite the relief.
+About Rosaria
+Ahaha, you want to know about the secrets of Sister Rosaria? That... I cannot tell you. Though my impression of her is not bad — certainly better than a certain someone whose name I won't bother to mention. She's honest with herself. She casts off that which she has no time for and she doesn't feign motivation for affairs that do not interest her.
+About Sucrose
+Sucrose may not be much of an extrovert in public, but as they say — it's always the quiet ones... Apparently, her laboratory is home to quite the eclectic range of implements and her experiments are more than just intellectually stimulating... All hearsay, of course. You don't seriously think I would go snooping around a fair lady's private quarters, do you?
+About Collei
+Oh, Collei? Oho, now there's a name I haven't heard in a while... You came to the right person! Let me tell you her whole story, starting right from the very beginning, with all the delicious details!
+About Mika
+When I first met Mika, he seemed like the nervous type, so I decided to joke around with him a little. I didn't count on that making him even more nervous... His smile looked as if it were plastered onto his face, and in the end, he even wrote me a letter of apology. Tsk-tsk. Does taking everything so seriously run in the Schmidts' blood?
+More About Kaeya: I
+The title of Cavalry Captain is nothing to get excited about. Now that I think about it, the Grand Master took all the cavalry from Mondstadt so there's none left for me to captain...
+More About Kaeya: II
+There are a total of ten captains within the Knights of Favonius. But truth be told, not all of them have what it takes to be leaders.
+More About Kaeya: III
+My eye? My eye is fine. There's nothing unusual about hiding one's body parts from view. It's the same reason I wear pants... or any other item of clothing, for that matter.
+More About Kaeya: IV
+Khaenri'ah, huh? You sure know a lot! The legacy of Khaenri'ah is long gone. The sinners are all that's left, and they're not worth mentioning.
+More About Kaeya: V
+I didn't realize we'd known each other for so long now. Time flies! You know, following you on your journey might just be the most fun I've had in my whole life. I hope it stays that way.
+Kaeya's Hobbies
+Wine tasting is an art form. Mondstadt's wine is a gift from the Anemo Archon. It's only right that one should learn how to appreciate it.
+Kaeya's Troubles
+Lonely? Me? Not with someone here nagging me all the time, that's for sure.
+Favorite Food
+Sparkling wine is a specialty of Mondstadt. Mix it with three parts Dandelion Wine and the bitterness disappears completely. This concoction is known as "Death After Noon." Delectable.
+Least Favorite Food
+I can't believe that some people actually drink grape juice... If they had a little more patience, they would find it ferments into the most exquisite wine. Hmph. So unromantic.
+Receiving a Gift: I
+Ho! This is quite exceptional... You are full of surprises.
+Receiving a Gift: II
+You should serve this with wine, it would really add the finishing touch.
+Receiving a Gift: III
+I'm just a slow eater... I'll finish it, don't worry.
+Birthday
+Today is a day worth celebrating, I hope this day can bring you true happiness.
+Feelings About Ascension: Intro
+Hmm. Not bad.
+Feelings About Ascension: Building Up
+You always seem to be around to give me a hand. Thanks.
+Feelings About Ascension: Climax
+Hmm, seems I'm getting stronger. I say, how is it you seem happier than me about it?
+Feelings About Ascension: Conclusion
+We were just traveling partners. I never thought I'd have you to thank for getting me to this point. Seems I really should respond in kind. Let us carry on, partner. The road ahead is still long.
+Elemental Skill: I
+Cool it!
+Elemental Skill: II
+Freeze!
+Elemental Skill: III
+Dodge this!
+Elemental Burst: I
+Don't get frostbite.
+Elemental Burst: II
+Oh, so sorry!
+Elemental Burst: III
+This moment will be frozen in time.
+Sprint Start: I
+What's the hurry?
+Sprint End: I
+*pant* Haha.
+Deploying Wind Glider: I
+Catch the wind.
+Opening Treasure Chest: I
+How fortunate!
+Opening Treasure Chest: II
+Fascinating.
+Opening Treasure Chest: III
+Haha, quite the find.
+Low HP: I
+Time to fight back, I s'pose.
+Low HP: II
+I'm getting tired of this game.
+Low HP: III
+You're getting on my nerves...
+Ally at Low HP: I
+I'll help out, but you owe me.
+Ally at Low HP: II
+Hey, don't die on me. That's no fun.
+Fallen: I
+I'm not done...
+Fallen: II
+That was unexpected...
+Fallen: III
+This doesn't look good...
+Heavy Hit Taken: I
+Urgh!
+Heavy Hit Taken: II
+Don't push your luck!
+Joining Party: I
+Oh, I'm looking forward to this.
+Joining Party: II
+This will be interesting.
+Joining Party: III
+Ready when you are.

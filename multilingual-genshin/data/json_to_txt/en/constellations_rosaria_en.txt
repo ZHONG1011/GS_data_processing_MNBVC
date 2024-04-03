@@ -1,0 +1,12 @@
+Unholy Revelation
+When Rosaria deals a CRIT Hit, her ATK SPD increases by 10% and her Normal Attack DMG increases by 10% for 4s.
+Land Without Promise
+The duration of the Ice Lance created by <color=#FFD780FF>Rites of Termination</color> is increased by 4s.
+The Wages of Sin
+Increases the Level of <color=#FFD780FF>Ravaging Confession</color> by 3. Maximum upgrade level is 15.
+Painful Grace
+<color=#FFD780FF>Ravaging Confession</color>'s CRIT Hits regenerate 5 Energy for Rosaria. Can only be triggered once each time Ravaging Confession is cast.
+Last Rites
+Increases the Level of <color=#FFD780FF>Rites of Termination</color> by 3. Maximum upgrade level is 15.
+Divine Retribution
+<color=#FFD780FF>Rites of Termination</color>'s attack decreases opponents' Physical RES by 20% for 10s.

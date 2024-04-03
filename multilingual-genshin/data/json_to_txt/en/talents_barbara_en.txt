@@ -1,0 +1,12 @@
+Normal Attack: Whisper of Water
+<color=#FFD780FF>Normal Attack</color> Performs up to 4 water splash attacks that deal <color=#80C0FFFF>Hydro DMG</color>.  <color=#FFD780FF>Charged Attack</color> Consumes a certain amount of Stamina to deal <color=#80C0FFFF>AoE Hydro DMG</color> after a short casting time.  <color=#FFD780FF>Plunging Attack</color> Gathering the might of Hydro, Barbara plunges towards the ground from mid-air, damaging all opponents in her path. Deals <color=#80C0FFFF>AoE Hydro DMG</color> upon impact with the ground.
+Let the Show Begin♪
+Summons water droplets resembling musical notes that form a Melody Loop, dealing <color=#80C0FFFF>Hydro DMG</color> to surrounding opponents and applying the <color=#80C0FFFF>Wet</color> status to them.  <color=#FFD780FF>Melody Loop</color> ·On hit, Barbara's Normal Attacks heal your own party members and nearby teammates for a certain amount of HP, which scales with Barbara's Max HP. ·On hit, Barbara's Charged Attack generates 4 times the amount of healing. ·Periodically regenerates your own active character's HP. ·Applies the <color=#80C0FFFF>Wet</color> status to the character and to opponents who come in contact with them.  <i>Barbara's music is the magic that heals her companions.</i>
+Shining Miracle♪
+Heals your own party members and nearby teammates for a large amount of HP that scales with Barbara's Max HP.  <i>Barbara's desire to heal strengthens her will to fight and sing.</i>
+Glorious Season
+The Stamina Consumption of characters within <color=#FFD780FF>Let the Show Begin♪</color>'s Melody Loop is reduced by 12%.
+Encore
+When your active character gains an Elemental Orb/Particle, the duration of the Melody Loop of <color=#FFD780FF>Let the Show Begin♪</color> is extended by 1s. The maximum extension is 5s.
+With My Whole Heart♪
+When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.

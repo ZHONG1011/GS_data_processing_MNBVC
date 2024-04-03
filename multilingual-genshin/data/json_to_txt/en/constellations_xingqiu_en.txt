@@ -1,0 +1,12 @@
+The Scent Remained
+Increases the maximum number of Rain Swords by 1.
+Rainbow Upon the Azure Sky
+Extends the duration of <color=#FFD780FF>Guhua Sword: Raincutter</color> by 3s. Decreases the <color=#80C0FFFF>Hydro RES</color> of opponents hit by sword rain attacks by 15% for 4s.
+Weaver of Verses
+Increases the Level of <color=#FFD780FF>Guhua Sword: Raincutter</color> by 3. Maximum upgrade level is 15.
+Evilsoother
+Throughout the duration of <color=#FFD780FF>Guhua Sword: Raincutter</color>, the DMG dealt by <color=#FFD780FF>Guhua Sword: Fatal Rainscreen</color> is increased by 50%.
+Embrace of Rain
+Increases the Level of <color=#FFD780FF>Guhua Sword: Fatal Rainscreen</color> by 3. Maximum upgrade level is 15.
+Hence, Call Them My Own Verses
+Activating 2 of <color=#FFD780FF>Guhua Sword: Raincutter</color>'s sword rain attacks greatly enhances the third sword rain attack. On hit, the third sword rain attack also regenerates 3 Energy for Xingqiu.

@@ -1,0 +1,12 @@
+Normal Attack: Seal of Approval
+<color=#FFD780FF>Normal Attack</color> Shoots fireballs that deal up to three counts of <color=#FF9999FF>Pyro DMG</color>. When Yanfei's Normal Attacks hit enemies, they will grant her a single Scarlet Seal. Yanfei may possess a maximum of 3 Scarlet Seals, and each time this effect is triggered, the duration of currently possessed Scarlet Seals will refresh. Each Scarlet Seal will decrease Yanfei's Stamina consumption and will disappear when she leaves the field.  <color=#FFD780FF>Charged Attack</color> Consumes Stamina and all Scarlet Seals before dealing <color=#FF9999FF>AoE Pyro DMG</color> to opponents after a short casting time. This Charged Attack's AoE and DMG will increase according to the amount of Scarlet Seals consumed.  <color=#FFD780FF>Plunging Attack</color> Gathering the power of Pyro, Yanfei plunges towards the ground from mid-air, damaging all opponents in her path. Deals <color=#FF9999FF>AoE Pyro DMG</color> upon impact with the ground.
+Signed Edict
+Summons blistering flames that deal <color=#FF9999FF>AoE Pyro DMG</color>. Opponents hit by the flames will grant Yanfei the maximum number of Scarlet Seals.  <i>Apart from their legal uses, Yanfei's seals also come with her customized additional terms and conditions. Well, it's not as if the Ministry of Civil Affairs can change the laws of nature.</i>
+Done Deal
+Triggers a spray of intense flames that rush at nearby opponents, dealing <color=#FF9999FF>AoE Pyro DMG</color>, granting Yanfei the maximum number of Scarlet Seals, and applying Brilliance to her.  <color=#FFD780FF>Brilliance</color> Has the following effects: ·Grants Yanfei a Scarlet Seal at fixed intervals. ·Increases the DMG dealt by her Charged Attacks. The effects of Brilliance will end if Yanfei leaves the field or falls in battle.  <i>"Here are the full terms for this matter of life and death — by which I mean my life and your death!"</i>
+Proviso
+When Yanfei consumes Scarlet Seals by using a Charged Attack, each Scarlet Seal will increase Yanfei's <color=#FF9999FF>Pyro DMG Bonus</color> by 5%. This effects lasts for 6s. When a Charged Attack is used again during the effect's duration, it will dispel the previous effect.
+Blazing Eye
+When Yanfei's Charged Attack deals a CRIT Hit to opponents, she will deal an additional instance of <color=#FF9999FF>AoE Pyro DMG</color> equal to 80% of her ATK. This DMG counts as Charged Attack DMG.
+Encyclopedic Expertise
+Displays the location of nearby <color=#FFD780FF>resources unique to Liyue</color> on the mini-map.

@@ -1,0 +1,13 @@
+Thrilling Tales of Dragon Slayers
+A fictional story of a band of five heroes who go off on a dragon hunt. It is poorly written and structurally incoherent. Its value lies in the many lessons that can be learned from failure.
+ Five Heroes embarked on a journey to slay the evil dragon. For honor, the master swordsman. For research, the knowledgeable sorceress. For bounty, the swashbuckling mercenary. For vengeance, the deadeye marksman. For stories, the grand novelist. A lotus proceeds from my mouth and flowers bloom on the page. My words are wise and clear and my thoughts are sharp like lightning. I joined this party because I couldn't find a job, and anybody can be a copywriter. But I'm no writer, just a regular fellow in his mid twenties without an honest job. 
+Heritage
+When switching characters, the new character taking the field has their ATK increased by <color=#99FFFFFF>24%</color> for 10s. This effect can only occur once every 20s.
+Heritage
+When switching characters, the new character taking the field has their ATK increased by <color=#99FFFFFF>30%</color> for 10s. This effect can only occur once every 20s.
+Heritage
+When switching characters, the new character taking the field has their ATK increased by <color=#99FFFFFF>36%</color> for 10s. This effect can only occur once every 20s.
+Heritage
+When switching characters, the new character taking the field has their ATK increased by <color=#99FFFFFF>42%</color> for 10s. This effect can only occur once every 20s.
+Heritage
+When switching characters, the new character taking the field has their ATK increased by <color=#99FFFFFF>48%</color> for 10s. This effect can only occur once every 20s.

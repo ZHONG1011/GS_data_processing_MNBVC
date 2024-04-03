@@ -1,0 +1,13 @@
+Rabenbogen
+Raben sind in den Mythen die Gesandten des Todes. Rabenfedern schmücken den Bogen und geben der Beute so schon beim Abschuss des Pfeils die Nachricht ihres Todes bekannt.
+ Laut Legenden sind Raben die Boten des Todes. Wenn man die Feder eines Raben an dem Ende des Bogens befestigt, erklärt man das Ziel, auf das man schießt bereits für tot. Zumindest hat das der Waffenhändler gesagt. 
+Bewährtheit von Feuer und Wasser
+Erhöht den von Hydro- oder Pyro-Effekten betroffenen Gegnern zugefügten Schaden um <color=#99FFFFFF>12 %</color>.
+Bewährtheit von Feuer und Wasser
+Erhöht den von Hydro- oder Pyro-Effekten betroffenen Gegnern zugefügten Schaden um <color=#99FFFFFF>15 %</color>.
+Bewährtheit von Feuer und Wasser
+Erhöht den von Hydro- oder Pyro-Effekten betroffenen Gegnern zugefügten Schaden um <color=#99FFFFFF>18 %</color>.
+Bewährtheit von Feuer und Wasser
+Erhöht den von Hydro- oder Pyro-Effekten betroffenen Gegnern zugefügten Schaden um <color=#99FFFFFF>21 %</color>.
+Bewährtheit von Feuer und Wasser
+Erhöht den von Hydro- oder Pyro-Effekten betroffenen Gegnern zugefügten Schaden um <color=#99FFFFFF>24 %</color>.

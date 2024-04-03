@@ -1,0 +1,12 @@
+Standardangriff: Aufgewirbelter Staub
+<color=#FFD780FF>Standardangriff</color> Führt bis zu 6 Lanzenstiche hintereinander aus.  <color=#FFD780FF>Heftiger Schlag</color> Verbraucht eine gewisse Menge Ausdauer und führt einen nach oben gerichteten Angriff aus.  <color=#FFD780FF>Angriff aus dem Fall</color> Schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden. Xiao erleidet bei Angriffen aus dem Fall keinen Schaden durch den Fall.
+Doppeltes Windrad
+Sticht mit hoher Geschwindigkeit nach vorn und fügt den Gegnern in der Bahn <color=#80FFD7FF>Anemo-Schaden</color> zu. Kann in der Luft angewendet werden. Kann anfänglich 2-mal angewendet werden.  <i>In den Legenden fremder Länder würde die Welt von zwei riesigen Windrädern zermalmt werden. Xiao hat den Umgang mit der Lanze bereits perfektioniert und zerschneidet seine Gegner wie die beiden Windräder.</i>
+Geistervertreibung
+Setzt die Yaksha-Maske auf, die Götter und Monster schon vor Jahrtausenden gleichermaßen in Angst und Schrecken versetzt hat.  <color=#FFD780FF>Yaksha-Maske</color> · Erhöht Xiaos Sprungkraft enorm. · Vergrößert den Angriffsradius und erhöht den verursachten Schaden. · Wandelt den verursachten Schaden in <color=#80FFD7FF>Anemo-Schaden</color> um. Diese Elementarumwandlung kann nicht von anderen Elementen überdeckt werden.  Xiao verbraucht in diesem Zustand fortlaufend LP. Effekt erlischt, wenn Xiao ausgewechselt wird.  <i>Xiao setzt die Maske eines Dämons auf und nimmt die Gestalt des „Schützenden Yaksha“ an, der das Böse erstarren lässt und Geistwesen vertreibt. Er erhält damit große Kraft, aber auch große Schmerzen. Dies wird als „Geistervertreibung“ bezeichnet.</i>
+Eroberung – Dämonenbändiger
+Erhöht Xiaos gesamten Schaden im Zustand <color=#FFD780FF>Geistervertreibung</color> um 5 % und danach während der Dauer der Fähigkeit alle 3 s um zusätzliche 5 %. Erhöht den Schaden dabei um bis zu 25 %.
+Untergang – Zermalmtes Land
+Erhöht den mit <color=#FFD780FF>Doppeltes Windrad</color> verursachten Schaden bei erneuter Anwendung von Doppeltes Windrad innerhalb von 7 s um 15 %. Hält 7 s, 3-fach stapelbar, aktualisiert die Dauer beim Stapeln.
+Transzendenz – Schwerelosigkeit
+Verringert die beim Klettern verbrauchte Ausdauer aller eigenen Truppenmitglieder um 20 %. Nicht mit passiven Talenten mit völlig gleichen Effekten stapelbar.

@@ -1,0 +1,12 @@
+Clustered Vacuum Field
+<color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color> gains 1 additional charge.
+Beth: Unbound Form
+The duration of <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color> is increased by 2s.
+Flawless Alchemistress
+Increases the Level of <color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color> by 3. Maximum upgrade level is 15.
+Alchemania
+Sucrose will reduce the CD of <color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color> by 1-7s for every 7 Normal or Charged Attack hits she scores against opponents. One hit may be counted every 0.1s.
+Caution: Standard Flask
+Increases the Level of <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color> by 3. Maximum upgrade level is 15.
+Chaotic Entropy
+If <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color> triggers an Elemental Absorption, all party members gain a 20% Elemental DMG Bonus for the corresponding absorbed element during its duration.

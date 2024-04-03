@@ -1,0 +1,12 @@
+Piercing Fragments
+When a Normal Attack hits, it deals AoE DMG.
+Shock Effect
+When <color=#FFD780FF>Jade Screen</color> is shattered, its CD will reset. Can occur once every 6s.
+Majesty Be the Array of Stars
+Increases the Level of <color=#FFD780FF>Starshatter</color> by 3. Maximum upgrade level is 15.
+Exquisite be the Jade, Outshining All Beneath
+<color=#FFD780FF>Jade Screen</color> increases nearby characters' Elemental RES by 10%.
+Invincible Be the Jade Screen
+Increases the Level of <color=#FFD780FF>Jade Screen</color> by 3. Maximum upgrade level is 15.
+Grandeur Be the Seven Stars
+When <color=#FFD780FF>Starshatter</color> is used, Ningguang gains 7 Star Jades.

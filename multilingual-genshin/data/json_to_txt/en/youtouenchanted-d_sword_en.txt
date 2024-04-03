@@ -1,0 +1,4 @@
+Prized Isshin Blade
+An ominous purple aura clings to this bizarre blade. Its wicked aura and hostility have both decreased greatly.
+Wandering Striker
+When a Normal, Charged, or Plunging Attack hits an opponent, it will release an Accursed Spirit, dealing AoE DMG equal to 180% of ATK and restoring 100% of ATK as HP. This effect can be triggered once every 8s. The DMG done by this weapon's wielder is decreased by 50%.

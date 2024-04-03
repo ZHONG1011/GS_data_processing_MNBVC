@@ -1,0 +1,13 @@
+Raven Bow
+Ravens are known to be the ferrymen of the dead. This bow's limb is decorated with raven feathers, which forebode the imminent death of its target.
+ Ravens are messengers of death. "Placing this feather on the limb of one's bow declares the death of one's prey." Or so claimed the weapon vendors. 
+Bane of Flame and Water
+Increases DMG against opponents affected by Hydro or Pyro by <color=#99FFFFFF>12%</color>.
+Bane of Flame and Water
+Increases DMG against opponents affected by Hydro or Pyro by <color=#99FFFFFF>15%</color>.
+Bane of Flame and Water
+Increases DMG against opponents affected by Hydro or Pyro by <color=#99FFFFFF>18%</color>.
+Bane of Flame and Water
+Increases DMG against opponents affected by Hydro or Pyro by <color=#99FFFFFF>21%</color>.
+Bane of Flame and Water
+Increases DMG against opponents affected by Hydro or Pyro by <color=#99FFFFFF>24%</color>.

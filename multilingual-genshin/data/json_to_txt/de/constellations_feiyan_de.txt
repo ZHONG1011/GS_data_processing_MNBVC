@@ -1,0 +1,12 @@
+Rechthaberei
+Erhöht mit jedem flammenden Siegel Yanfeis Unterbrechungs-WDS beim Aufladen, wenn sie einen heftigen Schlag ausführt, und verringert den Ausdauerverbrauch bei dem heftigen Schlag.
+Endgültige Auslegung vorbehalten
+Erhöht die KT bei Yanfeis heftigen Schlägen gegenüber Gegnern mit weniger als 50 % LP um 20 %.
+Siegel in lodernder Flamme
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Pakt des Feuers</color> um 3. Höchststufe 15.
+Eiserner Pakt
+Effekte bei Anwendung von <color=#FFD780FF>Pakt des flammenden Infernos</color>: Erstellt einen Schutzschild, der Schaden in Höhe von 45 % der max. LP abhält, hält 15 s. Hält bei <color=#FF9999FF>Pyro-Schaden</color> 250 % ab.
+Eidesstattliche Versicherung
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Pakt des flammenden Infernos</color> um 3. Höchststufe 15.
+Extraklausel
+Erhöht die Höchstmenge an flammenden Siegeln um 1.

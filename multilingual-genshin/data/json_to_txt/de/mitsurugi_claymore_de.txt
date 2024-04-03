@@ -1,0 +1,13 @@
+Himmelsflug-Großschwert
+Ein recht robustes Großschwert. Der sagenumwobene „Schwertprinz“ hat mit ihm den zweiten Versuch unternommen, gen Himmel zu fliegen.
+ Mit einem Gefühl der Unterlegenheit entschied der Schwertprinz, dass Kampfkunst und Können allein doch nicht alles im Leben sind. Also beschloss er, sich verstärkt auf die Waffe an sich zu konzentrieren. „Größer ist besser. Je größer das Schwert, desto besser werde ich sein“, das war seine Logik. Er fand letztendlich sein grandioses Finale bei den Guyun-Türmen. Sein Traum vom Fliegen kam zu einem Ende, sein Schwert und seine Geschichte jedoch lebten fortan weiter ... 
+Mut
+Erhöht den ANG bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um <color=#99FFFFFF>6 %</color>, 4-fach stapelbar. 0,5 s Abklingzeit.
+Mut
+Erhöht den ANG bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um <color=#99FFFFFF>7 %</color>, 4-fach stapelbar. 0,5 s Abklingzeit.
+Mut
+Erhöht den ANG bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um <color=#99FFFFFF>8 %</color>, 4-fach stapelbar. 0,5 s Abklingzeit.
+Mut
+Erhöht den ANG bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um <color=#99FFFFFF>9 %</color>, 4-fach stapelbar. 0,5 s Abklingzeit.
+Mut
+Erhöht den ANG bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um <color=#99FFFFFF>10 %</color>, 4-fach stapelbar. 0,5 s Abklingzeit.

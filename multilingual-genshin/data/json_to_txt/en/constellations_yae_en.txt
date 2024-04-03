@@ -1,0 +1,12 @@
+Yakan Offering
+Each time <color=#FFD780FF>Great Secret Art: Tenko Kenshin</color> activates a Tenko Thunderbolt, Yae Miko will restore 8 Elemental Energy for herself.
+Fox's Mooncall
+<color=#FFD780FF>Sesshou Sakura</color> start at Level 2 when created, their max level is increased to 4, and their attack range is increased by 60%.
+The Seven Glamours
+Increases the Level of <color=#FFD780FF>Yakan Evocation: Sesshou Sakura</color> by 3. Maximum upgrade level is 15.
+Sakura Channeling
+When <color=#FFD780FF>Sesshou Sakura</color> lightning hits opponents, the <color=#FFACFFFF>Electro DMG Bonus</color> of all nearby party members is increased by 20% for 5s.
+Mischievous Teasing
+Increases the Level of <color=#FFD780FF>Great Secret Art: Tenko Kenshin</color> by 3. Maximum upgrade level is 15.
+Forbidden Art: Daisesshou
+<color=#FFD780FF>The Sesshou Sakura's</color> attacks will ignore 60% of the opponents' DEF.

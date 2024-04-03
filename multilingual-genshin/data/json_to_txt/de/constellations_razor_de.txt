@@ -1,0 +1,12 @@
+Wolfsinstinkte
+Erhöht den von Razor verursachten Schaden beim Erhalten von Elementarkristallen oder Elementarteilchen 8 s lang um 10 %.
+Einschüchtern
+Erhöht die KT, wenn Razor Gegner mit weniger als 30 % LP angreift, um 10 %.
+Tierische Seele
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Blitzklauen</color> um 3. Höchststufe 15.
+Biss
+Verringert die VTD getroffener Gegner bei Anwendung von <color=#FFD780FF>Klauen und Donner</color> 7 s lang um 15 %.
+Scharfe Klauen
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Klauen und Donner</color> um 3. Höchststufe 15.
+Lupus Fulguris
+Razors Großschwert lädt sich alle 10 s auf, elektrisiert den nächsten Standardangriff und verursacht damit <color=#FFACFFFF>Elektro-Schaden</color> in Höhe von 100 % ANG. Sammelt ohne den Zustand <color=#FFD780FF>Blitzklauen</color> bei einem Treffer mit dem elektrisierten Angriff ein Elektro-Siegel für Razors <color=#FFD780FF>Klauen und Donner</color>.

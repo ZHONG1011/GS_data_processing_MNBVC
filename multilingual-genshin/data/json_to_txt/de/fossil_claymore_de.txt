@@ -1,0 +1,13 @@
+Opfergroßschwert
+Ein großes, über die Zeit verkrustetes Schwert mit noch gut zu erkennenden Ornamenten. Mit ihm kann man die Winde der Zeit gut überstehen.
+ Die Ahnen verehrten die Meister des Windes und der Zeit zusammen an der Klippe, die der östlichen See zugewandt war. Sie bezogen sich nämlich auf den Glauben „Die Samen der Geschichte, vom Wind hergetragen und von der Zeit genährt.“ Das Schwert erzählt die Geschichte vom Krieg und wird dazu verwendet, das Lied vom Krieg zu spielen. Ursprünglich nur als Requisite ohne Klinge gedacht wurde es durch den Wind der Zeit immer härter.  Das Schwert gehörte dem bereits früh ausgestorbenen Kriegerklan der Imunlaukr. Während Ritualkämpfen nutzten sie getrocknetes Blut, um sich schwarz anzumalen.  Der Ansicht des Imunlaukr-Klans nach war der Krieg nicht zur Verteidigung, Ehre oder Gebietseroberung vorgesehen. Für sie galt der Krieg der Unterhaltung der sonst so schlecht zu unterhaltenden Götter. Obgleich Monster oder Mörder, sie bekämpften sie alle, ohne Rücksicht darauf zu nehmen, ob sie danach wieder zu ihren Geliebten zurückkehren würden. Solange man im Kampf nur laut genug schrie und Blut vergoss, hatte man seine Aufgabe erfüllt.  Solch ein hitzköpfiger Klan jedoch hatte kein langes Dasein in den Annalen der Geschichte. Ihre Kämpfe hatten weder ein Ende noch einen Sieger. Als der Schnee allmählich zu schmelzen begann und Mondstadt Gestalt annahm, hatten sie endlich etwas gefunden, das es zu beschützen wert war. 
+Göttliche Fügung
+Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von <color=#99FFFFFF>40 %</color>, <color=#99FFFFFF>30</color> s Abklingzeit.
+Göttliche Fügung
+Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von <color=#99FFFFFF>50 %</color>, <color=#99FFFFFF>26</color> s Abklingzeit.
+Göttliche Fügung
+Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von <color=#99FFFFFF>60 %</color>, <color=#99FFFFFF>22</color> s Abklingzeit.
+Göttliche Fügung
+Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von <color=#99FFFFFF>70 %</color>, <color=#99FFFFFF>19</color> s Abklingzeit.
+Göttliche Fügung
+Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von <color=#99FFFFFF>80 %</color>, <color=#99FFFFFF>16</color> s Abklingzeit.

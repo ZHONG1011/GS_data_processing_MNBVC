@@ -1,0 +1,12 @@
+Lenkung der Sünden
+Erhöht Rosarias Angriffs-GSW nach Auslösen eines KT mit einem ihrer Angriffe 4 s lang um 10 % und den mit Standardangriffen verursachten Schaden um 10 %.
+Land des Unheils
+Verlängert die Wirkungsdauer der mit <color=#FFD780FF>Letzte Salbung</color> erschaffenen Eislanze um 4 s.
+Beichtritual
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Erschütterndes Geständnis</color> um 3. Höchststufe 15.
+Bittere Gnade
+Stellt Rosaria beim Auslösen eines KT mit <color=#FFD780FF>Erschütterndes Geständnis</color> 5 punkte Elementarenergie wieder her. Dieser Effekt kann pro Erschütterndes Geständnis nur 1-mal ausgelöst werden.
+Letztes Gebet
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Letzte Salbung</color> um 3. Höchststufe 15.
+Im Namen der Götter
+Verringert mit den Angriffen von <color=#FFD780FF>Letzte Salbung</color> den physischen WDS von Gegnern 10 s lang um 20 %.

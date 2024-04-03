@@ -1,0 +1,146 @@
+Schön, dich kennenzulernen.
+Ich bin Diluc aus Mondstadt, wie bestellt. Für große Taten bin ich immer zu haben, der Rest interessiert mich nicht.
+Gespräch – Entspannung
+Zeit für eine kurze Pause, auch gut.
+Gespräch – Ritterorden
+Du solltest am besten jemanden vom Ritterorden mitnehmen, um auf dich aufzupassen.
+Gespräch – Zunft
+Ich habe noch einiges in der Zunft zu erledigen. Warum ruhst du dich nicht einfach solange aus?
+Gespräch – Vorbereitung
+Bereite dich gut vor und greife an, bevor dein Gegner es tut.
+Gespräch – Pläne
+In der Pause kann man auch über seine nächsten Pläne nachdenken.
+Gespräch – Hinweis
+Jede Aktion ist zwangsläufig mit Risiken verbunden. Daher musst du besonders vorsichtig sein.
+Wenn es regnet – Schirm
+Ich brauche keinen Schirm, nimm du ihn dir ruhig.
+Wenn es regnet – Reinigung
+Regen? Schade, dass er die Welt nicht vom Schmutz der Korruption reinigen kann.
+Wie sonnig ...
+Solange du dir selbst treu bleibst, kann dir das Wetter nichts mehr anhaben.
+Ein Sturm zieht auf.
+Es gibt jene, die das Heulen des Windes nutzen, um die Geräusche ihrer Verbrechen zu überdecken.
+Guten Morgen.
+Keine Zeit für Höflichkeiten. Hauptsache ist, dass letzte Nacht alles in Ordnung war.
+Guten Tag.
+Magst du das geheime Menü probieren?
+Guten Abend.
+Die Nacht ist angebrochen.
+Gute Nacht.
+Gut, bis zum nächsten Mal. Ich bring dich lieber noch mit raus.
+Über Diluc ...
+Die Legende vom „Helden der Nacht“? Das hört sich interessant an.
+Über uns – Bedürfnisse
+Sag, wenn du irgendwas brauchst. Bei Geldfragen wende dich an Elzer.
+Über uns – Beweise
+Du hast bereits deine Entschlossenheit bewiesen. Dann ist es jetzt an der Zeit, dir meine zu bezeugen.
+Über das „Göttliche Auge“ ...
+Für diejenigen, die den Pfad vor Augen verloren haben, ist ein „Göttliches Auge“ ein Licht in der Dunkelheit. Für die jedoch, die erfüllt sind vom Glauben, für die ist es bloß ein Medaillon.
+Willst du mir etwas mitteilen?
+Von Zeit zu Zeit helfe ich in der „Engelsgabe“ aus, weil Tavernen die Informationszentren einer Stadt sind.
+Interessante Vorkommnisse ...
+Das ist eine Nachteule. In der Dunkelheit beobachtet sie ihre Beute, nur um dann im passenden Moment gnadenlos zuzustoßen.
+Über Kaeya ...
+Kaeya? Was dieser Mann sagt, kann man nur zur Hälfte glauben.
+Über Lisa ...
+Lisa, sie hat das Potenzial, der verlässlichste Ritter des Ritterordens zu werden. Wenn sie nur will.
+Über Jean – Feinde
+Sich mit Bagatellen aufzuhalten, ist Jeans größter Fehler.
+Über Jean – Pflicht
+Ihr unglaublicher Verantwortungssinn hat sie bisher davon abgehalten, ihre wahre Bestimmung zu finden.
+Über Mona ...
+Das Land von Mondstadt ist von der Gnade des Anemo-Archons durchdrungen, sodass keine Astrologen benötigt werden, um die Ernte vorherzusagen.
+Über Diona ...
+Diona war immer etwas grob zu mir und bisher war ich nicht in der Lage gewesen, die richtige Gelegenheit für ein Gespräch zu finden. Wenn es nun um eine Familienfehde geht ... Was? Nein? Hasst sie einfach nur Alkohol? Ich hätte nicht gedacht, dass es in dieser Stadt auch noch Schankdamen geben würde, die Alkohol hassen.
+Über Varka ...
+Großmeister Varka, nun, ich verstehe seine Absichten, dennoch verstehe ich seine Taten nicht. Aber ich habe bereits viel zu viel gesagt. Schon lange bin ich kein Ritter des Ordo Favonius mehr. Vergiss einfach, was ich gesagt habe.
+Über Eula ...
+Ich habe von ihr gehört. Sie hat ihr eigenes Ideal. Auch ihr Versuch, sich von den Fesseln ihrer Familie zu befreien, ist lobenswert. Doch sie ... schloss sich dem Ordo Favonius an.
+Ich will mehr über Diluc erfahren I
+Du hast noch etwas Wichtiges zu tun?
+Ich will mehr über Diluc erfahren II
+Wie, du fragst nach dem Ritterorden? Ach, da gibt es nicht viel zu sagen. Wir haben nun einmal unterschiedliche Ansichten.
+Ich will mehr über Diluc erfahren III
+Es ist schon lange her, dass ich Schach mit jemandem außer meinem Haushälter gespielt habe. Ich habe genau jetzt einen Moment Zeit für eine Partie.
+Ich will mehr über Diluc erfahren IV
+Schachmatt. Puh, es ist nicht leicht, mich bis zu diesem Punkt zu drängen.
+Ich will mehr über Diluc erfahren V
+Nicht schlecht. Egal ob beim Schach oder im Kampf, du hast immer noch ein Ass im Ärmel. Mit dir zusammenzuarbeiten, ist mal was ganz anderes. Also, ich freue mich auf unsere weitere Zusammenarbeit als „Partner“.
+Dilucs Hobbys ...
+Die Kunstobjekte in meinem Haus? Die gehörten meinem Vater, sein Hobby sozusagen.
+Dilucs Sorgen ...
+Der wahre Feind, die „Finsternis“ selbst, die das Böse nährt, muss mit anderen Mitteln als dem Schwert besiegt werden ...
+Was er so mag ...
+Du willst wissen, was in meinem Glas ist? Traubensaft, ich trinke meistens das.
+Was er nicht mag ...
+Ich mag Alkohol nicht so sehr. Ich mag einfach das Gefühl davon in meinem Mund nicht.
+Geschenk erhalten I
+Es ist exquisit. Der Geschmack ist unvergesslich.
+Geschenk erhalten II
+Man schmeckt, worauf der Chefkoch Wert legt. Schönes Gericht.
+Geschenk erhalten III
+... Danke.
+Dein Geburtstag ...
+Alles Gute zum Geburtstag! Dies ist ein wichtiger Tag für dich. Sag, was wünschst du dir? Wenn ich es erfüllen kann, werde ich es tun.
+Gedanken über den Aufstieg – Beginn
+Um unsere Ziele zu erreichen, ist Macht erforderlich.
+Gedanken über den Aufstieg – Fortschritt
+Was auf uns wartet? Ich denke selten daran.  Egal was in meinem Weg steht, ich muss es besiegen und weiter nach vorn streben.
+Gedanken über den Aufstieg – Höhepunkt
+Ich bin schon stärker geworden ... Das ist zwar noch nicht genug, aber es scheint bergauf zu gehen.  Bevor die Dämmerung kommt, muss jemand die Dunkelheit ein wenig erhellen ...
+Gedanken über den Aufstieg – Ende
+Ich dachte immer, um Böses auszulöschen, müsste ich allein die Nacht durchstreifen.  Aber dank deiner Hartnäckigkeit habe ich wieder einmal mehr erfahren, dass ich Unrecht hatte. Danke mein Freund.
+Elementarfähigkeit I
+Hu!
+Elementarfähigkeit II
+Ha!
+Elementarfähigkeit III
+Haah!
+Elementarfähigkeit I
+Ho.
+Elementarfähigkeit II
+Ha.
+Elementarfähigkeit III
+Ha!
+Spezialfähigkeit I
+Das Urteil ist gefällt!
+Spezialfähigkeit II
+Mögen die Flammen dich verschlingen!
+Spezialfähigkeit III
+Nimm dein Urteil entgegen!
+Spezialfähigkeit I
+Jetzt wird abgerechnet!
+Spezialfähigkeit II
+Läuternde Flammen!
+Spezialfähigkeit III
+Die Dämmerung bricht an!
+Truhe öffnen I
+Hm, besser als nichts.
+Truhe öffnen II
+Ich nehme an, das wird reichen.
+Truhe öffnen III
+Wir müssen noch mehr davon einsammeln.
+Niedrige LP I
+Mehr hast du nicht zu bieten?
+Niedrige LP II
+Verdammt!
+Niedrige LP III
+Dafür wirst du bezahlen.
+Verbündeter hat niedrige LP I
+Vorsicht!
+Verbündeter hat niedrige LP II
+Nimm dir einfach eine kurze Pause!
+Ohnmächtig I
+Was habe ich falsch gemacht ...
+Ohnmächtig II
+Es gibt keine Entschuldigung ... für eine Niederlage ...
+Ohnmächtig III
+Meine Flamme ... ist ... erloschen ...
+Schweren Treffer erlitten I
+Verdammt!
+Truppenbeitritt I
+Lass uns gehen.
+Truppenbeitritt II
+Was ist unser Ziel?
+Truppenbeitritt III
+Lass uns das schnell erledigen.

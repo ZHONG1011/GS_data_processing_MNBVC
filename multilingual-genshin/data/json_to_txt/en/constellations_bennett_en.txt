@@ -1,0 +1,12 @@
+Grand Expectation
+<color=#FFD780FF>Fantastic Voyage</color>'s ATK increase no longer has an HP restriction, and gains an additional 20% of Bennett's Base ATK.
+Impasse Conqueror
+When Bennett's HP falls below 70%, his Energy Recharge is increased by 30%.
+Unstoppable Fervor
+Increases the Level of <color=#FFD780FF>Passion Overload</color> by 3. Maximum upgrade level is 15.
+Unexpected Odyssey
+Using a Normal Attack when executing the second attack of <color=#FFD780FF>Passion Overload</color>'s Charge Level 1 allows an additional attack to be performed. This additional attack does 135% of the second attack's DMG.
+True Explorer
+Increases the Level of <color=#FFD780FF>Fantastic Voyage</color> by 3. Maximum upgrade level is 15.
+Fire Ventures With Me
+Sword, Claymore, or Polearm-wielding characters inside <color=#FFD780FF>Fantastic Voyage</color>'s radius gain a 15% <color=#FF9999FF>Pyro DMG Bonus</color> and their weapons are infused with <color=#FF9999FF>Pyro</color>.

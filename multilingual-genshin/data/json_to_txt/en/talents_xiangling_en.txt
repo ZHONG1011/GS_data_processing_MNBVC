@@ -1,0 +1,12 @@
+Normal Attack: Dough-Fu
+<color=#FFD780FF>Normal Attack</color> Performs up to five consecutive spear strikes.  <color=#FFD780FF>Charged Attack</color> Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.  <color=#FFD780FF>Plunging Attack</color> Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Guoba Attack
+Summons Guoba, who will continuously breathe fire at opponents, dealing <color=#FF9999FF>AoE Pyro DMG</color>.  <i>Guoba loves to eat spicy food. Problem is, his stomach can't handle something this spicy.</i>
+Pyronado
+Displaying her mastery over both fire and polearms, Xiangling sends a Pyronado whirling around her. The Pyronado will move with your character for the ability's duration, dealing <color=#FF9999FF>Pyro DMG</color> to all opponents in its path.  <i>There will never be enough heat. Never.</i>
+Crossfire
+Increases the flame range of Guoba by 20%.
+Beware, It's Super Hot!
+When <color=#FFD780FF>Guoba Attack</color>'s effect ends, Guoba leaves a chili pepper on the spot where it disappeared. Picking up a chili pepper increases ATK by 10% for 10s.
+Chef de Cuisine
+When Xiangling cooks an ATK-boosting dish perfectly, she has a 12% chance to receive double the product.

@@ -1,0 +1,13 @@
+Recurve Bow
+It is said that this bow can shoot down eagles in flight, but ultimately how true that is depends on the skill of the archer.
+ A recurve bow exquisitely made from wood, bones, and animal tendons. In the hands of a masterful archer, it can shoot down eagles in flight. It is the pride of a hunter, and proof of mastery. Pity the innocent eagles.
+Cull the Weak
+Defeating an opponent restores <color=#99FFFFFF>8%</color> HP.
+Cull the Weak
+Defeating an opponent restores <color=#99FFFFFF>10%</color> HP.
+Cull the Weak
+Defeating an opponent restores <color=#99FFFFFF>12%</color> HP.
+Cull the Weak
+Defeating an opponent restores <color=#99FFFFFF>14%</color> HP.
+Cull the Weak
+Defeating an opponent restores <color=#99FFFFFF>16%</color> HP.

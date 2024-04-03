@@ -1,0 +1,12 @@
+Verschneite Sakura
+Verkürzt beim Verursachen von <color=#99FFFFFF>Kryo-Schaden</color> gegenüber Gegnern mit Standardangriffen oder heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % die Abklingzeit von <color=#FFD780FF>Kamisato-Stil – Hyouka</color> um 0,3 s. 0,1 s Abklingzeit.
+Sturmklinge Seki no To
+Erschafft bei Anwendung von <color=#FFD780FF>Kamisato-Stil – Soumetsu</color> zwei zusätzliche kleinere Frostflocken Seki no To, die jeweils 20 % des ursprünglichen Schadens verursachen.
+Frostblüte Kamifubuki
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Kamisato-Stil – Soumetsu</color> um 3. Höchststufe 15.
+Ebbe und Flut
+Verringert, wenn Gegner durch die Frostflocken Seki no To von <color=#FFD780FF>Kamisato-Stil – Soumetsu</color> Schaden erleiden, die VTD 6 s lang um 30 %.
+Blütenwolke Irutsuki
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Kamisato-Stil – Hyouka</color> um 3. Höchststufe 15.
+Suigetsu-Tanz
+Kamisato Ayaka erhält alle 10 s „Usurahi Butou“, das den mit ihren heftigen Schlägen verursachten Schaden um 298 % erhöht. Dieser Effekt wird 0,5 s nach Treffern mit heftigen Schlägen entfernt und die Zeit zum Auslösen wird auch zurückgesetzt.

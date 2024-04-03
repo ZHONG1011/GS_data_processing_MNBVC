@@ -1,0 +1,12 @@
+Tanz des abnehmenden Mondes
+Verleiht der Elementarfähigkeit <color=#FFD780FF>Haftkarsvar-Tanz</color> folgende Boni: · Erhöht den Schaden des Wassermonds um 65 %. · Verlängert die Dauer der Gelassenheits-Aura um 6 s.
+Blumenregen des Sternenhimmels
+Verringert den <color=#80C0FFFF>Hydro-WDS</color> des Gegners 10 s lang um 35 %, nachdem diesem Gegner <color=#80C0FFFF>Hydro-Schaden</color> durch Figuren unter dem Effekt „Überfluss im goldenen Kelch“ zugefügt worden ist. Verringert den <color=#99FF88FF>Dendro-WDS</color> des Gegners 10 s lang um 35 %, nachdem die Reaktion „Sprießen“ diesem Gegner Schaden zugefügt hat. Das passive Talent „Hof der wirbelnden Blüten“ muss zuerst freigeschaltet werden.
+Schattenschritt des Lotos
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Abzendegi-Tanz – Ferner Traum am Bach</color> um 3. Höchststufe 15.
+Ruckender Rhythmus
+Stellt Nilou 15 Punkte Elementarenergie wieder her, wenn der dritte Tanzschritt im Pirouetten-Modus der Elementarfähigkeit <color=#FFD780FF>Haftkarsvar-Tanz</color> Gegner trifft, und erhöht den Schaden ihrer Spezialfähigkeit <color=#FFD780FF>Abzendegi-Tanz – Ferner Traum am Bach</color> 8 s lang um 50 %.
+Glanz der Pirouette
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Haftkarsvar-Tanz</color> um 3. Höchststufe 15.
+Melodie des Frostbrechers
+Erhöht je 1.000 Punkte von Nilous max. LP ihre KT bzw. ihren KSCH jeweils um 0,6 % bzw. 1,2 %. Auf diese Weise können KT und KSCH maximal jeweils um 30 % bzw. 60 % erhöht werden.

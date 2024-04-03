@@ -1,0 +1,12 @@
+Ryuukin in Rot
+Verlängert die Wirkungsdauer der Ryuukin-Lohe von <color=#FFD780FF>Ryuukin-Steinbrech</color> um 4 s. Erhöht beim Besiegen von Yoimiyas eigener Ryuukin-Lohe betroffener Gegner während der Wirkungsdauer der Ryuukin-Lohe Yoimiyas ANG 20 s lang um 20 %.
+Feuernder Umzug
+Erhöht beim Verursachen von KT mit Yoimiyas <color=#FF9999FF>Pyro-Schaden</color> Yoimiyas <color=#FF9999FF>Pyro-Schaden</color> 6 s lang um 25 %. Der Effekt bleibt auch bestehen, wenn Yoimiya ausgewechselt wird.
+Unruhiges Flackern
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Niwabi-Feuertanz</color> um 3. Höchststufe 15.
+Versierte Pyrotechnik
+Verkürzt beim Explodieren der von Yoimiya selbst erschaffenen Ryuukin-Lohe die Abklingzeit von <color=#FFD780FF>Niwabi-Feuertanz</color> um 1.2 s.
+Sommerlicher Festabend
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Ryuukin-Steinbrech</color> um 3. Höchststufe 15.
+Naganohara-Meteorstrom
+Schießt bei aktiver Anwendung von Yoimiyas Standardangriffen während der Wirkungsdauer von <color=#FFD780FF>Niwabi-Feuertanz</color> mit einer Wahrscheinlichkeit von 50 % einen zusätzlichen entzündeten Pfeil ab und verursacht damit 60 % des eigentlichen Schadens. Dieser Schaden gilt als Standardangriffsschaden.

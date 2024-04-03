@@ -1,0 +1,12 @@
+Fliegender Gallopp
+Verkürzt die Abklingzeit von <color=#FFD780FF>Wolkenöffnung</color> um 18 %.
+Unzählige Requisiten
+Erhöht nach dem Auslösen von <color=#FFD780FF>Banner der brechenden Klippen</color> den mit Standardangriffen aller Truppenmitglieder verursachten Schaden 12 s lang um 15 %.
+Flagge auf dem Mast
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Banner der brechenden Klippen</color> um 3. Höchststufe 15.
+Auf in die Wolken
+Erhöht nach dem Auslösen der Reaktion Kristallisation durch Yun Jin die VTD 12 s lang um 20 %.
+Überall bekannt
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Wolkenöffnung</color> um 3. Höchststufe 15.
+Gemeinsame Unternehmung
+Erhöht die Angriffs-GSW mit Standardangriffen von Figuren im Zustand <color=#FFD780FF>Formation der Fliegenden Wolken</color> um 12 %.

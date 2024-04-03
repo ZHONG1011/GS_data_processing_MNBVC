@@ -1,0 +1,12 @@
+Prophecy of Submersion
+When any of your own party members hits an opponent affected by an Omen, the effects of <color=#80C0FFFF>Hydro-related Elemental Reactions</color> are enhanced for 8s: ·Electro-Charged DMG increases by 15%. ·Vaporize DMG increases by 15%. ·Hydro Swirl DMG increases by 15%. ·Frozen duration is extended by 15%.
+Lunar Chain
+When a Normal Attack hits, there is a 20% chance that it will be automatically followed by a Charged Attack. This effect can only occur once every 5s.
+Restless Revolution
+Increases the Level of <color=#FFD780FF>Stellaris Phantasm</color> by 3. Maximum upgrade level is 15.
+Prophecy of Oblivion
+When any party member attacks an opponent affected by an Omen, their CRIT Rate is increased by 15%.
+Mockery of Fortuna
+Increases the Level of <color=#FFD780FF>Mirror Reflection of Doom</color> by 3. Maximum upgrade level is 15.
+Rhetorics of Calamitas
+Upon entering <color=#FFD780FF>Illusory Torrent</color>, Mona gains a 60% increase to the DMG of her next Charged Attack per second of movement. A maximum DMG Bonus of 180% can be achieved in this manner. The effect lasts for no more than 8s.

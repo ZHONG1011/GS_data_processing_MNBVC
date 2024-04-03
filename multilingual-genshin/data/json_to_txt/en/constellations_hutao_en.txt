@@ -1,0 +1,12 @@
+Crimson Bouquet
+While in a <color=#FFD780FF>Paramita Papilio</color> state activated by <color=#FFD780FF>Guide to Afterlife</color>, Hu Tao's Charge Attacks do not consume Stamina.
+Ominous Rainfall
+Increases the <color=#FFD780FF>Blood Blossom</color> DMG by an amount equal to 10% of Hu Tao's Max HP at the time the effect is applied. Additionally, <color=#FFD780FF>Spirit Soother</color> will also apply the <color=#FFD780FF>Blood Blossom</color> effect.
+Lingering Carmine
+Increases the Level of <color=#FFD780FF>Guide to Afterlife</color> by 3. Maximum upgrade level is 15.
+Garden of Eternal Rest
+Upon defeating an enemy affected by a <color=#FFD780FF>Blood Blossom</color> that Hu Tao applied herself, all nearby allies in the party (excluding Hu Tao herself) will have their CRIT Rate increased by 12% for 15s.
+Floral Incense
+Increases the Level of <color=#FFD780FF>Spirit Soother</color> by 3. Maximum upgrade level is 15.
+Butterfly's Embrace
+Triggers when Hu Tao's HP drops below 25%, or when she suffers a lethal strike: Hu Tao will not fall as a result of the DMG sustained. Additionally, for the next 10s, all of her Elemental and Physical RES is increased by 200%, her CRIT Rate is increased by 100%, and her resistance to interruption is greatly increased. This effect triggers automatically when Hu Tao has 1 HP left. Can only occur once every 60s.

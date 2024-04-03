@@ -1,0 +1,13 @@
+Sacrificial Bow
+A ceremonial hunting bow that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time.
+ On the cliff facing the eastern sea, the ancestors worshiped the masters of Time and Anemo together. The two are intimately related, as expressed in the saying, "Anemo brings stories while Time nurtures them." This bow tells the story of the pioneers and the hardships they went through. It used to be a prop with an immobile bowstring, but the string became both flexible and sturdier with the passage of time.  This bow was once the property of the proud Lawrence Clan. In the far-flung past, they used it to reenact their clan's brave victory over the frozen wilderness.  The first act of the ceremony told the tale of their forebears conquering the land through their wisdom and strength. Over their long history, though this ceremony was lost, they continued to play the same role.  But this role became corrupted. Gradually, their view of themselves shifted from conquerors, to overlords, to kings. Gradually, they strayed onto the path of depravity, and lost the affection of Mondstadt's winds. 
+Composed
+After damaging an opponent with an Elemental Skill, the skill has a <color=#99FFFFFF>40%</color> chance to end its own CD. Can only occur once every <color=#99FFFFFF>30</color>s.
+Composed
+After damaging an opponent with an Elemental Skill, the skill has a <color=#99FFFFFF>50%</color> chance to end its own CD. Can only occur once every <color=#99FFFFFF>26</color>s.
+Composed
+After damaging an opponent with an Elemental Skill, the skill has a <color=#99FFFFFF>60%</color> chance to end its own CD. Can only occur once every <color=#99FFFFFF>22s</color>.
+Composed
+After damaging an opponent with an Elemental Skill, the skill has a <color=#99FFFFFF>70%</color> chance to end its own CD. Can only occur once every <color=#99FFFFFF>19</color>s.
+Composed
+After damaging an opponent with an Elemental Skill, the skill has a <color=#99FFFFFF>80%</color> chance to end its own CD. Can only occur once every <color=#99FFFFFF>16s</color>.

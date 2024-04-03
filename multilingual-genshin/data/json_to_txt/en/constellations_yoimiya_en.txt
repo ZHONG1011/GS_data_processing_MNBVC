@@ -1,0 +1,12 @@
+Agate Ryuukin
+The Aurous Blaze created by <color=#FFD780FF>Ryuukin Saxifrage</color> lasts for an extra 4s. Additionally, when an opponent affected by Aurous Blaze is defeated within its duration, Yoimiya's ATK is increased by 20% for 20s.
+A Procession of Bonfires
+When Yoimiya's <color=#FF9999FF>Pyro DMG</color> scores a CRIT Hit, Yoimiya will gain a 25% <color=#FF9999FF>Pyro DMG Bonus</color> for 6s. This effect can be triggered even when Yoimiya is not the active character.
+Trickster's Flare
+Increases the Level of <color=#FFD780FF>Niwabi Fire-Dance</color> by 3. Maximum upgrade level is 15.
+Pyrotechnic Professional
+When Yoimiya's own Aurous Blaze triggers an explosion, <color=#FFD780FF>Niwabi Fire-Dance</color>'s CD is decreased by 1.2s.
+A Summer Festival's Eve
+Increases the Level of <color=#FFD780FF>Ryuukin Saxifrage</color> by 3. Maximum upgrade level is 15.
+Naganohara Meteor Swarm
+During <color=#FFD780FF>Niwabi Fire-Dance</color>, Yoimiya's Normal Attacks have a 50% chance of firing an extra Blazing Arrow that deals 60% of its original DMG. This DMG is considered Normal Attack DMG.

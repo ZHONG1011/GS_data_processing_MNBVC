@@ -1,0 +1,12 @@
+Unendlicher Schaltkreis
+Stellt Lisa beim Gedrückthalten von <color=#FFD780FF>Lila Lichtbogen</color> 2 Punkte Elementarenergie für jeden getroffenen Gegner wieder her. Insgesamt können auf diese Weise bis zu 10 Punkte Elementarenergie pro Anwendung wiederhergestellt werden.
+Elektrisierter Raum
+Effekte beim Gedrückthalten von <color=#FFD780FF>Lila Lichtbogen</color>: · Erhöht die VTD um 25 %. · Erhöht Lisas Unterbrechungs-WDS.
+Resonanzdonner
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Rosenblitz</color> um 3. Höchststufe 15.
+Plasmaregen
+Erschafft beim Angriff mit <color=#FFD780FF>Rosenblitz</color>1 bis 3 Kettenblitze.
+Plasmaschnee
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Lila Lichtbogen</color> um 3. Höchststufe 15.
+Pulsierende Hexe
+Fügt Gegnern in der Umgebung beim Einwechseln von Lisa den 3-fachen Effekt Blitzleiter von <color=#FFD780FF>Lila Lichtbogen</color> zu. 5 s Abklingzeit

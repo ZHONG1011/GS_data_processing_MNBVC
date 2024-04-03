@@ -1,0 +1,12 @@
+Außen knusprig, innen zart
+Verringert den <color=#FF9999FF>Pyro-WDS</color> der von Guoba getroffenen Gegner 6 s lang um 15 %.
+Öl auf Feuer
+Fügt Gegnern mit dem letzten Schlag des Standardangriffs 2 s lang den Effekt „Implosion“ zu. Die Implosion tritt am Ende der Wirkungsdauer in Kraft und verursacht <color=#FF9999FF>Pyro-Flächenschaden</color> in Höhe von 75 % ANG.
+Scharf angebraten
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Feuerrad</color> um 3. Höchststufe 15.
+Langsam gegart
+Verlängert die Dauer von <color=#FFD780FF>Feuerrad</color> um 40 %.
+Guoba sauer
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Guoba, erscheine!</color> um 3. Höchststufe 15.
+Feuertornado
+Erhöht den <color=#FF9999FF>Pyro-Schaden</color> aller Truppenmitglieder während der Wirkungsdauer von <color=#FFD780FF>Feuerrad</color> um 15 %.

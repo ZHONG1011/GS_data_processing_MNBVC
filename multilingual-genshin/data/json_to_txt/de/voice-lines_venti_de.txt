@@ -1,0 +1,142 @@
+Schön, dich kennenzulernen.
+#Das war ein erfrischender Schlaf. Ah, {F#Reisende}{M#Reisender}, so sieht man sich wieder! Was? Du erinnerst dich nicht an mich? Ahaha! Nun, erlaube mir, dich auf deiner Suche noch einmal zu begleiten. Ich muss dafür sorgen, dass die Barden dieser Welt deine Geschichten erzählen!
+Gespräch – Leier
+In Ordnung, ich spiele noch ein Lied, aber du musst mir einen Apfel dafür schenken.
+Gespräch – Apfelwein
+Hach, wie gern würde ich jetzt auf der Spitze eines großen Baumes sitzen, in der Hand ein Glas Apfelwein.
+Gespräch – Gedichte
+#Lass uns aufbrechen, {F#Reisende}{M#Reisender}. Es gibt noch so viel Poesie da draußen, die nur auf uns wartet.
+Wenn es regnet ...
+Lass uns in diese Pfütze springen! Mal sehen, bei wem das Wasser höher spritzt!
+Es hat aufgehört zu regnen ...
+Oh, es hat schon aufgehört zu regnen? Ich wollte doch noch etwas im Regen spielen.
+Wenn es schneit ...
+Lass uns warten, bis der Schnee noch höher steht. Dann veranstalten wir eine Schneeballschlacht!
+Ein Sturm zieht auf.
+Der Wind steht günstig. Drehen wir eine Runde mit dem Gleiter?
+Guten Morgen.
+Guten Morgen! Bist du bereit für ein Abenteuer?
+Guten Tag.
+Mein Magen knurrt, aber ich traue mich nicht, beim Weingut Morgenröte Essen zu schnorren ... Oh, du bist es! Wohin des Weges? Nimm mich mit!
+Guten Abend.
+Ich bin noch nicht müde. Willst du ein Stück mit mir spazieren?
+Gute Nacht.
+He! Du willst dich ausruhen? Hehe, na dann gute Nacht.
+Über Venti ...
+Üben? Hihi, nein, das brauche ich nicht. In Teyvat gibt es kein Lied, das ich nicht kenne.
+Über uns – Neues Lied
+Ich möchte dich in eins meiner Lieder mit aufnehmen! Ha, was soll das besorgte Gesicht? Machst du dir Sorgen, dass dich das zu viel kosten wird? Haha, Mora will ich nicht von dir, nur ... mehr von deinen Geschichten!
+Über uns – Krieger
+#Haha, sobald in meinem Lied {M#der Held}{F#die Heldin} {F#den Prinzen}{M#die Prinzessin} gerettet hat, werde ich das Lied im ganzen Land verbreiten.
+Über uns – Gläubige
+Diese kühle Nachtbrise ist wirklich angenehm und versetzt einen gleich in die richtige Stimmung, mein Schüler zu werden! Also, ohne weitere Umschweife, biete mir ein Opfer dar.
+Über uns – Anfrage
+Du findest, ich als Anemo-Archon sollte mir mehr Mühe geben? Na dann solltest du mir vielleicht auch etwas mehr Respekt zeigen. Oder Loyalität oder Liebe oder ...
+Über das „Göttliche Auge“ ...
+Wie? Du interessierst dich für mein „Göttliches Auge“? Hier bitte. Wenn du magst, kann ich dir auch ein ähnliches basteln. Hehehe ...
+Willst du mir etwas mitteilen?
+Olah! Hehe, so begrüßen sich Hilichurle. Warum ich das gelernt habe? Für meine Dichtung natürlich. Da fällt mir ein, ich habe noch kein Lied komplett auf Hilichurlisch verfasst.
+Interessante Vorkommnisse ...
+#{F#Reisende}{M#Reisender}, hast du jemals eine Cecilia zu Gesicht bekommen? Sie ist eine weiße, wilde Blume, die still auf der Spitze eines Felsplateaus wächst. In meinen Augen ist sie die schönste Blume in ganz Teyvat.
+Über Jean ...
+Der stellvertretende Großmeister Jean? Nun, was glaubst du, was für eine Person sie ist? Hehe, wir haben den gleichen Eindruck. Ehrlich, mutig und einfühlsam. Genau wie ein Freund von mir ...
+Über Diluc ...
+Du willst mit Diluc eine gute Beziehung aufbauen, wie? Überleg nur, wie viele Weinschätze seine Familie haben muss. Hehehehe. Was, du kannst nichts von seinem Alkohol haben, noch nicht mal einen kleinen Tropfen probieren? Na, dann geh ihn riechen! Riechen sollte in deinem Fall kein Problem sein.
+Über Barbara ...
+Das liebliche Mädchen, die Bischöfin, die so gut singt. Kennst du sie? Ein Star? Persönlich treffen und die Hand schütteln? Sie vor Ort bei einem Konzert sehen? So ist das also, ihre Musik hat ein breites Spektrum.
+Über Razor ...
+Dieser Junge aus Wolfenlauf, ja? Der wurde doch von Wölfen großgezogen. Ja, kein Wunder, der Duft lässt Erinnerungen wach werden ...
+Über Mona ...
+Ah, die Astrologin? Wie soll ich es sagen? Wahrsagen und mein Gesang sind sich sehr ähnlich, beide Tätigkeiten führen dazu, dass man so arm wird, dass man nicht einmal das Geld für ein Getränk zusammenkratzen kann! ... Du glaubst, dass die Astrologie eine kulturelle Tradition ist, also zumindest noch einen gewissen Wert hat? Hmm, wenn das so ist, dann ist das Singen auch eine Tradition, also hat sie auch noch ihren Wert!
+Über Diona ...
+Es gibt eine Taverne, die heißt Zum Katzenschwanz, die machen ein ganz tolles Spezialgetränk. Aber ... *hatschi* ich muss da immer niesen. Warum gehst du nicht und kaufst mir aus Freundschaft ein leckeres Getränk?
+Über Albedo ...
+Wie erklärt man weiße Kreide in schwarzer Erde oder die dichte Erdkruste inmitten der Leere des Weltraums? Das hat denselben Grund, warum der reinste Boden menschliches Leben hervorbrachte ... Es ist eine uralte Kraft mit unverkennbaren Eigenschaften. Der Versuch, sie zu nutzen, ist in der Tat gefährlich. Ich kann mir nicht vorstellen, was passieren würde, wenn jemand in der Stadt die Kontrolle darüber verlieren würde ... Ach, egal! Was sich innerhalb der Mauern von Mondstadt abspielt, ist Sache der Mondstädter, damit umgehen zu können!
+Über Morax ...
+Hast du diesen älteren Herrn schon einmal gesehen? Hm? Er ist jetzt ein ganz gewöhnlicher Mann namens Zhongli? Das muss eine ziemliche Veränderung für den alten Schwachkopf sein. Ach, begleitest du mich zu ihm? Ich habe einen guten Jahrgang, den ich am Windstieg ausgegraben habe und den ich als Geschenk zur Aufmunterung mitnehmen kann. Oh, wirkte er noch sehr stark, als du ihn gesehen hast? Wie stark? Könnte er mich von den Füßen hauen?
+Über Eula ...
+Eula hat einen sehr guten Geschmack in Sachen Wein. Es ist schon sehr selten, dass ein Mondstädter sowohl im Sommer als auch im Winter etwas Eisiges trinkt. Ich denke, sie könnte ein guter Trinkkumpel sein. Hmm? Willst du sagen, dass das Lied, das ich mir über den Lawrence-Klan ausgedacht habe... ihr bereits zu Ohren gekommen ist? Ha, was macht das schon? Vielleicht können wir es sogar zusammen singen.
+Über Baal ...
+Ich habe gehört, dass du auch den unschlagbaren Shougun Raiden besiegt hast? Ah ... ich glaube, damals, als sie Kagemusha war, war sie auf der Suche nach der ultimativen Kampfkunst. Inzwischen muss sie sich auch alle möglichen Gründe leihen, um dich als Übungspartner aufzufordern. Nun, lass mich dir deine Schwäche verraten ... Komm mit deinem Ohr ein bisschen näher ... Es sind Süßigkeiten!
+Ich will mehr über Venti erfahren I
+Du kommst genau richtig! Und jetzt sag mir, wonach sehnst du dich am meisten?
+Ich will mehr über Venti erfahren II
+Mit dir zu reisen, macht wirklich Spaß. Die einzige Sache, die mich stört, ist diese kleine fliegende Nervensäge neben dir. Wie viel die verschlingen kann! Eure Verpflegungsausgaben müssen ganz schön hoch sein, wie? Haha!
+Ich will mehr über Venti erfahren III
+Der Pyro-Archon ist ein unberechenbarer Kriegstreiber und der Geo-Archon ein gedankenloser Zombie. Woher ich das weiß? Nun, das steht in den Epen der Vergangenheit so geschrieben.
+Ich will mehr über Venti erfahren IV
+Celestia ... Ich glaube, selbst ich kann dort nicht hinfliegen. Auf jeden Fall schmeckt das Wasser dort nicht und die Früchte sind fade. Also gibt es auch keinen guten Wein! Frag mich erst gar nicht, ob ich dort hinwill!
+Ich will mehr über Venti erfahren V
+Was ich mir wünsche? Nun, ich wollte immer um die Welt reisen. Das möchte ich immer noch. Aber jetzt möchte ich es mit dir gemeinsam tun. Du bereicherst mich. Der Geschichtenschreiber muss dem Abenteurer folgen, hehe!
+Ventis Hobbys ...
+Ich mag Wein! Und Wind! Wenn es jetzt auch noch Windwein geben würde, wie toll wäre das?!
+Ventis Sorgen ...
+Eigentlich bin ich gegen Katzen allergisch. Sobald eine in der Nähe ist, muss ich niesen. Hatschi! Super, es reicht wohl schon aus, wenn ich nur an Katzen denke. Gibt es da irgendein Heilmittel?
+Was er so mag ...
+Möchtest du auch einen Apfel probieren? Habe ihn gerade gepflückt. Hmm, so saftig, so süß, Äpfel sind wahrlich göttliche Früchte!
+Was er nicht mag ...
+Was machst du denn da Gutes? Wie, einen heißen Fladen mit Käse?! Das geht nicht gut, nein, heiß und flüssig, das kann ich nicht aushalten.
+Geschenk erhalten I
+Mhm, ich bin so zufrieden! Morgen wird es auch einmal geben, oder? Übermorgen auch, oder?
+Geschenk erhalten II
+Puh, ich bin so satt, dass ich nicht mal mehr das Obst nach dem Essen essen kann ...
+Geschenk erhalten III
+Überraschenderweise war es ein Gericht, das selbst ich nicht ertragen konnte. Nun ... Das ist eine schwierige Frage.
+Dein Geburtstag ...
+Ich habe bisher nur von Freunden gehört, dass sie Kuchen zu ihren Geburtstagen bekommen ... Hier, ein Apfelkuchen und ein Löffel. Er ist ein wenig verrutscht, als er aus dem Ofen kam. Aber he, Desserts sind nicht leicht zu machen.
+Gedanken über den Aufstieg – Beginn
+Ah! Was ist gerade passiert?
+Gedanken über den Aufstieg – Fortschritt
+Das war harte Arbeit. Möchtest du dich bei etwas Musik ausruhen? Ein Caprice oder eine Serenade?
+Gedanken über den Aufstieg – Höhepunkt
+Komm, setz dich hierhin. Ich habe ein neues Gedicht geschrieben. Ich nenne es „Der Wind des Reisenden“.
+Gedanken über den Aufstieg – Ende
+Obwohl ich diese Orte und Aussichten schon oft zuvor gesehen habe, sehen sie doch ganz anders aus mit dir an meiner Seite. Es gibt noch viele merkwürdige Mächte dort draußen, hab ich recht? Aber auch nicht schlecht. Das heißt nur, dass ich ein gutes Auge für Leute habe, ehehehe!
+Elementarfähigkeit I
+Juhuu!
+Elementarfähigkeit II
+Los geht’s!
+Elementarfähigkeit III
+Achte auf deine Füße!
+Elementarfähigkeit IV
+Lass uns spielen!
+Spezialfähigkeit I
+Hau ja nicht ab!
+Spezialfähigkeit II
+Haltet euch fest!
+Rennen – Start I
+Fliegen ist schneller, oder?
+Windgleiter öffnen I
+Huja!
+Truhe öffnen I
+*räusper* Hast du jemals die Ballade von der Schatztruhe gehört?
+Truhe öffnen II
+Danke Barbatos! Warte eine Minute ...
+Truhe öffnen III
+Was für ein toller Fund! Ich frage mich, wie viele Flaschen Schnaps das wohl wert sein wird ...
+Niedrige LP I
+Warte, das ist nicht lustig!
+Niedrige LP II
+He! Lass mich in Ruhe!
+Niedrige LP III
+Das war nicht nett.
+Verbündeter hat niedrige LP I
+Lass es mich machen.
+Verbündeter hat niedrige LP II
+Gib nicht auf!
+Ohnmächtig I
+Lass mich eine Weile schlafen ...
+Ohnmächtig II
+Oh nein, meine Leier ist kaputt ...
+Ohnmächtig III
+Puff.
+Leichten Treffer erlitten I
+Was?
+Schweren Treffer erlitten I
+Wie unhöflich!
+Truppenbeitritt I
+Gib mir einen Moment, um mich zu sammeln.
+Truppenbeitritt II
+Ich habe dich nicht warten lassen, oder?
+Truppenbeitritt III
+Aufwärmen?

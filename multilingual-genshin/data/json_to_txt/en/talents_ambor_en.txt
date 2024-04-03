@@ -1,0 +1,12 @@
+Normal Attack: Sharpshooter
+<color=#FFD780FF>Normal Attack</color> Performs up to 5 consecutive shots with a bow.  <color=#FFD780FF>Charged Attack</color> Performs a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG. While aiming, flames will accumulate on the arrowhead. A fully charged flaming arrow will deal <color=#FF9999FF>Pyro DMG</color>.  <color=#FFD780FF>Plunging Attack</color> Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+Explosive Puppet
+The ever-reliable Baron Bunny takes the stage.  <color=#FFD780FF>Baron Bunny</color> ·Continuously taunts the enemy, drawing their fire. ·Baron Bunny's HP scales with Amber's Max HP. ·When destroyed or when its timer expires, Baron Bunny explodes, dealing <color=#FF9999FF>AoE Pyro DMG</color>.  <color=#FFD780FF>Hold</color> Adjusts the throwing direction of Baron Bunny. The longer the button is held, the further the throw.  <i>Baron Bunny hails from a storied lineage, but Amber has stopped keeping count since Baron Bunny the 893rd.</i>
+Fiery Rain
+Fires off a shower of arrows, dealing continuous <color=#FF9999FF>AoE Pyro DMG</color>.  <i>Amber's passion truly burns hot.</i>
+Every Arrow Finds Its Target
+Increases the CRIT Rate of <color=#FFD780FF>Fiery Rain</color> by 10% and widens its AoE by 30%.
+Precise Shot
+Aimed Shot hits on weak points increase ATK by 15% for 10s.
+Gliding Champion
+Decreases gliding Stamina consumption for your own party members by 20%. Not stackable with Passive Talents that provide the exact same effects.

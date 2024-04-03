@@ -1,0 +1,12 @@
+Prophezeiung des Untergangs
+Verstärkt den Effekt von <color=#80C0FFFF>Hydro-Elementarreaktionen</color>, wenn eine eigene Figur in der Truppe Gegner im Zustand Omen trifft, 8 s lang: · Erhöht den mit der Reaktion Unter Strom verursachten Schaden um 15 %, den mit der Reaktion Verdampfen verursachten Schaden um 15 % und den mit der Reaktion Hydro-Verwirbelung verursachten Schaden um 15 %. · Verlängert die Wirkungsdauer von Gefroren um 15 %.
+Sternenkette
+Löst bei Treffern mit Standardangriffen mit einer Wahrscheinlichkeit von 20 % automatisch einen heftigen Schlag aus. 5 s Abklingzeit.
+Im ewigen Umlauf
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Vorbestimmte Laufbahn</color> um 3. Höchststufe 15.
+Prophezeiung der Ausrottung
+Erhöht die KT bei Angriffen aller Truppenmitglieder auf Gegner im Zustand Omen um 15 %.
+Verspottung des Schicksals
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Trugbilder im Wasser</color> um 3. Höchststufe 15.
+Rhetorik des Unglücks
+Erhöht den Schaden des nächsten heftigen Schlags für jede Sekunde, die sich Mona im Zustand <color=#FFD780FF>Irreführende Strömung</color> bewegt, um 60 %. Auf diese Weise kann der Schaden heftiger Schläge um bis zu 180 % erhöht werden und hält bis zu 8 s lang.

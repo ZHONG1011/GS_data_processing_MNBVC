@@ -1,0 +1,12 @@
+Clarity of Heart
+<color=#FFD780FF>Spring Spirit Summoning</color> can be used 1 more time.
+Centered Spirit
+<color=#FFD780FF>Divine Maiden's Deliverance</color> lasts for 6 seconds longer. Active characters within the skill's field deal 15% increased <color=#99FFFFFF>Cryo</color> CRIT DMG.
+Seclusion
+Increases the Level of <color=#FFD780FF>Spring Spirit Summoning</color> by 3. Maximum upgrade level is 15.
+Insight
+When characters under the effect of <color=#FFD780FF>Icy Quill</color> applied by Shenhe trigger its DMG Bonus effects, Shenhe will gain a Skyfrost Mantra stack: · When Shenhe uses <color=#FFD780FF>Spring Spirit Summoning</color>, she will consume all stacks of Skyfrost Mantra, increasing the DMG of that Spring Spirit Summoning by 5% for each stack consumed. · Max 50 stacks. Stacks last for 60s.
+Divine Attainment
+Increases the Level of <color=#FFD780FF>Divine Maiden's Deliverance</color> by 3. Maximum upgrade level is 15.
+Mystical Abandon
+When characters trigger <color=#FFD780FF>Icy Quill</color>'s effects using Normal and Charged Attack DMG, it does not count toward the Trigger Quota.

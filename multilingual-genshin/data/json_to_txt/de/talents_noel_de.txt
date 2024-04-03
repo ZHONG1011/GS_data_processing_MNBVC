@@ -1,0 +1,12 @@
+Standardangriff: Favonius-Schwertkunst – Magd
+<color=#FFD780FF>Standardangriff</color> Führt bis zu 4 Schwünge mit dem Schwert hintereinander aus.  <color=#FFD780FF>Heftiger Schlag</color> Verbraucht fortlaufend Ausdauer, wirbelt das Großschwert und greift Gegner in der Umgebung an. Schwingt das Schwert am Ende mit besonders großer Wucht.  <color=#FFD780FF>Angriff aus dem Fall</color> Schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.
+Brustpanzer
+Erschafft einen Geo-Panzer, der Gegnern in der Umgebung <color=#FFE699FF>Geo-Schaden</color>zufügt, sowie einen Schutzschild, der Schaden basierend auf Noelles VTD abhält. Effekte des Schutzschilds: · Noelle stellt allen Truppenmitgliedern bei Treffern mit Standardangriffen und heftigen Schlägen mit gewisser Wahrscheinlichkeit LP wieder her. · Hält bei elementarem sowie physischem Schaden 150 % ab.  Heilkraft basiert auf Noelles VTD.  <i>Noelle ist eine hingebungsvolle Magd, aber auch ein zielstrebiger Ritter.</i>
+Großreinigung
+Konzentriert die Kraft der Felsen auf ihrer Waffe, greift Gegner in der Umgebung mit hoher Reichweite an und verursacht <color=#FFE699FF>Geo-Schaden</color>. Löst danach folgende Effekte aus: · Erhöht Noelles Angriffsreichweite. · Wandelt den verursachten Schaden in <color=#FFE699FF>Geo-Schaden</color> um. Diese Elementarumwandlung kann nicht von anderen Elementen überdeckt werden. · Erhöht Noelles ANG basierend auf Noelles VTD.  <i>Was gesäubert werden muss, ist nicht immer nur einfacher Dreck ...</i>
+Ernsthaftigkeit
+Effekte, wenn Noelle inaktiv in der Truppe ist und die aktuelle eigene Figur weniger als 30 % LP hat: Erstellt einen Schutzschild für die aktuelle eigene Figur, der Schaden in Höhe von 400 % von Noelles VTD abhält, hält 20 s. - Hält bei elementarem sowie physischem Schaden 150 % ab. 60 s Abklingzeit.
+Sauber und geschwind
+Noelle verringert alle vier Treffer mit Standardangriffen oder heftigen Schlägen, die sie bei Gegnern erzielt, die Abklingzeit von <color=#FFD780FF>Brustpanzer</color> um 1 s. Ein Treffer kann alle 0,1 s gezählt werden.
+Hingabe einer Magd
+Stellt bei der perfekten Zubereitung eines Gerichts mit defensiver Funktion mit einer Wahrscheinlichkeit von 12 % den 2-fachen Ertrag her.

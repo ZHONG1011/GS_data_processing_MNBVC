@@ -1,0 +1,12 @@
+Zusatzinvestition
+Erhöht die Anzahl der beim Treffen mit der <color=#FFD780FF>sorgenbefreienden Kanone</color> entstehenden Kundendienst-Kanonen um 1.
+Sonderfranchise
+Feuert während eines Kampfes von der Position der verbundenen Figur eine Dschinn-Kanone ab und verursacht Schaden in Höhe von 50 % ANG von Dori, wenn der <color=#FFD780FF>Flaschengeist</color> die mit ihm verbundene Figur heilt.
+Wunder wie Wasserfälle
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Zuneigung von Alcazarzaray</color> um 3. Höchststufe 15.
+Zuschlag für Defizite
+Verleiht der Figur, die mit dem <color=#FFD780FF>Flaschengeist</color> verbunden ist, jeweils die folgenden Boni, je nach ihren aktuellen LP und ihrer Elementarenergie: · Erhöht den passiven Heilungsbonus um 50 %, wenn ihre LP weniger als 50 % betragen. · Erhöht ihre Aufladerate um 30 %, wenn ihre Elementarenergie weniger als 50 % beträgt.
+Mehrwert für Mora
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Lampe des Dschinns – Sorgenbefreiende Kanone</color> um 3. Höchststufe 15.
+Saus und Braus
+Erhält innerhalb 3 s nach Anwenden der Fähigkeit <color=#FFD780FF>Lampe des Dschinns – Sorgenbefreiende Kanone</color> folgende Effekte: · Verleiht <color=#FFACFFFF>Elektro-Attribut</color>. · Stellt allen Truppenmitgliedern in der Nähe bei Treffern von Gegnern mit Standardangriffen LP in Höhe von 4 % der max. LP von Dori wieder her. 0,1 s Abklingzeit.

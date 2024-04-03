@@ -1,0 +1,12 @@
+Gesang der Eiszapfen
+Schlägt beim letzten Schlag des Standardangriffs mit drei Eisklingen nach vorn, von denen jede Klinge Gegnern in ihrer Bahn <color=#99FFFFFF>Kryo-Schaden</color> in Höhe von 50 % von Chongyuns ANG zufügt.
+Bewegungen des Sternenzelts
+Verringert die Abklingzeit von im Wirkungsbereich von <color=#FFD780FF>Seelenklinge – Schichtfrost</color> angewendeten Elementarfähigkeiten und Spezialfähigkeiten um 15 %.
+Aufklaren des Himmels
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Seelenklinge – Wolken teilender Stern</color> um 3. Höchststufe 15.
+Gefrorene Wolken
+Stellt beim Treffen von <color=#99FFFFFF>Kryo</color>-Effekten betroffener Gegner mit allen Angriffen von Chongyun 1 Punkt Elementarenergie wieder her. 2 s Abklingzeit.
+Die eine Wahrheit
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Seelenklinge – Schichtfrost</color> um 3. Höchststufe 15.
+Gepriesene Seelen
+Erhöht den Schaden von <color=#FFD780FF>Seelenklinge – Wolken teilender Stern</color> gegenüber Gegnern mit geringerem LP-Anteil als Chongyun um 15 %. Beschwört bei Anwendung der Fähigkeit außerdem eine weitere Seelenklinge.

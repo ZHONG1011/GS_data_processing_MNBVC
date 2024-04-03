@@ -1,0 +1,12 @@
+Normal Attack: Strike of Fortune
+<color=#FFD780FF>Normal Attack</color> Performs up to 5 rapid strikes.  <color=#FFD780FF>Charged Attack</color> Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.  <color=#FFD780FF>Plunging Attack</color> Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Passion Overload
+#Bennett puts all his fire and passion for adventuring into his sword. Results may vary based on how fired up he is...  <color=#FFD780FF>{LAYOUT_MOBILE#Tap}{LAYOUT_PC#Press}{LAYOUT_PS#Press}</color> A single, swift flame strike that deals <color=#FF9999FF>Pyro DMG</color>.  <color=#FFD780FF>Hold (Short)</color> Charges up, resulting in different effects when unleashed based on the Charge Level. ·Level 1: Strikes twice, dealing <color=#FF9999FF>Pyro DMG</color> and launching opponents. ·Level 2: Unleashes 3 consecutive attacks that deal impressive <color=#FF9999FF>Pyro DMG</color>, but the last attack triggers an explosion that launches both Bennett and the enemy. Bennett takes no damage from being launched.  <i>An attack that combines Bennett's dreams and passion with Pyro. But passion is sometimes overblown, and Pyro sometimes blows over.</i>
+Fantastic Voyage
+Bennett performs a jumping attack that deals <color=#FF9999FF>Pyro DMG</color>, creating an Inspiration Field.  <color=#FFD780FF>Inspiration Field</color> ·If the health of a character within the AoE is equal to or falls below 70%, their health will continuously regenerate. The amount of HP restored scales off Bennett's Max HP. ·If the health of a character within the AoE is higher than 70%, they gain an ATK Bonus that is based on Bennett's Base ATK. ·Imbues characters within the AoE with <color=#FF9999FF>Pyro</color>.  <i>Benny's Adventure Team's adventures are always fraught with unexpected danger. However, Bennett is more inclined to call them "journeys full of wonder, excitement, and beauty."</i>
+Rekindle
+Decreases <color=#FFD780FF>Passion Overload</color>'s CD by 20%.
+Fearnaught
+Within the area created by <color=#FFD780FF>Fantastic Voyage</color>, <color=#FFD780FF>Passion Overload</color> takes on the following effects: ·CD is reduced by 50%. ·Bennett will not be launched by the effects of Charge Level 2.
+It Should Be Safe...
+When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%.

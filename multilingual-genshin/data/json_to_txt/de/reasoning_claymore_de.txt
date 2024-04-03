@@ -1,0 +1,13 @@
+Schlagfestes Argument
+Ein großer, aus robustem Stahl gefertigter Stab, mit dem man seinen Standpunkt vernünftig und doch mit großer Überzeugungskraft vertreten kann.
+ Der sicherste Weg einen Streit zu gewinnen. Verleiht den eigenen Worten mehr Ausdruckskraft. Nützlich bei jeder Art von Gegner, überzeugt auch die beschränkteste Amöbe. Wird auch Prügel der guten Worte genannt. Bedauerlicherweise musste die Produktion auf Grund von Massenprotesten eingestellt werden. Geld ist dann wohl doch das einzige, was noch überzeugender wirkt. 
+Direktheit
+Verursacht bei Treffern mit Standardangriffen und heftigen Schlägen nach Anwendung einer Elementarfähigkeit 15 s lang zusätzlichen Schaden in Höhe von <color=#99FFFFFF>60 %</color> ANG mit geringer Reichweite. 3 s Abklingzeit für Schaden.
+Direktheit
+Verursacht bei Treffern mit Standardangriffen und heftigen Schlägen nach Anwendung einer Elementarfähigkeit 15 s lang zusätzlichen Schaden in Höhe von <color=#99FFFFFF>75 %</color> ANG mit geringer Reichweite. 3 s Abklingzeit für Schaden.
+Direktheit
+Verursacht bei Treffern mit Standardangriffen und heftigen Schlägen nach Anwendung einer Elementarfähigkeit 15 s lang zusätzlichen Schaden in Höhe von <color=#99FFFFFF>90 %</color> ANG mit geringer Reichweite. 3 s Abklingzeit für Schaden.
+Direktheit
+Verursacht bei Treffern mit Standardangriffen und heftigen Schlägen nach Anwendung einer Elementarfähigkeit 15 s lang zusätzlichen Schaden in Höhe von <color=#99FFFFFF>105 %</color> ANG mit geringer Reichweite. 3 s Abklingzeit für Schaden.
+Direktheit
+Verursacht bei Treffern mit Standardangriffen und heftigen Schlägen nach Anwendung einer Elementarfähigkeit 15 s lang zusätzlichen Schaden in Höhe von <color=#99FFFFFF>120 %</color> ANG mit geringer Reichweite. 3 s Abklingzeit für Schaden.

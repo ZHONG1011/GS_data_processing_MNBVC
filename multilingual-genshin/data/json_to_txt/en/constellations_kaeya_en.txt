@@ -1,0 +1,12 @@
+Excellent Blood
+The CRIT Rate of Kaeya's Normal and Charge Attacks against opponents affected by <color=#99FFFFFF>Cryo</color> is increased by 15%.
+Never-Ending Performance
+Every time <color=#FFD780FF>Glacial Waltz</color> defeats an opponent during its duration, its duration is increased by 2.5s, up to a maximum of 15s.
+Dance of Frost
+Increases the Level of <color=#FFD780FF>Frostgnaw</color> by 3. Maximum upgrade level is 15.
+Frozen Kiss
+Triggers automatically when Kaeya's HP falls below 20%: Creates a shield that absorbs damage equal to 30% of Kaeya's Max HP. Lasts for 20s. This shield absorbs <color=#99FFFFFF>Cryo DMG</color> with 250% efficiency. Can only occur once every 60s.
+Frostbiting Embrace
+Increases the Level of <color=#FFD780FF>Glacial Waltz</color> by 3. Maximum upgrade level is 15.
+Glacial Whirlwind
+<color=#FFD780FF>Glacial Waltz</color> will generate 1 additional icicle, and will regenerate 15 Energy when cast.

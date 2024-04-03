@@ -1,0 +1,13 @@
+Zwillingsnephrit
+Ein feiner, aus zwei Edelsteinen zusammengesetzter Anhänger.
+ Die Verpackung ist sehr aufwendig und es ist wie zufällig an die gewöhnlichste Stelle des Ladens gelegt worden. In der Schachtel befindet sich auch ein offiziell aussehendes Zertifikat von einer Organisation, die keiner kennt. Ein Laie wäre wahrscheinlich schon von der luxuriösen Verpackung und den Accessoires allein überzeugt. Das Preis-Leistungs-Verhältnis für dieses Stück ist noch in Ordnung, gemessen an anderer hochwertiger Jade. 
+Überfalltaktik
+Erhöht die Bewegungs-GSW und den ANG beim Besiegen von Gegnern 15 s lang um <color=#99FFFFFF>12 %</color>.
+Überfalltaktik
+Erhöht die Bewegungs-GSW und den ANG beim Besiegen von Gegnern 15 s lang um <color=#99FFFFFF>14 %</color>.
+Überfalltaktik
+Erhöht die Bewegungs-GSW und den ANG beim Besiegen von Gegnern 15 s lang um <color=#99FFFFFF>16 %</color>.
+Überfalltaktik
+Erhöht die Bewegungs-GSW und den ANG beim Besiegen von Gegnern 15 s lang um <color=#99FFFFFF>18 %</color>.
+Überfalltaktik
+Erhöht die Bewegungs-GSW und den ANG beim Besiegen von Gegnern 15 s lang um <color=#99FFFFFF>20 %</color>.

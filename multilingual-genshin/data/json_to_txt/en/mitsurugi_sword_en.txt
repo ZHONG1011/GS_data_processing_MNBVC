@@ -1,0 +1,13 @@
+Skyrider Sword
+A reliable steel sword. The legendary Skyrider once tried to ride it as a flying sword...
+ Leap, the master swordsman Skyrider did, from the heights of Jueyun Karst. He pierced the clouds as the winds hollered by his ears, But what followed was the sound of bones shattering. What he had hoped for was something swordsmanship could not bring him. He pawned the sword for medicine, But die it did not, his dream of flight. 
+Determination
+Using an Elemental Burst grants a <color=#99FFFFFF>12%</color> increase in ATK and Movement SPD for 15s.
+Determination
+Using an Elemental Burst grants a <color=#99FFFFFF>15%</color> increase in ATK and Movement SPD for 15s.
+Determination
+Using an Elemental Burst grants a <color=#99FFFFFF>18%</color> increase in ATK and Movement SPD for 15s.
+Determination
+Using an Elemental Burst grants a <color=#99FFFFFF>21%</color> increase in ATK and Movement SPD for 15s.
+Determination
+Using an Elemental Burst grants a <color=#99FFFFFF>24%</color> increase in ATK and Movement SPD for 15s.

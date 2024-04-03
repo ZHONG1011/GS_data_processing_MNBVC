@@ -1,0 +1,12 @@
+Normal Attack: Ancient Sword Art
+<color=#FFD780FF>Normal Attack</color> Performs up to 5 rapid strikes.  <color=#FFD780FF>Charged Attack</color> Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.  <color=#FFD780FF>Plunging Attack</color> Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Adeptus Art: Herald of Frost
+Using the Icevein Talisman, Qiqi brings forth the Herald of Frost, dealing <color=#99FFFFFF>Cryo DMG</color> to surrounding opponents.  <color=#FFD780FF>Herald of Frost</color> ·On hit, Qiqi's Normal and Charged Attacks regenerate HP for your own party members and nearby teammates. Healing scales based on Qiqi's ATK. ·Periodically regenerates your active character's HP. ·Follows the character around, dealing <color=#99FFFFFF>Cryo DMG</color> to opponents in their path.  <i>I use this to prevent warming and rot... of Dr. Bai's precious ingredients. Yes.</i>
+Adeptus Art: Preserver of Fortune
+Qiqi releases the adeptus power sealed within her body, marking nearby opponents with a Fortune-Preserving Talisman that deals <color=#99FFFFFF>Cryo DMG</color>.  <color=#FFD780FF>Fortune-Preserving Talisman</color> When opponents affected by this Talisman take DMG, the character that dealt this DMG regenerates HP.  <i>"I am the Fortune Preserver, the Maiden of Resurrection."</i> <i>— Qiqi does not remember these words.</i>
+Life-Prolonging Methods
+When a character under the effects of <color=#FFD780FF>Adeptus Art: Herald of Frost</color> triggers an Elemental Reaction, their Incoming Healing Bonus is increased by 20% for 8s.
+A Glimpse Into Arcanum
+When Qiqi hits opponents with her Normal and Charged Attacks, she has a 50% chance to apply a Fortune-Preserving Talisman to them for 6s. This effect can only occur once every 30s.
+Former Life Memories
+Displays the location of nearby <color=#FFD780FF>resources unique to Liyue</color> on the mini-map.

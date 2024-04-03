@@ -1,0 +1,138 @@
+Hello
+I am Qiqi. I am a zombie. And I... forgot what comes next.
+Chat: Talking to Herself
+Hey, do you know what? Uhh... neither do I. I... already forgot.
+Chat: Afraid of Heat
+Let's go somewhere cooler.
+Chat: Training
+One, two, three, four. Two, two, three, four...
+When It Rains
+I forgot my umbrella again.
+When It Snows
+I want to build a snowman. Will you help?
+When the Sun Is Out
+I should have stayed indoors today.
+When It's Windy
+The wind is... frigid. I like it.
+When the Wind Is Blowing
+Hold my hand please. This wind could blow me away.
+Good Morning
+Morning means it's time to check my diary. Because my diary reminds me what I'm supposed to do in the morning.
+Good Afternoon
+I just remembered something. I forgot to help Dr. Baizhu prepare medications.
+Good Evening
+Good evening. How was your day? My day was... fine, I think. But I can't remember.
+Good Night
+It's time for you to sleep now. I will do my stretches. ...Do not watch me, please.
+About Qiqi
+Did you ask me something? Sorry... I forgot.
+About Us: Memory
+I have a poor memory for most things. But as far as I know, that doesn't matter.
+About Us: Memory Training
+I started memory training exercises recently. So don't worry, I won't forget who you are.
+About the Vision
+My Vision can't turn back time. But at least it gives me the power to protect the people that matter most.
+Something to Share
+I may be a corpse, but I am in a much better physical condition than Dr. Baizhu.
+Interesting Things
+Sometimes I see finches near the pharmacy. A nice little group of finches.
+About Baizhu
+I can never remember Dr. Baizhu's face. But I don't mind.
+About Hu Tao
+Warm. Fake smile. Death. I despise Hu Tao.
+About Xiao: Name
+Sounds like a historical artifact to me.
+About Xiao: Memory
+Remind me, have I met him before?
+About Xinyan
+...Who?
+About Yaoyao
+Cute. Like a nice little finch.
+About Dusky Ming
+On some nights, I almost feel like someone is doing stretches together with me. But maybe I just have an overactive imagination.
+More About Qiqi: I
+What's going on?
+More About Qiqi: II
+I perform stretches regularly to help me maintain the same range of movement as a normal human being. But as soon as I stop doing them, the rigor mortis starts to set in again.
+More About Qiqi: III
+Some people want to take advantage of me. Others are terrified of me. But you... You are not like any of those people.
+More About Qiqi: IV
+Since we first met, I have had a warm feeling inside. Not the kind of warmth that makes me feel rotten and disgusting and closer to death. The other kind of warm. The one that happens inside my heart. Thank you. I am happy. Sadly I only recognize the current you. If I forget you... No. I will order myself to remember you.
+More About Qiqi: V
+In the past, my only thought was: I must stay alive. Even though I didn't know what to live for. But now, I think I know. I want to live with you. I want to ask, can we always stay together, for the rest of life, until death? Yes or no? Yes? Is that your real answer? Good, excellent. I promise to always protect you.
+Qiqi's Hobbies
+I want to have a pet. For example, a nice little finch.
+Qiqi's Troubles
+I don't know why, but high temperatures make me feel... disgusting.
+Favorite Food
+I like coconut milk... But, I don't know what it tastes like.
+Least Favorite Food
+Sorry, I have no idea.
+Receiving a Gift: I
+Cold. I like it. But, no flavor...
+Receiving a Gift: II
+Huh...
+Receiving a Gift: III
+It's burning my tongue...
+Birthday
+Many happy returns. Here is a bag of herbal medicine for you. You must be very surprised that I remembered? Let me explain. Last time you told me, I wrote your birthday down on a piece of paper. If I look at something once a day, it eventually goes into my long-term memory, and it will stay there forever.
+Feelings About Ascension: Intro
+Now, I have more power. But... what does that mean? Please explain. Thank you.
+Feelings About Ascension: Building Up
+Ah, I understand. When I get stronger, I need to put more effort into controlling my strength.
+Feelings About Ascension: Climax
+In the past, I did not understand the idea of being stronger than I already was. Now that I understand it well, I wish I was just a little stronger still.
+Feelings About Ascension: Conclusion
+All of this is because of you. Thank you very much. Can you make me a promise? From now on, please, let me protect you. Do you accept? Yes or no?
+Elemental Skill: I
+Wheel of life.
+Elemental Skill: II
+Life goes on.
+Elemental Skill: III
+Go.
+Elemental Skill: IV
+Rise.
+Elemental Burst: I
+Orders given. Orders received.
+Elemental Burst: II
+Sacred name: Fortune Preserver.
+Elemental Burst: III
+Opening box of Adepti tricks.
+Sprint Start: I
+Faster? Okay, faster.
+Deploying Wind Glider: I
+Uh... Huh...
+Opening Treasure Chest: I
+Ooh, pretty.
+Opening Treasure Chest: II
+Treasure chests... hmm... do we like treasure chests?
+Opening Treasure Chest: III
+Wasn't there something in here a second ago...?
+Low HP: I
+Ow.
+Low HP: II
+Oh no...
+Low HP: III
+I must live on...
+Ally at Low HP: I
+Danger.
+Ally at Low HP: II
+Stop. Let me do it.
+Fallen: I
+Don't want... to be sealed... back up...
+Fallen: II
+Cold... So cold...
+Fallen: III
+No...
+Light Hit Taken: I
+I didn't feel that.
+Heavy Hit Taken: I
+Wow.
+Heavy Hit Taken: II
+Oh...
+Joining Party: I
+I'm here.
+Joining Party: II
+What's happening?
+Joining Party: III
+I will... bring my notebook.

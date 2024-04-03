@@ -1,0 +1,13 @@
+Opferschwert
+Ein über die Zeit verkrustetes Schwert mit noch gut zu erkennenden Ornamenten. Mit ihm kann man die Winde der Zeit gut überstehen.
+ Die Ahnen verehrten die Meister des Windes und der Zeit zusammen an der Klippe, die der östlichen See zugewandt war. Sie bezogen sich nämlich auf das Sprichwort „Die Samen der Geschichte, vom Wind hergetragen und von der Zeit genährt.“ Das Schwert erzählt die Geschichte vom Beschützen und soll dazu ermutigen selbst zu beschützen. Ursprünglich nur als Requisite gedacht wurde seine Klinge durch den Wind der Zeit immer schärfer.  Dieses Schwert gehörte einst dem gutmütigen Gunnhildr-Klan. In Ritualen spielten sie die Rolle der Wächter Mondstadts.  In der Zeremonie waren drei Akte allein den Winden der Zeit gewidmet. Der finale Akt erzählte die Geschichte des Wächters und der Beschützung Mondstadts.  Die Zeremonie und ihre Geschichte sind jedoch längst verloren. Aber der Gunnhildr-Klan nimmt bis zum heutigen Tag seine Rolle als Wächter sehr ernst. 
+Göttliche Fügung
+Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von <color=#99FFFFFF>40 %</color>, <color=#99FFFFFF>30</color> s Abklingzeit.
+Göttliche Fügung
+Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von <color=#99FFFFFF>50 %</color>, <color=#99FFFFFF>26</color> s Abklingzeit.
+Göttliche Fügung
+Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von <color=#99FFFFFF>60 %</color>, <color=#99FFFFFF>22</color> s Abklingzeit.
+Göttliche Fügung
+Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von <color=#99FFFFFF>70 %</color>, <color=#99FFFFFF>19</color> s Abklingzeit.
+Göttliche Fügung
+Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von <color=#99FFFFFF>80 %</color>, <color=#99FFFFFF>16</color> s Abklingzeit.

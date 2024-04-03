@@ -1,0 +1,12 @@
+Normal Attack: Dance on Fire
+<color=#FFD780FF>Normal Attack</color> Performs up to 4 consecutive strikes.  <color=#FFD780FF>Charged Attack</color> Drains Stamina over time to perform continuous spinning attacks against all nearby opponents. At the end of the sequence, performs a more powerful slash.   <color=#FFD780FF>Plunging Attack</color> Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Sweeping Fervor
+Xinyan brandishes her instrument, dealing <color=#FF9999FF>Pyro DMG</color> on nearby opponents, forming a shield made out of her audience's passion. The shield's DMG Absorption scales based on Xinyan's DEF and on the number of opponents hit. ·Hitting 0–1 opponents grants Shield Level 1: Ad Lib. ·Hitting 2 opponents grants Shield Level 2: Lead-In. ·Hitting 3 or more opponents grants Shield Level 3: Rave, which will also deal intermittent <color=#FF9999FF>Pyro DMG</color> to nearby opponents.  The shield has the following special properties: ·When unleashed, it infuses Xinyan with <color=#FF9999FF>Pyro</color>. ·It has 250% DMG Absorption effectiveness against <color=#FF9999FF>Pyro DMG</color>.  <i>Xinyan insists that these pyrotechnics are the apex of performative art, and that they are physical phenomena that have nothing to do with her Vision.</i>
+Riff Revolution
+Strumming rapidly, Xinyan launches nearby opponents and deals Physical DMG to them, hyping up the crowd. The sheer intensity of the atmosphere will cause explosions that deal <color=#FF9999FF>Pyro DMG</color> to nearby opponents.  <i>Xinyan used to end all her performances with this move. She didn't stop because it was dangerous, however, but because she didn't have a more epic finale in case someone shouted "Encore!"</i>
+"The Show Goes On, Even Without an Audience..."
+Decreases the number of opponents <color=#FFD780FF>Sweeping Fervor</color> must hit to trigger each level of shielding. ·Shield Level 2: Lead-In requirement reduced to 1 opponent hit. ·Shield Level 3: Rave requirement reduced to 2 opponents hit or more.
+"...Now That's Rock 'N' Roll!"
+Characters shielded by <color=#FFD780FF>Sweeping Fervor</color> deal 15% increased Physical DMG.
+A Rad Recipe
+When a Perfect Cooking is achieved on a DEF-boosting dish, Xinyan has a 12% chance to obtain double the product.

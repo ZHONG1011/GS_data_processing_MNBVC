@@ -1,0 +1,132 @@
+Hello
+You smell... *sniff* nice! Let's hunt.
+Chat: Scent
+*sniff* I smell rabbit.
+Chat: Hunger
+I'm hungry. Let's hunt.
+Chat: Wind-gazing
+I keep watch. You leave, you call me.
+When Thunder Strikes: Warning
+If you're scared of lightning, hide now.
+When Thunder Strikes: Guidance
+Avoid the trees. Follow me.
+When It's Windy
+Wind... I like the wind.
+When the Wind Is Blowing
+The wind... bites hard.
+Good Morning
+The sun is up. Time to hunt.
+Good Afternoon
+I had a big lunch. Lots of meat. Mm, I'm happy.
+Good Evening
+Go to sleep. I watch the moon.
+Good Night
+You sleep now. I keep watch.
+About Razor
+I have no human family. I am a wolf.
+About Us: Friends
+You are my friend. We can hunt. Together!
+About Us: Weapons
+I have iron claws and teeth of thunder. I protect you.
+About the Vision
+Vision helps Razor... fight with lightning tooth! Protect Lupical!
+Something to Share
+I like the stars at night. So many stars. In the sky, in the lake. And in the city.
+Interesting Things
+The wolves are my Lupical. My family.
+About Lisa
+Lisa lightning makes the sky black. She is strong. She is scary.
+About Barbara
+Shining Barbara is a good child. Very good child.
+About Diluc
+Diluc is red and black. Hot and cold.
+About Venti
+Razor doesn't know poems, but... Lupical likes them.
+About Bennett
+Bennett... Much talking. Eat with him, never full.
+About Klee
+Klee, friend! Friend, but... big hassle.
+About Varka: Stranger
+Varka? Razor doesn't know...
+About Varka: Memory
+Oh, Varka is... a name. That man big. Big steelclaw, Razor's name — Varka gave him. Oh... want to see him.
+More About Razor: I
+*sniff* Hmm... You smell kind. Do you like meat?
+More About Razor: II
+You are strong. Like a wolf. I like to hunt with you. We catch a lot.
+More About Razor: III
+Lupical means wolf home— no, Lupical means wolf family. My Lupical lives in the woods. They say I am their Lupical.
+More About Razor: IV
+My Lupical is my only family. But I don't have four legs, not like them. Because I'm not a real wolf. Sometimes, this makes me sad.
+More About Razor: V
+When I run with you, when I hunt with you, I am happy. With you, I am not a wolf, I am not a boy, I am just me. I am Razor. Because you are my friend. You are my Lupical. I hope you feel happy, too!
+Razor's Hobbies
+I like Lupical. I like the woods. I like my friend. I like to run!
+Razor's Troubles
+Talking makes me tired. Talking is... hard. But... I have to try.
+Favorite Food
+I like meat, and... I like potatoes.
+Least Favorite Food
+Greens are bad. Animal eats green things. Then I eat animal!
+Receiving a Gift: I
+Smells good, also tastes good, I like it.
+Receiving a Gift: II
+Eating this gives me energy, makes me happy.
+Receiving a Gift: III
+Eating it, bad. Not eating it, also bad. I'm a bit sad.
+Birthday
+Today is your day. You were born on this day, many moons ago. I want to make you happy today. Can we eat meat together?
+Feelings About Ascension: Intro
+Arms... bigger!
+Feelings About Ascension: Building Up
+Grr! Sharpen claws. Sharpen teeth. Become stronger!
+Feelings About Ascension: Climax
+Run... Hunt... No. No! Must... become stronger!
+Feelings About Ascension: Conclusion
+Teeth. Claws. Legs. All bigger. All stronger! To protect you.
+Elemental Skill: I
+Get back!
+Elemental Skill: II
+Ah!
+Elemental Skill: III
+Heyah!
+Elemental Skill: IV
+Keep back!
+Elemental Burst: I
+Raaaarrr!
+Elemental Burst: II
+*howls*
+Elemental Burst: III
+*roars*
+Elemental Burst: IV
+Rar!
+Opening Treasure Chest: I
+These things... useful?
+Opening Treasure Chest: II
+Empty chest... good for storage.
+Opening Treasure Chest: III
+Smell of treasure... strange.
+Low HP: I
+Argh!
+Low HP: II
+*grunt* A-a-awoooo!
+Low HP: III
+I kill you!
+Ally at Low HP: I
+No!
+Ally at Low HP: II
+Wake up!
+Fallen: I
+Can't... breathe...
+Fallen: II
+Take me back...
+Fallen: III
+Lupical... my Lupical...
+Heavy Hit Taken: I
+I taste blood...
+Joining Party: I
+I'll scout ahead.
+Joining Party: II
+We're going to hunt!
+Joining Party: III
+I'll watch your back.

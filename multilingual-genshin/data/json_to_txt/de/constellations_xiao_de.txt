@@ -1,0 +1,12 @@
+Untergang – Zerstörung der Welten
+Ermöglicht 1 weitere Anwendung von <color=#FFD780FF>Doppeltes Windrad</color>.
+Vernichtung – Ausweitung der Leere
+Erhöht Xiaos Aufladerate, wenn er inaktiv in der Truppe ist, um 25 %.
+Eroberung – Ausdruck des Zorns
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Doppeltes Windrad</color> um 3. Höchststufe 15.
+Transzendenz – Auslöschung des Leids
+Erhöht Xiaos VTD bei weniger als 50 % LP um 100 %.
+Evolution – Ausbreitung der Unwissenheit
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Geistervertreibung</color> um 3. Höchststufe 15.
+Eroberung – Schutz des Yaksha
+Ermöglicht beim Treffen von mindestens 2 Gegnern mit einem Angriff aus dem Fall unter Anwendung von <color=#FFD780FF>Geistervertreibung</color> sofort 1 Anwendung von <color=#FFD780FF>Doppeltes Windrad</color>, das innerhalb der folgenden s trotz Abklingzeit angewendet werden kann.

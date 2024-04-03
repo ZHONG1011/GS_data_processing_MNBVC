@@ -1,0 +1,12 @@
+The Flagstaff
+Reserve
+TBD
+Defeating an opponent restores <color=#99FFFFFF>8%</color> HP.
+TBD
+Defeating an opponent restores <color=#99FFFFFF>10%</color> HP.
+TBD
+Defeating an opponent restores <color=#99FFFFFF>12%</color> HP.
+TBD
+Defeating an opponent restores <color=#99FFFFFF>14%</color> HP.
+TBD
+Defeating an opponent restores <color=#99FFFFFF>16%</color> HP.

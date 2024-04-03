@@ -1,0 +1,12 @@
+Normal Attack: Shinobu's Shadowsword
+<color=#FFD780FF>Normal Attack</color> Performs up to 4 rapid strikes.  <color=#FFD780FF>Charged Attack</color> Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.  <color=#FFD780FF>Plunging Attack</color> Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Sanctifying Ring
+Creates a Grass Ring of Sanctification at the cost of part of her HP, dealing <color=#FFACFFFF>Electro DMG</color> to nearby opponents.  <color=#FFD780FF>Grass Ring of Sanctification</color> Follows your current active character around. Deals <color=#FFACFFFF>Electro DMG</color> to nearby opponents every 1.5s and restores HP for active character(s) within the ring's AoE based on Kuki Shinobu's Max HP.  The HP consumption from using this skill can only bring her to 20% HP.  "<i>Band the Naku Weed into a loop about your waist, and it shall exorcise evil.</i>"
+Gyoei Narukami Kariyama Rite
+Stabs an evil-excoriating blade into the ground, creating a field that cleanses the area of all that is foul, dealing continuous <color=#FFACFFFF>Electro DMG</color> to opponents within its AoE based on Shinobu's Max HP. If Shinobu's HP is less than or equal to 50% when this skill is used, the field will last longer.  <i>This was originally a technique used in weeding and in ritual prayers for the yearly harvest, but Shinobu has not forgotten it, though her life as a shrine maiden may have ended.</i>
+Breaking Free
+When Shinobu's HP is not higher than 50%, her Healing Bonus is increased by 15%.
+Heart's Repose
+<color=#FFD780FF>Sanctifying Ring</color>'s abilities will be boosted based on Shinobu's Elemental Mastery: ·Healing amount will be increased by 75% of Elemental Mastery. ·DMG dealt is increased by 25% of Elemental Mastery.
+Protracted Prayers
+Gains 25% more rewards when dispatched on an Inazuma Expedition for 20 hours.

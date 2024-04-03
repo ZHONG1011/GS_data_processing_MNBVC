@@ -1,0 +1,12 @@
+Brillantes Blut
+Erhöht die KT von Kaeyas Standardangriffen und heftigen Schlägen gegenüber von <color=#99FFFFFF>Kryo</color>-Effekten betroffenen Gegnern um 15 %.
+Endlose Vorführung
+Verlängert die Dauer von <color=#FFD780FF>Kreis aus Eis</color> beim Besiegen von Gegnern während der Wirkungsdauer dieser Fähigkeit um 2,5 s und insgesamt um bis zu 15 s.
+Bitterkaltes Schauspiel
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Kälteatem</color> um 3. Höchststufe 15.
+Eiskalter Kuss
+Wird automatisch ausgelöst, wenn Kaeya weniger als 20 % LP hat: Erschafft einen Schutzschild mit einer Stärke von 30 % der max. LP, hält 20 s. Hält bei <color=#99FFFFFF>Kryo-Schaden</color> 250 % ab. 60 s Abklingzeit.
+Frostige Umarmung
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Kreis aus Eis</color> um 3. Höchststufe 15.
+Kreisender Eiszapfen
+<color=#FFD780FF>Kreis aus Eis</color> erschafft einen zusätzlichen Eiszapfen und gibt bei Anwendung 15 Punkte Elementarenergie zurück.

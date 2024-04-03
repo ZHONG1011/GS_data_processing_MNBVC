@@ -1,0 +1,12 @@
+Standardangriff: Guhua-Stil
+<color=#FFD780FF>Standardangriff</color> Führt bis zu 5 Schwerthiebe hintereinander aus.  <color=#FFD780FF>Heftiger Schlag</color> Verbraucht eine gewisse Menge Ausdauer und schwingt das Schwert zweimal schnell nach vorn.  <color=#FFD780FF>Angriff aus dem Fall</color> Schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.
+Guhua-Schwert – Wolkenbruch
+Greift zweimal mit dem Schwert an und fügt gegenüberstehenden Gegnern <color=#80C0FFFF>Hydro-Schaden</color> zu. Erstellt die Höchstzahl an Regenschwertern, die die aktuelle eigene Figur umkreisen. Merkmale: · Wird bei Erleiden von Schaden zerstört und verringert den erlittenen Schaden. · Erhöht den Unterbrechungs-WDS der Figur. 20 % von Xingqius <color=#80C0FFFF>Hydro-SCH-Bonus</color> werden zusätzlich zu Schadensminderung der Regenschwerter umgewandelt.  Bis zu 24 % zusätzliche Schadensminderung auf diese Weise möglich. Anfänglich bis zu 3 Regenschwerter möglich. Verleiht der Figur bei Anwendung den Zustand <color=#80C0FFFF>Nass</color> .  <i>„Drachen sind einfacher zu zerteilen als der Regen.“</i>
+Guhua-Schwert – Regen und Bogen
+Wendet „Regenbogentechnik“ an, um mit Illusionsschwertern zu kämpfen, und erstellt die Höchstzahl an Regenschwertern.  <color=#FFD780FF>Regenbogentechnik</color> · Standardangriffe der aktuellen eigenen Figur lösen aufeinanderfolgende Schwertregenangriffe aus, die <color=#80C0FFFF>Hydro-Schaden</color> verursachen. · Die Anzahl der Regenschwerter bleibt unverändert auf der höchsten Anzahl.  <i>Die Regenschnittkunst ist eine geheime Technik der Guhua-Schule, die nicht an normale Schüler weitergegeben wird.</i>
+Hydropathie
+Stellt der aktuellen Figur bei Zerstörung eines Regenschwerts durch einen Angriff oder nach Ablauf der Wirkungsdauer LP in Höhe von 6 % der max. LP von Xingqiu wieder her.
+Realistischer Schreibstil
+Erhöht Xingqius <color=#80C0FFFF>Hydro-Schaden</color> um 20 %.
+Gedankenblitz
+Gibt beim Zusammensetzen von Material für Figurentalente mit einer Wahrscheinlichkeit von 25 % einen Teil der Materialien zurück.

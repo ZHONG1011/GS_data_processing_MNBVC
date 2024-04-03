@@ -1,0 +1,136 @@
+Schön, dich kennenzulernen.
+<color=#37FFFF>Fischl:</color> Ich, die Prinzessin der Verurteilung, mit echtem Namen Fischl, bin gekommen auf den Ruf des Schicksals hin. Wie? Du bist auch ein Reisender aus einer anderen Welt? Nun gut, es sei dir gestattet, mit mir zu reisen.  <color=#37FFFF>Oz:</color> Sie meint damit, es freut sie, dich kennenzulernen.
+Gespräch – Geflüster über das Schicksal
+Aus weiter Ferne höre ich das Schicksal meinen Namen flüstern ...
+Gespräch – Schaffung der Welt
+Möge die Herrlichkeit der Prinzessin der Welt ein strahlendes Licht bringen.
+Gespräch – Aus dem Jenseits
+<color=#37FFFF>Fischl:</color> Ich hoffe, meine Untertanen können meine temporäre Abwesenheit ertragen ...  <color=#37FFFF>Oz:</color> Mein liebes Fräulein, die Leute der Abenteurergilde werden es bestimmt verschmerzen können.
+Es hat aufgehört zu regnen ...
+Ist es jetzt klarer? Wie schön, eine Brise im Licht des Mondscheins, wie der Wendepunkt einer Vorbestimmung. Wie erfreulich!
+Wenn es blitzt ...
+<color=#37FFFF>Fischl:</color> Ah, der Schicksal verkündende Blitz des heiligen Urteils ...  <color=#37FFFF>Oz:</color> Wo wir gerade davon sprechen, hat Eure Hoheit noch Wäsche draußen hängen?  <color=#37FFFF>Fischl:</color> Was?!
+Wenn es schneit ...
+<color=#37FFFF>Fischl:</color> Das sind gute Neuigkeiten. So wie in jener Welt, wo die Tränen und das Blut der Sünder beim Anblick der Prinzessin zu Eis gefrieren. Hatschi!  <color=#37FFFF>Oz:</color> Nicht nur ihr Blut und ihre Tränen, auch ihre Spucke und ihr Rotz.  <color=#37FFFF>Fischl:</color> Oz! Ha... Hatschi!
+Wie sonnig ...
+<color=#37FFFF>Fischl:</color> Oz, meine Familie ...  <color=#37FFFF>Oz:</color> Kräh? Was ist denn plötzlich ...  <color=#37FFFF>Fischl:</color> Ihre Majestät bittet dich, deine gesegneten Flügel zu entfalten, mit ihnen den Himmel auszulöschen und die Welt in ewige Nacht zu stürzen.  <color=#37FFFF>Oz:</color> Legt mir nicht immer solche Bürden auf!
+Guten Morgen – Gruß an Fischl
+Tag und Nacht sind nur die Bilder unserer Wahrnehmung. Unsere Verbindung durch das Schicksal jedoch hat dich in meine ewige Nacht zurückgebracht.
+Guten Morgen – Gruß an Oz
+<color=#37FFFF>Oz:</color> Guten Morgen! Die Prinzessin hat von Eurem Besuch gehört und bereitet Euch daher etwas Frühstück ...  <color=#37FFFF>Fischl:</color> Oz! ... Ähem, womit kann ich dienen?
+Guten Tag.
+Zu solch einer Stunde ist sogar die Tochter eines Kaisers müde ...
+Guten Abend.
+<color=#37FFFF>Fischl:</color> Das, was gewöhnliche Leute Sterne nennen, sind die Löcher, die zurückbleiben, nachdem Oz die endlose Nacht herausgepickt hat.  <color=#37FFFF>Oz:</color> Wenn Schweine fliegen könnten ...
+Gute Nacht.
+<color=#37FFFF>Fischl:</color> Dein tiefer Schlaf wird sicher sein, wenn er traumlos ist. Kein Albtraum wagt es, dir auch nur ein Haar zu krümmen, wenn du im Immernachtreich bist ...  <color=#37FFFF>Oz:</color> Die Prinzessin wünscht Euch eine Gute Nacht.
+Über Fischl – Prinzessin der Verurteilung
+<color=#37FFFF>Fischl:</color> Ich? Hehe, vergiss nur nicht, Ich bin alleiniger Herrscher über das Immernachtreich, ich bin die Prinzessin der Verurteilung, um das Böse von der Welt zu tilgen und die Wahrheit zu finden, wo immer sie sein mag.  <color=#37FFFF>Oz:</color> Sie ist Ermittler bei der Abenteurergilde ...  <color=#37FFFF>Fischl:</color> Das ist nur eine von meinen vielen royalen Aufgaben.
+Über uns – Unter den Sterblichen
+Wir beide sind Reisende aus einer anderen Welt. Dass wir uns hier begegnen, ist vom Schicksal vorherbestimmt und kein Unfall.
+Über uns – Das Erlegen des Weltenmonsters
+Du wirkst ... beunruhigt. Verlier nicht den Mut! Denn mit meinem linken Auge, dem Auge der Verurteilung, das die Fäden des Schicksals sieht, werde ich dich sicher vor Schaden bewahren. Und Oz, der Rabe, der den Untergang unzähliger Welten miterlebt hat, wird auf deiner Reise über dich wachen. Sollte diese Welt, wie ein Tier, das in der Nacht umherstreift, deine Träume begehren, so werde ich, die Prinzessin der Verurteilung, sie mit meinen Pfeilen der Verurteilung niederstrecken!
+Über uns – Nahestehende
+#<color=#37FFFF>Fischl:</color> Oz, mein wahrer Freund, was sollen wir nur tun mit jener Person, die wie ich von einer fremden Welt durch des Schicksals Würfel in diesen Fleck des Universums geworfen wurde ... Welch grausame Bestimmung erwartet mein sündenerfülltes Blut. Auch ich kann der Realität nicht entfliehen ...  <color=#37FFFF>Oz:</color> Ich verstehe, Eure Hoheit, {F#diese Reisende}{M#dieser Reisende} wird Euch nicht im Stich lassen.
+Über uns – Hoffnung
+#<color=#37FFFF>Fischl:</color> Ozvaldo Hrafnavins. Ich, die Prinzessin der Verurteilung, Herrscherin über das Immernachtreich, fordere dich hiermit auf, alles in deiner Macht Stehende zu tun, um {M#den Reisenden}{F#die Reisende} aus den Klauen des Schicksals zu befreien, das auf Schritt und Tritt lauert und deinen Geist darauf vorzubereiten, damit du bei der Erfüllung dieser edelsten aller Pflichten nicht das ultimative Opfer bringen musst.  <color=#37FFFF>Oz:</color> Meine Prinzessin, bitte hört auf mein Leben so anzupreisen!
+Über das „Göttliche Auge“ ...
+Hmm? Du interessierst dich für meinen Edelstein der Dunkelheit? Es ist ein königliches Erbstück meiner Familie, ein zeremonielles Ornament, das den Unwürdigen den Status der Prinzessin der Verurteilung vor Augen hält. Selbst hier in dieser gefallenen Welt, bin ich mit meinem rechtmäßigen Erbstück vereinigt worden, als Zeichen meiner noblen Herkunft, denn eine Prinzessin kann ihr royales Erbgut an jedem Ort herbeirufen.
+Willst du mir etwas mitteilen?
+<color=#37FFFF>Fischl:</color> Gerechnet am primitiven Kalender dieser Welt, habe ich bereits dreitausend Jahre auf meinen königlichen Schultern. Natürlich hat der rein physikalische Prozess der Bewegung von Sonne und Mond keinerlei Bedeutung für mich und mein Alter.  <color=#37FFFF>Oz:</color> Mein liebes Fräulein, in dieser Welt dürft ihr immer noch keinen Alkohol anrühren, egal welche Geschichte ihr dem Mann an der Bar erzählt.
+Interessante Vorkommnisse ...
+Oz’ vollständiger Name ist Ozvaldo Hrafnavins. Wo ich herkomme, hält er die Herrschaft über Sterne und Himmel, drei Universen umspannend und die Seelen der Mächtigen, die im Kampf gefallen sind, ruhen im Schatten seiner Flügel. Man sollte noch hinzufügen, dass die Strafe für eine falsche Aussprache seines Namens darin besteht, dass einem die Zunge aus dem Mund gerissen wird. Da ich jedoch eine Prinzessin bin und du meine Gunst hast, steht es uns frei, ihn einfach Oz zu nennen.
+Über Bennett ...
+<color=#37FFFF>Fischl:</color> Ah, der vom Unglück heimgesuchte Junge ... Mein Auge der Verurteilung kann deutlich sehen, wie sehr er darunter leidet, von der Welt verstoßen zu sein.  <color=#37FFFF>Oz:</color> Jemand sollte ein Auge auf ihn halten ...
+Über Lisa ...
+<color=#37FFFF>Fischl:</color> Der Magus, Hüter der Bücher, Torwächter des universellen Wissens ... Gewinn ihr Vertrauen und du erhältst vielleicht doch noch Zugang zu einem riesigen Fundus an Weisheit.  <color=#37FFFF>Oz:</color> Sie meint damit, bring die ausgeliehenen Bücher immer pünktlich zurück, dann darfst du weiter Bücher ausleihen.
+Über Kaeya ...
+<color=#37FFFF>Fischl:</color> Ein obskurer Bursche, sein Schicksal liegt noch im Nebel, seine Worte sind so wahr und falsch zugleich. Vielleicht haben wir ja beide die Last des Auges zu tragen.  <color=#37FFFF>Oz:</color> Vielleicht ist er aber doch nur ein Pirat?
+Über Mona ...
+<color=#37FFFF>Fischl:</color> Ah, ja, Mona, die mächtige Astrologin ... Mona, die einst die Eitelkeit und Dreistigkeit besaß, das Schicksal der Prinzessin der Verurteilung selbst zu ergründen! Sie endete als zitterndes Wrack, von ihrer eigenen Schwäche überwältigt.  <color=#37FFFF>Oz:</color> Zu jener Zeit versuchte die Astrologin ein Lachen zu unterdrücken, es war gar nicht so leicht ...
+Über Rosaria ...
+<color=#37FFFF>Fischl:</color> Eine stark an den Anemon-Archon Glaubende.  <color=#37FFFF>Oz:</color> Stark Glaubende?  <color=#37FFFF>Fischl:</color> In der Tat. Eines Nachts konnte ich vernehmen, wie sie, anscheinend in ein Gebet vertieft, sagte „Im Namen von Barbatos, geh zur Hölle!“ Das feuert meine Vermutung an.
+Ich will mehr über Fischl erfahren I
+Die Schuldigen zu verurteilen, die Gerechten zu heiligen und alle Ausgestoßenen in die Umarmung des unendlichen Immernachtreichs zu retten. Das ist das Geburtsrecht der Prinzessin der Verurteilung und auch ihre Bürde. Niemand darf dem widersprechen.
+Ich will mehr über Fischl erfahren II
+Mein linkes Auge? Es ist das allsehende Auge der Verurteilung, das alles Wahre in der Welt offenbart. Warum ich es verberge ... Nun, würdest du bereitwillig die Qual ertragen, alle Wahrheiten bis ins kleinste Detail zu kennen? Darüber hinaus ... würde die Welt viel von ihrer Anziehungskraft verlieren, wenn sie gänzlich der Täuschung und Falschheit beraubt würde.
+Ich will mehr über Fischl erfahren III
+<color=#37FFFF>Fischl:</color> Sturmschrecken? Ist er nicht mehr, als ein großes Haustier? Losgelassen auf die Welt, kann er doch noch solch ein Chaos anrichten, hmm. Nun, inkompetente Leute gibt es viele ...  <color=#37FFFF>Oz:</color> Natürlich sorgt sich die Prinzessin auch um das Wohle aller Bewohner und Opfer des Angriffs.  <color=#37FFFF>Fischl:</color> Nun, die Prinzessin hat die Verantwortung und Pflicht, sich um alle Seelen zu kümmern, egal was sie sind ...
+Ich will mehr über Fischl erfahren IV
+<color=#37FFFF>Oz:</color> Einige Leute sprechen sie mit anderen Namen an. Aber für mich ist Fischl diejenige, die mir das Leben geschenkt und mir meine Kräfte verliehen hat, und kein anderer. Alles in allem ist Fischl der Name, der ihre Identität am treffendsten beschreibt. Im Ernst, nenn sie nicht anders, oder sonst ...  <color=#37FFFF>Fischl:</color> Meine königlichen Ohren klingeln! Worüber habt ihr so angeregt diskutiert?  <color=#37FFFF>Oz:</color> Über den Mitternachtstraum! Und gewisse royale Namen!
+Ich will mehr über Fischl erfahren V
+Warum die Prinzessin der Verurteilung Sünden bestrafen muss? Weil die Sünde dem rechtmäßigen Erlass des Schicksals trotzt! ... Und natürlich hat das Schicksal dich hierher gebracht, also, also ... Ähem! Es war das Schicksal, das für deinen Abstieg in diese Welt gesorgt hat, das Schicksal, das unsere Wege miteinander verflochten hat. Ich, Fischl, werde dich immer beschützen. Weil ... weil das Schicksal mir offenbart hat, dass es das ist, was verordnet wurde!
+Fischl Hobbys – Fischl
+Ich, Fischl, habe die Galaxie durchstreift und unzählige Welten durchquert. Ich habe das Schicksal von zehntausend Universen erfahren und mir das Schicksal jeder lebenden Seele offenbart.
+Fischl Hobbys – Oz
+<color=#37FFFF>Oz:</color> Mein Fräulein liest eine Menge an Büchern. Mein Name Oz, ist aus einem jener Bücher.
+Fischl Sorgen ...
+Was es braucht, um eine Prinzessin zu ärgern? Wenn du es unbedingt wissen musst, dann sind es diejenigen, die meine wahre Identität nicht erkennen. Aber es ist kein großer Verlust, denn die Einsamkeit ist das Los des Adligen, solange ich nicht den Adel meiner Seele verliere ...
+Was sie so mag ...
+<color=#37FFFF>Fischl:</color> Essen, hrmpf, eine Bürde des menschlichen Fleisches ... Wenn die Prinzessin der Verurteilung überhaupt irgendetwas als Nahrung anerkennt, so sind es die Tränen der Sünder und Zungen der Lügner.  <color=#37FFFF>Oz:</color> Also möchte Eure Hoheit heute kein Mitternachtsbrot des Sommernachtgartens?  <color=#37FFFF>Fischl:</color> Als eine meiner royalen Pflichten werde ich es hinunter würgen!
+Was sie nicht mag ...
+<color=#37FFFF>Oz:</color> Ich glaube ich weiß es ...  <color=#37FFFF>Fischl: </color>Oh ja! Das arme sterbliche Ding, von der Natur in Ketten gelegt ...  <color=#37FFFF>Oz:</color> Es wird nie wieder fliegen wie ich ...  <color=#37FFFF>Fischl:</color> Es wurde der Fähigkeit beraubt, die Welt zu bestaunen ... Ein Alptraum der wahr wurde.  <color=#37FFFF>Oz:</color> Wie meinen Hochwürden?
+Geschenk erhalten I
+<color=#37FFFF>Fischl:</color> Solche Köstlichkeiten können im Garten der Gelassenheit serviert werden.  <color=#37FFFF>Oz:</color> Mein Fräulein sagte, dies sei ihre ideale Delikatesse.
+Geschenk erhalten II
+<color=#37FFFF>Fischl:</color> Um das Weltenmonster zu erlegen, muss man irdische Begierden durchbrechen und den Weg zwischen den Schicksalen ebnen.  <color=#37FFFF>Oz:</color> Aber gerade eben ... Hat mein Fräulein da nicht gut gegessen?
+Geschenk erhalten III
+<color=#37FFFF>Fischl:</color> Warum präsentierst du die Trümmer und die Zerstörung vor der Exzellenz?  <color=#37FFFF>Oz:</color> Mein Fräulein mag dieses Gericht nicht besonders, also verzeih bitte.
+Dein Geburtstag ...
+<color=#37FFFF>Fischl:</color> Hmm, nun, heute ist dein Ehrentag, ein wahrlich prächtiger Anlass zum Feiern, was immer dein Wunsch ist, diese Prinzessin kann erfüllen, was du begehrst in dieser Welt voller Verfall und abstruser Dinge! Sogar wenn ...  <color=#37FFFF>Oz:</color> Sie gratuliert dir ganz herzlich zum Geburtstag, wenn es etwas gibt, das sie für dich ...  <color=#37FFFF>Fischl:</color> Oz! Ruhe!
+Gedanken über den Aufstieg – Beginn
+<color=#37FFFF>Fischl:</color> Meine magischen Pfeile rufen meinen heiligen Namen, während sie durch die Nacht streifen und ich bete, dass der violette Blitz der Vergeltung die Feinde des Schicksals vom Himmel herab trifft!  <color=#37FFFF>Oz:</color> Sehr inspirierend! Es ist auch fast schon Abendessen-Zeit, wir könnten bei der Gelegenheit auch ein paar Tauben schießen gehen, wo die Pfeile schon einmal fliegen.
+Gedanken über den Aufstieg – Fortschritt
+<color=#37FFFF>Fischl:</color> Hiermit manifestiere ich mich vollständig als Prinzessin der Verurteilung und schwöre meinen Erzfeind namens Realität zu zerstören.  <color=#37FFFF>Oz:</color> Es wird auch von großem Nutzen für unsere Arbeit in der Gilde sein.
+Gedanken über den Aufstieg – Höhepunkt
+Erfreut euch! Oder zittert vor Angst! Woher dieser Ruf zu Heiterkeit und Elend kommt, willst du wissen? Es ist bekannt, dass ich, die Prinzessin der Verurteilung, Herrscherin über das Immernachtreich, mit dem linken Auge in das Gewebe des Schicksals, aus dem das Universum besteht, hineingeblickt und jede Verkettung, jede Verbindung und jeden baumelnden verwaisten Faden gesehen habe!
+Gedanken über den Aufstieg – Ende
+Es scheint, als hätte ich jetzt den größten Teil meiner Kraft zurückgewonnen, die ich beim Übergang in diese Welt verloren habe. Hahaha, der Tag der Verurteilung ist nahe! Aber, keine Sorge. Selbst am letzten Tag, wenn ich den Blitz der Vergeltung über diese Welt jage, sollt Ihr nicht zu Schaden kommen, denn Ihr seid von der Prinzessin gesegnet.
+Elementarfähigkeit I
+Auf kaiserlichen Erlass!
+Elementarfähigkeit II
+Oz, offenbare dich!
+Elementarfähigkeit III
+Ich rufe dich!
+Elementarfähigkeit IV
+Oz: Keine Ruhe für die Bösen ...
+Spezialfähigkeit I
+Flügel der Dunkelheit, trennt die Nacht vom Tag!
+Spezialfähigkeit II
+Mitternachtstraum!
+Spezialfähigkeit III
+Schattenrabe, lass die Nacht herein!
+Spezialfähigkeit IV
+Oz: Wie du willst, mein Fräulein!
+Spezialfähigkeit V
+Oz: Mitternachtstraum!
+Truhe öffnen I
+Das Schicksal hat mich hierhergebracht!
+Truhe öffnen II
+Welche Schmuckstücke liegen in dieser trostlosen Ebene verborgen?
+Truhe öffnen III
+Hahaha, rufe meinen illustren Namen!
+Niedrige LP I
+Hmpf! Willst du Zeuge meiner wahren Macht werden?
+Niedrige LP II
+Oz: Mein Fräulein! Solltest du fallen ...
+Niedrige LP III
+Dieses grausame Schicksal gebührt nicht einem von kaiserlichem Blut!
+Verbündeter hat niedrige LP I
+Hmpf! Überlass es mir!
+Verbündeter hat niedrige LP II
+Oz: Mein Fräulein, deine Freunde brauchen deine Hilfe ...
+Ohnmächtig I
+Dieses Reich ist kein Zuhause für eine Prinzessin ...
+Ohnmächtig II
+Ich werde ... wiederkommen ...
+Ohnmächtig III
+Oz: Mein Fräulein!
+Schweren Treffer erlitten I
+Ungehorsamkeit!
+Truppenbeitritt I
+Im Namen der Prinzessin!
+Truppenbeitritt II
+Oz: Seht her, die Prinzessin der Verurteilung!
+Truppenbeitritt III
+Die Fäden deines Schicksals liegen in meinen Händen!

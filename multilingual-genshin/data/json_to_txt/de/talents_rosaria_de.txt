@@ -1,0 +1,12 @@
+Standardangriff: Speer der Kathedrale
+<color=#FFD780FF>Standardangriff</color> Führt bis zu 5 Lanzenstiche hintereinander aus.  <color=#FFD780FF>Heftiger Schlag</color> Verbraucht eine gewisse Menge Ausdauer, sticht geschwind nach vorn und fügt den Gegnern in der Bahn Schaden zu.  <color=#FFD780FF>Angriff aus dem Fall</color> Schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.
+Erschütterndes Geständnis
+Rosaria bewegt sich mit hoher Geschwindigkeit hinter ihr Ziel, sticht mit ihrer Waffe zu und schwingt sie und verursacht <color=#99FFFFFF>Kryo-Schaden</color>. Es ist nicht möglich, mit dieser Fähigkeit hinter größere Gegner zu gelangen.  <i>Diejenigen, die Schwester Rosaria ihre Sünden gestehen, erhalten keine Absolution. Alle Sünder werden stattdessen mit einer strafenden Kälte konfrontiert, die dem Gewicht ihrer Sünden entspricht.</i>
+Letzte Salbung
+Dies ist Rosarias besonderes Gebetsritual. Zunächst fegt sie mit ihrer Waffe die Gegner neben ihr fort und konzentriert eisige Kälte direkt vor ihr, womit sie jeweils <color=#99FFFFFF>Kryo-Schaden</color> verursacht. Während der Wirkungsdauer der Eislanze wird in gleichmäßigen Abständen Kälte freigegeben, die Gegnern in der Nähe <color=#99FFFFFF>Kryo-Schaden</color> zufügt.  <i>Das Fällen eines Urteils ist mühsam. Doch viel einfacher ist es, direkt zum letzten Gebet zu springen. Rosaria war dem Anemo-Archon sowieso nie sehr ergeben, weshalb ihr das Ganze noch leichter fällt.</i>
+Schatten der Beichte
+Erhöht Rosarias KT bei Angriffen von Gegnern mit <color=#FFD780FF>Erschütterndes Geständnis</color> von hinten 5 s lang um 12 %.
+Beistand aus der Dunkelheit
+Erhöht die KT aller Truppenmitglieder in der Nähe (außer Rosarias selbst) bei Anwendung von <color=#FFD780FF>Letzte Salbung</color> 10 s lang um 15 % ihrer eigenen KT. Die KT können auf diese Weise nicht um mehr als 15 % erhöht werden.
+Nachtwanderin
+Erhöht die Bewegungs-GSW der eigenen Figuren in der Truppe nachts (18 bis 6 Uhr) um 10 %. Dieser Effekt gilt nicht in Sphären, Gebietssäuberungen und im Gewundenen Abgrund und kann auch nicht mit den Effekten exakt gleicher passiver Talente gestapelt werden.

@@ -1,0 +1,18 @@
+Glacier and Snowfield
+Cryo DMG Bonus +15%
+Increases Superconduct DMG by 100%. Increases Melt DMG by 15%. Using an Elemental Burst increases Cryo DMG Bonus by 30% for 10s.
+Heart of Frost
+A flower that has been frozen in time from the moment it was picked. The knight kept it as a memento forever after.
+ 
+Plume of Snow
+A bird feather that was picked up by the knight who walked with the North Wind in the snow. It still awaits the day when it will thaw.
+ 
+Glacial Sand
+A timepiece once used by the knight who walked with the North Wind. A never-ending snowstorm rages within.
+
+Goblet of Aquilo
+A goblet of eonothem left behind by the knight who walked with the North Wind. The chill of the bitter winter frost still lingers within.
+
+Crown of Glacier
+The crown worn by the knight who walked with the North Wind. It was forged using winter ice and silver.
+

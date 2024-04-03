@@ -1,0 +1,12 @@
+Spiraling Tempest
+Increases the pulling speed of <color=#FFD780FF>Gale Blade</color> after holding for more than 1s, and increases the DMG dealt by 40%.
+People's Aegis
+When Jean picks up an Elemental Orb/Particle, all party members have their Movement SPD and ATK SPD increased by 15% for 15s.
+When the West Wind Arises
+Increases the Level of <color=#FFD780FF>Dandelion Breeze</color> by 3. Maximum upgrade level is 15.
+Lands of Dandelion
+Within the Field created by <color=#FFD780FF>Dandelion Breeze</color>, all opponents have their <color=#80FFD7FF>Anemo RES</color> decreased by 40%.
+Outbursting Gust
+Increases the Level of <color=#FFD780FF>Gale Blade</color> by 3. Maximum upgrade level is 15.
+Lion's Fang, Fair Protector of Mondstadt
+Incoming DMG is decreased by 35% within the Field created by <color=#FFD780FF>Dandelion Breeze</color>. Upon leaving the Dandelion Field, this effect lasts for 3 attacks or 10s.

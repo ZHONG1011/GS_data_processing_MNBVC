@@ -1,0 +1,12 @@
+Conviction
+Diluc deals 15% more DMG to opponents whose HP is above 50%.
+Searing Ember
+When Diluc takes DMG, his ATK increases by 10% and his ATK SPD increases by 5%. Lasts for 10s. This effect can stack up to 3 times and can only occur once every 1.5s.
+Fire and Steel
+Increases the Level of <color=#FFD780FF>Searing Onslaught</color> by 3. Maximum upgrade level is 15.
+Flowing Flame
+Casting <color=#FFD780FF>Searing Onslaught</color> in rhythm greatly increases damage dealt. 2s after casting <color=#FFD780FF>Searing Onslaught</color>, casting the next Searing Onslaught in the combo deals 40% additional DMG. This effect lasts for 2s.
+Phoenix, Harbinger of Dawn
+Increases the Level of <color=#FFD780FF>Dawn</color> by 3. Maximum upgrade level is 15.
+Flaming Sword, Nemesis of the Dark
+After casting <color=#FFD780FF>Searing Onslaught</color>, the next 2 Normal Attacks within the next 6s will have their DMG and ATK SPD increased by 30%. Additionally, Searing Onslaught will not interrupt the Normal Attack combo.

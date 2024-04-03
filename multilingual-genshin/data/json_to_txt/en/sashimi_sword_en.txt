@@ -1,0 +1,13 @@
+Fillet Blade
+A sharp filleting knife. The blade is long, thin, and incredibly sharp.
+ It was said that the Ticker Fish was a favorite among the people of Liyue. As word caught on, somehow Ticker became Tiger. Now, the real Ticker Fish is hard to come by, but Tiger Fish fillets have become synonymous with delicious fish for the people of Liyue. 
+Gash
+On hit, has a 50% chance to deal <color=#99FFFFFF>240%</color> ATK DMG to a single opponent. Can only occur once every <color=#99FFFFFF>15</color>s.
+Gash
+On hit, has a 50% chance to deal <color=#99FFFFFF>280%</color> ATK DMG to a single opponent. Can only occur once every <color=#99FFFFFF>14</color>s.
+Gash
+On hit, has a 50% chance to deal <color=#99FFFFFF>320%</color> ATK DMG to a single opponent. Can only occur once every <color=#99FFFFFF>13</color>s.
+Gash
+On hit, has a 50% chance to deal <color=#99FFFFFF>360%</color> ATK DMG to a single opponent. Can only occur once every <color=#99FFFFFF>12</color>s.
+Gash
+On hit, has a 50% chance to deal <color=#99FFFFFF>400%</color> ATK DMG to a single target. Can only occur once every <color=#99FFFFFF>11</color>s.

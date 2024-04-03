@@ -1,0 +1,12 @@
+Kyouka Fuushi
+Erhöht den Gegnern mit bis zu 50 % LP mit <color=#FFD780FF>Shunsuiken</color> zugefügten Schaden um 40 %.
+Quelle der Welt
+Erhöht die Höchstmenge an Stapelungen von <color=#FFD780FF>Namisen</color> auf 5. Erhöht, wenn Kamisato Ayato mindestens 3 Namisen-Stapelungen hat, seine maximalen LP um 50 %.
+Bewunderung der Blumen
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Kamisato-Stil – Kyouka</color> um 3. Höchststufe 15.
+Ewiger Fluss
+Erhöht nach dem Auslösen von <color=#FFD780FF>Kamisato-Stil – Suiyuu</color> die Angriffs-GSW der Standardangriffe aller Truppenmitglieder in der Nähe 15 s lang um 15 %.
+Bansui Ichiro
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Kamisato-Stil – Suiyuu</color> um 3. Höchststufe 15.
+Unerschöpfliche Quelle
+Löst, wenn der nächste Angriff von Kamisato Ayato mit Shunsuiken nach Anwendung von <color=#FFD780FF>Kamisato-Stil – Kyouka</color> Gegner trifft, 2 weitere Shunsuiken-Angriffe aus, von denen jeder Schaden in Höhe von 450 % von Ayatos ANG zufügt. Diese beiden Shunsuiken-Angriffe erhalten keine Bonuseffekte von Namisen.

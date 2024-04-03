@@ -1,0 +1,12 @@
+Rot bedeckte Hügel
+Verkürzt die Abklingzeit von <color=#FFD780FF>Chihayaburu</color> um 10 %. Überspringt bei Anwendung von <color=#FFD780FF>Kazuha-Schlag</color> die Abklingzeit von <color=#FFD780FF>Chihayaburu</color>.
+Yamaarashi-Rückenwind
+Das wirbelnde Herbstfeld von <color=#FFD780FF>Kazuha-Schlag</color> hat den folgenden Effekt: · Erhöht während der Wirkungsdauer die Elementarkunde von Kaedehara Kazuha um 200 Punkte. · Erhöht die Elementarkunde aktueller Figuren um 200 Punkte.  Die Elementarkunde-Bonuseffekte dieses Sternbilds können nicht gestapelt werden.
+Ahorn-Monogatari
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Chihayaburu</color> um 3. Höchststufe 15.
+Oozora Genpou
+Löst für Kaedehara Kazuha bei weniger als 45 Punkten Elementarenergie folgende Effekte aus: · Drücke oder halte <color=#FFD780FF>Chihayaburu</color> gedrückt, um Kaedehara Kazuha 3 bzw. 4 Punkte Elementarenergie wiederherzustellen. · Stellt Kaedehara Kazuha beim Gleiten 2 Punkte Elementarenergie pro s wieder her.
+Weisheit von Bansei
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Kazuha-Schlag</color> um 3. Höchststufe 15.
+Momiji-Jagd
+Verleiht Kaedehara Kazuha bei der Anwendung von <color=#FFD780FF>Chihayaburu</color> oder <color=#FFD780FF>Kazuha-Schlag</color> 5 s lang die <color=#80FFD7FF>Anemo</color>-Kraft. Erhöht Kaedehara Kazuhas mit Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall verursachten Schaden um 0,2 % pro Punkt Elementarkunde.

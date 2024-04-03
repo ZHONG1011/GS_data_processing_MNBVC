@@ -1,0 +1,12 @@
+Wurzeln bestimmen Anfänge
+Erhöht die KT heftiger Schläge von Tighnari um 15 %.
+Stämme verraten Herkünfte
+Verleiht Tighnari 20 % <color=#99FF88FF>Dendro-SCH-Bonus</color>, wenn sich Gegner im von <color=#FFD780FF>Vijnana-Phala-Mine</color> erzeugten Vijnana-Khanda-Feld befinden. Der Effekt hält bis zu 6 s an, nachdem die Dauer des Vijnana-Khanda-Felds endet oder sich keine Gegner mehr darin befinden.
+Zweige kennen Schicksale
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Des Erschaffers Schlingstängel-Pfeil</color> um 3. Höchststufe 15.
+Blätter bezeugen das Auf und Ab
+Erhöht die Elementarkunde aller Truppenmitglieder in der Nähe beim Anwenden der Fähigkeit <color=#FFD780FF>Des Erschaffers Schlingstängel-Pfeil</color> 8 s lang um 60 Punkte. Wenn Des Erschaffers Schlingstängel-Pfeil Reaktionen wie „In Flammen“, „Sprießen“, „Urwuchs“ oder „Rankenwuchs“ auslöst, wird ihre Elementarkunde um weitere 60 Punkte erhöht. In letzterem Fall wird auch die Dauer dieses Bonus zurückgesetzt.
+Blüten hegen Einsichten
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Vijnana-Phala-Mine</color> um 3. Höchststufe 15.
+Früchte tragen Karma
+Verkürzt die Aufladezeit für <color=#FFD780FF>Blütenpfeil</color> um 0,9 s und erzeugt nach einem Treffer 1 weiteren Khanda-Blütenpfeil. Verursacht Schaden in Höhe von 150 % von Tighnaris ANG.

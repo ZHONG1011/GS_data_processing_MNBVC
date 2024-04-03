@@ -1,0 +1,12 @@
+Skelett der Erde
+Bis zu 2 Hügelkämme von <color=#FFD780FF>Dominus Lapidis</color> können gleichzeitig existieren.
+Heimat der Jade
+<color=#FFD780FF>Einstürzender Himmel</color> gibt aktuellen Figuren in der Nähe des Sturzes einen Jadeblock zum Schutz.
+Funkelnd und doch dunkel
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Dominus Lapidis</color> um 3. Höchststufe 15.
+Gebrochen und doch hart
+Vergrößert den Wirkungsbereich von <color=#FFD780FF>Einstürzender Himmel</color> um 20 %. Verlängert den Effekt der Versteinerung von Einstürzender Himmel um 2 s.
+Verkünder der Ordnung
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Einstürzender Himmel</color> um 3. Höchststufe 15.
+Geschenk des Bodens
+Stellt der aktuellen Figur LP in Höhe von 40 % des Schadens wieder her, wenn der Jadeblock Schaden erleidet. Die bei jeder Heilung wiederhergestellten LP können 8 % der max. LP der Figur nicht übersteigen.

@@ -1,0 +1,12 @@
+Normal Attack: Divine Marksmanship
+<color=#FFD780FF>Normal Attack</color> Performs up to 6 consecutive shots with a bow.  <color=#FFD780FF>Charged Attack</color> Performs a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG. While aiming, favorable winds will accumulate on the arrowhead. A fully charged wind arrow will deal <color=#80FFD7FF>Anemo DMG</color>.  <color=#FFD780FF>Plunging Attack</color> Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+Skyward Sonnet
+#O wind upon which all hymns and songs fly, bear these earth-walkers up into the sky!  <color=#FFD780FF>{LAYOUT_MOBILE#Tap}{LAYOUT_PC#Press}{LAYOUT_PS#Press}</color> Summons a Wind Domain at the opponent's location, dealing <color=#80FFD7FF>AoE Anemo DMG</color> and launching opponents into the air.  <color=#FFD780FF>Hold</color> Summons an even larger Wind Domain with Venti as the epicenter, dealing <color=#80FFD7FF>AoE Anemo DMG</color> and launching affected opponents into the air. After unleashing the Hold version of this ability, Venti rides the wind into the air.  Opponents hit by Skyward Sonnet will fall to the ground slowly.  <i>In the days when gods and men walked the earth together, the heavens were filled with countless songs. This melody has long since been forgotten.</i>
+Wind's Grand Ode
+Fires off an arrow made of countless coalesced winds, creating a huge Stormeye that sucks in opponents and deals continuous <color=#80FFD7FF>Anemo DMG</color>.  <color=#FFD780FF>Elemental Absorption</color> If the Stormeye comes into contact with <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, it will deal additional elemental DMG of that type. Elemental Absorption may only occur once per use.  <i>Many hymns written in praise of the Anemo Archon have been lost to time. This one sings of his mastery over the wind.</i>
+Embrace of Winds
+Holding <color=#FFD780FF>Skyward Sonnet</color> creates an upcurrent that lasts for 20s.
+Stormeye
+Regenerates 15 Energy for Venti after the effects of <color=#FFD780FF>Wind's Grand Ode</color> end. If an Elemental Absorption occurred, this also restores 15 Energy to all characters of that corresponding element in the party.
+Windrider
+Decreases gliding Stamina consumption for your own party members by 20%. Not stackable with Passive Talents that provide the exact same effects.

@@ -1,0 +1,13 @@
+Opferbogen
+Ein über die Zeit verkrusteter Bogen mit noch gut zu erkennenden Ornamenten. Mit ihm kann man die Winde der Zeit gut überstehen.
+ Die Ahnen verehrten die Meister des Windes und der Zeit zusammen an der Klippe, die der östlichen See zugewandt war. Sie bezogen sich nämlich auf die Anweisung, die im Spruch „Die Samen der Geschichte, vom Wind hergetragen und von der Zeit genährt“ steht. Dieser Bogen erzählt die Geschichte der Pioniere und der beschwerlichen Umstände, denen sie ausgesetzt waren. Der Jagdbogen wurde durch den Wind der Zeit immer härter und biegsamer.  Dieser Bogen war einst im Besitz des stolzen Lawrence-Klans. In ferner Vergangenheit stellten sie damit die Szene der ersten Pioniere im Schnee nach.  Der erste Akt erzählte die Geschichte der Gründer, wie sie das Land mit Weisheit und Stärke eroberten. Durch den Verlauf der Geschichte ging die Zeremonie langsam verloren, aber sie spielten weiterhin ihre ursprünglichen Rollen.  Ihre Rolle und die Art, wie sie sich selbst sahen, wurde korrupter und korrupter. Von Eroberern wandelten sie sich zu Kriegsherren und schließlich gar zu Königen. Sie kamen mehr und mehr vom Pfad der Tugend ab und erhielten nicht länger die Unterstützung der Winde Mondstadts. 
+Göttliche Fügung
+Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von <color=#99FFFFFF>40 %</color>, <color=#99FFFFFF>30</color> s Abklingzeit.
+Göttliche Fügung
+Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von <color=#99FFFFFF>50 %</color>, <color=#99FFFFFF>26</color> s Abklingzeit.
+Göttliche Fügung
+Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von <color=#99FFFFFF>60 %</color>, <color=#99FFFFFF>22</color> s Abklingzeit.
+Göttliche Fügung
+Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von <color=#99FFFFFF>70 %</color>, <color=#99FFFFFF>19</color> s Abklingzeit.
+Göttliche Fügung
+Überspringt die Abklingzeit einer Elementarfähigkeit beim Verursachen von Schaden mit dieser Fähigkeit mit einer Wahrscheinlichkeit von <color=#99FFFFFF>80 %</color>, <color=#99FFFFFF>16</color> s Abklingzeit.

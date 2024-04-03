@@ -1,0 +1,13 @@
+Landstreichernoten
+Ein dickes Notizheft voller Noten. Obgleich halb verwittert, ist die Kraft der Handschrift noch deutlich spürbar.
+ Ein Notizbuch, das sich die Mitglieder des Ensembles teilten. Sie benutzten es für Noten und weitere Reisenotizen. Die Geschichte der Truppe ging verloren, da sie sich auflöste, bevor Mondstadt neu gegründet wurde. Das Notizbuch enthält alle Aufzeichnungen des Ensembles über alles, was es gesehen und erlebt hatte auf seinen Reisen. Es zog viel Energie von den Aufzeichnungen der Truppe, von ihren Auftritten und dem Applaus, den sie bekamen.  Das Ensemble wurde während der Regentschaft der Aristokraten gegründet. Einige wenige nannten sie auch die Schwertkämpfertruppe, manche aus Hoffnung, manche aus Angst. Zu jener Zeit war sogar Poesie in Mondstadt verboten.  Anstelle von Flöten hatten sie Schwerter, Bögen anstelle von Harfen und ihre Hymne war die der Rebellion. Ihr Grande Finale war ein Versuch, die Stadt zu stürmen und die Aristokraten zum Tode zu verurteilen.  Die Schwertkämpfertruppe war längst gegangen und mit ihnen die Erinnerung an die Rebellion. Aber der Geist der Revolution, den sie verkörperten, wird für immer in Mondstadt verweilen.
+Ouvertüre
+Spielt beim Wechseln zu dieser Figur 10 s lang ein zufälliges Lied. 30 s Abklingzeit. Rezitativ: Erhöht ANG um <color=#99FFFFFF>60 %</color>; Arie: Erhöht gesamten Elementar-SCH um <color=#99FFFFFF>48 %</color>; Intermezzo: Erhöht Elementarkunde um <color=#99FFFFFF>240</color> Punkte.
+Ouvertüre
+Spielt beim Wechseln zu dieser Figur 10 s lang ein zufälliges Lied. 30 s Abklingzeit. Rezitativ: Erhöht ANG um <color=#99FFFFFF>75 %</color>; Arie: Erhöht gesamten Elementar-SCH um <color=#99FFFFFF>60 %</color>; Intermezzo: Erhöht Elementarkunde um <color=#99FFFFFF>300</color> Punkte.
+Ouvertüre
+Spielt beim Wechseln zu dieser Figur 10 s lang ein zufälliges Lied. 30 s Abklingzeit. Rezitativ: Erhöht ANG um <color=#99FFFFFF>90 %</color>; Arie: Erhöht gesamten Elementar-SCH um <color=#99FFFFFF>72 %</color>; Intermezzo: Erhöht Elementarkunde um <color=#99FFFFFF>360</color> Punkte.
+Ouvertüre
+Spielt beim Wechseln zu dieser Figur 10 s lang ein zufälliges Lied. 30 s Abklingzeit. Rezitativ: Erhöht ANG um <color=#99FFFFFF>105 %</color>; Arie: Erhöht gesamten Elementar-SCH um <color=#99FFFFFF>84 %</color>; Intermezzo: Erhöht Elementarkunde um <color=#99FFFFFF>420</color> Punkte.
+Ouvertüre
+Spielt beim Wechseln zu dieser Figur 10 s lang ein zufälliges Lied. 30 s Abklingzeit. Rezitativ: Erhöht ANG um <color=#99FFFFFF>120 %</color>; Arie: Erhöht gesamten Elementar-SCH um <color=#99FFFFFF>96 %</color>; Intermezzo: Erhöht Elementarkunde um <color=#99FFFFFF>480</color> Punkte.

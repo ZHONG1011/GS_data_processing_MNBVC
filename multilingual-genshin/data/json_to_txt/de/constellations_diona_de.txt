@@ -1,0 +1,12 @@
+Empfehlung des Hauses
+Stellt Diona am Ende des Effekts von <color=#FFD780FF>Eisgekühlter Branntwein</color> 15 Punkte Elementarenergie wieder her.
+Eiskalte Pfoten
+Erhöht den mit <color=#FFD780FF>Eistatzen</color> verursachten Schaden um 15 % und den mit Schilden abzuhaltenden Schaden um 15 %. Erstellt anderen aktuellen Figuren in der Nähe außerdem bei Treffern einen Schutzschild, der Schaden in Höhe von 50 % von <color=#FFD780FF>Eistatzen</color> abhält, hält 5 s.
+Einer geht noch!
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Eisgekühlter Branntwein</color> um 3. Höchststufe 15.
+„Schrecken der Getränkewirtschaft“
+Verringert die Aufladezeit für Dionas gezielte Schüsse im Feld von <color=#FFD780FF>Eisgekühlter Branntwein</color> um 60 %.
+Doppelt auf Eis
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Eistatzen</color> um 3. Höchststufe 15.
+Vorzeitiger Feierabend
+Verleiht Figuren im Feld von <color=#FFD780FF>Eisgekühlter Branntwein</color> je nach ihren LP folgende Effekte: · Erhöht den passiven Heilungsbonus bei bis zu 50 % LP um 30 %. · Erhöht die Elementarkunde bei mehr als 50 % LP um 200 Punkte.

@@ -1,0 +1,12 @@
+Normal Attack: Rapid Fire
+<color=#FFD780FF>Normal Attack</color> Performs up to 4 consecutive shots with a bow.  <color=#FFD780FF>Charged Attack</color> Performs a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG. While aiming, biting frost will accumulate on the arrowhead. A fully charged frost arrow will deal <color=#99FFFFFF>Cryo DMG</color>.  <color=#FFD780FF>Plunging Attack</color> Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+Frozen Wilds
+Aloy throws a Freeze Bomb in the targeted direction that explodes on impact, dealing <color=#99FFFFFF>Cryo DMG</color>. After it explodes, the Freeze Bomb will split up into many Chillwater Bomblets that explode on contact with opponents or after a short delay, dealing <color=#99FFFFFF>Cryo DMG</color>. When a Freeze Bomb or Chillwater Bomblet hits an opponent, the opponent's ATK is decreased and Aloy receives 1 Coil stack. Aloy can gain up to 1 Coil stack every 0.1s.  <color=#FFD780FF>Coil</color> ·Each stack increases Aloy's Normal Attack DMG. ·When Aloy has 4 Coil stacks, all stacks of Coil are cleared. She then enters the Rushing Ice state, which further increases the DMG dealt by her Normal Attacks and converts her Normal Attack DMG to <color=#99FFFFFF>Cryo DMG</color>.  While in the Rushing Ice state, Aloy cannot obtain new Coil stacks. Coil effects will be cleared 30s after Aloy leaves the field.  <i>You think that's cold? Guess you've never been to The Cut.</i>
+Prophecies of Dawn
+Aloy throws a Power Cell filled with Cryo in the targeted direction, then detonates it with an arrow, dealing <color=#99FFFFFF>AoE Cryo DMG</color>.  <i>Whether "Zero Dawn" referred to hope or extinction no longer matters. Aloy has already saved her world, and the fate of this one is still being forged by its own heroes.</i>
+Combat Override
+When Aloy receives the Coil effect from <color=#FFD780FF>Frozen Wilds</color>, her ATK is increased by 16%, while nearby party members' ATK is increased by 8%. This effect lasts 10s.
+Strong Strike
+When Aloy is in the Rushing Ice state conferred by <color=#FFD780FF>Frozen Wilds</color>, her <color=#99FFFFFF>Cryo DMG Bonus</color> increases by 3.5% every 1s. A maximum <color=#99FFFFFF>Cryo DMG Bonus</color> increase of 35% can be gained in this way.
+Easy Does It
+When Aloy is in the party, animals who produce Fowl, Raw Meat, or Chilled Meat will not be startled when party members approach them.

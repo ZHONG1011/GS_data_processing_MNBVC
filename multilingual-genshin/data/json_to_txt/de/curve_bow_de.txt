@@ -1,0 +1,13 @@
+Reflexbogen
+Mit diesem Jagdbogen soll man selbst einen Adler im Flug aus dem Himmel holen können. Das hängt aber doch sehr stark von der Kunst des Schützen ab.
+ Ein Reflexbogen, der ganz vorsichtig aus Holz, Knochen und Tiersehnen hergestellt wurde. In geschickten Händen kann er Adler aus der Luft schießen. Er ist der Stolz eines Jägers und der Beweis seines Könnens. Aber die armen Habichte können einem leidtun.
+Lebensentzug
+Stellt beim Besiegen eines Gegners <color=#99FFFFFF>8 %</color> LP wieder her.
+Lebensentzug
+Stellt beim Besiegen eines Gegners <color=#99FFFFFF>10 %</color> LP wieder her.
+Lebensentzug
+Stellt beim Besiegen eines Gegners <color=#99FFFFFF>12 %</color> LP wieder her.
+Lebensentzug
+Stellt beim Besiegen eines Gegners <color=#99FFFFFF>14 %</color> LP wieder her.
+Lebensentzug
+Stellt beim Besiegen eines Gegners <color=#99FFFFFF>16 %</color> LP wieder her.

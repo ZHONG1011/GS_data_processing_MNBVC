@@ -1,0 +1,13 @@
+Messenger
+A basic wooden bow. It is said to have once been used as a tool for long-distance communication.
+ It was said in days gone by, The people of Liyue passed messages by bow and arrow. "Wouldn't bystanders get hurt, you ask?" "Suffice to say, there's a good reason this bow is an antique..." The antique shop owner rubbed their chin and smiled. 
+Archer's Message
+Charged Attack hits on weak points deal an additional <color=#99FFFFFF>100%</color> ATK DMG as CRIT DMG. Can only occur once every 10s.
+Archer's Message
+Charged Attack hits on weak points deal an additional <color=#99FFFFFF>125%</color> ATK DMG as CRIT DMG. Can only occur once every 10s.
+Archer's Message
+Charged Attack hits on weak points deal an additional <color=#99FFFFFF>150%</color> ATK DMG as CRIT DMG. Can only occur once every 10s.
+Archer's Message
+Charged Attack hits on weak points deal an additional <color=#99FFFFFF>175%</color> ATK DMG as CRIT DMG. Can only occur once every 10s.
+Archer's Message
+Charged Attack hits on weak points deal an additional <color=#99FFFFFF>200%</color> ATK DMG as CRIT DMG. Can only occur once every 10s.

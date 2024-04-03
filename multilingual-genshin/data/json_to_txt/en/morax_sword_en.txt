@@ -1,0 +1,13 @@
+Primordial Jade Cutter
+A ceremonial sword masterfully carved from pure jade. There almost seems to be an audible sigh in the wind as it is swung.
+ They say that when Liyue first arose, Rex Lapis once walked the land with a sword hewn from jade. Despite the constant wear and tear of age, the jade edge, so bathed in blood, still retained a polished sheen as if brand-new. The blood was washed away in the rain of a thousand years, yet the thoughts and grudges that gathered about it could not be so easily eliminated.  "Nephrite has the soul of the Bishui's gentle heart, and will in time cleanse itself of the remnant grudges within." "But who will ease the agony that the jade itself feels for having become an instrument of slaughter?"  These words of a friend long-forgotten were both lament and sigh. But the inexorable gears of destiny would drown out those compassionate words.  In the passing of many long years, many became mortal foes who once made merry together, While those who betrayed one another or fought to the death would come to share a drink, their hatred dispelled. So it was also with this precious sword, carved as it once was to be given as an expensive gift to a certain someone. This jade too was once cut for love of peace and luxury.  When wine vessels are filled with blood, and when tender feelings are ripped asunder by cold ambition and reduced to dust on the wind, Gifts ungiven and bonds unspoken will become sharp blades with which to cleave erstwhile friends.
+Protector's Virtue
+HP increased by <color=#99FFFFFF>20%</color>. Additionally, provides an ATK Bonus based on <color=#99FFFFFF>1.2%</color> of the wielder's Max HP.
+Protector's Virtue
+HP increased by <color=#99FFFFFF>25%</color>. Additionally, provides an ATK Bonus based on <color=#99FFFFFF>1.5%</color> of the wielder's Max HP.
+Protector's Virtue
+HP increased by <color=#99FFFFFF>30%</color>. Additionally, provides an ATK Bonus based on <color=#99FFFFFF>1.8%</color> of the wielder's Max HP.
+Protector's Virtue
+HP increased by <color=#99FFFFFF>35%</color>. Additionally, provides an ATK Bonus based on <color=#99FFFFFF>2.1%</color> of the wielder's Max HP.
+Protector's Virtue
+HP increased by <color=#99FFFFFF>40%</color>. Additionally, provides an ATK Bonus based on <color=#99FFFFFF>2.4%</color> of the wielder's Max HP.

@@ -1,0 +1,12 @@
+Rock, the Backbone of Earth
+Increases the maximum number of Stone Steles created by <color=#FFD780FF>Dominus Lapidis</color> that may exist simultaneously to 2.
+Stone, the Cradle of Jade
+<color=#FFD780FF>Planet Befall</color> grants nearby characters on the field a Jade Shield when it descends.
+Jade, Shimmering through Darkness
+Increases the Level of <color=#FFD780FF>Dominus Lapidis</color> by 3. Maximum upgrade level is 15.
+Topaz, Unbreakable and Fearless
+Increases <color=#FFD780FF>Planet Befall</color>'s AoE by 20% and increases the duration of Planet Befall's Petrification effect by 2s.
+Lazuli, Herald of the Order
+Increases the Level of <color=#FFD780FF>Planet Befall</color> by 3. Maximum upgrade level is 15.
+Chrysos, Bounty of Dominator
+When the Jade Shield takes DMG, 40% of that incoming DMG is converted to HP for the current character. A single instance of regeneration cannot exceed 8% of that character's Max HP.

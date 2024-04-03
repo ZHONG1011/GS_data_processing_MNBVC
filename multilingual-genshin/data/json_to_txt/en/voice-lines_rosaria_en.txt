@@ -1,0 +1,138 @@
+Hello
+Listen disciple, if you've got a problem you can't handle, then I'm the one for the job. But if you're looking for prayer, you'd better find some other Sister  ...Huh? You're not a disciple?
+Chat: Boredom
+Don't we have a job to do?
+Chat: Overtime
+Everything is negotiable, except overtime.
+Chat: Life in Mondstadt
+Work hard and live each day to the fullest. That is what life in Mondstadt is all about, isn't it?
+When It Rains
+This will slow things down.
+When Thunder Strikes
+...What a nuisance.
+When It Snows
+We should keep moving, but watch your step in the snow.
+When the Wind Is Blowing
+Blessings from the Anemo Archon Barsibato? Wait... no, it's Bartobas...?
+Good Morning
+*yawn* Good morning... I've missed morning mass, haven't I? Ugh, it starts too early anyway.
+Good Afternoon
+I'd say I sleep even better in the afternoon sun. You should try it sometime.
+Good Evening
+Good evening. Don't expect to see me at prayer tonight... And don't ask why.
+Good Night
+Go ahead, take a break. I'll handle things here.
+About Rosaria: Sister
+Me? I'm just another ordinary person. Church, work... I just do what I have to do.
+About Rosaria: Troubles
+Each of the Sisters is worse than the next. If it's not about prayer, then it's about choir or some other thing I'm supposed to participate in... I'm trying to stay out of sight, so don't you dare tell them you saw me here.
+About Us: Beliefs
+Perhaps a god has the power to protect everyone if they would choose to do so, but that would never happen. Otherwise, people's suffering couldn't ever be taken seriously.
+About Us: Prayer
+Pray. Not for the gods, nor the betterment of others... but for yourself.
+About Us: Battle
+Don't overdo it. Let me take care of the dirty work.
+About the Vision
+A Vision... Could be proof of strength, or a medal for having survived... who knows? There're two sides to every coin. I won't limit my Vision with ceremonies and definitions. It witnesses me, and I witness it, that's all.
+Something to Share
+You don't always know why good things happen, or why we should be happy about them. Heh... But if you ever face a problem too big to handle, don't give up hope. You never know, someone may be there to help, even if you can't see them.
+Interesting Things
+I take no interest in plant life and the sort, but the dandelion is an exception. How such a simple flower could turn into such a delectable wine is beyond me. A glass of dandelion wine after work is even better than sleeping in on Sunday.
+About Diluc
+Isn't it obvious? There's more than meets the eye to that rich tycoon. He's confident, yet discreet... and even a little bit dangerous.
+About Kaeya
+Wine has its uses... like revealing someone's true colors, for example. Smooth talk is Kaeya's veil, but being me, I can see right through it. Hah, you should see him when he's drunk.
+About Venti
+There's something extremely interesting about this bard... I can't quite put my finger on it. There's something that makes him different from the others in Mondstadt.
+About Barbara
+Barbara is like a thorn in my side, always nagging me about mass and choir practice. I wouldn't be surprised if Sister Victoria specifically asked her to keep an eye on me.
+About Jean
+She's not only competent in her own work but also somehow manages to clear up various matters for others... Huh. Now that's a woman who deserves admiration.
+About Albedo
+He's like an oil painting you find hanging on the wall in some ancient hall, profound and mysterious... hard to see through. But what can I say, I find people with stories... interesting.
+About Lisa
+Although I deplore those who play truant on a job, I respect her punctuality when it comes to closing up for the day.
+About Klee
+Trouble, and lots of it. Although, it is sort of a cute kind of trouble...
+About Varka
+I'm sure Varka means well, but his long-winded conversations get real old real quick. Although, he does really care for those around him, doesn't he?
+About Her Father
+Father? I'm not familiar with the word. You could say that I don't have one — could also say I have many, too. What's it to you?
+More About Rosaria: I
+Let's forgo the formalities. I'm here to finish a job. Just leave the dirty work to me.
+More About Rosaria: II
+What's weird about a Sister without reverence for the gods? There are hunters who don't eat pork, and fisherman who don't eat fish, aren't there? Just because you do something doesn't mean you love to do it. That's how every job goes.
+More About Rosaria: III
+This year's Dandelion Wine is sinfully good. Care for a glass?
+More About Rosaria: IV
+Mondstadt is a beast of light, both old and young. Old in the sense that it constantly requires someone's protection, yet too young to ever survive on its own. That's why there's people like me. I care for Mondstadt just as the other Sisters care for the believers, we are all guiding that which we love onward on the path towards freedom. Huh? Why do I call it a beast of light? Because people like myself can only be found in the dark...
+More About Rosaria: V
+I sometimes feel that my former selves from years past still exist alongside me, urging me on. I'm sure you know the feeling, too. Even if you decide to venture down a new path, don't just abandon the former you. For that is the foundation upon which you now take footing. Do not fear your past, and do not be scared to come to grips with it.
+Rosaria's Hobbies
+There are some troubles that only a stiff drink can take away. That being said, I never get drunk.
+Rosaria's Troubles
+Ugh, definitely skipping next month's choir concert, but I bet Sister Victoria will be personally taking roll... What a nuisance.
+Favorite Food
+Have you ever tried Beef Bourguignon? Big chunks of meat with the smooth taste of alcohol... Mmm, it's delectable.
+Least Favorite Food
+You mean I'm supposed to dip this hash brown in jam? Ugh, this is sacrilege!
+Receiving a Gift: I
+It seems that our tastes are aligned when it comes to food.
+Receiving a Gift: II
+At least I'll be able to eat my fill with this.
+Receiving a Gift: III
+Do you really like this food?
+Birthday
+Today's your birthday, so if you have any dirty work that needs taking care of, I can give you a hand... Just don't tell anybody, got it?
+Feelings About Ascension: Intro
+Hmm, just what I needed.
+Feelings About Ascension: Building Up
+You have a job for me? I've got time.
+Feelings About Ascension: Climax
+Good. Getting stronger means finishing jobs quicker.
+Feelings About Ascension: Conclusion
+I'm no stranger to spilling blood, but never have I possessed such power before. For such blessings, I give you thanks.
+Elemental Skill: I
+Hyah!
+Elemental Skill: II
+Judgment!
+Elemental Skill: III
+You can't run!
+Elemental Burst: I
+Punishment!
+Elemental Burst: II
+Shiver!
+Elemental Burst: III
+Lights out...
+Opening Treasure Chest: I
+...Hm, there are a few interesting trinkets here.
+Opening Treasure Chest: II
+I suppose it wasn't too much trouble.
+Opening Treasure Chest: III
+That felt... pretty good.
+Low HP: I
+Hmph. Things are getting interesting...
+Low HP: II
+Looks like overtime today.
+Low HP: III
+So you know your stuff, huh?
+Ally at Low HP: I
+Let me handle this!
+Ally at Low HP: II
+Don't try to be a hero!
+Fallen: I
+At least... no more... work.
+Fallen: II
+Maybe this is just... fate's dark design.
+Fallen: III
+Is this... my final job?
+Light Hit Taken: I
+I see how it is.
+Heavy Hit Taken: I
+Ugh, what a nuisance!
+Joining Party: I
+I hear you've got a job for me.
+Joining Party: II
+Make sure to keep up.
+Joining Party: III
+Sooner we're done the better.

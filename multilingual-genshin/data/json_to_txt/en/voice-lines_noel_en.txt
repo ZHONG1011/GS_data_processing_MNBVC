@@ -1,0 +1,138 @@
+Hello
+My name is Noelle, maid of the Knights of Favonius, and it's my pleasure to be joining you on your adventure today. Should you encounter any problems at all at any point throughout your journey, please do not hesitate to call me and I will be delighted to provide you with my full assistance. Yes, starting right now — what do you need?
+Chat: A Favor
+Leave it to me! All of it, whatever it is! ...What... exactly is "it"? I didn't quite catch your request...
+Chat: Rest
+You seem tired. Would you like some tea? I'll brew you some. Do you take sugar? One cube, or two?
+Chat: Being Reliable
+Whenever you need me, I'll be there.
+When It Rains
+Oh dear, everyone's laundry is still on the line! May I be excused to fetch it in?
+When Thunder Strikes
+Please stay indoors until the storm passes. I will deal with any urgent outdoor business.
+When the Sun Is Out
+Mmm, such fair weather. Why don't we do a bit of sunny work? Oh, what sort of work is that, you ask? Haha, well, anything that makes you feel bright and sunny too.
+When It's Windy
+Ahh... Can you hear the Anemo Archon's voice on the breeze? It calms me down whenever I get flustered.
+Good Morning
+Good morning! Breakfast is served. I will be on hand the whole time. Should you find that anything is not to your taste, please, do not hesitate to let me know.
+Good Afternoon
+Ready for your tea break? Please wait here while I get it ready. Oh yes, I also made Lighter-Than-Air Pancakes! You simply must try one, it's my specialty.
+Good Evening
+Everyone has free time in the evening, and that is when I am busiest. Where have Amber's washed hairbands been placed? How many new eyepatches did Kaeya buy? Keeping track of all these things is a maid's responsibility.
+Good Night
+Please get some rest, you must be tired from today's adventure. I should head back to the Knights of F— Sorry? You want me to watch over you until you fall asleep? I—I... I mean, of course, it's no problem. But, um... You're not just teasing me, are you?
+About Noelle: Discipline
+In my job, I do the exact same things every day — a far cry from being a true knight, that's for sure. But ultimately, this is all part of my training, and when it comes to training, actions speak louder than words.
+About Noelle: Disagreement
+I'm a bit useless in an argument because I can't really explain my reasoning clearly. People find that hard to understand, so instead, I try to just get on with my work in my own way. But then they call me stubborn. All I try to do is convince people with results instead of trying to talk them round... Is that really stubborn of me?
+About Us: Identities
+I am devoted to what I do, but make no mistake — I devote myself freely. A maid, to me, is the most liberating job there is. I'm a chef, a gardener, a warrior, a guide... I can be anything you need me to be!
+About Us: Reminders
+Even when you're too busy to eat three square meals, never eat something if you don't know where it came from, and always maintain a balance between meat and vegetables. Oh, and no swimming right after a meal. Haha, I do hope you're not thinking, "that's too much trouble, I'll just leave it to Noelle," are you? ... Oh... but of course, if you are... Well then, just leave it to me.
+About Us: Welcome Party
+So I hear you're an Honorary Knight of Favonius? I envy you! I suppose that makes you my senior... Anyway, it's about time someone threw you a welcome party, surely? Leave it to me!
+About the Vision
+To be honest, I'm feeling a little dejected. Sure, this Vision proves that the Archons think I'm worthy, but why is it a Geo Vision? I mean, Geo's the furthest thing from Anemo, and for a Knight of Favonius...
+Something to Share
+I actually really like the smell of wine, I'm just not of drinking age yet. There've been a few times when I could've had a little taste if I'd wanted, and no one would ever have known... but I resisted the temptation. I feel like the first time you try it is probably really magical, so I want to save it till I'm older.
+Interesting Things
+A maid is required to keep everyone's secrets. That's why my favorite flower is the rose. Here in Mondstadt, the rose represents the saying, "As wine bottles are corked, so too my lips are sealed." It reminds me to— What? ...Roses represent love in your hometown? I—I had no idea the rose held such a... passionate meaning.
+About Amber
+I really look up to Amber. Not only is she an accomplished knight, but she's a kind person too. She taught me how to make a Baron Bunny. I keep it on my person for luck, and it looks quite alright I think. Oh no, please do not be alarmed. There's no risk of explosion whatsoever.
+About Klee
+I've always been curious as to how she managed to become a fully-fledged knight at such a young age. I actually went to ask her for tips once, but I'd barely started talking to her when she grabbed me by the hand and took me outside the Knights headquarters to play with bombs. I thought it was some kind of training exercise at first, but Jean found us, and we both ended up in solitary confinement...
+About Jean
+Master Jean has always been my role model, both in terms of ability and dedication. She holds herself and others to the same high standards, so if there ever comes a day when I meet with her approval, it will be the ultimate acknowledgment of all my efforts so far. Until then, there's no room for complacency!
+About Varka
+At first I wanted to join his expedition party and do my part as a maid. But the Grand Master said no — it would give him more peace of mind if I stayed behind to take care of things in Mondstadt. It made me so happy to hear how much he values me! ...Okay, so apparently he said the same thing to a lot of people. But that doesn't change the fact he prizes me too!
+About Kaeya
+He's a mysterious character! He comes and goes like the wind, and is always occupied with important business. I like the fact that he delegates some of the smaller jobs to me sometimes, it's nice to feel like part of the team, you know... What do you mean, "errand runner"? I don't see it like that at all! Okay, well yes, technically I run errands for him. But still, I really appreciate it!
+About Bennett
+He's asked me to join the Adventurers' Guild more than a few times, saying that life there would suit me better than with the Knights of Favonius. While I could help him take care of his "dads" like the other adventurers... the Knights hold a special meaning for me, and I'm not ready to give up on becoming one yet. No, I simply cannot accept his offer.
+About Fischl: Tea
+I think she's from another world, but I don't know the details. One thing I do know, however, is that she loves the Knights of Favonius' library. She can always be found there with her nose in a book. I bring her some refreshments whenever I go in there to clean, and she always thanks me profusely. When I say profusely... I mean she goes a bit over the top, to be honest, and... I actually don't understand half of what she's saying.
+About Fischl: Background
+So once when I was cleaning the library, I noticed a book on the shelf called Flowers for Princess Fischl. At the time I assumed it was just a fantasy novel... I was so surprised to find out the main character is a real person. I could hardly believe it! She must be someone incredible to have a whole book dedicated to her.
+About Barbara
+We take tea breaks together sometimes. Often she'll start humming a tune, saying inspiration has come to her. I'm not the right person to give useful feedback on anything musical... But I still love spending time with Barbara.
+More About Noelle: I
+How may I be of assistance? ...Oh, you just want to chat? Okay then! Well, if that's how I can help, then please feel free to chat as long as you'd like.
+More About Noelle: II
+Not a problem, I am here to serve in whatever capacity you require. You needn't be concerned about the way I feel. ...Huh? More tool than maid? I disagree! A tool might help you to complete a million tasks to a satisfactory standard, but it feels nothing. I, on the other hand, feel a strong sense of achievement every time I do something for you.
+More About Noelle: III
+Th—These treats are for me? Oh no, I couldn't, really. Well... Then I'll make some for you too! I'll go right now, right this instant! Half an hour... Ah, okay, maybe an hour, tops. You can busy yourself with other things first, and I'll be sure to deliver them right to you, hot and fresh out of the oven!
+More About Noelle: IV
+I spend all my days handling the most trivial of matters, but so long as it helps you in your adventure, or makes your life easier in some small way, I couldn't be happier. That's because each time I get a thank-you, it makes me feel like my work at least has some meaning, no matter how insignificant it seems.
+More About Noelle: V
+Even though I mostly work for the Knights of Favonius, I'm always looking out for ways I can help more people. These days, though, I seem to be spending more and more of my time with you... It might be a bit selfish of me... What do you think?
+Noelle's Hobbies
+My hobby? I really like washing all sorts of things... clothes, floorboards, windows, you name it! Whenever I see something dirty, I just want to give it a good old clean! It gives me such a sense of achievement! ...Oh, you mean the things I do in my free time? Hmm... Same answer!
+Noelle's Troubles
+How to get more for your Mora? Last time I went all the way to Liyue, I visited every single shop to compare prices, and then carried everything back myself... I won't be doing that again though. I was on the road for so long that Jean was convinced I'd been gobbled up by Stormterror along the way!
+Favorite Food
+My favorite is easily a Satisfying Salad. The best of Mondstadt's natural produce on one plate — highly nutritious, and a low calorie count. No, I never get sick of eating it — it's delicious! I've been eating it for ten years now.
+Least Favorite Food
+I'm not a fussy eater, but I really don't like banquets... The reason being, as the maid, I'm expected to sample every single dish on the table to ensure its quality. Just one bite of each, of course, but it all adds up... Oh, the guilt...
+Receiving a Gift: I
+How can you make such a simple dish taste so good? My admiration towards you just keeps growing!
+Receiving a Gift: II
+This tastes wonderful! Uh, would you mind teaching me how to make this? After all, it is my duty as a maid...
+Receiving a Gift: III
+Hmm... This is more than I normally eat in a whole day...
+Birthday
+Since you're always so busy adventuring, there must be so many little things you never get round to, surely? Well, you need not worry about them adding up, because today, I am all yours — your exclusive maid for the entire day! Just leave it all to me! ...Also, I'd like to take this opportunity to wish you a very happy birthday!
+Feelings About Ascension: Intro
+What is this... new power!? Thank you! Now I can be of assistance to even more people.
+Feelings About Ascension: Building Up
+I cannot rest on my laurels. After all, I'm not even formally a knight yet. Until that day, I must work even harder.
+Feelings About Ascension: Climax
+Thank you for the opportunity to accompany you on your adventures, it's taught me a lot and I believe I have improved a lot. As a maid, I should be the one serving you, but it seems you have done more for me than I could ever imagine...
+Feelings About Ascension: Conclusion
+Everyone in Mondstadt is saying that I'm much more reliable now. Some even say that I'm to be made a true knight soon, but I don't think— What? You think so too? Awwww... Thank you! Coming from you, that is the best compliment I could ever hope for!
+Elemental Skill: I
+Steady as stone.
+Elemental Skill: II
+I must leave no stone unturned.
+Elemental Skill: III
+Leave it all to me.
+Elemental Burst: I
+Time to clean up.
+Elemental Burst: II
+As a good knight should.
+Elemental Burst: III
+As a dutiful maid would.
+Sprint Start: I
+I'll catch up.
+Sprint Start: II
+Someone needs assistance.
+Opening Treasure Chest: I
+All in a day's work.
+Opening Treasure Chest: II
+Oh, wonderful...
+Opening Treasure Chest: III
+A little dusty... Best give it a spring-cleaning!
+Low HP: I
+I can patch myself up.
+Low HP: II
+Ugh, that's going back in the wash...
+Low HP: III
+If at first you don't succeed...
+Ally at Low HP: I
+Apply continuous pressure to the wound.
+Ally at Low HP: II
+Let me get this. You need medical attention!
+Fallen: I
+I am a disgrace... to the knights...
+Fallen: II
+But they still need me...
+Fallen: III
+It was my honor to serve you...
+Heavy Hit Taken: I
+Ugh... I missed a spot...
+Joining Party: I
+Ohhh, how exciting! Ahem.
+Joining Party: II
+I will protect you.
+Joining Party: III
+As you wish.

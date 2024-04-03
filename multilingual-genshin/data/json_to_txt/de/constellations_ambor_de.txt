@@ -1,0 +1,12 @@
+Zwei auf einen Streich!
+Schießt nach dem <color=#FFD780FF>Zielen</color> 2 Pfeile ab und verursacht mit dem zweiten Schaden in Höhe von 20 % des ersten Pfeils.
+Manuelle Explosion
+Graf von Hoppel, vollständig überarbeitet! Lässt Graf von Hoppel bei einem Treffer auf die Füße mit einem voll aufgeladenen gezielten Schuss explodieren. Verursacht bei manueller Explosion auf diese Weise 200 % zusätzlichen Schaden.
+Das wird brennen!
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Pfeilregen</color> um 3. Höchststufe 15.
+Nicht einfach nur eine Puppe
+Verkürzt die Abklingzeit von <color=#FFD780FF>Sprengpuppe</color> um 20 % und ermöglicht 1 weitere Anwendung.
+Häschen hüpf!
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Sprengpuppe</color> um 3. Höchststufe 15.
+Wildes Feuer
+Erhöht die Bewegungs-GSW aller Truppenmitglieder bei Anwendung von <color=#FFD780FF>Pfeilregen</color> 10 s lang um 15 % und den ANG um 15 %.

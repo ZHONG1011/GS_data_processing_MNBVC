@@ -1,0 +1,158 @@
+Hello
+Outrider Amber reporting for duty! Just say the word if you ever need my help!
+Chat: Hobbies
+I feel like running.
+Chat: Longings
+Jean will be upset if she catches us lazing around like this.
+Chat: New Discoveries
+Hey, there's something strange over there... C'mon, let's take a look!
+When It Rains: Worries
+Oh no, it's raining... now my uniform will get all wet...
+When It Rains: Reminder
+It's raining again... This will hinder our vision, we must remain vigilant!
+After the Rain
+Wow~ This weather is awesome!
+When the Sun Is Out
+If only the wind was a little stronger...
+When It's Windy: Pleasant
+This breeze... so refreshing!
+When It's Windy: Relax
+I love this kind of weather, ahh... so relaxing~
+Good Morning
+Morning! Want to go on a jog?
+Good Afternoon
+Can I get lunch with you?
+Good Evening
+It's getting late, should I light a torch?
+Good Night
+Agreed, getting rest is essential! Let's meet here tomorrow then. See ya!
+About Amber
+Mondstadt Gliding Champion, yep, that's me! Gliding Champion!
+About Us: Contests
+Remember that I don't go easy on anyone, even you!
+About Us: Gliding
+When I'm teaching you to glide, I feel like I can go even faster than usual... Huh? What are you laughing at? I'll prove it! We can race — right now!
+About the Vision
+My Vision... Is a sign that the Archons believe in me. Yes, I must become the best Outrider I can possibly be!
+Something to Share
+The view from the Cathedral's clock tower is amazing! You should check it out.
+Interesting Things
+Look, there's a pigeon over there! *giggle* I wish I could fly alongside them.
+About Jean: Help
+After the Grand Master left on his expedition, all the affairs of the Knights of Favonius, both big and small, have been left up to Jean. If only there was more I could do to help her...
+About Jean: Care
+Jean might still be working? We should invite her for coffee... Let's go.
+About Lisa: Listening to Stories
+When you have time, we should go see Lisa! Last time I saw her, she was telling me about a story involving a treasure in the Dragonspine area. But, we got cut off before she could finish. I can't wait to hear the rest of her story!
+About Lisa: Admiration
+If Lisa's not sleeping, she'll be reading! I don't know how she does it, I wouldn't be able to sit still for that long.
+About Kaeya: Concerns
+...I'm feeling uneasy all of a sudden! Was that Kaeya with you earlier? Did he give you any trouble?
+About Kaeya: Culprit
+There's something weird-looking about the dandelions in the garden... Hmm, I bet Kaeya had something to do with this!
+About Bennett
+Hmm? Bennett... I feel like I've heard that name before... Oh! Yes, he's that hot-blooded guy from the Adventurers' Guild, right! I tend to come across him way out in the wild from time to time, he seems to really love treasure hunting.
+About Klee
+Klee? She can be a bit cheeky sometimes, but everyone in the Knights of Favonius likes her. Although... I really ought to keep a closer eye on her if I wanna keep her from getting put in confinement by Jean again.
+About Albedo
+Albedo spends most of his time in his workshop, tinkering away with all of his awesome stuff. But, when you see him in person, you never can quite tell what he's thinking... Who knows what goes on in that mind of his...
+About Noelle
+You wanna know about Noelle? She's super resilient. Still, since she's younger than us we should still look out for her.
+About Eula
+Eula is a great friend of mine! You just need to get used to her sense of humor and you'll get along fine! The only reason she's misunderstood by so many people is her family name. How can I get them to see her for who she really is?
+About Collei
+DATA NOT FOUND
+About Mika
+Oh! Mika's a veteran of Eula's team. When he first arrived, it was always "Yes, Commander!" every time he spoke to me — I guess it must have been because he saw how close I was with Eula. But then, even after I told him I was actually an Outrider, he still called me "Ma'am"... It was so embarrassing. We have completely different responsibilities, after all. I definitely could never match his expertise in cartography.
+More About Amber: I
+I'm a pro at hunting, you know! How about I show you some of my skills? Or even better... how about a little competition?
+More About Amber: II
+I'll share my ultimate Gliding Champion secret with you! The most important thing to remember, is to have courage!
+More About Amber: III
+I'm really not that good with riddles. I always try to avoid the riddles stand during Ludi Harpastum... What about you?
+More About Amber: IV
+I joined the Knights because of my grandpa, I stayed because of Jean. And now, you're the one that showed me the world beyond Mondstadt. I couldn't be happier.
+More About Amber: V
+I would like to explore the other worlds beyond. I wanna see how deep the rabbit hole goes! You'll keep me company, right?
+Amber's Hobbies
+Baron Bunny, today is another squeaky clean day!
+Amber's Troubles
+Oh... Do you have any idea how to make a decent Moon Pie?
+Favorite Food
+Jean makes the most amazing cup of coffee! You'll have to try it sometime.
+Least Favorite Food
+I can handle anything and everything! As long as it isn't cold Wolfhook juice... Ugh, yuck...
+Receiving a Gift: I
+Wow! This is delicious, you're an amazing cook!
+Receiving a Gift: II
+I wish I was as good at cooking as you...
+Receiving a Gift: III
+Uh, I'm just not used to this taste, sorry! Nothing to do with you of course!
+Birthday
+Hey, happy birthday! Here, I have a gift for you: an exclusive, custom-made version of Baron Bunny that I sewed for you myself. ...Don't worry, "custom-made" means that it won't explode!
+Feelings About Ascension: Intro
+Yeah! As fast as riding the wind!
+Feelings About Ascension: Building Up
+At this speed, no one can keep up with me!
+Feelings About Ascension: Climax
+The skies over Mondstadt seem to have gotten smaller... or is it that my sight reaches further than ever before?
+Feelings About Ascension: Conclusion
+It seems that now... I've improved so much compared to when we first met! Hehe, thank you so much! Let me treat you to a Sticky Honey Roast! Let's go, let's go!
+Elemental Skill: I
+Get them!
+Elemental Skill: II
+Go go Baron Bunny!
+Elemental Skill: III
+♪Hmm~ hmm~ hmm~ hmm~ hmm~
+Elemental Burst: I
+No one escapes my sights!
+Elemental Burst: II
+Let it rain!
+Elemental Burst: III
+No escape!
+Sprint Start: I
+I'll race you there!
+Sprint Start: II
+Betcha can't keep up with me!
+Sprint End: I
+Told you I'd win.
+Sprint End: II
+That's more like it!
+Deploying Wind Glider: I
+Get ready for the Gliding Champion of Mondstadt!
+Deploying Wind Glider: II
+I won't let you down!
+Opening Treasure Chest: I
+Opening a chest is like unwrapping a gift!
+Opening Treasure Chest: II
+Another target tracked down by Outrider Amber!
+Opening Treasure Chest: III
+Wow, these will come in handy!
+Low HP: I
+I'll never surrender!
+Low HP: II
+Ouch! Meanie...
+Low HP: III
+*panting* Ugh... You'll... pay for that!
+Ally at Low HP: I
+Take cover!
+Ally at Low HP: II
+Hey... Need some help?
+Fallen: I
+Tired...
+Fallen: II
+Must keep... training...
+Fallen: III
+You got me...
+Light Hit Taken: I
+Hey!
+Heavy Hit Taken: I
+Ugh, not so hard!
+Heavy Hit Taken: II
+That's cheating!
+Joining Party: I
+Leave it to me!
+Joining Party: II
+At the ready!
+Joining Party: III
+Outrider Amber, reporting!

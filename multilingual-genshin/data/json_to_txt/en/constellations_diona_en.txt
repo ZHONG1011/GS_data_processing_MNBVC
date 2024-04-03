@@ -1,0 +1,12 @@
+A Lingering Flavor
+Regenerates 15 Energy for Diona after the effects of <color=#FFD780FF>Signature Mix</color> end.
+Shaken, Not Purred
+Increases <color=#FFD780FF>Icy Paws</color>' DMG by 15%, and increases its shield's DMG Absorption by 15%. Additionally, when paws hit their targets, creates a shield for other nearby characters on the field with 50% of the <color=#FFD780FF>Icy Paws</color> shield's DMG Absorption for 5s.
+A—Another Round?
+Increases the Level of <color=#FFD780FF>Signature Mix</color> by 3. Maximum upgrade level is 15.
+Wine Industry Slayer
+Within the radius of <color=#FFD780FF>Signature Mix</color>, Diona's charge time for aimed shots is reduced by 60%
+Double Shot, on the Rocks
+Increases the Level of <color=#FFD780FF>Icy Paws</color> by 3. Maximum upgrade level is 15.
+Cat's Tail Closing Time
+Characters within <color=#FFD780FF>Signature Mix</color>'s radius will gain the following effects based on their HP amounts: ·Increases Incoming Healing Bonus by 30% when HP falls below or is equal to 50%. ·Elemental Mastery increased by 200 when HP is above 50%.

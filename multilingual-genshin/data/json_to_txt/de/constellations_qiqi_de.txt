@@ -1,0 +1,12 @@
+Winterliche Ernte
+Stellt Qiqi beim Treffen von mit dem Leidbefreiungs-Talisman markierten Gegnern mit Frostbringer 2 Punkte Elementarenergie wieder her.
+Fröstelnde Glieder
+Erhöht den von <color=#99FFFFFF>Kryo</color>-Effekten betroffenen Gegnern mit Qiqis Standardangriffen und heftigen Schlägen zugefügten Schaden um 15 %.
+Lobpreisung des Himmels
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Adeptenkunst – Befreiung vom Leid</color> um 3. Höchststufe 15.
+Stärke des Himmels
+Verringert den ANG von mit dem Leidbefreiungs-Talisman markierten Zielen um 20 %.
+Blüte des roten Lotos
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Adeptenkunst – Frostbringer</color> um 3. Höchststufe 15.
+Auferstehung
+Belebt alle besiegten Figuren der Truppe in der Nähe bei Anwendung von <color=#FFD780FF>Adeptenkunst – Befreiung vom Leid</color> wieder und stellt ihnen LP auf bis zu 50 % ihrer max. LP wieder her. 15 min Abklingzeit.

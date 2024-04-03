@@ -1,0 +1,12 @@
+Bunte Ballade
+Stellt Barbara alle 10 s 1 Punkt Elementarenergie wieder her.
+Explosion der Lebenskraft
+Verkürzt die Abklingzeit von <color=#FFD780FF>Die Darbietung beginnt ♪</color> um 15 %. Erhöht den <color=#80C0FFFF>Hydro-Schaden</color> der aktuellen eigenen Figur während der Wirkungsdauer der Fähigkeit um 15 %.
+Stern von Morgen
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Glitzerndes Wunder ♪</color> um 3. Höchststufe 15.
+Fleiß ist Magie
+Stellt Barbara für jeden Treffer mit einem heftigen Schlag 1 Punkt Elementarenergie wieder her. Auf diese Weise können bis zu 5 Punkte Elementarenergie pro Schlag wiederhergestellt werden.
+Wahre Freundschaft
+Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Die Darbietung beginnt ♪</color> um 3. Höchststufe 15.
+Nur das Beste für dich
+Effekte, wenn Barbara inaktiv in der Truppe ist und die eigene Figur in der Truppe besiegt wird: · Belebt die aktuelle Figur wieder. · Stellt dieser Figur 100 % LP wieder her. 15 min Abklingzeit.

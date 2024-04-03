@@ -1,0 +1,13 @@
+Skyrider Greatsword
+A reliable steel sword. The legendary Skyrider once tried to ride it as a flying sword... for the second time.
+ Feeling defeated, it dawned on the Skyrider that there are things that swordsmanship cannot achieve. So instead of believing in his swordsmanship, he turned to the sword itself. "Bigger is always better, and swords are no exception," he thought. In the grand Guyun Stone Forest, he embraced his grand ending. His dream of flight came to an end, but his sword and story would never fade... 
+Courage
+On hit, Normal or Charged Attacks increase ATK by <color=#99FFFFFF>6%</color> for 6s. Max 4 stacks. Can occur once every 0.5s.
+Courage
+On hit, Normal or Charged Attacks increase ATK by <color=#99FFFFFF>7%</color> for 6s. Max 4 stacks. Can occur once every 0.5s.
+Courage
+On hit, Normal or Charged Attacks increase ATK by <color=#99FFFFFF>8%</color> for 6s. Max 4 stacks. Can occur once every 0.5s.
+Courage
+On hit, Normal or Charged Attacks increase ATK by <color=#99FFFFFF>9%</color> for 6s. Max 4 stacks. Can occur once every 0.5s.
+Courage
+On hit, Normal or Charged Attacks increase ATK by <color=#99FFFFFF>10%</color> for 6s. Max 4 stacks. Can occur once every 0.5s.

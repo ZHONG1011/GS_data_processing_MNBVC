@@ -1,0 +1,13 @@
+Schwarze Quaste
+Mit dieser Lanze wurde das Problem gelöst, dass weiße Quasten schnell dreckig werden.
+ Eines Nachts trank ein Unteroffizier mit einem Dichter. Der Dichter war unvorsichtig und kippte sein Tintenfass um. Und so färbte sich die weiße Quaste des Kämpfers schwarz. „Natürlich ist dies nur eine Anekdote von dem Kämpfer und dem Dichter und hat nichts mit meiner eigenen schwarz gefärbten Waffe zu tun.“ Der alte Schmied schlug seinem Lehrling auf den Hinterkopf und forderte ihn auf, den Rest auch noch schwarz zu färben. 
+Weicher Schlag
+Erhöht den Schleimen zugefügten Schaden um <color=#99FFFFFF>40 %</color>.
+Weicher Schlag
+Erhöht den Schleimen zugefügten Schaden um <color=#99FFFFFF>50 %</color>.
+Weicher Schlag
+Erhöht den Schleimen zugefügten Schaden um <color=#99FFFFFF>60 %</color>.
+Weicher Schlag
+Erhöht den Schleimen zugefügten Schaden um <color=#99FFFFFF>70 %</color>.
+Weicher Schlag
+Erhöht den Schleimen zugefügten Schaden um <color=#99FFFFFF>80 %</color>.

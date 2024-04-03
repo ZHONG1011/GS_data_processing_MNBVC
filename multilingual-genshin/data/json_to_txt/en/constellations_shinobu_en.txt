@@ -1,0 +1,12 @@
+To Cloister Compassion
+<color=#FFD780FF>Gyoei Narukami Kariyama Rite</color>'s AoE is increased by 50%.
+To Forsake Fortune
+<color=#FFD780FF>Grass Ring of Sanctification</color>'s duration is increased by 3s.
+To Sequester Sorrow
+Increases the Level of <color=#FFD780FF>Sanctifying Ring</color> by 3. Maximum upgrade level is 15.
+To Sever Sealing
+When the Normal, Charged, or Plunging Attacks of the character affected by Shinobu's <color=#FFD780FF>Grass Ring of Sanctification</color> hit opponents, a Thundergrass Mark will land on the opponent's position and deal <color=#FFACFFFF>AoE Electro DMG</color> based on 9.7% of Shinobu's Max HP. This effect can occur once every 5s.
+To Cease Courtesies
+Increases the Level of <color=#FFD780FF>Gyoei Narukami Kariyama Rite</color> by 3. Maximum upgrade level is 15.
+To Ward Weakness
+When Kuki Shinobu takes lethal DMG, this instance of DMG will not take her down. This effect will automatically trigger when her HP reaches 1 and will trigger once every 60s. When Shinobu's HP drops below 25%, she will gain 150 Elemental Mastery for 15s. This effect will trigger once every 60s.

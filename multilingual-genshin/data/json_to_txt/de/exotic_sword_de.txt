@@ -1,0 +1,13 @@
+Eisenstich
+Ein dünner, glatter Degen aus fremden Landen, der auf Handelsrouten seinen Weg nach Liyue gefunden hat. Er ist äußerst leicht und spitz.
+ Die Welt ist zu Gast in Liyue. Dies ist eine große Ehre für die kommerziell wichtige Hafenstadt. Mit den Gästen aus aller Welt kommen auch exotische Schätze nach Liyue. Dieses nadelgleiche Schwert mit einer Spitze, jedoch ohne Kanten gibt die Fähigkeit des Schlitzens zugunsten des Stechens auf. Es benötigt eine spezielle Technik, um es effektiv zu kontrollieren. Nichtsdestotrotz ist es auch ohne diese Technik eine gefährliche Waffe.  Eine Waffe von fernen Küsten. Wurde einst von einem Seefahrer am Gürtel getragen. Eine schlanke elegante Klinge, die einen starken Kontrast zur sonst rauen See darstellte.  Der Seefahrer wich Fragen über die Herkunft der Waffe stets aus, daher entstanden viele Gerüchte um ihre wahre Herkunft. Manche behaupten sie wurde in einem Kampf gegen Piraten gewonnen, wiederum andere sagen, sie sei die Trophäe eines Raubzuges.  Am Abend eines jeden Tages jedoch nahm der Seefahrer vorsichtig den Säbel aus seinem Gürtel und polierte ihn sachte, dabei schwelgte er in Erinnerungen an sein altes Leben im Reich des Windes. Er dachte auch an das Mädchen aus seiner Heimat, eine Romanze, die ein viel zu frühes Ende fand. 
+Energieschubstachel
+Erhöht den von dieser Figur verursachten Schaden nach Verursachen von Elementar-SCH 6 s lang um <color=#99FFFFFF>6 %</color>, 2-fach stapelbar. 1 s Abklingzeit.
+Energieschubstachel
+Erhöht den von dieser Figur verursachten Schaden nach Verursachen von Elementar-SCH 6 s lang um <color=#99FFFFFF>7,5 %</color>, 2-fach stapelbar. 1 s Abklingzeit.
+Energieschubstachel
+Erhöht den von dieser Figur verursachten Schaden nach Verursachen von Elementar-SCH 6 s lang um <color=#99FFFFFF>9 %</color>, 2-fach stapelbar. 1 s Abklingzeit.
+Energieschubstachel
+Erhöht den von dieser Figur verursachten Schaden nach Verursachen von Elementar-SCH 6 s lang um <color=#99FFFFFF>10,5 %</color>, 2-fach stapelbar. 1 s Abklingzeit.
+Energieschubstachel
+Erhöht den von dieser Figur verursachten Schaden nach Verursachen von Elementar-SCH 6 s lang um <color=#99FFFFFF>12 %</color>, 2-fach stapelbar. 1 s Abklingzeit.

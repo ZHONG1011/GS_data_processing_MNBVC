@@ -1,0 +1,12 @@
+I Got Your Back
+While <color=#FFD780FF>Sweeping Time</color> and <color=#FFD780FF>Breastplate</color> are both in effect, the chance of Breastplate's healing effects activating is increased to 100%.
+Combat Maid
+Decreases the Stamina Consumption of Noelle's Charged Attacks by 20% and increases her Charged Attack DMG by 15%.
+Invulnerable Maid
+Increases the Level of <color=#FFD780FF>Breastplate</color> by 3. Maximum upgrade level is 15.
+To Be Cleaned
+When <color=#FFD780FF>Breastplate</color>'s duration expires or it is destroyed by DMG, it will deal 400% ATK of <color=#FFE699FF>Geo DMG</color> to surrounding opponents.
+Favonius Sweeper Master
+Increases the Level of <color=#FFD780FF>Sweeping Time</color> by 3. Maximum upgrade level is 15.
+Must Be Spotless
+<color=#FFD780FF>Sweeping Time</color> increases Noelle's ATK by an additional 50% of her DEF. Additionally, every opponent defeated during the skill's duration adds 1s to the duration, up to 10s.

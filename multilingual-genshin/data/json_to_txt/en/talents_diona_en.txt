@@ -1,0 +1,12 @@
+Normal Attack: Kätzlein Style
+<color=#FFD780FF>Normal Attack</color> Performs up to 5 consecutive shots with a bow.  <color=#FFD780FF>Charged Attack</color> Performs a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG. While aiming, biting frost will accumulate on the arrowhead. A fully charged frost arrow will deal <color=#99FFFFFF>Cryo DMG</color>.  <color=#FFD780FF>Plunging Attack</color> Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+Icy Paws
+#Fires an Icy Paw that deals <color=#99FFFFFF>Cryo DMG</color> to opponents and forms a shield on hit. The shield's DMG Absorption scales based on Diona's Max HP, and its duration scales off the number of Icy Paws that hit their target.  <color=#FFD780FF>{LAYOUT_MOBILE#Tap}{LAYOUT_PC#Press}{LAYOUT_PS#Press}</color> Rapidly fires off 2 Icy Paws.  <color=#FFD780FF>Hold</color> Dashes back quickly before firing 5 Icy Paws. The shield created by a Hold attack will gain a 75% DMG Absorption Bonus.  The shield has a 250% <color=#99FFFFFF>Cryo DMG</color> Absorption Bonus, and will cause your active character to become affected by <color=#99FFFFFF>Cryo</color> at the point of formation for a short duration.  <i>When she first started bartending, Diona found that no matter how much ice she put in her cocktails, it would never do a drunkard any harm. That all changed when she received her Vision — now she can form ice cold enough to cause severe brainfreeze. Five out of five stars!</i>
+Signature Mix
+Tosses out a special cold brew that deals <color=#99FFFFFF>AoE Cryo DMG</color> and creates a Drunken Mist in an AoE.  <color=#FFD780FF>Drunken Mist</color> ·Deals continuous <color=#99FFFFFF>Cryo DMG</color> to opponents within the AoE. ·Continuously regenerates the HP of characters within the AoE.  <i>A horrific mix that even Diona considers inhumane. The horrifying foretaste should be left for one's opponents. It has a crisp aftertaste, but unfortunately, one can only feel it on one's nose and skin.</i>
+Cat's Tail Secret Menu
+Characters shielded by <color=#FFD780FF>Icy Paws</color> have their Movement SPD increased by 10% and their Stamina Consumption decreased by 10%.
+Drunkards' Farce
+Opponents who enter the AoE of <color=#FFD780FF>Signature Mix</color> have 10% decreased ATK for 15s.
+Complimentary Bar Food
+When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.

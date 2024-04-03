@@ -1,0 +1,12 @@
+Standardangriff: Rituelle Schwertkunst
+<color=#FFD780FF>Standardangriff</color> Führt bis zu 5 Schwerthiebe hintereinander aus.  <color=#FFD780FF>Heftiger Schlag</color> Verbraucht eine gewisse Menge Ausdauer und schwingt das Schwert zweimal schnell nach vorn.  <color=#FFD780FF>Angriff aus dem Fall</color> Schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.
+Kälteatem
+Verströmt augenblicklich eisige Kälte und fügt gegenüberstehenden Gegnern <color=#99FFFFFF>Kryo-Schaden</color> zu.  <i>Kaeya ist, obwohl er so freundlich erscheint, ein nicht schmelzen wollender Eisblock.</i>
+Kreis aus Eis
+Konzentriert den Frost in der Luft und erschafft 3 Eiszapfen, die die Figur umkreisen. Die Eiszapfen folgen den Bewegungen der Figur und fügen den Gegnern in ihrer Bahn <color=#99FFFFFF>Kryo-Schaden</color> zu.  <i>Ein freundliches Lächeln und nette Worte verbergen Kaeyas unerbittliche Kälte und sind damit seine stärksten Waffen.</i>
+Grausames Schwert
+Stellt Kaeya für jeden Treffer mit <color=#FFD780FF>Kälteatem</color> LP in Höhe von 15 % ANG wieder her.
+Eiskaltes Herz
+Erschafft für jeden durch <color=#FFD780FF>Kälteatem</color> vom Zustand <color=#99FFFFFF>Gefroren</color> betroffenen Gegner 1 zusätzliches Elementarteilchen. Erschafft auf diese Weise durch Kälteatem insgesamt bis zu 2 zusätzliche Elementarteilchen.
+Verborgene Stärke
+Verringert die beim Rennen verbrauchte Ausdauer aller eigenen Truppenmitglieder um 20 %. Nicht mit passiven Talenten mit völlig gleichen Effekten stapelbar.

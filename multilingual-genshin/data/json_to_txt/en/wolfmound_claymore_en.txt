@@ -1,0 +1,13 @@
+Wolf's Gravestone
+A longsword used by the Wolf Knight. Originally just a heavy sheet of iron given to the knight by a blacksmith from the city, it became endowed with legendary power owing to his friendship with the wolves.
+ The Knight of Boreas' journey ended at the city of Barbatos. Wandering souls attract each other, boundless freedom begets only anxiety.  Upon entering the city, the Knight of Boreas' companion bade him farewell in silence. For the free-spirited Wolf resented the stone walls and lamplight, and yearned for the open wilds.  The Knight of Boreas' heart remained free, though his flesh was inside the prison-like city. Meanwhile, the windborne Wolf roamed the forest in the flesh, while his heart remained loyal to the Knight.  The Knight of Boreas rode again to hunt. The Wolf followed his scent into battle. Still one were they, the Wolf and the Knight.  Though one they were, death comes for beasts sooner than men. Laying down his sword as a gravestone, the Knight of Boreas buried the Wolf in the remote countryside. The Knight of Boreas then left the city behind, living instead the wandering life of a lone wolf.  Yet the eternal wolf spirit remained here, Watching over the land the Knight once protected. 
+Wolfish Tracker
+Increases ATK by <color=#99FFFFFF>20%</color>. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by <color=#99FFFFFF>40%</color> for 12s. Can only occur once every 30s.
+Wolfish Tracker
+Increases ATK by <color=#99FFFFFF>25%</color>. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by <color=#99FFFFFF>50%</color> for 12s. Can only occur once every 30s.
+Wolfish Tracker
+Increases ATK by <color=#99FFFFFF>30%</color>. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by <color=#99FFFFFF>60%</color> for 12s. Can only occur once every 30s.
+Wolfish Tracker
+Increases ATK by <color=#99FFFFFF>35%</color>. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by <color=#99FFFFFF>70%</color> for 12s. Can only occur once every 30s.
+Wolfish Tracker
+Increases ATK by <color=#99FFFFFF>40%</color>. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by <color=#99FFFFFF>80%</color> for 12s. Can only occur once every 30s.
