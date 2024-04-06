@@ -12,7 +12,7 @@
 > 数据来源：https://github.com/Milkve/GenshinData；
 
 - 原数据路径为Genshin_data/Readable，载入后针对txt文档的数据情况进行探查；
-- 参考数据情况筛选文本，转换为jsonl进行输出（jsonl大小为11.3M）
+- 查看数据情况筛选文本，转换为jsonl进行输出（jsonl大小为11.3M）
 
 ## 基于multilingual-genshin项目的json数据转换。
 
