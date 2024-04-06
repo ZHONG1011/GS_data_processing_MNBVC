@@ -9,9 +9,10 @@
 
 ## Genshin_data的txt文本数据
 数据源自一些游戏的文本数据，详情参考ipynb文件。
-> - 数据来源：https://github.com/Milkve/GenshinData；
-> - 原数据路径为Genshin_data/Readable，载入后针对txt文档的数据情况进行探查；
-> - 参考数据情况筛选文本，转换为jsonl进行输出
+> 数据来源：https://github.com/Milkve/GenshinData；
+
+- 原数据路径为Genshin_data/Readable，载入后针对txt文档的数据情况进行探查；
+- 参考数据情况筛选文本，转换为jsonl进行输出（jsonl大小为11.3M）
 
 ## 基于multilingual-genshin项目的json数据转换。
 
@@ -26,6 +27,6 @@
 - 项目数据均在multilingual-genshin/data内，其中原数据在artedata、charadata、weaponsdata这三个文件中，皆为json文件。
 - 使用jsonpath提取json数据，进行数据的分析处理，
 - 将数据转换为txt文件，保存至json_to_txt文件夹中（可能ipy文档的输出路径需要修改一下）
-- 将数据转换为jsonl格式输出。
+- 将数据转换为jsonl格式输出。（jsonl大小为32.7）
 
 如果希望探索更多、更详细的内容，我认为genshin-db项目中的数据是比较全面的，欢迎补充。
