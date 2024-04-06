@@ -1,4 +1,4 @@
-# GS_data_processing
+# GS_data_processing_MNBVC
 针对原神多语言文本数据的简单分析与处理，将获得数据转换为jsonl文件。
 
 该项目分为两个文件夹：
