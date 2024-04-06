@@ -9,7 +9,7 @@
 
 ## Genshin_data的txt文本数据
 数据源自一些游戏的文本数据，详情参考ipynb文件。
-> 数据来源：https://github.com/Milkve/GenshinData；
+> 数据来源：https://github.com/Milkve/GenshinData
 
 - 原数据路径为Genshin_data/Readable，载入后针对txt文档的数据情况进行探查；
 - 查看数据情况筛选文本，转换为jsonl进行输出（jsonl大小为11.3M）
