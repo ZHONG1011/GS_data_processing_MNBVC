@@ -1,11 +1,11 @@
 # GS_data_processing_MNBVC
 针对原神多语言文本数据的简单分析与处理，将获得数据转换为jsonl文件。
 
+**PS：目前可直接浏览Genshin_AnimeGameData.ipynb**
+
 该项目分为两个文件夹：
 - Genshin_data （针对txt文本数据的处理）
 - multilingual-genshin （针对json文件的数据处理）
-
-因为个人之前并没有接触过原神，不太清楚其游戏文本内容的多少。因此可能存在数据收集不全面的情况，或有疏漏的地方，还望海涵。
 
 ## Genshin_data的txt文本数据
 数据源自一些游戏的文本数据，详情参考ipynb文件。
@@ -29,4 +29,4 @@
 - 将数据转换为txt文件，保存至json_to_txt文件夹中（可能ipy文档的输出路径需要修改一下）
 - 将数据转换为jsonl格式输出。（jsonl大小为32.7）
 
-如果希望探索更多、更详细的内容，我认为genshin-db项目中的数据是比较全面的，欢迎补充。
+该项目仅作兴趣学习使用，若有侵权，还请联系。
