@@ -1,7 +1,7 @@
 # GS_data_processing_MNBVC
 针对原神多语言文本数据的简单分析与处理，将获得数据转换为jsonl文件。
 
-**PS：目前可直接浏览Genshin_AnimeGameData.ipynb**
+**PS：目前可直接查看Genshin_AnimeGameData.ipynb文件了解具体流程**
 
 该项目分为两个文件夹：
 - Genshin_data （针对txt文本数据的处理）
